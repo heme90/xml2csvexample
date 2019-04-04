@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)대전시티즌
+ </crp_nm> 
+ <crp_nm_e>
+  DAEJEON CITIZEN FOOTBALL CLUB
+ </crp_nm_e> 
+ <crp_nm_i>
+  대전시티즌
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  전종구
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1601110057540
+ </crp_no> 
+ <bsn_no>
+  3058126490
+ </bsn_no> 
+ <adr>
+  대전광역시 유성구 월드컵대로 32 대전월드컵경기장 서관 3층 (노은동)
+ </adr> 
+ <hm_url>
+  www.fcdaejeon.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  042-824-2002
+ </phn_no> 
+ <fax_no>
+  042-824-7048
+ </fax_no> 
+ <ind_cd>
+  91191
+ </ind_cd> 
+ <est_dt>
+  19961011
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

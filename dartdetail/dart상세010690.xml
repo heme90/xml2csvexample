@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)화신
+ </crp_nm> 
+ <crp_nm_e>
+  HWASHIN CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  화신
+ </crp_nm_i> 
+ <stock_cd>
+  010690
+ </stock_cd> 
+ <ceo_nm>
+  정 서 진, 김 태 준
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1701110014936
+ </crp_no> 
+ <bsn_no>
+  5058120965
+ </bsn_no> 
+ <adr>
+  경상북도 영천시 도남공단길 94-2
+ </adr> 
+ <hm_url>
+  www.hwashin.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  054-330-5400
+ </phn_no> 
+ <fax_no>
+  0543317568
+ </fax_no> 
+ <ind_cd>
+  30391
+ </ind_cd> 
+ <est_dt>
+  19740701
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

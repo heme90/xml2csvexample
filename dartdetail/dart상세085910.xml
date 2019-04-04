@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)네오티스
+ </crp_nm> 
+ <crp_nm_e>
+  NEOTECHNICALSYSTEMCO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  네오티스
+ </crp_nm_i> 
+ <stock_cd>
+  085910
+ </stock_cd> 
+ <ceo_nm>
+  권상훈
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1346110015095
+ </crp_no> 
+ <bsn_no>
+  1258134040
+ </bsn_no> 
+ <adr>
+  경기도 안성시 죽산면 용대길 38-9
+ </adr> 
+ <hm_url>
+  www.neotis.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-671-0170
+ </phn_no> 
+ <fax_no>
+  031-671-3170
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  20000818
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

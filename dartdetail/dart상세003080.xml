@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  성보화학(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SUNGBO CHEMICAL CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  성보화학
+ </crp_nm_i> 
+ <stock_cd>
+  003080
+ </stock_cd> 
+ <ceo_nm>
+  윤정선
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1147110000402
+ </crp_no> 
+ <bsn_no>
+  1288100011
+ </bsn_no> 
+ <adr>
+  경기도 안산시 단원구 산단로19번길 168 (목내동) 성보화학주식회사
+ </adr> 
+ <hm_url>
+  www.sbcc.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3789-3800
+ </phn_no> 
+ <fax_no>
+  070-4275-0301
+ </fax_no> 
+ <ind_cd>
+  2032
+ </ind_cd> 
+ <est_dt>
+  19610106
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

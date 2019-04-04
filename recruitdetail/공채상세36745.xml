@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36745
+ </empSeqno>
+ <empWantedTitle>
+  [신입] [상시모집] 물류직 인턴사원
+ </empWantedTitle>
+ <empBusiNm>
+  교보문고
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190226
+ </empWantedStdt>
+ <empWantedEndt>
+  20190426
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.kyobobook.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://ehr.kyobobook.co.kr/recr/recruit_info_1.jsp
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvJC6TFqNAXgqfUxGVrcPs4X1hAgV2OrIOjTMikWY7zK8
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직전환형|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    입사지원
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류전형 합격자는 면접일정을 개별 통보합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    물류직 인턴사원
+   </empRecrNm>
+   <jobCont>
+    - 물류센터 및 영업점 도서 입출고
+   </jobCont>
+   <empWantedCareerNm>
+    신입|인턴
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    고졸|박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    028308
+   </jobsCd>
+   <jobsCdKorNm>
+    물류 사무원(물류 관리사)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [근로조건] ① 근무형태 ·주5일(40시간) 근무 ·휴무일과 근무시간은 물류센터 및 영업점에 따라 차이가 있을 수 있음 ② 신분 : 물류직 인턴(6개월간 평가 후 평가결과에 따라 정규 물류직으로 전환) ③ 보수 : 연봉기준 2,400~2,500만원 (입사후, 6개월까지 상여금 차등지급) ④ 근무지 : 파주물류센터 또는 각 영업점 도서인수처
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 온라인 입사지원서 등록
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 '채용문의' 게시판 이용 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  ① 국가보훈 대상자 및 장애인은 관계법령에 의거하여 우대합니다. ② 제출된 지원서 및 서류는 일체 반환되지 않습니다 ③ 입사지원서의 기재사항이 허위 또는 고의누락임이 판명될 경우 합격(입사)이 취소됩니다. * 당사는 윤리경영에 의거하여 전형이 진행되는 동안 당사 임직원 및 외부 유력인사에 의한 채용청탁이 있을 경우, 해당 지원자는 탈락되오니 참고하시기 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37707
+ </empSeqno>
+ <empWantedTitle>
+  부동산 자산 운영
+ </empWantedTitle>
+ <empBusiNm>
+  기아자동차
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190325
+ </empWantedStdt>
+ <empWantedEndt>
+  20190405
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.kia.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://career.kia.com:449/kfront/webapply/applyView.do?recuYy=2019&amp;recuType=63&amp;recuCls=4
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvLvxxitjxM%2FjKk8dcYhd3aSfASpSBCDsXmHd%2FtM5giVH
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •지원 직무와 관련된 본인의 강점에 대해 경험에 근거하여 서술해 주십시오. ☞ 학교 수업, 자격증, 외부 교육, 동아리 등 어떤 경험이든 무방합니다. (1,000자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •본인의 성격의 장/단점을 통해 자신을 표현해주시기 바랍니다. (500자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    지원서접수
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    신체검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    부동산 자산 운영
+   </empRecrNm>
+   <jobCont>
+    ■ 자산 운영/관리 - 국내/해외 부동산 현황 관리 및 제세금 업무 - 자가 사옥 활용기준 수립, 임대차 및 FM 도급 관리 업무 - 부동산 관련 법규 및 정부 정책/규제사항 모니터링 ■ 부동산 매입·매각/대관 인허가 - 매입 : 신규 사업장 후보지 조사, 입지 분석, 적정 매입가 및 자산 보유 가치 분석 등 - 매각 : 유휴/저효율 부동산 처분 및 재 배치 - 대관 인허가 : 개발행위허가, 용도변경, 산업단지 입주/준공 등 ■ 해외법인 지원/스포츠 프라퍼티 사용수익권 운영 - 해외 사업장 부동산 매입/매각 정책 수립 - 해외 판매 법인 거점 이슈 대응 (오피스 &amp;apos;신규 조성 및 이전&amp;apos; 사전 검토 및 현지실사) - &amp;apos;광주-기아 챔피언스 필드&amp;apos; 사용수익권 운영 : 구장 광고권, F&amp;B/임대 사업권, 스폰서십 등
+   </jobCont>
+   <empWantedCareerNm>
+    경력무관
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 도시계획과, 부동산학과, 법학 계열 우대 - 글로벌 부동산 컬설팅사 및 대기업 자산관리 직무 경험자 (인턴십 포함) - 영어회화 능통자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    017
+   </jobsCd>
+   <jobsCdKorNm>
+    경영지원 사무
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [부문] - 경영지원 [직급] - 사원 * 해외 여행 또는 비자 발급 요건에 결격 사유 없는 분, 남자는 병역 필 또는 면제되신 분에 한해 지원 가능합니다
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용포털(career.kia.com)을 통한 인터넷 접수 ※ 모바일기기에서는 지원하실 수 없습니다.
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 관련 문의는 채용 홈페이지 內 [채용TALK] - [FAQ] - [1:1 문의하기] 를 이용 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  - 입사지원서의 내용이 사실과 다른 경우 합격이 취소됩니다. - 국가보훈 취업지원 대상자는 관련 법령에 의거하여 우대합니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

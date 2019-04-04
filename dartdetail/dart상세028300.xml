@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  에이치엘비(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HLB INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이치엘비
+ </crp_nm_i> 
+ <stock_cd>
+  028300
+ </stock_cd> 
+ <ceo_nm>
+  김하용, 김성철 (각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1701110021600
+ </crp_no> 
+ <bsn_no>
+  5148113250
+ </bsn_no> 
+ <adr>
+  울산광역시 울주군 온산읍 당월로 216-53
+ </adr> 
+ <hm_url>
+  www.hlbkorea.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3453-4414
+ </phn_no> 
+ <fax_no>
+  02-3453-1976
+ </fax_no> 
+ <ind_cd>
+  31112
+ </ind_cd> 
+ <est_dt>
+  19851018
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  DSR(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DSR CORP
+ </crp_nm_e> 
+ <crp_nm_i>
+  DSR
+ </crp_nm_i> 
+ <stock_cd>
+  155660
+ </stock_cd> 
+ <ceo_nm>
+  홍석빈
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110000777
+ </crp_no> 
+ <bsn_no>
+  6178100224
+ </bsn_no> 
+ <adr>
+  부산광역시 강서구 녹산산업중로192번길 7
+ </adr> 
+ <hm_url>
+  www.dsr.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3420-3591
+ </phn_no> 
+ <fax_no>
+  02-3420-3600
+ </fax_no> 
+ <ind_cd>
+  242
+ </ind_cd> 
+ <est_dt>
+  19650401
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

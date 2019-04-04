@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)해덕파워웨이
+ </crp_nm> 
+ <crp_nm_e>
+  Haeduk Powerway Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  해덕파워웨이
+ </crp_nm_i> 
+ <stock_cd>
+  102210
+ </stock_cd> 
+ <ceo_nm>
+  박윤구
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1801110124923
+ </crp_no> 
+ <bsn_no>
+  6098116351
+ </bsn_no> 
+ <adr>
+  부산광역시 강서구 미음산단로 267 -
+ </adr> 
+ <hm_url>
+  www.haedukpw.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051-831-0101
+ </phn_no> 
+ <fax_no>
+  051-831-0075
+ </fax_no> 
+ <ind_cd>
+  31114
+ </ind_cd> 
+ <est_dt>
+  19920413
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에이스테크놀로지
+ </crp_nm> 
+ <crp_nm_e>
+  Ace Technologies Corp.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이스테크
+ </crp_nm_i> 
+ <stock_cd>
+  088800
+ </stock_cd> 
+ <ceo_nm>
+  구관영,홍익표(각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110397241
+ </crp_no> 
+ <bsn_no>
+  1318195829
+ </bsn_no> 
+ <adr>
+  인천광역시 남동구 남동서로 237 (논현동,남동공단 24B 5L)
+ </adr> 
+ <hm_url>
+  www.aceantenna.co.kr/kor/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032)458-1975
+ </phn_no> 
+ <fax_no>
+  032-818-5505
+ </fax_no> 
+ <ind_cd>
+  2642
+ </ind_cd> 
+ <est_dt>
+  20060302
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

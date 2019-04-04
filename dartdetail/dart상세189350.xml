@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)코셋
+ </crp_nm> 
+ <crp_nm_e>
+  Coset Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  코셋
+ </crp_nm_i> 
+ <stock_cd>
+  189350
+ </stock_cd> 
+ <ceo_nm>
+  오치형, 주관종
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  2101110025083
+ </crp_no> 
+ <bsn_no>
+  4028129880
+ </bsn_no> 
+ <adr>
+  광주광역시 북구 첨단벤처로60번길 39
+ </adr> 
+ <hm_url>
+  coset.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  062-975-8811
+ </phn_no> 
+ <fax_no>
+  062-975-8889
+ </fax_no> 
+ <ind_cd>
+  26410
+ </ind_cd> 
+ <est_dt>
+  19991011
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

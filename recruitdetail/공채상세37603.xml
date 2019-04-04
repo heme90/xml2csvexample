@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37603
+ </empSeqno>
+ <empWantedTitle>
+  임원실 비서
+ </empWantedTitle>
+ <empBusiNm>
+  아트박스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190322
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.artbox.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://recruit.artbox.co.kr/recruit_list.asp
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRiguGtrHU3dxrLW5pirX9HNMR1j6v7GaePOkKCWbAylW%2B7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm></selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    임원실 비서
+   </empRecrNm>
+   <jobCont>
+    - 임원 일정관리 및 비서업무 - 아트박스 A/S업무
+   </jobCont>
+   <empWantedCareerNm>
+    경력|신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(2~3)|박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 서초구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    029400
+   </jobsCd>
+   <jobsCdKorNm>
+    비서
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [근무환경] - 근무형태: 계약직(15개월) - 근무시작일 : 5월13일(월) - 근무지: 서울 서초구 서초동 - 근무시간: 09 ~ 18시 (점심시간 1시간) - 4대 보험
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 이력서 - 자기소개서
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용사이트(http://recruit.artbox.co.kr/) 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 홈페이지 FAQ 참조
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

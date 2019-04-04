@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  쿠쿠홀딩스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Cuckoo Holdings Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  쿠쿠홀딩스
+ </crp_nm_i> 
+ <stock_cd>
+  192400
+ </stock_cd> 
+ <ceo_nm>
+  구본학
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1845110000634
+ </crp_no> 
+ <bsn_no>
+  6218102895
+ </bsn_no> 
+ <adr>
+  경상남도 양산시 유산공단2길 14(교동)
+ </adr> 
+ <hm_url>
+  www.cuckoo.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-380-0734
+ </phn_no> 
+ <fax_no>
+  0553890709
+ </fax_no> 
+ <ind_cd>
+  649
+ </ind_cd> 
+ <est_dt>
+  19781115
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

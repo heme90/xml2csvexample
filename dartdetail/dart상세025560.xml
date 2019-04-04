@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  미래산업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  MIRAE CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  미래산업
+ </crp_nm_i> 
+ <stock_cd>
+  025560
+ </stock_cd> 
+ <ceo_nm>
+  이권휴
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1243110030413
+ </crp_no> 
+ <bsn_no>
+  3128115889
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 서북구 백석공단7로 65 (백석동)
+ </adr> 
+ <hm_url>
+  www.mirae.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-621-5070
+ </phn_no> 
+ <fax_no>
+  0417)559-8789
+ </fax_no> 
+ <ind_cd>
+  27219
+ </ind_cd> 
+ <est_dt>
+  19901226
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

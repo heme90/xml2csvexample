@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)다함이텍
+ </crp_nm> 
+ <crp_nm_e>
+  DAHAAM e-TEC CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  다함이텍
+ </crp_nm_i> 
+ <stock_cd>
+  009280
+ </stock_cd> 
+ <ceo_nm>
+  안응수(단독대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110153033
+ </crp_no> 
+ <bsn_no>
+  1198104575
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 가산디지털1로 52
+ </adr> 
+ <hm_url>
+  www.da-haam.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-865-9792
+ </phn_no> 
+ <fax_no>
+  862-7226
+ </fax_no> 
+ <ind_cd>
+  26
+ </ind_cd> 
+ <est_dt>
+  19730929
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

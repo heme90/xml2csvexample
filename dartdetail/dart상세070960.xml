@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 용평리조트
+ </crp_nm> 
+ <crp_nm_e>
+  YONG PYONG RESORT CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  용평리조트
+ </crp_nm_i> 
+ <stock_cd>
+  070960
+ </stock_cd> 
+ <ceo_nm>
+  신달순
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1450110002801
+ </crp_no> 
+ <bsn_no>
+  2268124374
+ </bsn_no> 
+ <adr>
+  강원도 평창군 대관령면 올림픽로 715
+ </adr> 
+ <hm_url>
+  www.yongpyong.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  033-330-8350
+ </phn_no> 
+ <fax_no>
+  033-335-5769
+ </fax_no> 
+ <ind_cd>
+  55103
+ </ind_cd> 
+ <est_dt>
+  20000214
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

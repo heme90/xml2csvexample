@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)바이오제네틱스
+ </crp_nm> 
+ <crp_nm_e>
+  BioGenetics CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  바이오제네틱스
+ </crp_nm_i> 
+ <stock_cd>
+  044480
+ </stock_cd> 
+ <ceo_nm>
+  하관호, 안주훈(각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1501110000765
+ </crp_no> 
+ <bsn_no>
+  3158100385
+ </bsn_no> 
+ <adr>
+  충청북도 증평군 증평읍 광장로 473-3 (주)유니더스
+ </adr> 
+ <hm_url>
+  www.unidusok.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2203-3835
+ </phn_no> 
+ <fax_no>
+  02-424-5760
+ </fax_no> 
+ <ind_cd>
+  22193
+ </ind_cd> 
+ <est_dt>
+  19730523
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

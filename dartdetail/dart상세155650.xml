@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  와이엠씨(주)
+ </crp_nm> 
+ <crp_nm_e>
+  YMC Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  와이엠씨
+ </crp_nm_i> 
+ <stock_cd>
+  155650
+ </stock_cd> 
+ <ceo_nm>
+  이윤용
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1615110096292
+ </crp_no> 
+ <bsn_no>
+  3128197106
+ </bsn_no> 
+ <adr>
+  충청남도 아산시 둔포면 아산밸리중앙로 154-25
+ </adr> 
+ <hm_url>
+  www.ymc-inc.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-538-5200
+ </phn_no> 
+ <fax_no>
+  041-538-5399
+ </fax_no> 
+ <ind_cd>
+  262
+ </ind_cd> 
+ <est_dt>
+  20080212
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

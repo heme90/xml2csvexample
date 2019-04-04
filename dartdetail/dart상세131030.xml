@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)디에이치피코리아
+ </crp_nm> 
+ <crp_nm_e>
+  DHP KOREA.CO., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  디에이치피코리아
+ </crp_nm_i> 
+ <stock_cd>
+  131030
+ </stock_cd> 
+ <ceo_nm>
+  여대훈
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101114399906
+ </crp_no> 
+ <bsn_no>
+  1078738943
+ </bsn_no> 
+ <adr>
+  충청북도 청원군 오송읍 오송생명6로 50 (지번주소 : 충청북도 청원군 오송읍 만수리 491)
+ </adr> 
+ <hm_url>
+  www.dhpkorea.co.kr
+ </hm_url> 
+ <ir_url>
+  www.dhpkorea.co.kr
+ </ir_url> 
+ <phn_no>
+  02-2027-0078
+ </phn_no> 
+ <fax_no>
+  02-2027-0079
+ </fax_no> 
+ <ind_cd>
+  21210
+ </ind_cd> 
+ <est_dt>
+  20100727
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

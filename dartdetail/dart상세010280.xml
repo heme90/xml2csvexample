@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  쌍용정보통신(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SsangYong Information &amp; Communication Corp.
+ </crp_nm_e> 
+ <crp_nm_i>
+  쌍용정보통신
+ </crp_nm_i> 
+ <stock_cd>
+  010280
+ </stock_cd> 
+ <ceo_nm>
+  김경상
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110307870
+ </crp_no> 
+ <bsn_no>
+  2028132975
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 수표로 34 씨티센터타워 5층
+ </adr> 
+ <hm_url>
+  www.sicc.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2262-8114
+ </phn_no> 
+ <fax_no>
+  02-2277-2385
+ </fax_no> 
+ <ind_cd>
+  62021
+ </ind_cd> 
+ <est_dt>
+  19811208
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

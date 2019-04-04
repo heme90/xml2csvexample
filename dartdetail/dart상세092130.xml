@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)이크레더블
+ </crp_nm> 
+ <crp_nm_e>
+  e-Credible Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  이크레더블
+ </crp_nm_i> 
+ <stock_cd>
+  092130
+ </stock_cd> 
+ <ceo_nm>
+  이진옥
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112303305
+ </crp_no> 
+ <bsn_no>
+  1058628840
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로33길 27 삼성IT밸리 8층
+ </adr> 
+ <hm_url>
+  www.ecredible.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2101-9100
+ </phn_no> 
+ <fax_no>
+  02-6234-5606
+ </fax_no> 
+ <ind_cd>
+  63991
+ </ind_cd> 
+ <est_dt>
+  20010806
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

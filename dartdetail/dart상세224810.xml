@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)엄지하우스
+ </crp_nm> 
+ <crp_nm_e>
+  EOMJIHOUSE Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  엄지하우스
+ </crp_nm_i> 
+ <stock_cd>
+  224810
+ </stock_cd> 
+ <ceo_nm>
+  정재호, 손기근
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101110427074
+ </crp_no> 
+ <bsn_no>
+  2298105172
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로28길 25-
+ </adr> 
+ <hm_url>
+  www.eomjihouse.co.kr 
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-550-7840
+ </phn_no> 
+ <fax_no>
+  02-550-7891
+ </fax_no> 
+ <ind_cd>
+  424
+ </ind_cd> 
+ <est_dt>
+  19860515
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

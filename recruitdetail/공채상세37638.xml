@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37638
+ </empSeqno>
+ <empWantedTitle>
+  2019년 공무직 및 업무직 채용
+ </empWantedTitle>
+ <empBusiNm>
+  한국농수산식품유통공사
+ </empBusiNm>
+ <coClcdNm>
+  공기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190321
+ </empWantedStdt>
+ <empWantedEndt>
+  20190404
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.at.or.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://at.trns.kr/main.do
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvPAkUClTXHOTics9W1vzwdctvYHQDcnk2qeZinRdijSo
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqqYv0av4E01uNcFzx0yezhhPvhqH6ZSfd7t8t3tpSprI0yzR9oshtsDh4SVevypbOa6FvNdRITlyEe7%2BTpu9lUT&amp;realFileNm=RGVza3RvcCAoMikuemlw
+   </regFileUrl>
+   <realFileNm>
+    Desktop (2).zip
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •1. 공사의 인재상 중 본인에게 가장 가까운 요소 한 가지를 관련경험 및 지원동기와 함께 기술해 주십시오. (500자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •2. 타인과 함께한 경험 중 불시에 일어난 일로 인해 당황했던 사례와 그 해결과정을 기술해 주십시오. (500자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •3. 채용 분야와 관련한 직무능력 개발을 위해 노력한 사례와 이를 실제 적용하거나 활용하여 얻은 성과에 대해 기술해 주십시오. (500자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류심사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※합격자 발표(예정): 19.4.10(수) / 채용홈페이지를 통한 개별 조회
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접시험
+   </selsNm>
+   <selsSchdCont>
+    일시 및 장소(예정): 19.4.15(월)~4.16(화) 중 1일 / 본사 2층 소회의실
+   </selsSchdCont>
+   <selsCont>
+    ※합격자 발표(예정): 19.4.19(금) / 채용홈페이지를 통한 개별 조회
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용신체검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※2차 합격자 대상으로 실시
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [공무직] 사무보조/사원
+   </empRecrNm>
+   <jobCont>
+    - 공사 사업분야(수출/유통/수급/식품 등) 관련 행정업무 지원
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    13
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 수원시,부산,서울,전남 나주시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [공무직] 전산/사원
+   </empRecrNm>
+   <jobCont>
+    - 사이버 거래소 B2B, 포스몰 등 공사 업무 관련 전산시스템 운영.관리
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    2
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [공무직] 회계/과장
+   </empRecrNm>
+   <jobCont>
+    - 세무 신고, 법인세 세무조정, 연결 결산 등
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    전남 나주시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [업무직] 운전 가급
+   </empRecrNm>
+   <jobCont>
+    - 업무용 차량 운행, 임원 수행운전, 차량관리 및 기타 행정업무 등
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    2
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울,전남 나주시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [업무직] 운전 나급
+   </empRecrNm>
+   <jobCont>
+    - 업무용 차량 운행, 차량관리 및 기타 행정업무 등
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    3
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    광주,부산,서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [업무직] 조리
+   </empRecrNm>
+   <jobCont>
+    - 구내식당 음식 조리 및 조리지원
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    전남 나주시
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    029500
+   </jobsCd>
+   <jobsCdKorNm>
+    전산자료 입력원 및 사무 보조원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    531205
+   </jobsCd>
+   <jobsCdKorNm>
+    사업체 구내식당 급식 조리사
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    622900
+   </jobsCd>
+   <jobsCdKorNm>
+    기타 자동차 운전원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [근무조건] ▪ 근무시간: 주 40시간(월~금. 8시간/일) - 공무직(사무보조,전산). 업무직(운전) : 오전 9시~오후 6시 - 업무직(조리) : 오전 6시~오후3시 ※공사 여건 및 업무별 특성에 따라 근무시간 일부 조정 가능 ▪ 기준연봉 - 공무직(행정지원직/사무보조, 전산): 20,950천원 - 공무직(과장/회계): 33,828천원 - 업무직(운전 가급): 25,512천원 / (운전나급): 20,950천원 - 업무직(조리 나급): 20,950천원 ※ 세전 기준이며, 근무평가에 따라 성과급 별도 지급 ※ 업무직(운전 가.나급 , 조리 나급)의 경우 직능급이 포함된 연봉임 - 가점 등 우대사항 (※채용홈페이지 참조) - 각 분야별로 근무예정지 중 최초 부서배치가이루어지고, 향후 공사 순환보직 원칙에따라 근무지가 변경될 수 있음 - 업무직(운전 가급, 나급, 조리)의 경우 직종의 전문성 및 숙련도를 고려하여 계약직(시용) 3개월 후, 별도의 근무평가 통과자에 한해 업무직으로 최종 임명함.
+ </recrCommCont>
+ <empSubmitDocCont>
+  ※지원서 작성 시 해당사항 기재, 원본서류는 면접전형 제출 [필수] ▪ 분야별 지원자격 관련 서류(※공고문의 채용개요와 동일) - 사무보조: 공인어학성적표 1부 / 전산: 전산 관련 자격증 1부 - 회계: 재경관리사 또는 회계관리 1급 자격증 1부, 경력증명서 1부 - 운전(가급): 운전면허 1종보통 자격증 1부, 경력증명서 1부 - 운전(나급): 운전면허 1종보통 자격증 1부 ※ 회계, 운전(가급)은 지원서에 기재한 경력사항에 대한 경력증명서 일체 포함 [해당자] - 취업보호대상자확인서(제출처: 한국농수산식품유통공사) 1부 - 장애인 국가유공자 증빙서류 1부
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지를 통한 인터넷 접수 &lt;※이메일, 우편, 방문접수 불가능&gt;
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 기타 채용관련 문의는 우리 공사 인사부(061-931-1232, 1231, 1233)로 문의하여 주시기 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  - 모든 전형은 지원서 기재사항을 기준으로 심사를 진행하며, 기재하지 않은 사항(구비서류 미제출 포함)에 대해서는 인정하지 않습니다. - 공사의 사정에 따라 전형일정은 변경될 수 있습니다. - 부정합격자(부당한청탁, 압력 또는 재산상의 이익 제공 등)에 대해서는 합격을 취소할 수 있습니다. 또한, 지원서 기재사항 등이 허위 혹은 위조임이 판명되는 경우 즉시 불합격 처리되며, 우리 공사 입사 응시자격이 영구 박탈됩니다. - 면접전형에서 합격된 경우에도 건강검진 및 인사규정 제7조(채용결격사유)에 해당하는 경우 합격이 취소될 수 있습니다.(※자세한 사항은 채용홈페이지 참조) - 「채용절차와 공정화에 관한 법률」에 제11조제5항에 따라 최종합격자를 제외한 지원자를 대상으로 원본 채용서류를 반환받을 수 있습니다. - 전형결과 적격자가 없다고 판단될 경우 최종합격자를 선발하지 않거나 채용규모를 조정할 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

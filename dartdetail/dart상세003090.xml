@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)대웅
+ </crp_nm> 
+ <crp_nm_e>
+  DAEWOONG CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  대웅
+ </crp_nm_i> 
+ <stock_cd>
+  003090
+ </stock_cd> 
+ <ceo_nm>
+  윤재춘
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1311110000271
+ </crp_no> 
+ <bsn_no>
+  1298100178
+ </bsn_no> 
+ <adr>
+  경기 성남시 중원구 상대원동 223-23
+ </adr> 
+ <hm_url>
+  www.daewoong.com/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-550-8800
+ </phn_no> 
+ <fax_no>
+  02-2059-1690
+ </fax_no> 
+ <ind_cd>
+  64992
+ </ind_cd> 
+ <est_dt>
+  19610110
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

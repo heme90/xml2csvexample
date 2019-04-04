@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에스알바이오텍
+ </crp_nm> 
+ <crp_nm_e>
+  SR biotek Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에스알바이오텍
+ </crp_nm_i> 
+ <stock_cd>
+  270210
+ </stock_cd> 
+ <ceo_nm>
+  송병호
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1311110188085
+ </crp_no> 
+ <bsn_no>
+  1298609534
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 둔촌대로 484 시콕스타워 B101호
+ </adr> 
+ <hm_url>
+  srbiotek.com/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-726-3134
+ </phn_no> 
+ <fax_no>
+  031-733-2145
+ </fax_no> 
+ <ind_cd>
+  20423
+ </ind_cd> 
+ <est_dt>
+  20070514
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

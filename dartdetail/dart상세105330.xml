@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)케이엔더블유
+ </crp_nm> 
+ <crp_nm_e>
+  KNW Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이엔더블유
+ </crp_nm_i> 
+ <stock_cd>
+  105330
+ </stock_cd> 
+ <ceo_nm>
+  오원석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1311110056480
+ </crp_no> 
+ <bsn_no>
+  1298139315
+ </bsn_no> 
+ <adr>
+  경기도 파주시 문산읍 돈유3로 51 (주)케이엔더블유
+ </adr> 
+ <hm_url>
+  www.knwkorea.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-950-0200
+ </phn_no> 
+ <fax_no>
+  031-950-0243
+ </fax_no> 
+ <ind_cd>
+  262
+ </ind_cd> 
+ <est_dt>
+  20010112
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

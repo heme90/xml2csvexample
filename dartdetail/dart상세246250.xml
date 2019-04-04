@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에스엘에스바이오
+ </crp_nm> 
+ <crp_nm_e>
+  SLS BIO Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  에스엘에스바이오
+ </crp_nm_i> 
+ <stock_cd>
+  246250
+ </stock_cd> 
+ <ceo_nm>
+  이영태
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101113602524
+ </crp_no> 
+ <bsn_no>
+  2208741848
+ </bsn_no> 
+ <adr>
+  경기도 수원시 영통구 창룡대로 260 광교센트럴비즈타워 7층
+ </adr> 
+ <hm_url>
+  www.slabs.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-275-5522
+ </phn_no> 
+ <fax_no>
+  031-283-9080
+ </fax_no> 
+ <ind_cd>
+  729
+ </ind_cd> 
+ <est_dt>
+  20070117
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

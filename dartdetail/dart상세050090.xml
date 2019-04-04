@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)휘닉스소재
+ </crp_nm> 
+ <crp_nm_e>
+  PHOENIX MATERIALS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  휘닉스소재
+ </crp_nm_i> 
+ <stock_cd>
+  050090
+ </stock_cd> 
+ <ceo_nm>
+  홍석규, 고승범 각자대표
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1760110022266
+ </crp_no> 
+ <bsn_no>
+  5138118626
+ </bsn_no> 
+ <adr>
+  경상북도 구미시 산호대로 422
+ </adr> 
+ <hm_url>
+  www.phoenixmaterials.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  054-470-0885
+ </phn_no> 
+ <fax_no>
+  054-467-6689
+ </fax_no> 
+ <ind_cd>
+  2629
+ </ind_cd> 
+ <est_dt>
+  20000617
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

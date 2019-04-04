@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36765
+ </empSeqno>
+ <empWantedTitle>
+  기술영업분야 담당자 채용
+ </empWantedTitle>
+ <empBusiNm>
+  블루버드
+ </empBusiNm>
+ <coClcdNm></coClcdNm>
+ <empWantedStdt>
+  20190226
+ </empWantedStdt>
+ <empWantedEndt>
+  20190426
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.bluebirdcorp.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://bluebird.shallwe.kr/_client/base/recruit/apply/recruit_list.asp
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRioV1NPwMh8bNLKqYW2Yn%2FTphjL36CgXlE5bZZ4dXKiYv7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류심사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    온라인 인성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무/임원면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    기술영업
+   </empRecrNm>
+   <jobCont>
+    - RFP, VOC, 요구사항 분석 - 시장분석 및 기술이슈 관리 - 고객 커뮤니케이션
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    07
+   </jobsCd>
+   <jobsCdKorNm>
+    영업·판매·운전·운송
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [복리후생] - 환영 케이크, 의료지원, 웰컴 패키지, 경조금/경조휴가, 사내카페, 기념일, 사내도서관, 정기/수시포상, 데일리 스트레칭 타임, 외국어 학습지원 등 상세내용 채용홈페이지 참조
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 자사양식 입사지원서, 포트폴리오(해당 시)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지 온라인 입사지원 ( http://bluebird.shallwe.kr ) ※ 수시접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용페이지 '채용담당자에게 문의하기' 이용
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

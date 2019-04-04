@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  비씨카드 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  BC CARD CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  비씨카드
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이문환
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110356695
+ </crp_no> 
+ <bsn_no>
+  2148137726
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 효령로 275
+ </adr> 
+ <hm_url>
+  www.bccard.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-520-4587
+ </phn_no> 
+ <fax_no>
+  02-500-3156
+ </fax_no> 
+ <ind_cd>
+  64913
+ </ind_cd> 
+ <est_dt>
+  19830907
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

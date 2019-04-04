@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)휘라포토닉스
+ </crp_nm> 
+ <crp_nm_e>
+  FI-RA PHOTONICS.CO.LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  휘라포토닉스
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이종주
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  2001110107057
+ </crp_no> 
+ <bsn_no>
+  4098150628
+ </bsn_no> 
+ <adr>
+  광주광역시 북구 첨단벤처소로38번길 11-5 (월출동)
+ </adr> 
+ <hm_url>
+  www.fi-ra.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  062-600-0000
+ </phn_no> 
+ <fax_no>
+  062-600-0099
+ </fax_no> 
+ <ind_cd>
+  26410
+ </ind_cd> 
+ <est_dt>
+  19991103
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

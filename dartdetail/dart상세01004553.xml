@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  엘에스아이앤디 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  LS I&amp;D Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  엘에스아이앤디
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이광우
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1341110375209
+ </crp_no> 
+ <bsn_no>
+  1388189390
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 엘에스로91번길 16-39
+ </adr> 
+ <hm_url>
+  www.ls-ind.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-8068-3020
+ </phn_no> 
+ <fax_no>
+  301-8068-3099
+ </fax_no> 
+ <ind_cd>
+  68112
+ </ind_cd> 
+ <est_dt>
+  20131231
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

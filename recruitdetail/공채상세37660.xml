@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37660
+ </empSeqno>
+ <empWantedTitle>
+  재무회계팀 수시 채용 공고
+ </empWantedTitle>
+ <empBusiNm>
+  평화정공
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190322
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.phauto.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.phakr.com/kor/s5/view.asp?Mode=U&amp;boardid=7&amp;page=1&amp;num=7
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRih1GCD5YoBpxFVi%2B18JFpzA7mzApjUK1Lnx9GDALz5MC7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직|정규직전환형|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqrsEWMXMbeWgrfg0tKb2S9m1CKOrRPCOKuUaQRJt9eQk2jXHGTGTvA5p34%2BCQKY055nq064MYN6W5uz9ngl0ZxA&amp;realFileNm=N18xLmRvY3g=
+   </regFileUrl>
+   <realFileNm>
+    7_1.docx
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    4/8~4/12 (채용연계형 인턴)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인.적성검사 토론면접
+   </selsNm>
+   <selsSchdCont>
+    4월 中
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 실무면접
+   </selsNm>
+   <selsSchdCont>
+    4월 末
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 임원면접
+   </selsNm>
+   <selsSchdCont>
+    5월 初
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    신체검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    5월 中 / 최종합격발표: 5월 末
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    경력직: 서류전형(4/8~4/12)→PT 면접(4월 末)→2차 임원면접(5월 初)→신체검사(5월 中)→최종합격발표(5월 初) / ※ 상기 일정은 당사 사정에 의하여 변경될 수 있으며, 인터넷 홈페이지에 게시 인정
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    재무회계
+   </empRecrNm>
+   <jobCont>
+    - 재무제표 작성 - 회계 결산 - 채권/채무/세무 관리
+   </jobCont>
+   <empWantedCareerNm>
+    경력|인턴
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 영어 또는 중국어 회화 가능하신 분 - SAP FI 또는 CO 활용 가능하신 분 - 재무회계 관련 분야 경력 있으신 분
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    대구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    027103
+   </jobsCd>
+   <jobsCdKorNm>
+    회계 사무원(일반 사업체)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 구분: 채용연계형 인턴 or 경력직
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  ~ 2019.04.08 까지 - 접수방법 : 당사 홈페이지 온라인 접수(http://www.phakr.com) ☞ 채용정보 → Apply 평화정공 → 수시채용 → 재무회계팀 수시 채용 공고 → 입사지원서 작성 ☞ 채용연계형 인턴 : 별도 제출서류 無(추후 최종합격자에 한해 요청함) ☞ 경력직 : 경력기술서(온라인 입사지원시 별첨 必)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 홈페이지 채용게시판 또는 이메일 문의바랍니다. ☞ 채용담당자 이메일 주소 : recruit@phakr.com
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

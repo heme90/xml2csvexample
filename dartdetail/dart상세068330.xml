@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)일신바이오베이스
+ </crp_nm> 
+ <crp_nm_e>
+  ilShinbiobase Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  일신바이오
+ </crp_nm_i> 
+ <stock_cd>
+  068330
+ </stock_cd> 
+ <ceo_nm>
+  홍성대
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111079155
+ </crp_no> 
+ <bsn_no>
+  1278164875
+ </bsn_no> 
+ <adr>
+  경기도 동두천시 삼육사로548번길 84
+ </adr> 
+ <hm_url>
+  http://www.ilshinlab.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-867-1384
+ </phn_no> 
+ <fax_no>
+  031-867-1387
+ </fax_no> 
+ <ind_cd>
+  29171
+ </ind_cd> 
+ <est_dt>
+  19940927
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

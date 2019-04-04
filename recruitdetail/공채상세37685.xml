@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37685
+ </empSeqno>
+ <empWantedTitle>
+  경력사원 모집
+ </empWantedTitle>
+ <empBusiNm>
+  동일방직
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190326
+ </empWantedStdt>
+ <empWantedEndt>
+  20190404
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.dong-il.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.dong-il.com/
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRikqBnvDKA7hH%2B1dGR79gHXKB2sdV5Eq8QZwLPKYamK0q7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면 접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류전형 합격자에 한함
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    영업직
+   </empRecrNm>
+   <jobCont></jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    대구,서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    07
+   </jobsCd>
+   <jobsCdKorNm>
+    영업·판매·운전·운송
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 남성의 경우 병역필 또는 면제자 - 해외여행에 결격사유가 없는 자 [급여조건] - 회사 규정에 따름 o 면접시 연봉 협의
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 입사지원서 - 자기소개서 - 기타 자격증 사본(해당자에 한함)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ▶ 지원서 등록 - 회사 홈페이지 지원 (www.dong-il.com) ※ 지원시 자기소개서에 과거 수행업무 및 경력사항 상세기술 요망
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - e-mail : lsw@dong-il.com ☎ 02-2222-3178
+ </inqryCont>
+ <empnEtcCont>
+  - 국가보훈대상자는 관계법령에 의거 우대 - 해당분야 자격증 소지자 우대 - 제출서류는 인비취급되며, 합격자 발표 이후 14일 이내에 반환청구를 하실 수 있습니다. - 지원서에 기록한 내용이 허위로 판명된 경우 불합격 또는 입사취소 처리함. - 복리후생 : 4대보험지원, 주5일근무, 사내근로복지기금운영, 경조사 지원, 콘도 운영, 기타 등
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

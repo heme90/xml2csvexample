@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 에스제이켐
+ </crp_nm> 
+ <crp_nm_e>
+  SJ-CHEM Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에스제이켐
+ </crp_nm_i> 
+ <stock_cd>
+  217910
+ </stock_cd> 
+ <ceo_nm>
+  배동수
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1647110011772
+ </crp_no> 
+ <bsn_no>
+  3078120911
+ </bsn_no> 
+ <adr>
+  전라북도 익산시 왕궁면 무왕로 2243-23
+ </adr> 
+ <hm_url>
+  www.sj-chem.com/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-881-9454
+ </phn_no> 
+ <fax_no>
+  041-881-9457
+ </fax_no> 
+ <ind_cd>
+  201
+ </ind_cd> 
+ <est_dt>
+  20031009
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

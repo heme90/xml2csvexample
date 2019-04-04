@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  성창기업지주(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Sungchang Enterprise Holdings Limited.
+ </crp_nm_e> 
+ <crp_nm_i>
+  성창기업지주
+ </crp_nm_i> 
+ <stock_cd>
+  000180
+ </stock_cd> 
+ <ceo_nm>
+  우인석
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110001717
+ </crp_no> 
+ <bsn_no>
+  6038108663
+ </bsn_no> 
+ <adr>
+  부산광역시 사하구 다대로 627 (다대동)
+ </adr> 
+ <hm_url>
+  www.sce.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051-260-3333
+ </phn_no> 
+ <fax_no>
+  051-264-8997
+ </fax_no> 
+ <ind_cd>
+  71531
+ </ind_cd> 
+ <est_dt>
+  19161120
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

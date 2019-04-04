@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)코아시아
+ </crp_nm> 
+ <crp_nm_e>
+  CoAsia Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  코아시아
+ </crp_nm_i> 
+ <stock_cd>
+  045970
+ </stock_cd> 
+ <ceo_nm>
+  이희준,위종묵(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110944622
+ </crp_no> 
+ <bsn_no>
+  2148155613
+ </bsn_no> 
+ <adr>
+  인천광역시 남동구 남동서로 193 (주)비에스이홀딩스
+ </adr> 
+ <hm_url>
+  www.bsecm.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-500-1721
+ </phn_no> 
+ <fax_no>
+  031-724-2521
+ </fax_no> 
+ <ind_cd>
+  739
+ </ind_cd> 
+ <est_dt>
+  19930525
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

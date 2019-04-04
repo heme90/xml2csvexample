@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  덕산하이메탈(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DUKSANHIMETALCO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  덕산하이메탈
+ </crp_nm_i> 
+ <stock_cd>
+  077360
+ </stock_cd> 
+ <ceo_nm>
+  이준호, 김길연(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  2301110056969
+ </crp_no> 
+ <bsn_no>
+  6208119108
+ </bsn_no> 
+ <adr>
+  울산광역시 북구 무룡1로 66
+ </adr> 
+ <hm_url>
+  www.hi-metal.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  052-289-0443
+ </phn_no> 
+ <fax_no>
+  052-289-3500
+ </fax_no> 
+ <ind_cd>
+  261
+ </ind_cd> 
+ <est_dt>
+  19990506
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

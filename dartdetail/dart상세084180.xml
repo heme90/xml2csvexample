@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)수성
+ </crp_nm> 
+ <crp_nm_e>
+  Soosung Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  수성
+ </crp_nm_i> 
+ <stock_cd>
+  084180
+ </stock_cd> 
+ <ceo_nm>
+  김대진
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110313728
+ </crp_no> 
+ <bsn_no>
+  1398123988
+ </bsn_no> 
+ <adr>
+  인천광역시 서구 로봇랜드로249번길 46-39
+ </adr> 
+ <hm_url>
+  www.soosung.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-818-5160
+ </phn_no> 
+ <fax_no>
+  032-584-5161
+ </fax_no> 
+ <ind_cd>
+  29169
+ </ind_cd> 
+ <est_dt>
+  19820223
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

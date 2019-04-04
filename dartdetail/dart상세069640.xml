@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한세엠케이(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HANSAEMK CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  한세엠케이
+ </crp_nm_i> 
+ <stock_cd>
+  069640
+ </stock_cd> 
+ <ceo_nm>
+  김동녕, 김문환(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101111144073
+ </crp_no> 
+ <bsn_no>
+  2038157509
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 논현로 633
+ </adr> 
+ <hm_url>
+  www.mktrend.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2142-5000
+ </phn_no> 
+ <fax_no>
+  02-2142-5015
+ </fax_no> 
+ <ind_cd>
+  4741
+ </ind_cd> 
+ <est_dt>
+  19950331
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

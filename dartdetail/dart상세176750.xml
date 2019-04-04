@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)듀켐바이오
+ </crp_nm> 
+ <crp_nm_e>
+  DUCHEMBIO CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  듀켐바이오
+ </crp_nm_i> 
+ <stock_cd>
+  176750
+ </stock_cd> 
+ <ceo_nm>
+  김종우
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101112647604
+ </crp_no> 
+ <bsn_no>
+  1058650172
+ </bsn_no> 
+ <adr>
+  서울특별시 서대문구 경기대로 47진양빌딩 4층 동관
+ </adr> 
+ <hm_url>
+  www.duchembio.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  023324868
+ </phn_no> 
+ <fax_no>
+  02)332-4768
+ </fax_no> 
+ <ind_cd>
+  21210
+ </ind_cd> 
+ <est_dt>
+  20030301
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

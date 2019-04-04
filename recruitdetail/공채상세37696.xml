@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37696
+ </empSeqno>
+ <empWantedTitle>
+  계약직연구원 채용공고(국제협력)
+ </empWantedTitle>
+ <empBusiNm>
+  정보통신정책연구원
+ </empBusiNm>
+ <coClcdNm>
+  공기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190327
+ </empWantedStdt>
+ <empWantedEndt>
+  20190409
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.kisdi.re.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.kisdi.re.kr/kisdi/fp/kr/board/selectSingleBoard.do?cmd=selectSingleBoard&amp;boardId=GPK_HIRE&amp;curPage=1&amp;seq=33528&amp;reStep=1243299&amp;ctx=_&amp;flag=진행중
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvA%2FdUUi6Ts71O6nrLlxliGdwtY8ucfOA24CuUZMqDs0r
+ </regLogImgNm>
+ <empWantedTypeNm>
+  기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqph%2Fn75ryKMAqdR1vmDLavxaUtYfHBrixgWhCGdFHmKoHPNjwsYH0tPwkqU%2F88MpBC6FvNdRITlyEe7%2BTpu9lUT&amp;realFileNm=7KCV67O07Ya17Iug7KCV7LGF7Jew6rWs7JuQIOqzhOyVveyngeyXsOq1rOybkCDssYTsmqnqtIDroKguemlw
+   </regFileUrl>
+   <realFileNm>
+    정보통신정책연구원 계약직연구원 채용관련.zip
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    채용공고 및 서류접수
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 서류심사
+   </selsNm>
+   <selsSchdCont>
+    2019. 4. 10(수)
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 면접심사
+   </selsNm>
+   <selsSchdCont>
+    2019.4.12(금)
+   </selsSchdCont>
+   <selsCont>
+    서류심사 합격자에 한함
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    합격자 발표
+   </selsNm>
+   <selsSchdCont>
+    2019.4.12(금)
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont>
+    ※ 전형일정은 기관사정에 따라 변경 될 수 있음
+   </selsSchdCont>
+   <selsCont>
+    ※ 전형에 관한 자세한 사항은 채용홈페이지 및 첨부 참조
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    국제협력
+   </empRecrNm>
+   <jobCont>
+    o 직무기술서 참조
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|석사
+   </empWantedEduNm>
+   <sptCertEtc>
+    o 장애인복지법상 등록장애인(득점의 5%) 및 취업지원 대상자 (관련법에 의거 가점) o 지역인재(충북 소재 대학 학사학위 취득자, 득점의 3% 가점) o 상기 가점이 2개 이상 중복될 경우 상위 1개만 적용 ※ 외국어능통자 우대
+   </sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    충북 진천군
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [채용기간] o 채용일로부터 ~ 2019.12.31 [처우] o 근 무 지 : 충북 진천군 덕산면 정통로 18, 정보통신정책연구원 o 급여수준 : 연구원 내규에 따름 o 수도권 및 청주권 ↔ 충북 진천간 통근버스 운영 [직급] o 위촉연구원 [결격사유] o 국가공무원법 제33조 각호의 어느 하나에 해당하는 자 o 병역의무를 기피한 사실이 있는 자 o 연구원의 징계에 의하여 면직조치를 받은 날로부터 2년이 경과하지 아니한 자 o 「공공기관의 운영에 관한 법률」제4조에 따른 공공기관에서 부정한 방법으로 채용된 사실이 적발되어 채용이 취소된지 5년이 지나지 아니한 자
+ </recrCommCont>
+ <empSubmitDocCont>
+  (1) 입사원서(블라인드 채용 기반 표준양식) 1부 (2) 자기소개서 1부 (3) 개인정보수집・이용・제공동의서 1부 (4) 석사학위논문 요약 1부(3매이내, 해당자에 한함) (5) 연구참여실적목록 1부(해당자에 한함) (6) 보훈대상자, 장애인관련 증명서 1부(해당자) ※ 모든 양식은 별도 언급이 없는 경우 반드시 우리 연구원 홈페이지(www.kisdi.re.kr)「KISDI 정보센터&gt;채용안내」에서 소정 양식을 다운로드 받아서 한글파일 형태로 작성하여 제출 ※ 입사원서 및 개인정보수집·이용·제공동의서 본인 서명은 그림파일 형태로 삽입 제출 ※ 지원분야 기재하여 제출 ※ 각 전형별 합격자에 한하여 추가 제출서류 별도 안내 ※ 최종합격자는 상기 제출서류에 기재한 사항과 관련�
+ </empSubmitDocCont>
+</dhsOpenEmpInfoDetailRoot>

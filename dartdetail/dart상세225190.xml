@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 삼양옵틱스
+ </crp_nm> 
+ <crp_nm_e>
+  SAMYANG OPTICS CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼양옵틱스
+ </crp_nm_i> 
+ <stock_cd>
+  225190
+ </stock_cd> 
+ <ceo_nm>
+  황충현
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1942110216483
+ </crp_no> 
+ <bsn_no>
+  6088600017
+ </bsn_no> 
+ <adr>
+  경상남도 창원시 마산회원구 자유무역6길 123
+ </adr> 
+ <hm_url>
+  www.syopt.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-250-5600
+ </phn_no> 
+ <fax_no>
+  055-292-3135
+ </fax_no> 
+ <ind_cd>
+  273
+ </ind_cd> 
+ <est_dt>
+  20130802
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

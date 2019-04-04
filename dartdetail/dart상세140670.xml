@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  알에스오토메이션(주)
+ </crp_nm> 
+ <crp_nm_e>
+  RS AUTOMATION CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  알에스오토메이션
+ </crp_nm_i> 
+ <stock_cd>
+  140670
+ </stock_cd> 
+ <ceo_nm>
+  강덕현
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1345110147171
+ </crp_no> 
+ <bsn_no>
+  1428124514
+ </bsn_no> 
+ <adr>
+  경기도 평택시 진위면 진위산단로 38
+ </adr> 
+ <hm_url>
+  www.rsautomation.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-685-9300
+ </phn_no> 
+ <fax_no>
+  031-685-9502
+ </fax_no> 
+ <ind_cd>
+  262
+ </ind_cd> 
+ <est_dt>
+  20091210
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

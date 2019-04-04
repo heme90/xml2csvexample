@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)케이티앤지
+ </crp_nm> 
+ <crp_nm_e>
+  KT&amp;G Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이티앤지
+ </crp_nm_i> 
+ <stock_cd>
+  033780
+ </stock_cd> 
+ <ceo_nm>
+  Baek, Bok-In
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1601110067804
+ </crp_no> 
+ <bsn_no>
+  3068130866
+ </bsn_no> 
+ <adr>
+  대전광역시 대덕구 벚꽃길 71 주식회사 케이티앤지
+ </adr> 
+ <hm_url>
+  www.ktng.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  042-939-5000
+ </phn_no> 
+ <fax_no>
+  02-3404-4670
+ </fax_no> 
+ <ind_cd>
+  12000
+ </ind_cd> 
+ <est_dt>
+  19870401
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  바로코사
+ </crp_nm> 
+ <crp_nm_e>
+  barokosa
+ </crp_nm_e> 
+ <crp_nm_i>
+  바로코사
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  박훈진
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1345110041092
+ </crp_no> 
+ <bsn_no>
+  1358138548
+ </bsn_no> 
+ <adr>
+  충청북도 충주시 목행산단4로 34 (목행동)
+ </adr> 
+ <hm_url>
+  www.barokosa.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043-857-2000
+ </phn_no> 
+ <fax_no>
+  043-857-8335
+ </fax_no> 
+ <ind_cd>
+  46800
+ </ind_cd> 
+ <est_dt>
+  20000531
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

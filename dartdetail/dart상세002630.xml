@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)오리엔트바이오
+ </crp_nm> 
+ <crp_nm_e>
+  ORIENTBIO Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  오리엔트바이오
+ </crp_nm_i> 
+ <stock_cd>
+  002630
+ </stock_cd> 
+ <ceo_nm>
+  장재진
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110030116
+ </crp_no> 
+ <bsn_no>
+  2188101142
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 상대원동 143-1
+ </adr> 
+ <hm_url>
+  www.orient.co.kr
+ </hm_url> 
+ <ir_url>
+  www.orientbio.co.kr
+ </ir_url> 
+ <phn_no>
+  031-730-6036
+ </phn_no> 
+ <fax_no>
+  03-730-6793
+ </fax_no> 
+ <ind_cd>
+  212
+ </ind_cd> 
+ <est_dt>
+  19590416
+ </est_dt> 
+ <acc_mt>
+  03
+ </acc_mt> 
+</result>

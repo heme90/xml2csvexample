@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)이테크건설
+ </crp_nm> 
+ <crp_nm_e>
+  eTEC E&amp;C LIMITED
+ </crp_nm_e> 
+ <crp_nm_i>
+  이테크건설
+ </crp_nm_i> 
+ <stock_cd>
+  016250
+ </stock_cd> 
+ <ceo_nm>
+  이복영, 안찬규
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110327555
+ </crp_no> 
+ <bsn_no>
+  2148189369
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 양재대로 246(염곡동)
+ </adr> 
+ <hm_url>
+  www.etecenc.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-489-9000
+ </phn_no> 
+ <fax_no>
+  02-489-8997
+ </fax_no> 
+ <ind_cd>
+  4112
+ </ind_cd> 
+ <est_dt>
+  19820914
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

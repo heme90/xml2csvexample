@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)신테카바이오
+ </crp_nm> 
+ <crp_nm_e>
+  Syntekabio,Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  신테카바이오
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  정종선
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101114179457
+ </crp_no> 
+ <bsn_no>
+  1058735732
+ </bsn_no> 
+ <adr>
+  대전광역시 유성구 테크노2로 187 (용산동, 미건테크노월드) 비동 512호
+ </adr> 
+ <hm_url>
+  www.syntekabio.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-7663-0981
+ </phn_no> 
+ <fax_no>
+  02-6280-0984
+ </fax_no> 
+ <ind_cd>
+  63991
+ </ind_cd> 
+ <est_dt>
+  20090810
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

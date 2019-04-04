@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)정다운
+ </crp_nm> 
+ <crp_nm_e>
+  JUNGDAWN Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  정다운
+ </crp_nm_i> 
+ <stock_cd>
+  208140
+ </stock_cd> 
+ <ceo_nm>
+  김 선 철
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115542497
+ </crp_no> 
+ <bsn_no>
+  1078831874
+ </bsn_no> 
+ <adr>
+  전라남도 나주시 동수농공단지길 137-17 (주)정다운
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6923-7426
+ </phn_no> 
+ <fax_no>
+  02-6923-7986
+ </fax_no> 
+ <ind_cd>
+  101
+ </ind_cd> 
+ <est_dt>
+  20141020
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

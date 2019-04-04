@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37161
+ </empSeqno>
+ <empWantedTitle>
+  [리니지2] 서버 프로그래머 채용
+ </empWantedTitle>
+ <empBusiNm>
+  엔씨소프트
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190304
+ </empWantedStdt>
+ <empWantedEndt>
+  20190405
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.ncsoft.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.ncsoft.net/korean/careers/adoptionview.aspx?BID=&amp;BC=&amp;SYear=&amp;SType=&amp;SWord=%EC%84%9C%EB%B2%84+%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8+%EC%B1%84%EC%9A%A9&amp;PNo=1&amp;d1=0&amp;d2=0&amp;BNo=7162&amp;Se
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvD5ZNZMU%2FSFziUVQigG7EWR3%2Fc1STDnJntNsKflBvDXG
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무1차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    NC TEST
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무2차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    (필요시)HR면접
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    처우협의
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    Game Server Programming
+   </empRecrNm>
+   <jobCont>
+    1. 업무내용 - 다양한 플랫폼의 온라인 게임 개발과 서비스에 필요한 각종 서버용 프로그램들을 구현 요청에 따라 설계, 구현, 유지보수한다. 2. 주요업무내용 a : 프로그램 설계 - 프로그램과 서비스의 요구 사항을 고려하여 프로그램의 기본적인 구성 및 스펙을 정하고, 이를 위한 아키텍쳐를 설계한다. b : 프로그램 구현 - 기본 설계를 바탕으로 프로그램의 기본적인 프레임워크를 구현하고, 완성도 향상을 위한 테스트 및 튜닝을 한다. c : 컨텐츠 요구 분석 및 설계 - 게임 기획/사업/서비스적인 요구 사항을 리스트업하고 기술적인 분석과 설계를 하여 스펙을 정한다. d : 컨텐츠 구현 - 컨텐츠 요구 분석을 바탕으로 프로그램 로직을 구현하고, 완성도 향상을 위한 테스트 및 튜닝을 한다. e : 프로그램 유지보수 - 이미 개발된 시스템의 퀄리티를 보장하기 위한 활동을 하며, 서비스의 장애에 대해서 분석하고 이에 적절히 대응한다. f : 개발 프로세스 분석 및 정립 - 개발할 툴과 서비스에 적합한 프로세스를 분석하고 이를 정립한다. 툴 개발의 각 단계에 맞추어 이를 개선한다.
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 상기 업무에 대한 경력: 4년 ~
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    024
+   </jobsCd>
+   <jobsCdKorNm>
+    소프트웨어
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ㆍ해외여행 결격사유 없는 자 ㆍ채용 규정에 어긋나지 않는 자 ㆍ보훈 대상자 및 장애인 우대
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 엔씨소프트 홈페이지 온라인 입사지원서 - 포트폴리오 - 자기소개서
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지 온라인 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 홈페이지 &gt; 채용안내 &gt; 채용문의 참조
+ </inqryCont>
+ <empnEtcCont>
+  ㆍ전형 결과에 따라 계약직 채용이 검토될 수 있습니다. ㆍ채용 시 조기마감 될 수 있습니다. ㆍ채용 과정에서 오프라인으로 제출한 서류가 있을 경우, 해당 공고의 채용여부가 확정된 이후 14일 이내에 반환을 요청할 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

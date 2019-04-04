@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  엘티씨(주)
+ </crp_nm> 
+ <crp_nm_e>
+  LTC CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  엘티씨
+ </crp_nm_i> 
+ <stock_cd>
+  170920
+ </stock_cd> 
+ <ceo_nm>
+  최호성
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341110160494
+ </crp_no> 
+ <bsn_no>
+  1388143899
+ </bsn_no> 
+ <adr>
+  경기도 화성시 마도면 청원산단8길 114 (경기화성바이오밸리)
+ </adr> 
+ <hm_url>
+  www.l-tech.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-383-6525
+ </phn_no> 
+ <fax_no>
+  031-383-6527
+ </fax_no> 
+ <ind_cd>
+  20119
+ </ind_cd> 
+ <est_dt>
+  20071123
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)인트론바이오테크놀로지
+ </crp_nm> 
+ <crp_nm_e>
+  iNtRON Biotechnology, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  인트론바이오
+ </crp_nm_i> 
+ <stock_cd>
+  048530
+ </stock_cd> 
+ <ceo_nm>
+  윤성준, 윤경원(각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111636004
+ </crp_no> 
+ <bsn_no>
+  2158174710
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 사기막골로 137 중앙인더스피아 5차 701~704호
+ </adr> 
+ <hm_url>
+  www.intron.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  0317395360
+ </phn_no> 
+ <fax_no>
+  031-739-5353
+ </fax_no> 
+ <ind_cd>
+  21102
+ </ind_cd> 
+ <est_dt>
+  19990118
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

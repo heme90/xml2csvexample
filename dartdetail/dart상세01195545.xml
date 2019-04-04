@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 토지지원리츠제1호위탁관리부동산투자회사
+ </crp_nm> 
+ <crp_nm_e>
+  Land REIT Co,.Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  토지지원리츠제1호위탁관리부동산투자회사
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  심은정
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1311110451961
+ </crp_no> 
+ <bsn_no>
+  5548800354
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 성남대로54번길 3
+ </adr> 
+ <hm_url>
+  .
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2180-0495
+ </phn_no> 
+ <fax_no>
+  02-2180-0908
+ </fax_no> 
+ <ind_cd>
+  68
+ </ind_cd> 
+ <est_dt>
+  20160701
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)모나미
+ </crp_nm> 
+ <crp_nm_e>
+  MONAMI CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  모나미
+ </crp_nm_i> 
+ <stock_cd>
+  005360
+ </stock_cd> 
+ <ceo_nm>
+  송하경
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110005052
+ </crp_no> 
+ <bsn_no>
+  1208108227
+ </bsn_no> 
+ <adr>
+  경기도 용인시 수지구 손곡로 17 (동천동, 모나미빌딩)
+ </adr> 
+ <hm_url>
+  www.monami.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-216-0153
+ </phn_no> 
+ <fax_no>
+  02-270-5120
+ </fax_no> 
+ <ind_cd>
+  46452
+ </ind_cd> 
+ <est_dt>
+  19671228
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

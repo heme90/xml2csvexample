@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37727
+ </empSeqno>
+ <empWantedTitle>
+  DS부문 Test &amp; System Package총괄 경력사원 채용
+ </empWantedTitle>
+ <empBusiNm>
+  삼성전자
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190325
+ </empWantedStdt>
+ <empWantedEndt>
+  20190410
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.samsung.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.samsungcareers.com/rec/apply/ComResumeServlet?cmd=pstMain
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRiiUI73BW2bN9%2FqqfEB%2F4Y9edcmrGIX45juRs7kvAMjae7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqqXa3mfc5LHciUySC2XtmAiW9cshFmyVecHMw0Qi9Jw3WEKzrBxOaasFKcF2q71%2BmFnq064MYN6W5uz9ngl0ZxA&amp;realFileNm=7IK87ISx7KCE7J6QIOyeheyCrOyngOybkOyEnCDslpHsi50uZG9jeA==
+   </regFileUrl>
+   <realFileNm>
+    삼성전자 입사지원서 양식.docx
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    건강검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    최종합격 발표 시기 : &amp;apos;19년 5월 말
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    Package 양산기술
+   </empRecrNm>
+   <jobCont>
+    □ 공정 기술 - Package Assy 단위 공정 최적화를 통한 생산성 향상 - 품질 문제 분석 및 개선 방안 도출 □ 품질 보증/Yield 개선 - 공정 변경점 및 산포 관리를 통한 품질 위험요소를 관리/개선 - 생산성/ Yield 개선, 불량 예측(Data Analytics, Machine Learning,Deep Learning) □ 능동소자 품질제어/이상감지/개선 - 모듈/SSD Device 동작 이해를 바탕으로 능동소자의 특성 Test, Para 규정 및 품질 Risk 발굴/개선
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    Test기술
+   </empRecrNm>
+   <jobCont>
+    □ Test Infra 회로 설계(SI/PI) 및 Digital &amp; Analog Logic 설계 - 신제품 Test Infra 개발/생산성 향상 - High Speed Signal 전송기법 연구 개발 - Test를 위한 FPGA Logic Design □ Test Infra(tool) Modeling 및 분석 - Test Contact에 대한 Modeling 및 Mechanical 구조 문제 개선 - Simulation을 통한 기구/구조 최적화, Test Infra 공차 해석 및 개선
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    설비기술
+   </empRecrNm>
+   <jobCont>
+    □ 설비 개조 / 개선 - 설비 생산성 향상을 위한 반도체 설비 개조 및 시스템 개발 □ 제조 인프라 개선 - 로봇기반 스마트 제조환경 구축 (물류 자동화, 운영 시스템 설계) - Big Data 기반의 실시간 제조현장 모니터링 시스템 설계
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    Package 개발
+   </empRecrNm>
+   <jobCont>
+    □ Package Process Integration - 신규 Package 구현 방안 제시 (TSV, FOPKG 등 선행제품/공정 개발) - 요소기술 Integration 및 Risk 관리 □ Package Process Development - Package 단위공정 및 요소기술 개발 - Organic 및 Inorganic 소재 개발 □ Package Design - Device와 Set Board간 신호, 전력 전송을 위한 Package Design - Electrical/Thermal/Mechanical Simulation 을 통한 Design 최적화 □ RFA (Reliability &amp; Failure Analysis) - Package의 신뢰성 확보를 위한 소재 및 구조 연구 - 공정/신뢰성 예측 알고리즘 개발 - 분석기술 개발, 불량 분석 및 불량 Mechanism 규명 □ 제품 기획 / 마케팅 - 시장 동향 분석 및 기술 센싱 - 개발/사업 전략 수립 - 고객대응 - Project Management
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    131202
+   </jobsCd>
+   <jobsCdKorNm>
+    통신기술 개발자 및 통신망 운영 기술자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    153101
+   </jobsCd>
+   <jobsCdKorNm>
+    전기기기·제품 개발 기술자 및 연구원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    834004
+   </jobsCd>
+   <jobsCdKorNm>
+    기타 전기·전자 설비 조작원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ㆍ근무지역 : 삼성전자 온양사업장, 천안사업장, 화성사업장 ※ 공통 최소지원 자격 ㆍ 병역필 또는 면제자로 해외여행에 결격 사유가 없는 자 ㆍ 학사 학위 소지자 : 최소 4년 이상 산업계 경력 보유자 ㆍ 석사 학위 소지자 : 최소 2년 이상 산업계 경력 보유자 ㆍ 박사 학위 소지자 : 모집 분야 관련 학위 보유자 (&amp;apos;19년 8월 졸업예정자 지원 가능)
+ </recrCommCont>
+ <empSubmitDocCont>
+  ㆍ졸업증명서(원본) 1부 ㆍ성적증명서(원본) 1부 ㆍ경력증명서(원본) 1부 ㆍ기타 자격증 및 확인서(해당자 限)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지(http://www.samsungcareers.com) 로그인 입사지원 ㆍ지원회사 및 지원공고 선택 후 지원서 작성 (※ 계정이 없으신 분들은 먼저 회원가입을 완료하시기 바랍니다.) ㆍ본 공고에 첨부된 입사지원서 다운로드 후 작성 ※ 반드시 첨부된 당사 입사지원서 양식을 작성 및 첨부하시기 바랍니다. (파일명은 "입사지원서_성명_희망직무") ㆍ지원서의 [Essay] 화면에서 입사지원서 등록
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 전화번호 : 041)540 - 7085, 이메일 : hj1207.lee@samsung.com
+ </inqryCont>
+ <empnEtcCont>
+  ㆍ지원서는 삼성 채용 홈페이지를 통해 접수하며, 그 외의 개별 접수는 받지 않습니다. ㆍ기재 내용에 허위사실이 있는 경우 합격이 취소될 수 있습니다. ㆍ전형단계별 결과는 삼성 채용 홈페이지에 로그인하여 확인하실 수 있습니다. ㆍ최종 합격시 직급 및 처우는 개인별 경력사항을 고려하여 본인과 협의 후 결정됩니다. ㆍ입사지원자께서는 입사지원 시점부터 채용전형 전체 과정에 걸쳐 전/현직 직장의 영업비밀을 침해하는 일이 없도록 각별히 유의하시기 바랍니다. ※ 채용서류 반환관련 안내 - 회사는 채용 전형 과정에서 지원자의 불편을 최소화 하기 위해 입사지원서를 비롯하여 채용과 관련된 모든 서류는 채용 홈페이지를 통해 접수 받고 있습니다. 채용 과정에서 일부 서류를 직접 제출 받은 경우, 아래와 같이 해당 서류를 반환해 드리고 있사오니 참고해 주시기 바랍니다
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

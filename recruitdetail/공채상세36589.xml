@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36589
+ </empSeqno>
+ <empWantedTitle>
+  온/오프라인 마케팅 실무
+ </empWantedTitle>
+ <empBusiNm>
+  한컴엠디에스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190212
+ </empWantedStdt>
+ <empWantedEndt>
+  20190412
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.mdstec.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.hancommds.com/recruit/contents.asp?no=264
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRitqgbEU%2FQwlkvZWsAZW64TLI0%2FwOuWJ8gn3AVZ5bGspY7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인적성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    마케팅 실무
+   </empRecrNm>
+   <jobCont>
+    - 마케팅 캠페인 기획 및 실행 - 세미나/전시회 기획 및 실행 - 콘텐츠 마케팅 (홈페이지, SNS, 인쇄홍보물, 동영상 등) - 브랜딩 관리 (CI, BI)
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 디자인툴, 동영상 제작 툴 활용 가능자 - 한컴MDS아카데미 교육수료자 (예정자)
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    024102
+   </jobsCd>
+   <jobsCdKorNm>
+    마케팅 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 직군: 경영지원 - 근무부서 : 마케팅팀 - 장애인 및 국가유공자/보훈대상자는 관련법에 의해 우대
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 최종 합격자에 한해 제출
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ~ 채용시까지 - 입사 지원은 당사 홈페이지를 통한 온라인 지원만 가능 (* 서류접수 기간 중이라도 수시면접 진행으로 조기 마감될 수 있음)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 문의: HR팀 박장근 과장 (031-627-3196, recruit@hancommds.com)
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

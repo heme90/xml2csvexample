@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)씨디네트웍스
+ </crp_nm> 
+ <crp_nm_e>
+  CDNetworksCo.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨디네트웍스
+ </crp_nm_i> 
+ <stock_cd>
+  073710
+ </stock_cd> 
+ <ceo_nm>
+  임용기
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111981649
+ </crp_no> 
+ <bsn_no>
+  2118699301
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로8길 37 한동빌딩3,4,6,7층 (역삼동)
+ </adr> 
+ <hm_url>
+  www.cdnetworks.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3441-0400
+ </phn_no> 
+ <fax_no>
+  02-569-9632
+ </fax_no> 
+ <ind_cd>
+  631
+ </ind_cd> 
+ <est_dt>
+  20000527
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

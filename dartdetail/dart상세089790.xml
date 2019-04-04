@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)제이티
+ </crp_nm> 
+ <crp_nm_e>
+  JT Corporation.
+ </crp_nm_e> 
+ <crp_nm_i>
+  제이티
+ </crp_nm_i> 
+ <stock_cd>
+  089790
+ </stock_cd> 
+ <ceo_nm>
+  유홍준
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1211110061910
+ </crp_no> 
+ <bsn_no>
+  1308156518
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 서북구 직산읍 4산단3로 135
+ </adr> 
+ <hm_url>
+  www.jtcorp.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-4172-0100
+ </phn_no> 
+ <fax_no>
+  041-584-0134
+ </fax_no> 
+ <ind_cd>
+  29271
+ </ind_cd> 
+ <est_dt>
+  19980707
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

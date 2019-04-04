@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  메르세데스 벤츠 파이낸셜서비스코리아 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Mercedes Benz Financial Services Korea, Limited
+ </crp_nm_e> 
+ <crp_nm_i>
+  메르세데스벤츠파이낸셜서비스코리아
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  힐케 얀센
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101112614786
+ </crp_no> 
+ <bsn_no>
+  2208647637
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 한강대로 416 10층 (남대문로 5가, 서울스퀘어빌딩)
+ </adr> 
+ <hm_url>
+  www.mercedes-benz-financial.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6456-2455
+ </phn_no> 
+ <fax_no>
+  02-6456-2273
+ </fax_no> 
+ <ind_cd>
+  64913
+ </ind_cd> 
+ <est_dt>
+  20020923
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

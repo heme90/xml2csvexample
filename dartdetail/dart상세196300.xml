@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  애니젠(주)
+ </crp_nm> 
+ <crp_nm_e>
+  ANYGEN CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  애니젠
+ </crp_nm_i> 
+ <stock_cd>
+  196300
+ </stock_cd> 
+ <ceo_nm>
+  김재일
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  2001110115802
+ </crp_no> 
+ <bsn_no>
+  4098153794
+ </bsn_no> 
+ <adr>
+  광주광역시 북구 첨단과기로 333 광주테크노파크 시험생산동 206호
+ </adr> 
+ <hm_url>
+  www.anygen.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  062-714-1166
+ </phn_no> 
+ <fax_no>
+  061-395-1184
+ </fax_no> 
+ <ind_cd>
+  21102
+ </ind_cd> 
+ <est_dt>
+  20000502
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

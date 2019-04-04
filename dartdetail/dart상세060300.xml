@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)레드로버
+ </crp_nm> 
+ <crp_nm_e>
+  REDROVER CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  레드로버
+ </crp_nm_i> 
+ <stock_cd>
+  060300
+ </stock_cd> 
+ <ceo_nm>
+  김선욱
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111282740
+ </crp_no> 
+ <bsn_no>
+  1138138005
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교역로146번길 20 현대백화점 판교오피스 12-13층
+ </adr> 
+ <hm_url>
+  www.redrover.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-5171-3800
+ </phn_no> 
+ <fax_no>
+  031-601-7901
+ </fax_no> 
+ <ind_cd>
+  59112
+ </ind_cd> 
+ <est_dt>
+  19960615
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

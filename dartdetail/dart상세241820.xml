@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  피씨엘(주)
+ </crp_nm> 
+ <crp_nm_e>
+  PCL. Inc
+ </crp_nm_e> 
+ <crp_nm_i>
+  피씨엘
+ </crp_nm_i> 
+ <stock_cd>
+  241820
+ </stock_cd> 
+ <ceo_nm>
+  김소연
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1352110022823
+ </crp_no> 
+ <bsn_no>
+  1388145543
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 디지털로9길 99 (가산동, 스타밸리) 701호
+ </adr> 
+ <hm_url>
+  www.pclchip.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-4673-3433
+ </phn_no> 
+ <fax_no>
+  070-4673-3443
+ </fax_no> 
+ <ind_cd>
+  213
+ </ind_cd> 
+ <est_dt>
+  20080212
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

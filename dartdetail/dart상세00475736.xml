@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)앤알커뮤니케이션
+ </crp_nm> 
+ <crp_nm_e>
+  NRCommunication
+ </crp_nm_e> 
+ <crp_nm_i>
+  앤알커뮤니케이션
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  성호종
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111823891
+ </crp_no> 
+ <bsn_no>
+  2208172145
+ </bsn_no> 
+ <adr>
+  경기도 수원시 영통구 센트럴타운로 114-8 (이의동, 농업회사법인(주)농우바이오) 3층
+ </adr> 
+ <hm_url>
+  www.nrcom.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-565-6016
+ </phn_no> 
+ <fax_no>
+  031-267-9619
+ </fax_no> 
+ <ind_cd>
+  4610
+ </ind_cd> 
+ <est_dt>
+  19991213
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

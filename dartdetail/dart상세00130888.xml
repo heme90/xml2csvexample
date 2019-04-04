@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 서울신문사
+ </crp_nm> 
+ <crp_nm_e>
+  THE SEOUL SHINMUN
+ </crp_nm_e> 
+ <crp_nm_i>
+  서울신문사
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  고광헌
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110013493
+ </crp_no> 
+ <bsn_no>
+  1048124680
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 세종대로 124
+ </adr> 
+ <hm_url>
+  www.seoul.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  2000-9000
+ </phn_no> 
+ <fax_no>
+  2000-9539
+ </fax_no> 
+ <ind_cd>
+  58121
+ </ind_cd> 
+ <est_dt>
+  19380428
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

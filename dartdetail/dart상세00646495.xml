@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한화에너지(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HANWHA ENERGY CORPORATION 
+ </crp_nm_e> 
+ <crp_nm_i>
+  한화에너지
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  류두형
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101113807223
+ </crp_no> 
+ <bsn_no>
+  1048611837
+ </bsn_no> 
+ <adr>
+  세종특별자치시 한누리대로 499 (어진동, 세종포스트빌딩)
+ </adr> 
+ <hm_url>
+  hec.hanwha.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  044-850-3421
+ </phn_no> 
+ <fax_no>
+  044-850-3429
+ </fax_no> 
+ <ind_cd>
+  3511
+ </ind_cd> 
+ <est_dt>
+  20071218
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

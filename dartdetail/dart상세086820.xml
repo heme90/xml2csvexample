@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 바이오솔루션
+ </crp_nm> 
+ <crp_nm_e>
+  Bio Solution Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  바이오솔루션
+ </crp_nm_i> 
+ <stock_cd>
+  086820
+ </stock_cd> 
+ <ceo_nm>
+  윤정현 이정선(각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1301110057421
+ </crp_no> 
+ <bsn_no>
+  1248169186
+ </bsn_no> 
+ <adr>
+  서울특별시 노원구 공릉로 232 8층 803호(공릉동, 서울테크노파크)
+ </adr> 
+ <hm_url>
+  www.biosolutions.co.kr/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3446-8884
+ </phn_no> 
+ <fax_no>
+  02-3445-1380
+ </fax_no> 
+ <ind_cd>
+  21102
+ </ind_cd> 
+ <est_dt>
+  20000114
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

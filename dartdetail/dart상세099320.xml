@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사쎄트렉아이
+ </crp_nm> 
+ <crp_nm_e>
+  SatrecInitiativeCo.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  쎄트렉아이
+ </crp_nm_i> 
+ <stock_cd>
+  099320
+ </stock_cd> 
+ <ceo_nm>
+  김이을
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1601110091283
+ </crp_no> 
+ <bsn_no>
+  3148129846
+ </bsn_no> 
+ <adr>
+  대전광역시 유성구 유성대로1628번길 21 (주)쎄트렉아이
+ </adr> 
+ <hm_url>
+  www.satreci.com
+ </hm_url> 
+ <ir_url>
+  www.satreci.com
+ </ir_url> 
+ <phn_no>
+  042-365-7500
+ </phn_no> 
+ <fax_no>
+  042-365-7549
+ </fax_no> 
+ <ind_cd>
+  3131
+ </ind_cd> 
+ <est_dt>
+  19991229
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

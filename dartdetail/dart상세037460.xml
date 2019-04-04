@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼지전자(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SAMJI ELECTRONICS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼지전자
+ </crp_nm_i> 
+ <stock_cd>
+  037460
+ </stock_cd> 
+ <ceo_nm>
+  박두진, 주동익
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110300303
+ </crp_no> 
+ <bsn_no>
+  1198101883
+ </bsn_no> 
+ <adr>
+  경기도 화성시 금곡로 63-27 삼지전자
+ </adr> 
+ <hm_url>
+  www.samjielec.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-850-8031
+ </phn_no> 
+ <fax_no>
+  02-850-8080
+ </fax_no> 
+ <ind_cd>
+  2642
+ </ind_cd> 
+ <est_dt>
+  19810724
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

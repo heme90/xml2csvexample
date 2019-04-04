@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)삼진
+ </crp_nm> 
+ <crp_nm_e>
+  Samjin
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼진
+ </crp_nm_i> 
+ <stock_cd>
+  032750
+ </stock_cd> 
+ <ceo_nm>
+  김승철
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341110005351
+ </crp_no> 
+ <bsn_no>
+  1238105888
+ </bsn_no> 
+ <adr>
+  경기도 안양시 만안구 안양천서로 81 (주)삼진
+ </adr> 
+ <hm_url>
+  www.samjin.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031 -467 -5847
+ </phn_no> 
+ <fax_no>
+  0314493985
+ </fax_no> 
+ <ind_cd>
+  264
+ </ind_cd> 
+ <est_dt>
+  19760715
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

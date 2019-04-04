@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37684
+ </empSeqno>
+ <empWantedTitle>
+  2019년도 신입직원 채용
+ </empWantedTitle>
+ <empBusiNm>
+  공무원연금공단
+ </empBusiNm>
+ <coClcdNm>
+  공공기관
+ </coClcdNm>
+ <empWantedStdt>
+  20190325
+ </empWantedStdt>
+ <empWantedEndt>
+  20190408
+ </empWantedEndt>
+ <empWantedHomepg>
+  https://www.geps.or.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://geps.trns.kr/main.do
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvF55dpYKoPFATdSLt27mipA8ErNDWyPqf5P7uWlQwYAE
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직|정규직전환형|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqqtQ1p7RDdyA%2FASRiA9y7%2F%2Bu%2FFu%2FZrcZ4Wmqs2dw%2B%2FdNKy7nn3SCj73adiAq2xcJOS6FvNdRITlyEe7%2BTpu9lUT&amp;realFileNm=6rO166y07JuQ7Jew6riI6rO164uoIOyLoOyeheyngeybkCDssYTsmqnqtIDroKguemlw
+   </regFileUrl>
+   <realFileNm>
+    공무원연금공단 신입직원 채용관련.zip
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    NCS형
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    필기시험
+   </selsNm>
+   <selsSchdCont>
+    시험일 4.27(토)
+   </selsSchdCont>
+   <selsCont>
+    합격자발표 : 4.30(화) 16:00(채용홈페이지)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류확인
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    증빙서류제출 4.30(화) ~ 5.2(목) 18:00까지 / 제출방법 추후공지
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접
+   </selsNm>
+   <selsSchdCont>
+    5.14(화) ~ 5.16(목) 중 1일/ 본사
+   </selsSchdCont>
+   <selsCont>
+    3단계 면접
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    합격자발표
+   </selsNm>
+   <selsSchdCont>
+    5.21(화) 16:00/ 채용홈페이지
+   </selsSchdCont>
+   <selsCont>
+    신원조회, 신체검사
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont>
+    ※ 상기 일정 등은 공단의 사정에 따라 조정될 수 있음
+   </selsSchdCont>
+   <selsCont>
+    ※ 전형에 관한 자세한 사항은 채용홈페이지 및 첨부 참조
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    5급[사무]
+   </empRecrNm>
+   <jobCont>
+    - 성별, 연령, 학력 등 제한 없음 - (보훈전형) 취업지원대상자 / (장애인전형) 장애인만 응시 가능 * 일반전형과 보훈·장애인전형간의 중복지원 불가
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    31
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    지역무관
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    5급[전산]
+   </empRecrNm>
+   <jobCont>
+    - 성별, 연령, 학력 등 제한 없음 - (필수) 정보처리기사 보유자
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    2
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    지역무관
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    5급[건축]
+   </empRecrNm>
+   <jobCont>
+    - 성별, 연령, 학력 등 제한 없음 - (필수) 건축기사, 실내건축기사, 건축설비기사 중 1개 이상 보유자
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    2
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    지역무관
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    5급[전기]
+   </empRecrNm>
+   <jobCont>
+    - 성별, 연령, 학력 등 제한 없음 - (필수) 전기기사 또는 전기공사기사 보유자
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    지역무관
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    7급[사무]
+   </empRecrNm>
+   <jobCont>
+    ∘ ’19. 1. 1.이후 졸업자(’20. 2월 졸업예정자 및 대학 중퇴자 포함) ∘ 내신 평균 2.0등급 이내 자로서 학교장 추천서를 받은 자(학교당 5명 이내) * [별첨2] 학교장 추천서 및 내신등급 확인서 * 최종학력이 대졸이상(재학생, 휴학생, 졸업예정자, 졸업유예자, 수료자등) 지원불가
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    3
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    지역무관
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    7급[기계]
+   </empRecrNm>
+   <jobCont>
+    ∘ ’19. 1. 1.이후 졸업자(’20. 2월 졸업예정자 및 대학 중퇴자 포함) ∘ 내신 평균 2.0등급 이내 자로서 학교장 추천서를 받은 자(학교당 5명 이내) ↳기계 : 관련 기술 ‧기능학과가 설치된 고등학교장의 추천서를 받은 자 * [별첨2] 학교장 추천서 및 내신등급 확인서 * 최종학력이 대졸이상(재학생, 휴학생, 졸업예정자, 졸업유예자, 수료자등) 지원불가
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    지역무관
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    025500
+   </jobsCd>
+   <jobsCdKorNm>
+    공공행정 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ■ 임용시기(※ 공단 사정에 따라 변경될 수 있음) ❍ 5급 - 사무(보훈), 사무(장애), 전산, 건축, 전기 : 6월 중 정규직 임용 - 사무(일반) : 면접점수 고득점 순에 따라 6월 중 정규직 임용 또는 채용형 인턴으로 임용 ※사무(일반) 채용형인턴은면접점수고득점순에따라6.30.자및 12.31.자정규직임용예정 ❍ 7급 : 11월 중 채용형 인턴으로 임용 후 12.31.자 정규직 임용 예정 ※ 채용형 인턴은 인사위원회 심의 후 정규직 임용(’18년 채용형 청년인턴 100% 정규직 전환) &amp;lt;인턴기간 근무조건&amp;gt; ∘ 보 수 : 월 1,746,000원(산재보험, 고용보험, 건강보험, 국민연금 가입) ∘ 근무시간 : 주 5일, 1일 8시간(월 1회 휴가제공) ■ 응시자격 공통 ※ 모집전형별 중복지원 불가 ∘ 수 도 권 : 최종 출신학교가 서울‧인천‧경기지역에 소재한 자 ∘ 비수도권 : 최종 출신학교가 서울‧인천‧경기지역 이외 소재한 자 ∘ 제 주 : 최종 출신학교가 제주도내 소재한 자 * 최종 출신학교 판단시 대학원 제외 ∘ 우리공단 인사규정에 의한 임용결격 사유가 없는 자[별첨5] ∘ 남성의 경우 병역필 또는 면제자(7급 지원자는 무관) ■ 우대사항 - 취업지원대상자, 장애인, 국민기초생활수급자, 비수도권, 우리공단우수청년인턴, 이전지역 인재(제주) ※ 자세한 사항은 채용홈페이지 및 첨부 참조
+ </recrCommCont>
+ <empSubmitDocCont>
+  – 증빙서류 제출은 필기시험 합격자를 대상으로 하며, 제출방법은 추후 공지 &lt;블라인드 채용 안내&gt; ∘ 블라인드 채용 가이드라인을 준수하여 편견요인에 대한 개인정보는 심사위원에게 제공되지 않음 (※ 이하 자세한 사항은 채용홈페이지 및 첨부 참조)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지(https://geps.trns.kr)에서 온라인 접수 ※ 우편·이메일·방문접수 불가 ❍ 입사지원서 작성시 작성요령을 사전에 반드시 숙지하시기 바라며, 접수마감시간(2019. 4. 8. 18:00)까지 작성을 종료하고, 최종 제출하여정상적으로 접수번호를 부여받은 경우에만 인정 ❍ 입사지원서 기재내용(입력착오 등), 증빙서류의 착오 또는 누락으로 인해 발생한 불이익은 모두 본인에게 책임이 있으며, 지원서 및 제출서류의 내용이 사실과 다른 경우 합격 취소 – 입사지원서 제출 전 증빙서류를 모두 발급받아 지원자격 및 평가항목에 해당하는지 반드시 확인하여 불이익이 발생되지 않도록 주의
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  기타 문의사항은 채용콜센터(02-2286-3878), 채용 홈페이지(https://geps.trns.kr) Q&amp;A 및 FAQ를 이용해 주시기 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  □ 모집전형별 중복지원이 불가하며, 중복지원시 일괄 불합격 처리됩니다. □ 응시 희망자는 응시자격 등에 부합하는지 우선 판단하여 지원서를 작성하시기 바라며, 지원서 제출 후에는 수정 또는 삭제할 수 없고, 최종합격자 발표 후 모든 지원서류는 공단에서 일괄 삭제합니다. □ 허위기재 또는 기재오류, 증명서류 미제출 등으로 인한 불이익은 인에게 책임이 있으며, 입사지원시 기재사항 및 제출서류가 허위로 혀질 경우 합격 또는 임용이 취소되고, 향후 5년간 우리공단 직원으로의 임용자격이 제한됩니다. □ 최종합격자로 결정되었더라도 임용결격사유가 확인되거나 응시자격 한에 해당될 경우와 채용 신체검사 및 신원조회 결과 부적합한 자에 하여는 합격 또는 임용이 취소됩니다. □ 채용관련 인사 청탁자는「부정청탁금지법」등 관련법령에 따라 리할 예정이며, 전형단계 점수에 관계없이 전형에서 제외됩니다. ※ 이하 자세한 사항은 채용홈페이지 및 첨부 참조
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

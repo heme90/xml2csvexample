@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한국캐피탈(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Han Kook Capital Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국캐피탈
+ </crp_nm_i> 
+ <stock_cd>
+  023760
+ </stock_cd> 
+ <ceo_nm>
+  이상춘
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1601110019277
+ </crp_no> 
+ <bsn_no>
+  3148115454
+ </bsn_no> 
+ <adr>
+  대전광역시 서구 둔산서로 81
+ </adr> 
+ <hm_url>
+  www.hkcapital.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  042 -480 -8032
+ </phn_no> 
+ <fax_no>
+  02-3468-4401
+ </fax_no> 
+ <ind_cd>
+  64911
+ </ind_cd> 
+ <est_dt>
+  19891122
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

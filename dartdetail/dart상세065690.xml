@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)대진디엠피
+ </crp_nm> 
+ <crp_nm_e>
+  DAEJIN DMP Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  대진디엠피
+ </crp_nm_i> 
+ <stock_cd>
+  065690
+ </stock_cd> 
+ <ceo_nm>
+  박창식
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110041327
+ </crp_no> 
+ <bsn_no>
+  1228116892
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 성거읍 천흥리316-4
+ </adr> 
+ <hm_url>
+  www.xleds.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3443-5360
+ </phn_no> 
+ <fax_no>
+  041-522-5370
+ </fax_no> 
+ <ind_cd>
+  22199
+ </ind_cd> 
+ <est_dt>
+  19870623
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

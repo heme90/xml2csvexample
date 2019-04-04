@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  화승인더스트리(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HS INDUSTRIES CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  화승인더스트리
+ </crp_nm_i> 
+ <stock_cd>
+  006060
+ </stock_cd> 
+ <ceo_nm>
+  대표이사 현석호
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110004323
+ </crp_no> 
+ <bsn_no>
+  6068101863
+ </bsn_no> 
+ <adr>
+  부산광역시 연제구 중앙대로 1079 장천빌딩 6층
+ </adr> 
+ <hm_url>
+  www.hsi.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051-311-0081
+ </phn_no> 
+ <fax_no>
+  051-312-2465
+ </fax_no> 
+ <ind_cd>
+  2221
+ </ind_cd> 
+ <est_dt>
+  19690507
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

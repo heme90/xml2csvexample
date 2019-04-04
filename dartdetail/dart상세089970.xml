@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  에이피티씨(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Adaptive Plasma Technology Corp.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이피티씨
+ </crp_nm_i> 
+ <stock_cd>
+  089970
+ </stock_cd> 
+ <ceo_nm>
+  최우형
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1348110068248
+ </crp_no> 
+ <bsn_no>
+  1248193411
+ </bsn_no> 
+ <adr>
+  경기도 이천시 마장면 서이천로 58-47
+ </adr> 
+ <hm_url>
+  www.iaptc.com/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-645-1000
+ </phn_no> 
+ <fax_no>
+  031-645-1100
+ </fax_no> 
+ <ind_cd>
+  29271
+ </ind_cd> 
+ <est_dt>
+  20020222
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

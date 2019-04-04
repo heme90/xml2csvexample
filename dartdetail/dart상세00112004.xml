@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 알바이오
+ </crp_nm> 
+ <crp_nm_e>
+  R Bio CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  알바이오
+ </crp_nm_i> 
+ <stock_cd>
+  003190
+ </stock_cd> 
+ <ceo_nm>
+  라정찬, 반은종
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110006448
+ </crp_no> 
+ <bsn_no>
+  1028130395
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 가산디지털2로 98 (가산동, IT캐슬) 2동 305호
+ </adr> 
+ <hm_url>
+  www.rbio.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-874-0686
+ </phn_no> 
+ <fax_no>
+  02-858-8140
+ </fax_no> 
+ <ind_cd>
+  21102
+ </ind_cd> 
+ <est_dt>
+  19610705
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

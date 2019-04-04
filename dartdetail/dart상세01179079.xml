@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 메디포럼
+ </crp_nm> 
+ <crp_nm_e>
+  Mediforum Co,.Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  메디포럼
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김찬규
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1358110270199
+ </crp_no> 
+ <bsn_no>
+  3678800099
+ </bsn_no> 
+ <adr>
+  경기도 군포시 군포로 488-1 3층(당동, 흥명빌딩)
+ </adr> 
+ <hm_url>
+  www.gmediforum.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-465-1777
+ </phn_no> 
+ <fax_no>
+  02-465-1778
+ </fax_no> 
+ <ind_cd>
+  21300
+ </ind_cd> 
+ <est_dt>
+  20150521
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

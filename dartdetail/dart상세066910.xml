@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)손오공
+ </crp_nm> 
+ <crp_nm_e>
+  SONOKONGCO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  손오공
+ </crp_nm_i> 
+ <stock_cd>
+  066910
+ </stock_cd> 
+ <ceo_nm>
+  김종완
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110144999
+ </crp_no> 
+ <bsn_no>
+  1398131076
+ </bsn_no> 
+ <adr>
+  경기도 부천시 원미구 안곡로 266 -
+ </adr> 
+ <hm_url>
+  www.sonokong.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2610-8750
+ </phn_no> 
+ <fax_no>
+  02-2610-8982
+ </fax_no> 
+ <ind_cd>
+  33401
+ </ind_cd> 
+ <est_dt>
+  19961230
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

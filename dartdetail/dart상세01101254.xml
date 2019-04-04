@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  케이피항공산업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KP AERO INDUSTRIES CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이피항공산업
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김종판
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1801110100551
+ </crp_no> 
+ <bsn_no>
+  6228106875
+ </bsn_no> 
+ <adr>
+  경상남도 김해시 진례면 테크노밸리로 12 (담안리)
+ </adr> 
+ <hm_url>
+  www.airkpc.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-342-5746
+ </phn_no> 
+ <fax_no>
+  055-342-5743
+ </fax_no> 
+ <ind_cd>
+  31322
+ </ind_cd> 
+ <est_dt>
+  19900601
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

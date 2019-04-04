@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37211
+ </empSeqno>
+ <empWantedTitle>
+  2019년 상반기 (IT사업부문) 해외학부생 인턴 모집
+ </empWantedTitle>
+ <empBusiNm>
+  씨제이올리브네트웍스
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190305
+ </empWantedStdt>
+ <empWantedEndt>
+  20190405
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.cjolivenetworks.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://recruit.cj.net/
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRinw2RDA2Bg0ti5MXdkWRGNpm80tHwHPwUPQrKl%2F%2BEK807suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    여러분이 선택한 계열사 및 직무에 대한 지원동기는 무엇인가요? ① 선택한 계열사가 아니면 안되는 이유, ② 직무에 관심갖게 된 계기, ③ 본인이 직무를 잘 수행할 수 있는 이유(본인의 강점, 준비, 관련 경험에 근거)를 반드시 포함하여 구체적으로 작성해 주세요. (1,000자 이내)
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    입사 후 이루고 싶은 목표는 무엇이며, 목표를 이루기 위하여 어떠한 준비와 노력이 필요하다고 생각하는지 기술하여 주세요. (1000자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    지원서접수
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류심사
+   </selsNm>
+   <selsSchdCont>
+    4.20
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    화상인터뷰
+   </selsNm>
+   <selsSchdCont>
+    5월
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인턴십/테스트/인터뷰
+   </selsNm>
+   <selsSchdCont>
+    7월 ~ 8월
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※ 전형단계 및 일정은 내부 사정에 의해 변경될 수 있습니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    신기술(AI)
+   </empRecrNm>
+   <jobCont>
+    - 언어처리, VISION AI 플랫폼 구축 - 이미지인식, 자연어이해, 딥러닝 알고리즘 개발
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 영어
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    신기술(빅데이터 분석)
+   </empRecrNm>
+   <jobCont>
+    - 비즈니스 영역 빅데이터 분석 업무 수행 - 데이터 수집과 분석을 통한 Insight 제공 및 컨설팅
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 영어
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    신기술(빅데이터 플랫폼개발)
+   </empRecrNm>
+   <jobCont>
+    - 빅데이터 솔루션 플랫폼 개발 - 데이터마이닝, 머신러닝/딥러닝 기반 프로젝트 수행
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 영어
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    비즈니스 솔루션(글로벌시스템운영)
+   </empRecrNm>
+   <jobCont>
+    - 식품/유통/물류 글로벌 시스템개발 및 유지 보수
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 영어, 중국어
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    비즈니스 솔루션(글로벌정보보안)
+   </empRecrNm>
+   <jobCont>
+    - 컴플라이언스 관리 및 보안컨설팅
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 영어, 중국어
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [지원자격] - 해외대 졸업 예정자 및 기졸업자(20년 2월 학사학위 취득 예정자) - 인턴십(7월~8월 중)기간동안 국내 거주 및 근무 가능한 자 - 해외시민권자의 경우, 재외동포 비자 취득 가능�
+ </recrCommCont>
+</dhsOpenEmpInfoDetailRoot>

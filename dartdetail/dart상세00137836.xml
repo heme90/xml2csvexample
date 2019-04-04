@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)카리스소프트
+ </crp_nm> 
+ <crp_nm_e>
+  karis soft Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  카리스소프트
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김민서
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1911110000683
+ </crp_no> 
+ <bsn_no>
+  6138100085
+ </bsn_no> 
+ <adr>
+  경상남도 진주시 도동로 80
+ </adr> 
+ <hm_url>
+  www.karissoft.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055)760-3005
+ </phn_no> 
+ <fax_no>
+  055-752-9027
+ </fax_no> 
+ <ind_cd>
+  13219
+ </ind_cd> 
+ <est_dt>
+  19721027
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

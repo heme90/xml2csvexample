@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  현대종합상사(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HYUNDAI CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  현대종합상사
+ </crp_nm_i> 
+ <stock_cd>
+  011760
+ </stock_cd> 
+ <ceo_nm>
+  정몽혁
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110205850
+ </crp_no> 
+ <bsn_no>
+  1018116269
+ </bsn_no> 
+ <adr>
+  서울특별시 종로구 율곡로2길 25 연합미디어센터빌딩 16층
+ </adr> 
+ <hm_url>
+  www.hyundaicorp.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-390-1114
+ </phn_no> 
+ <fax_no>
+  390-1053
+ </fax_no> 
+ <ind_cd>
+  46800
+ </ind_cd> 
+ <est_dt>
+  19761208
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

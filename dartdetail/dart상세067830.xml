@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)세이브존아이앤씨
+ </crp_nm> 
+ <crp_nm_e>
+  SAVEZONE I&amp;C Corp.
+ </crp_nm_e> 
+ <crp_nm_i>
+  세이브존I&amp;C
+ </crp_nm_i> 
+ <stock_cd>
+  067830
+ </stock_cd> 
+ <ceo_nm>
+  김현동
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101112520644
+ </crp_no> 
+ <bsn_no>
+  2108141081
+ </bsn_no> 
+ <adr>
+  서울특별시 노원구 한글비석로 57 (하계동)
+ </adr> 
+ <hm_url>
+  www.savezone.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-320-9032
+ </phn_no> 
+ <fax_no>
+  031-930-9020
+ </fax_no> 
+ <ind_cd>
+  47111
+ </ind_cd> 
+ <est_dt>
+  20020508
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

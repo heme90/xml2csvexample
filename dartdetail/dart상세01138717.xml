@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)코리아코스팩
+ </crp_nm> 
+ <crp_nm_e>
+  Korea Cospack Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  코리아코스팩
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  임성준
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1201110484783
+ </crp_no> 
+ <bsn_no>
+  1318611936
+ </bsn_no> 
+ <adr>
+  인천광역시 남동구 남동서로316번길 70 (남촌동, (주)코리아코스팩)
+ </adr> 
+ <hm_url>
+  www.krcp.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-677-6364
+ </phn_no> 
+ <fax_no>
+  032-677-6365
+ </fax_no> 
+ <ind_cd>
+  20423
+ </ind_cd> 
+ <est_dt>
+  20090109
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

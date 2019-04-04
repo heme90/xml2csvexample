@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)아스트
+ </crp_nm> 
+ <crp_nm_e>
+  AeroSpace Technology of Korea, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  아스트
+ </crp_nm_i> 
+ <stock_cd>
+  067390
+ </stock_cd> 
+ <ceo_nm>
+  김희원
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1954110007168
+ </crp_no> 
+ <bsn_no>
+  6138124511
+ </bsn_no> 
+ <adr>
+  경상남도 사천시 사남면 공단1로 23-65
+ </adr> 
+ <hm_url>
+  www.astk.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-851-7000
+ </phn_no> 
+ <fax_no>
+  055-853-5139
+ </fax_no> 
+ <ind_cd>
+  31322
+ </ind_cd> 
+ <est_dt>
+  20010420
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

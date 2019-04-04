@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)셀바스헬스케어
+ </crp_nm> 
+ <crp_nm_e>
+  SELVAS Healthcare, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  셀바스헬스케어
+ </crp_nm_i> 
+ <stock_cd>
+  208370
+ </stock_cd> 
+ <ceo_nm>
+  유병탁
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115530111
+ </crp_no> 
+ <bsn_no>
+  1078831025
+ </bsn_no> 
+ <adr>
+  대전광역시 유성구 신성로 155 (신성동)
+ </adr> 
+ <hm_url>
+  www.selvashealthcare.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  042-864-4460
+ </phn_no> 
+ <fax_no>
+  02-3771-3619
+ </fax_no> 
+ <ind_cd>
+  271
+ </ind_cd> 
+ <est_dt>
+  20141002
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

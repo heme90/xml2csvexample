@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37541
+ </empSeqno>
+ <empWantedTitle>
+  2019년도 상반기 직원(경력직, 청년인턴) 채용 공고
+ </empWantedTitle>
+ <empBusiNm>
+  한국수산자원관리공단
+ </empBusiNm>
+ <coClcdNm>
+  공공기관
+ </coClcdNm>
+ <empWantedStdt>
+  20190322
+ </empWantedStdt>
+ <empWantedEndt>
+  20190404
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.fira.or.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.fira.or.kr/fira/fira_010101_2.jsp?mode=view&amp;article_no=22321&amp;board_wrapper=%2Ffira%2Ffira_010101_2.jsp&amp;pager.offset=0&amp;board_no=3
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRinN703rWrXH3lOaLLxqJgPYLn3TXXACksE%2FNmbF0pcRp7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqqDCX8dO%2BL784gmUz3QeHyB5v4a0O1PM0%2Fm3N35aW2lxl0uCNbt731uugdYAIWBLfK6FvNdRITlyEe7%2BTpu9lUT&amp;realFileNm=7ZWc6rWt7IiY7IKw7J6Q7JuQ6rSA66as6rO164uoLnppcA==
+   </regFileUrl>
+   <realFileNm>
+    한국수산자원관리공단.zip
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형 합격 및 임용
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    ※ 기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    상기 전형절차는 경력직 기준이며, 청년인턴 및 기타 일정 등 상세내용은 첨부파일을 참조바랍니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [행정/특정직 다급] 행정Ⅰ(재무회계)
+   </empRecrNm>
+   <jobCont>
+    ∘ 학력, 전공, 성별 등 제한 없음 ∘ 아래 어느 하나에 해당하는 자 - 회계사 또는 세무사 취득 후 3년 이상의 경력이 있는 자 - 주식회사 등의 외부감사에 관한 법률 제4조에 따른 대상회사 또는 세무회계법인(사무소 포함)에서 회계 업무 10년 이상의 경력이 있는 자
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    부산
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [행정/행정 5급] 행정Ⅱ (재무회계)
+   </empRecrNm>
+   <jobCont>
+    ∘ 학력, 전공, 성별 등 제한 없음 ∘ 아래 어느 하나에 해당하는 자 - 회계사 또는 세무사 취득 후 1년 이상의 경력이 있는 자 - 주식회사 등의 외부감사에 관한 법률 제4조에 따른 대상 회사 또는 세무 회계법인(사무소 포함)에서 회계 업무 5년 이상의 경력이 있는 자
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    부산
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [행정/행정 5급] 행정Ⅲ (노무)
+   </empRecrNm>
+   <jobCont>
+    ∘ 학력, 전공, 성별 등 제한 없음 ∘ 아래 어느 하나에 해당하는 자 - 노무사 취득 후 1년 이상의 경력이 있는 자 - 상시고용인원 300인 이상 사업장에서 노무업무 5년 이상의 경력이 있는 자
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    부산
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [연구기술/연구기술 5급] 해양측량
+   </empRecrNm>
+   <jobCont>
+    ∘ 학력, 전공, 성별 등 제한 없음 ∘ 아래 어느 하나에 해당하는 자 - 관련분야 박사학위 취득 후 3년 이상의 경력이 있는 자 - 관련분야 기술사(측량 및 지형정보) 자격 취득후 3년 이상의 경력이 있는 자
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    지역무관
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [행정/청년인턴] 체험형 청년인턴(일반행정)
+   </empRecrNm>
+   <jobCont>
+    ∘ 학력, 전공, 성별 등 제한 없음 ∘ 관련분야 교육이수, 경력, 경험 및 자격증 소지자 우대
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    4
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경북 울진군,부산,전남 여수시,전북 군산시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [연구기술/청년인턴] 체험형 청년인턴(연구기술)
+   </empRecrNm>
+   <jobCont>
+    ∘ 학력, 전공, 성별 등 제한 없음 ∘ 관련분야 교육이수, 경력, 경험 및 자격증 소지자 우대
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    4
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경북 포항시,부산
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    025500
+   </jobsCd>
+   <jobsCdKorNm>
+    공공행정 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [응시자격] - 공단 인사규정 제7조 결격사유에 해당되지 않는 자로 임용예정일(2019년 5월)부터 근무 가능 자(첨부파일 참조) ※ 단, 공단 정년(만60세)에 달하지 않은 자이어야 합니다. [근로조건] 1. 경력직 ㆍ채용분야 : 정규직 / 수습기간 6개월 ㆍ근무기간 : 정년(만60세) ㆍ주5일, 1일 8시간 ㆍ보수 : 특정직다급(40,223천원(하한선) ~ 78,701천원(상한선) + 수당 / ＊인사위원회에서 보수 결정), 5급(31,396천원(하한선) ~ 48,324천원(중간액) + 수당 / ＊인사위원회에서 보수 결정) 2. 청년인턴 ㆍ채용분야 : 체험형 청년인턴 / 5개월 ㆍ근무기간 : 5개월 ㆍ주5일, 1일 8시간 ㆍ보수 : 1,750천원/월(1호봉) + 수당 * 본사(부산시 기장군), 동해본부(경북 포항시). 서해본부(전북 군산시), 남해본부(전남 여수시), 제주본부(제주시 한림읍), 내수면생명자원센터 (강원도 양양군), 동해생명자원센터(경북 울진군), 서해생명자원센터(전북 부안군), 경인사업센터(경기도 부천시), 남해생명자원센터(전남 완도군) ※ 근무분야 및 근무지는 채용당시 기준이며, 공단 인사규정에 따라 근무분야 및 근무지 변경 가능 ※ 채용분야별 직무기술서를 반드시 확인 후 지원하시기 바랍니다. ※ 임용(예정)일: 2019년 5월 ※ 우대사항 및 기타 상세내용은 첨부파일 및 채용홈페이지 참조바랍니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  [입사지원 시] * 공통(경력직·청년인턴) ∘ 입사지원서 ∘ 개인정보 수집·이용·제공 동의서 ∘ 교육사항(지원 직무와 관련된 교육, 직업훈련) 증빙서류 (해당자) ∘ 경력사항(4대보험 납입증명서 발급 가능한 경우) 증빙서류 (해당자) ∘ 채용분야 직무기술서 상 가점부여 대상 자격증 사본 (해당자) ∘ 취업지원대상자 또는 장애인 증명서 (해당자) ※ 직군별 상세 제출서류 첨부파일 참조
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용페이지(http://fira2019.saramin.co.kr) 인터넷 온라인 접수(우편 또는 방문접수 불가)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 기타 문의사항은 채용페이지 내 공지사항 및 FAQ, 질문하기 게시판을 이용하시기 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  ㅇ 입사지원서 상 자기소개서 작성 내용 중 성별, 종교, 연령, 부모의 직업, 본인 및 부모의 출생연도, 신체조건, 출신지역, 학력·출신학교, 혼인·임신·가족관계 등 직무능력과 직접적인 관련이 없는 내용을 기술하지 말아야 합니다. 단, 본인의 경력사항은 기술 가능합니다(직무경험, 타 회사 경력, 대회 수상경력 등). ㅇ 논문, 특허, 저서, 연구실적 등의 증빙서류 제출시 지원자 본인의 성명 이외의 학교, 지도교수, 공동저자 등의 개인정보는 블라인드 처리하시어 제출하시기 바랍니다. ㅇ 경력기산 및 초임호봉산정 기준일은 해당 채용의 최초 임용일을 기준으로 합니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

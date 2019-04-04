@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36922
+ </empSeqno>
+ <empWantedTitle>
+  [경영] 채용담당자
+ </empWantedTitle>
+ <empBusiNm>
+  크래프톤
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190304
+ </empWantedStdt>
+ <empWantedEndt>
+  20190504
+ </empWantedEndt>
+ <empWantedHomepg>
+  https://www.krafton.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://krafton.jobagent.co.kr:4431/jobinfo/jobinfo_view.asp?ID=1745
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=tqyczLUvysXSEcOVhPgDCmxZIgjVPaF7ZzuSXZtUGHLykeLuqDmTeRkwibATKd1ggq%2FTaPBEZO7snM72eFWmHLUc%2FjrVV6i%2Byj35yQdr2iY%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류 심사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무팀인터뷰
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종인터뷰
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    채용담당자
+   </empRecrNm>
+   <jobCont>
+    - 전반적인 채용업무를 담당합니다. (수시채용 및 공개채용) - 수시채용: 채용공고 등록, 인터뷰 지원/응대, 입사자 관리 및 서치펌 관리 등 - 공개채용: 채용박람회, 기업설명회, 동아리 네트워크 등 전체적인 공개채용 운영/관리 등 - 공통업무: 인사 및 채용 DB 관리 - 현재, 팀 내 채용파트가 존재하며, 위 업무들은 채용파트 팀원들과 일부 분담하며 일하게 됩니다.
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 게임업계 및 IT업계 유경험자 - 채용업무 유경험자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    026201
+   </jobsCd>
+   <jobsCdKorNm>
+    인사 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [모집구분] - 주니어
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 입사지원서(온라인작성)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ※ ~ 상시채용 - 채용홈페이지를 통한 온라인 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 '채용Q&amp;A , FAQ' 등 참조
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

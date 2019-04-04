@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)메디파트너생명공학
+ </crp_nm> 
+ <crp_nm_e>
+  Medipartner Biotechnology. Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  메디파트너생명공학
+ </crp_nm_i> 
+ <stock_cd>
+  015540
+ </stock_cd> 
+ <ceo_nm>
+  문정호, 김종민
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110302565
+ </crp_no> 
+ <bsn_no>
+  1188103215
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 봉은사로 218 5층(역삼동 메디파트너빌딩)
+ </adr> 
+ <hm_url>
+  www.medi-plant.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3404-3222
+ </phn_no> 
+ <fax_no>
+  02-733-5190
+ </fax_no> 
+ <ind_cd>
+  759
+ </ind_cd> 
+ <est_dt>
+  19810902
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

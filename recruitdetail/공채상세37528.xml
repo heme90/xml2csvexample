@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37528
+ </empSeqno>
+ <empWantedTitle>
+  컴포넌트솔루션 사업부 박사/경력 채용공고
+ </empWantedTitle>
+ <empBusiNm>
+  삼성전기
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190320
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.samsungsem.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://apply.samsung.co.kr/rec/apply/ComResumeServlet?cmd=pstMain
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvPAkUClTXHOTics9W1vzwde%2FtcehcEui1O0dG2PMrxmk
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqobeGRsnJOS2YGLl2OoG3KRSFshEVjFssSgXUArEsXCjRCkkJ5SehtgZY84oOBDCjZGpsKSPvA7jFZ2NfrwIWE%2F&amp;realFileNm=KOyCvOyEseyghOq4sCnsnoXsgqzsp4Dsm5DshJzslpHsi51fMjAxOC54bHN4
+   </regFileUrl>
+   <realFileNm>
+    (삼성전기)입사지원서양식_2018.xlsx
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    지원서 접수
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용건강검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont>
+    발표시기 : 5월초 예정
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    전형단계별 결과는 삼성채용 홈페이지에 로그인하여 확인하실 수 있습니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    재료개발
+   </empRecrNm>
+   <jobCont>
+    - 유전체(세라믹)재료, 반도성(세라믹)재료, 금속재료, 고분자재료, 유무기 복합재료,도전성 Paste, 재료 분석/시뮬레이션
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 수원시,부산
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    공정개발
+   </empRecrNm>
+   <jobCont>
+    - 박막형성(박층/스퍼터), 회로형성(노광/에칭), 표면처리/도금, 열처리(소성), 레이저가공, 코팅, 슬러리 분산, 적층, 플라즈마 공정
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 수원시,부산
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    설비개발
+   </empRecrNm>
+   <jobCont>
+    * 설비개발 및 제어 - 화학설비, 다층박막설비, 정밀가공설비, 열처리 설비, 검사계측설비, Packiging 설비모션제어 알고리즘 설계 적층기, 절단기 화상제어 기술, 머신러닝, 영상처리
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 수원시,부산
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ※ 최종합격시 직급 및 처우는 개인별 경력사항을 고려하여본인 협의 후 결정됩니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 졸업증명서(원본) 1부 - 성적증명서(원본) 1부 - 경력증명서(원본) 1부 - 기타 자격증 및 확인서(해당자限) ※ 채용서류 반환관련 안내 회사는 채용 전형 과정에서 지원자의 불편을 최소화 하기 위해 입사지원서를 비롯하여 채용과 관련된 모든 서류는 채용홈페이지를 통해 접수 받고 있습니다. 채용 과정에서 일부 서류를 직접 제출 받은 경우, 아래와 같이 해당 서류를 반환해 드리고 있사오니 참고해 주시기 바랍니다.
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ※ 채용 분야별 조기 마감될 수 있습니다. - 삼성채용 홈페이지(http://www.samsungcareers.com) 로그인 - 지원회사 및 지원공고 선택 후 지원서 작성 ※ 계정이 없으신 분들은 먼저 회원가입�
+ </empRcptMthdCont>
+</dhsOpenEmpInfoDetailRoot>

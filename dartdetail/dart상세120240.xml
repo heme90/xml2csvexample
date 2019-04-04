@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  대정화금(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Daejung Chemicals &amp; Metals Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  대정화금
+ </crp_nm_i> 
+ <stock_cd>
+  120240
+ </stock_cd> 
+ <ceo_nm>
+  송영준
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110510415
+ </crp_no> 
+ <bsn_no>
+  1018118476
+ </bsn_no> 
+ <adr>
+  경기도 시흥시 서해안로 186 대정화금(주) 정?동, 시화공단 1다 107
+ </adr> 
+ <hm_url>
+  www.daejung.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-488-8822
+ </phn_no> 
+ <fax_no>
+  031-433-6117
+ </fax_no> 
+ <ind_cd>
+  201
+ </ind_cd> 
+ <est_dt>
+  19861113
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

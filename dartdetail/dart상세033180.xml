@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)필룩스
+ </crp_nm> 
+ <crp_nm_e>
+  FEELUX CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  필룩스
+ </crp_nm_i> 
+ <stock_cd>
+  033180
+ </stock_cd> 
+ <ceo_nm>
+  안원환
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1115110004162
+ </crp_no> 
+ <bsn_no>
+  1278107398
+ </bsn_no> 
+ <adr>
+  경기도 양주시 광적면 광적로 235-48
+ </adr> 
+ <hm_url>
+  www.feelux.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-7780-8000
+ </phn_no> 
+ <fax_no>
+  070-7780-8109
+ </fax_no> 
+ <ind_cd>
+  2629
+ </ind_cd> 
+ <est_dt>
+  19840207
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

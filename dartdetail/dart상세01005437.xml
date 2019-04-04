@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 유앤에스에셋
+ </crp_nm> 
+ <crp_nm_e>
+  U&amp;S Asset Co., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  유앤에스에셋
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  전성우
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  2013110054732
+ </crp_no> 
+ <bsn_no>
+  4168194212
+ </bsn_no> 
+ <adr>
+  전라남도 순천시 서면 산단3길 25
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-722-8043
+ </phn_no> 
+ <fax_no>
+  032-722-8001
+ </fax_no> 
+ <ind_cd>
+  68119
+ </ind_cd> 
+ <est_dt>
+  20131226
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)팬젠
+ </crp_nm> 
+ <crp_nm_e>
+  Pangen Biotech Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  팬젠
+ </crp_nm_i> 
+ <stock_cd>
+  222110
+ </stock_cd> 
+ <ceo_nm>
+  김영부, 윤재승
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1311110248194
+ </crp_no> 
+ <bsn_no>
+  1298642227
+ </bsn_no> 
+ <adr>
+  경기도 수원시 영통구 신원로 306, 2동 4층(원천동 영통이노플렉스)
+ </adr> 
+ <hm_url>
+  www.pangen.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-733-9165
+ </phn_no> 
+ <fax_no>
+  031-733-9167
+ </fax_no> 
+ <ind_cd>
+  212
+ </ind_cd> 
+ <est_dt>
+  20100129
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 하나은행
+ </crp_nm> 
+ <crp_nm_e>
+  KEB Hana Bank
+ </crp_nm_e> 
+ <crp_nm_i>
+  하나은행
+ </crp_nm_i> 
+ <stock_cd>
+  004940
+ </stock_cd> 
+ <ceo_nm>
+  지성규
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110672538
+ </crp_no> 
+ <bsn_no>
+  2028114695
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 을지로 35 (을지로1가, 하나은행)
+ </adr> 
+ <hm_url>
+  www.kebhana.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-1599-1111
+ </phn_no> 
+ <fax_no>
+  02-774-4543
+ </fax_no> 
+ <ind_cd>
+  64121
+ </ind_cd> 
+ <est_dt>
+  19670130
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

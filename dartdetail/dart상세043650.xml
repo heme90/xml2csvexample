@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)국순당
+ </crp_nm> 
+ <crp_nm_e>
+  KOOK SOON DANG CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  국순당
+ </crp_nm_i> 
+ <stock_cd>
+  043650
+ </stock_cd> 
+ <ceo_nm>
+  배중호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  2013110001155
+ </crp_no> 
+ <bsn_no>
+  1248114925
+ </bsn_no> 
+ <adr>
+  강원도 횡성군 둔내면 강변로 975
+ </adr> 
+ <hm_url>
+  www.ksdb.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02 -5138-500
+ </phn_no> 
+ <fax_no>
+  02 -402 -5210
+ </fax_no> 
+ <ind_cd>
+  11111
+ </ind_cd> 
+ <est_dt>
+  19830205
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

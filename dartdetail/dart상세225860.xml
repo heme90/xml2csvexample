@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)엠앤씨생명과학
+ </crp_nm> 
+ <crp_nm_e>
+  M&amp;C Life Science Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  엠앤씨생명과학
+ </crp_nm_i> 
+ <stock_cd>
+  225860
+ </stock_cd> 
+ <ceo_nm>
+  조선도
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1311110300960
+ </crp_no> 
+ <bsn_no>
+  1298670403
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 갈마치로 215 A동 807호(상대원동, 금강펜테리움아이티타워)
+ </adr> 
+ <hm_url>
+  www.mncls.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-731-1401
+ </phn_no> 
+ <fax_no>
+  031-747-1404
+ </fax_no> 
+ <ind_cd>
+  20423
+ </ind_cd> 
+ <est_dt>
+  20120103
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주) 유진로봇
+ </crp_nm> 
+ <crp_nm_e>
+  Yujin Robot Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  유진로봇
+ </crp_nm_i> 
+ <stock_cd>
+  056080
+ </stock_cd> 
+ <ceo_nm>
+  신 경 철
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110991467
+ </crp_no> 
+ <bsn_no>
+  2118642832
+ </bsn_no> 
+ <adr>
+  인천광역시 연수구 하모니로187번길 33 송도동
+ </adr> 
+ <hm_url>
+  www.yujinrobot.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-550-2304
+ </phn_no> 
+ <fax_no>
+  02-2026-1440
+ </fax_no> 
+ <ind_cd>
+  292
+ </ind_cd> 
+ <est_dt>
+  19931207
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

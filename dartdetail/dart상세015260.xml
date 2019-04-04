@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에이엔피
+ </crp_nm> 
+ <crp_nm_e>
+  AUTOMOBILE &amp; PCB
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이엔피
+ </crp_nm_i> 
+ <stock_cd>
+  015260
+ </stock_cd> 
+ <ceo_nm>
+  전운관
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1243110006456
+ </crp_no> 
+ <bsn_no>
+  1308106245
+ </bsn_no> 
+ <adr>
+  경기도 부천시 원미구 도약로 300 (주)에이엔피
+ </adr> 
+ <hm_url>
+  anpcb.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-676-9700
+ </phn_no> 
+ <fax_no>
+  032-675-1044
+ </fax_no> 
+ <ind_cd>
+  2622
+ </ind_cd> 
+ <est_dt>
+  19810121
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

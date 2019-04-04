@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)케이에스피
+ </crp_nm> 
+ <crp_nm_e>
+  KSPCO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이에스피
+ </crp_nm_i> 
+ <stock_cd>
+  073010
+ </stock_cd> 
+ <ceo_nm>
+  이범호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1801110328550
+ </crp_no> 
+ <bsn_no>
+  6068127539
+ </bsn_no> 
+ <adr>
+  부산광역시 강서구 녹산산단381로86번길 43
+ </adr> 
+ <hm_url>
+  www.kspvalve.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (051)831-6270
+ </phn_no> 
+ <fax_no>
+  051-831-6290
+ </fax_no> 
+ <ind_cd>
+  29111
+ </ind_cd> 
+ <est_dt>
+  20000628
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

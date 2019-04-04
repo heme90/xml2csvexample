@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼원테크(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SAM WON TECH Co., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼원테크
+ </crp_nm_i> 
+ <stock_cd>
+  073640
+ </stock_cd> 
+ <ceo_nm>
+  이종석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1901110021119
+ </crp_no> 
+ <bsn_no>
+  6098124002
+ </bsn_no> 
+ <adr>
+  경남 창원시 성주동 30-5번지
+ </adr> 
+ <hm_url>
+  www.samwon-tech.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-213-7000
+ </phn_no> 
+ <fax_no>
+  055-213-7003
+ </fax_no> 
+ <ind_cd>
+  25929
+ </ind_cd> 
+ <est_dt>
+  19931019
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)카이노스메드
+ </crp_nm> 
+ <crp_nm_e>
+  KAINOS MEDICINE, INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  카이노스메드
+ </crp_nm_i> 
+ <stock_cd>
+  220250
+ </stock_cd> 
+ <ceo_nm>
+  이기섭, 유성은(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101113698656
+ </crp_no> 
+ <bsn_no>
+  2208750731
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 대왕판교로712번길 16한국파스퇴르연구소 4층
+ </adr> 
+ <hm_url>
+  www.kainosmedicine.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-567-7419
+ </phn_no> 
+ <fax_no>
+  02-552-1470
+ </fax_no> 
+ <ind_cd>
+  70113
+ </ind_cd> 
+ <est_dt>
+  20070615
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

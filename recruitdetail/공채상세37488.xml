@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37488
+ </empSeqno>
+ <empWantedTitle>
+  자금팀 대졸신입 채용
+ </empWantedTitle>
+ <empBusiNm>
+  신원
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190319
+ </empWantedStdt>
+ <empWantedEndt>
+  20190402
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.sw.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://sw.co.kr/recruit/apply_view.php?insNo=2225
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRipNtst2WDjCgui2zFC3H6aXYeTs%2FwHiHCfVTVeWvH9y27suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직전환형|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류 합격자에 한해 개별 통보
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무진 면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원진 면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    자금팀
+   </empRecrNm>
+   <jobCont>
+    1. 공통사항 ▶ 학력 대졸 이상 ▶ 해외여행에 결격사유가 없는 자 ▶ 남자는 병역필 또는 면제자 ▶ 관계법령에 의해 보훈대상자/장애인 우대 2. 세부사항 ▶ 4년제 대학 졸업 ▶ 경상계열 전공자 ▶ 회계, 재무 관련 전공자 우대
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 마포구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    027100
+   </jobsCd>
+   <jobsCdKorNm>
+    회계 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ※ 신원의 모든 신입사원은 3~4개월 여의 인턴십을 통해 선발하며 인턴기간에는 월 약 180만원의 교육비가 지급됩니다. ※ 신입사원은 정직전환 조건부 인턴이며, 인턴 종료 시 최종평가로 정직전환 여부를 결정합니다.(정직전환율 90%이상) [복리후생] ▶ 주 5일 근무 ▶ 여가생활 지원(동호회 활동 / 콘도 회원 혜택) ▶ 주택자금 대출, 재해, 재난 위로금 ▶ 중식, 석식 제공(사내식당 운영) ▶ 자기개발 1) 외국어 교육 지원 2) 사외집체/위탁교육 지원 ▶ 가족 친화 1) 경조금, 현물 지급/자녀학자금/명절선물 ▶ 건강검진/입원비 보조
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - sw.co.kr 홈페이지 지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 인사담당자 : 02-3274-5222
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

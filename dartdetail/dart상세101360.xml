@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)이엔드디
+ </crp_nm> 
+ <crp_nm_e>
+  E&amp;D Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  이엔드디
+ </crp_nm_i> 
+ <stock_cd>
+  101360
+ </stock_cd> 
+ <ceo_nm>
+  김민용
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101113085598
+ </crp_no> 
+ <bsn_no>
+  1178151806
+ </bsn_no> 
+ <adr>
+  충청북도 청주시 흥덕구 직지대로409번길 37 (송정동)
+ </adr> 
+ <hm_url>
+  www.endss.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043-268-8588
+ </phn_no> 
+ <fax_no>
+  043-268-8488
+ </fax_no> 
+ <ind_cd>
+  204
+ </ind_cd> 
+ <est_dt>
+  20040916
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

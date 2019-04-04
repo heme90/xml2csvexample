@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)하이텍팜
+ </crp_nm> 
+ <crp_nm_e>
+  HIGH TECH PHARM CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  하이텍팜
+ </crp_nm_i> 
+ <stock_cd>
+  106190
+ </stock_cd> 
+ <ceo_nm>
+  김정수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1545110012907
+ </crp_no> 
+ <bsn_no>
+  3038120127
+ </bsn_no> 
+ <adr>
+  충청북도 충주시 대소원면 첨단산업6로 12 (주)하이텍팜
+ </adr> 
+ <hm_url>
+  www.htpharm.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043-883-0012
+ </phn_no> 
+ <fax_no>
+  043-883-0014
+ </fax_no> 
+ <ind_cd>
+  467
+ </ind_cd> 
+ <est_dt>
+  19980901
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

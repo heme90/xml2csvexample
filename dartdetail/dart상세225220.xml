@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)제놀루션
+ </crp_nm> 
+ <crp_nm_e>
+  GENOLUTION INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  제놀루션
+ </crp_nm_i> 
+ <stock_cd>
+  225220
+ </stock_cd> 
+ <ceo_nm>
+  김기옥
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101113403972
+ </crp_no> 
+ <bsn_no>
+  2158682253
+ </bsn_no> 
+ <adr>
+  서울특별시 송파구 법원로11길 11A동 506호(문정동, 문정현대지식산업센터)
+ </adr> 
+ <hm_url>
+  www.genolution1.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  0230108670
+ </phn_no> 
+ <fax_no>
+  02-3010-8671
+ </fax_no> 
+ <ind_cd>
+  212
+ </ind_cd> 
+ <est_dt>
+  20060220
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

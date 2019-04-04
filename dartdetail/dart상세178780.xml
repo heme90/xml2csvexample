@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)유테크
+ </crp_nm> 
+ <crp_nm_e>
+  U-Tech Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  유테크
+ </crp_nm_i> 
+ <stock_cd>
+  178780
+ </stock_cd> 
+ <ceo_nm>
+  이주석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1351110081475
+ </crp_no> 
+ <bsn_no>
+  1238606766
+ </bsn_no> 
+ <adr>
+  경기도 안양시 만안구 전파로 48
+ </adr> 
+ <hm_url>
+  www.u-tech.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-444-0202
+ </phn_no> 
+ <fax_no>
+  031-477-0373
+ </fax_no> 
+ <ind_cd>
+  2621
+ </ind_cd> 
+ <est_dt>
+  20060801
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37485
+ </empSeqno>
+ <empWantedTitle>
+  시네마틱 원화/굿즈 담당자 모집
+ </empWantedTitle>
+ <empBusiNm>
+  네오위즈
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190319
+ </empWantedStdt>
+ <empWantedEndt>
+  20190413
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.neowiz.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.neowiz.com/jobOpening/list.nwz
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRipgm1UOl%2Bzl3c9gXxecnwGZZ%2BgJSE%2B37Cf1%2FW87RMsDf7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    1차 : 서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    경우에 따라서 사전 과제 제출 요청이 있을 수 있음
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 : 면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    실무진 및 임원진 면접 등 총 2회 / 면접일정 안내는 서류 합격자에 한해 개별 통보합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    시네마틱 원화/굿즈 담당자
+   </empRecrNm>
+   <jobCont>
+    1) 브라운 더스트 원화 애니메이션 작업 2) 굿즈 제작에 따른 업체와커뮤니케이션 및 결과물 감리
+   </jobCont>
+   <empWantedCareerNm>
+    경력무관
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    1. 브라운더스트 원화 캐릭터류의 일러스트 스타일 성향을 가지신 분 2. 다양한 원화 스타일을 그리시는 분 3. 애니메이션 영상 콘티 작업 가능자 4. 굿즈 제작에 따른 업체와 커뮤니케이션 및 결과물 감리 유경험자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    05
+   </jobsCd>
+   <jobsCdKorNm>
+    예술·디자인·방송·스포츠
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지를 통한 온라인 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 '공지 및 문의' 참조
+ </inqryCont>
+ <empnEtcCont>
+  - 제출한 서류는 반환하지 않습니다. ※ 단, 모집기간과 무관하게 적합한 인력이 있을 시 면접 진행할 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

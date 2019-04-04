@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)로고스바이오시스템스
+ </crp_nm> 
+ <crp_nm_e>
+  Logos Biosystems, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  로고스바이오
+ </crp_nm_i> 
+ <stock_cd>
+  238120
+ </stock_cd> 
+ <ceo_nm>
+  정연철
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341110170980
+ </crp_no> 
+ <bsn_no>
+  1388149267
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 시민대로327번길 28 (관양동) 2층,3층
+ </adr> 
+ <hm_url>
+  www.logosbio.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-478-4185
+ </phn_no> 
+ <fax_no>
+  031-478-4184
+ </fax_no> 
+ <ind_cd>
+  273
+ </ind_cd> 
+ <est_dt>
+  20081002
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37631
+ </empSeqno>
+ <empWantedTitle>
+  2019년 상반기 신입사원 공채 모집요강
+ </empWantedTitle>
+ <empBusiNm>
+  아시아나아이디티
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190321
+ </empWantedStdt>
+ <empWantedEndt>
+  20190405
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.asianaidt.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.kumhoasiana.com:4431/jobinfo/jobinfo_view.asp?ID=1032
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRil5igCEcov4jr5wZ2dwI8yLl42dt%2B4BK%2ByYoUdo%2Fjdj%2FVCYZge%2B3Ai%2BWL36%2FdbFmVg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    합격자 발표 : &amp;apos;19. 04. 24 (수) 오후 2시 (홈페이지 및 E-mail 공지)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    직무적성검사 및 한자시험
+   </selsNm>
+   <selsSchdCont>
+    19. 04. 28 (일)
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차면접(역량면접, 집단토의)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    면접일정 추후 공지
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차면접(인성면접)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    면접일정 추후 공지
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    건강검진 후 최종합격
+   </selsNm>
+   <selsSchdCont>
+    최종합격자 발표 : 19. 06월
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사예정일
+   </selsNm>
+   <selsSchdCont>
+    19. 07월
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    시스템 개발 및 운영
+   </empRecrNm>
+   <jobCont>
+    - 정보통신 관련 학과
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    법무
+   </empRecrNm>
+   <jobCont>
+    - 법학
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    133100
+   </jobsCd>
+   <jobsCdKorNm>
+    시스템 소프트웨어 개발자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    222003
+   </jobsCd>
+   <jobsCdKorNm>
+    법무 사무원(일반 기업체)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [지원자격] - 2019년 8월 졸업예정자 또는 기졸업자 - 병역필 또는 면제자, 해외여행에 결격사유가 없는 자
+ </recrCommCont>
+ <empSubmitDocCont>
+  * 2차면접 시 제출 - 최종학교 졸업(예정)증명서 및 전 학년 성적증명서 1통 - 석사 이상 학위소지자는 학사 졸업증명서 및 성적증명서 포함 - 편입자는 편입전 학교 졸업/수료증명서 및 성적증명서 포함 - 국가보훈대상자 증빙 (해당자에 한함) 1통 - 자격 및 면허증 사본 (소지자에 한함) 1통 - 외국어시험 성적 사본 (소지자에 한함, 2017년 4월 1일 이후 취득한 성적에 한함) 1통
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지(http://www.kumhoasiana.com) 에서 온라인 접수만 가능
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont></inqryCont>
+ <empnEtcCont>
+  - 국가보훈대상자는 관계법에 의거 우대합니다. - 필요자격 및 학위보유자는 우대합니다. - 지원사항 및 제출서류에 허위사실이 있는 경우 채용이 취소될 수 있습니다. - 지원자 본인이 직접 제출한 서류는 반환이 가능하며, 자세한 사항은 홈페이지 內 '공지사항'을 참조하시기 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

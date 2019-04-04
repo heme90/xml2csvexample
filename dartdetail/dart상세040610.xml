@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에스지엔지
+ </crp_nm> 
+ <crp_nm_e>
+  SG&amp;G Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  SG&amp;G
+ </crp_nm_i> 
+ <stock_cd>
+  040610
+ </stock_cd> 
+ <ceo_nm>
+  이 의 범
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110984199
+ </crp_no> 
+ <bsn_no>
+  2208140774
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 대왕판교로606번길 47 SG타워 7층
+ </adr> 
+ <hm_url>
+  www.sgng.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2105-6315
+ </phn_no> 
+ <fax_no>
+  02-838-0572
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19931108
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

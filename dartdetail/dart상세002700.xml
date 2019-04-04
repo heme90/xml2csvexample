@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  신일산업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SHINIL INDUSTRIAL CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  신일산업
+ </crp_nm_i> 
+ <stock_cd>
+  002700
+ </stock_cd> 
+ <ceo_nm>
+  정윤석
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1348110001256
+ </crp_no> 
+ <bsn_no>
+  1348125389
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 서북구 입장면 연곡길 308 -
+ </adr> 
+ <hm_url>
+  www.shinil.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6309-7800
+ </phn_no> 
+ <fax_no>
+  02-6309-7819
+ </fax_no> 
+ <ind_cd>
+  46521
+ </ind_cd> 
+ <est_dt>
+  19590714
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

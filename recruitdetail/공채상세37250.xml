@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37250
+ </empSeqno>
+ <empWantedTitle>
+  스마트개발2팀 경력직 수시채용 (웹어플리케이션 개발, APP개발)
+ </empWantedTitle>
+ <empBusiNm>
+  교원
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190311
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.kyowon.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://kyowon.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=7593
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvByTZKDWTqYsjBQHoDR9%2FBrTO9DFwUzRmXrJh7fN4uFb
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    지원서지원
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류 전형 결과 발표: 4월 8일(월) 19:00 예정 (채용 사이트 내 조회 및 전형 별 합격자에 대한 개별 통보)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인적성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형(1/2/3차)(실무/인성/CEO)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용심체검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    웹어플리케이션 개발
+   </empRecrNm>
+   <jobCont>
+    •​학습관리 시스템(LMS)개발 및 운영 •Front-End, Backend 개발 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    •전공: 무관 •LMS 개발 및 유지보수 경험자 •업무에 대한 이해가 빠른 분 •타인과의 공동작업 및 대인관계가 원만하신 분
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 중구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    APP개발
+   </empRecrNm>
+   <jobCont>
+    •​Android 네이티브 앱 개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    •외부 솔루션 업체와 협업 경험자 •RxAndroid, Kotlin, Dagger 경험자 •IOS 개발 경험자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 중구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    133207
+   </jobsCd>
+   <jobsCdKorNm>
+    모바일 애플리케이션 프로그래머(앱·어플 개발)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [자격요건] •해외여행에 결격 사유가 없는 자, 병역필 또는 면제자 •대졸 이상 학력 보유자 [모집상세] - 모집인원 : 0명 - 경력 : 4년이상 대리급
+ </recrCommCont>
+ <empSubmitDocCont>
+  [제출 서류(면접 시)] •최종학력 및 성적 증명서 •공인 어학 성적표 및 각종 자격증 사본 •경력증명서
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 2019-03-11(월) 00:00~2019-04-07(일) 00:00 - 채용 홈페이지 접속 후 온라인 입사지원서 작성(kyowon.recruiter.co.kr)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 문의처: 02-397-0256 - 기타 문의 사항은 채용 홈페이지 내 '채용 Q&amp;A' 로 문의해 주시길 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  - 진행 중인 공고와 중복지원은 불가합니다. - 마감일은 지원자의 급증으로 인해 접수가 원활하지 못할 수도 있으니, 여유롭게 접수하시기 바랍니다. - 국가보훈대상자는 관계 법령에 의거하여 우대합니다. - 입사지원서 상 허위 사실이 적발될 경우 입사가 취소될 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

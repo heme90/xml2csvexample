@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼정펄프(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SAM JUNG PULP CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼정펄프
+ </crp_nm_i> 
+ <stock_cd>
+  009770
+ </stock_cd> 
+ <ceo_nm>
+  전성오
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1347110000333
+ </crp_no> 
+ <bsn_no>
+  1258100201
+ </bsn_no> 
+ <adr>
+  경기도 평택시 고덕면 해창리 250
+ </adr> 
+ <hm_url>
+  www.sjpulp.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-743-7071
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  171
+ </ind_cd> 
+ <est_dt>
+  19740409
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

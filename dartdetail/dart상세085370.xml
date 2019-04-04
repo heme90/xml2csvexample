@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)루트로닉
+ </crp_nm> 
+ <crp_nm_e>
+  Lutronic Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  루트로닉
+ </crp_nm_i> 
+ <stock_cd>
+  085370
+ </stock_cd> 
+ <ceo_nm>
+  황해령
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111437379
+ </crp_no> 
+ <bsn_no>
+  2298128272
+ </bsn_no> 
+ <adr>
+  경기도 고양시 덕양구 소원로 219
+ </adr> 
+ <hm_url>
+  www.lutronic.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-926-7114
+ </phn_no> 
+ <fax_no>
+  031-907-3440
+ </fax_no> 
+ <ind_cd>
+  27199
+ </ind_cd> 
+ <est_dt>
+  19970708
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

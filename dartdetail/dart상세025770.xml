@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한국정보통신(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KoreaInformation&amp;Communication
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국정보통신
+ </crp_nm_i> 
+ <stock_cd>
+  025770
+ </stock_cd> 
+ <ceo_nm>
+  권순배, 임명수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110426688
+ </crp_no> 
+ <bsn_no>
+  1168119948
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 세종대로 39 대한서울상공회의소 7층
+ </adr> 
+ <hm_url>
+  www.kicc.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-368-0700
+ </phn_no> 
+ <fax_no>
+  02-718-7467
+ </fax_no> 
+ <ind_cd>
+  61299
+ </ind_cd> 
+ <est_dt>
+  19860509
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

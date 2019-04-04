@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  신원종합개발(주)
+ </crp_nm> 
+ <crp_nm_e>
+  ShinwonConstruction
+ </crp_nm_e> 
+ <crp_nm_i>
+  신원종합개발
+ </crp_nm_i> 
+ <stock_cd>
+  017000
+ </stock_cd> 
+ <ceo_nm>
+  우진호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110350712
+ </crp_no> 
+ <bsn_no>
+  1058117479
+ </bsn_no> 
+ <adr>
+  경기도 화성시 봉담읍 와우안길 109 103-213
+ </adr> 
+ <hm_url>
+  www.swc.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6908-7000
+ </phn_no> 
+ <fax_no>
+  02 -3465-4288
+ </fax_no> 
+ <ind_cd>
+  41112
+ </ind_cd> 
+ <est_dt>
+  19830530
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

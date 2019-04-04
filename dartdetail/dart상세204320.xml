@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)만도
+ </crp_nm> 
+ <crp_nm_e>
+  Mando Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  만도
+ </crp_nm_i> 
+ <stock_cd>
+  204320
+ </stock_cd> 
+ <ceo_nm>
+  정몽원, 송범석 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1313110140776
+ </crp_no> 
+ <bsn_no>
+  1258625094
+ </bsn_no> 
+ <adr>
+  경기도 평택시 포승읍 하만호길 32
+ </adr> 
+ <hm_url>
+  www.mando.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-680-6114
+ </phn_no> 
+ <fax_no>
+  02-6244-2998
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  20140902
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

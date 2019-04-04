@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37558
+ </empSeqno>
+ <empWantedTitle>
+  2019년 상반기 신입사원 공채 모집요강
+ </empWantedTitle>
+ <empBusiNm>
+  아시아나항공
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190321
+ </empWantedStdt>
+ <empWantedEndt>
+  20190405
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.flyasiana.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.kumhoasiana.com:4431/jobinfo/jobinfo_view.asp?ID=1032
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvEZqydVuifEy%2BMYjU5vZqmqn2tH6a7Lrl%2FOC39xLtCIt
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •귀하가 금호아시아나그룹(지망회사)을 지원하게 된 동기에 대해 서술해 주십시오 * [100자 이상 500자 이내]
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •입사 후 10년 내 회사에서 이루고 싶은 목표는 무엇이며, 그것을 추구하는 이유와 이를 달성하기 위한 계획을 서술해 주십시오 * [100자 이상 500자 이내]
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •귀하가 지원한 직무는 무엇이며, 해당 직무에 관심을 갖게 된 계기와 이를 잘 수행할 수 있다고 생각하는 이유를 본인의 역량, 준비과정 및 관련 경험을 근거로 서술해 주십시오 * [100자 이상 500자 이내]
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •도전적인 목표를 정하고 열정적으로 일을 추진했던 경험과 관련 추진과정에서 겪은 어려움, 이를 극복한 방법, 그리고 그 일의 결과를 중심으로 서술해 주십시오 * [100자 이상 500자 이내]
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •자신의 윤리∙도덕적 신념을 지키기 위해 손해나 희생을 감수하고 일을 수행한 경험이 있다면 서술해 주십시오. * [100자 이상 500자 이내]
+   </selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    합격자 발표 : &amp;apos;19. 04. 24 (수) 오후 2시 (홈페이지 및 E-mail 공지)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    직무적성검사 및 한자시험
+   </selsNm>
+   <selsSchdCont>
+    19. 04. 28 (일)
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차면접(역량면접, 집단토의)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    면접일정 추후 공지
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차면접(인성면접)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    면접일정 추후 공지
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    건강검진 후 최종합격
+   </selsNm>
+   <selsSchdCont>
+    최종합격자 발표 : 19. 06월
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사예정일
+   </selsNm>
+   <selsSchdCont>
+    19. 07월
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    일반직/영업서비스/공항서비스
+   </empRecrNm>
+   <jobCont>
+    - 전공무관
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    항공기술직
+   </empRecrNm>
+   <jobCont>
+    - 항공/기계/전기/전자
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    운항관리직
+   </empRecrNm>
+   <jobCont>
+    - 항공교통/운항/우주/기상/천문/대기
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    07
+   </jobsCd>
+   <jobsCdKorNm>
+    영업·판매·운전·운송
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    621400
+   </jobsCd>
+   <jobsCdKorNm>
+    관제사(항공,선박,철도 등)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    812100
+   </jobsCd>
+   <jobsCdKorNm>
+    항공기 정비원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [지원자격] - 2019년 8월 졸업예정자 또는 기졸업자 - 병역필 또는 면제자, 해외여행에 결격사유가 없는 자
+ </recrCommCont>
+ <empSubmitDocCont>
+  * 2차면접 시 제출 - 최종학교 졸업(예정)증명서 및 전 학년 성적증명서 1통 - 석사 이상 학위소지자는 학사 졸업증명서 및 성적증명서 포함 - 편입자는 편입전 학교 졸업/수료증명서 및 성적증명서 포함 - 국가보훈대상자 증빙 (해당자에 한함) 1통 - 자격 및 면허증 사본 (소지자에 한함) 1통 - 외국어시험 성적 사본 (소지자에 한함, 2017년 4월 1일 이후 취득한 성적에 한함) 1통
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지(http://www.kumhoasiana.com) 에서 온라인 접수만 가능
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont></inqryCont>
+ <empnEtcCont>
+  - 국가보훈대상자는 관계법에 의거 우대합니다. - 필요자격 및 학위보유자는 우대합니다. - 지원사항 및 제출서류에 허위사실이 있는 경우 채용이 취소될 수 있습니다. - 지원자 본인이 직접 제출한 서류는 반환이 가능하며, 자세한 사항은 홈페이지 內 '공지사항'을 참조하시기 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

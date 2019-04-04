@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  우림기계(주)
+ </crp_nm> 
+ <crp_nm_e>
+  WOORIM MACHINERY Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  우림기계
+ </crp_nm_i> 
+ <stock_cd>
+  101170
+ </stock_cd> 
+ <ceo_nm>
+  한규석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1942110039934
+ </crp_no> 
+ <bsn_no>
+  6098140851
+ </bsn_no> 
+ <adr>
+  경상남도 창원시 성산구 남면로 613 우림기계
+ </adr> 
+ <hm_url>
+  www.woorimgear.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-260-0300
+ </phn_no> 
+ <fax_no>
+  055-286-1559
+ </fax_no> 
+ <ind_cd>
+  29142
+ </ind_cd> 
+ <est_dt>
+  20000301
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

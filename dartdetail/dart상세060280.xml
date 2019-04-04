@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  큐렉소(주)
+ </crp_nm> 
+ <crp_nm_e>
+  CUREXO, INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  큐렉소
+ </crp_nm_i> 
+ <stock_cd>
+  060280
+ </stock_cd> 
+ <ceo_nm>
+  이재준
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110839071
+ </crp_no> 
+ <bsn_no>
+  1068138424
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 강남대로 577 잠원동, 4층
+ </adr> 
+ <hm_url>
+  www.curexo.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-478-0660
+ </phn_no> 
+ <fax_no>
+  031-478-4498
+ </fax_no> 
+ <ind_cd>
+  47812
+ </ind_cd> 
+ <est_dt>
+  19920229
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

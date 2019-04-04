@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  바디텍메드(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Boditech Med Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  바디텍메드
+ </crp_nm_i> 
+ <stock_cd>
+  206640
+ </stock_cd> 
+ <ceo_nm>
+  최의열
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115527168
+ </crp_no> 
+ <bsn_no>
+  1078830220
+ </bsn_no> 
+ <adr>
+  강원도 춘천시 동내면 거두단지1길 43 -
+ </adr> 
+ <hm_url>
+  없음
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2004-4938
+ </phn_no> 
+ <fax_no>
+  02-2004-4010
+ </fax_no> 
+ <ind_cd>
+  213
+ </ind_cd> 
+ <est_dt>
+  20140930
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

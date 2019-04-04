@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36330
+ </empSeqno>
+ <empWantedTitle>
+  2019년 IT부문 경력사원 모집
+ </empWantedTitle>
+ <empBusiNm>
+  현대오토에버
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190218
+ </empWantedStdt>
+ <empWantedEndt>
+  20190418
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.hyundai-autoever.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://recruit.hyundai-autoever.com/index.jsp
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRiv8Yi2YJ1rUO9OBUCQvss%2F0gn3QjUEBQEGyMHrD521Kd7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    역량(실무면접), 온라인 인성검사, 코딩테스트(필요시 영어구술평가, 필기/실기평가 실시)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인성(임원)면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    신체검사 후 최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    면접일시는 서류전형 합격자에 한하여 개별통보 예정입니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT_인프라 운영/구축
+   </empRecrNm>
+   <jobCont>
+    - 제철 공장 네트워크 인프라 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 네트워크 인프라 구축/운영 경험 - 방화벽 /IPS 구축/운영 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    충남 당진시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT_인프라 운영/구축
+   </empRecrNm>
+   <jobCont>
+    - 부품 연구소 인프라/서버 관리 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 서버/스토리지/백업시스템 운영 경험 - 가상화/클라우드 시스템 운영 경험 - Oracle Exatada 운영 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 용인시 기흥구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT_시스템 개발/운영
+   </empRecrNm>
+   <jobCont>
+    - 부품 공장 MES 시스템 개발 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - C#,Net 기반 개발 및 운영 경험 - Spring Framework 기반 운영 경험 - MES 시스템 운영 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    충남 서산시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT_시스템 개발/운영
+   </empRecrNm>
+   <jobCont>
+    - 부품 공장 MES 시스템 개발 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 제조업 MES 기획/구축 경험 - MS- SQL DBMS 및 NT Server 운영 경험 - C++,C# 기반 MES 개발 경험 - ASP.NET 기반 WEB 개발 및 운영 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    충남 천안시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT_시스템 개발/운영
+   </empRecrNm>
+   <jobCont>
+    - 부품 연구소 PLM 시스템 개발 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 부품 개발, 기술정보관리 등 R&amp;D 부분 시스템 개발 및 운영 경험 - JAVA 기반 WEB 개발 및 운영 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 용인시 기흥구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT_시스템 개발/운영
+   </empRecrNm>
+   <jobCont>
+    - SAP CO/TR/FI
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - SAP CO/TR/FI 구축/운영 경험 - ABAP 프로그램 개발 및 운영 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 종로구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT_시스템 개발/운영
+   </empRecrNm>
+   <jobCont>
+    - SAP MM/PM/QM/FCM(*각 모듈별 모집)
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 제조업 관련 MM/PM/QM/FCM 모듈 구축/운영 경험 - 제조업 관련 ABAP 및 기타 프로그램 개발 경험 - �
+   </sptCertEtc>
+  </empRecrListInfo>
+ </empRecrList>
+</dhsOpenEmpInfoDetailRoot>

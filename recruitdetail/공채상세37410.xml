@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37410
+ </empSeqno>
+ <empWantedTitle>
+  2019년 경력직 채용 [A/S]
+ </empWantedTitle>
+ <empBusiNm>
+  대우조선해양건설
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190214
+ </empWantedStdt>
+ <empWantedEndt>
+  20190430
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.dsmec.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.dsmec.com/recruit/notice_list.asp
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvOz4bzRQescr8HCvxIeWefZNKRt5UccQqO3XCkOKEWo%2F
+ </regLogImgNm>
+ <empWantedTypeNm>
+  기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형(On-Line 입사지원)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    ※기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    각 전형별 합격자에게 개별 공지 예정
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    건축시공
+   </empRecrNm>
+   <jobCont>
+    - 하자보수
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    3
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 평택시,경북 포항시,충북 제천시
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    140203
+   </jobsCd>
+   <jobsCdKorNm>
+    건축시공 기술자(건축견적, 공무포함)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    702401
+   </jobsCd>
+   <jobsCdKorNm>
+    타일·대리석 시공원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 모집직급 : 사원 - 채용형태 : 계약직 - 근무지 : 제천, 포항, 평택 외
+ </recrCommCont>
+ <empSubmitDocCont>
+  [최종면접 시 제출] - 최종 학력 졸업 증명서 · 성적증명서 - 자격증 사본 (소지한 분에 한함) - 경력확인서 - 전/현 직장 원천징수영수증 - 최근 6개월 이내 채용신체검사 결과표
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 기간 : ~ 채용시 - 당사 홈페이지를 통한 On-Line 접수 - '입사지원하기' 버튼을 눌러 제출된 입사지원서는 수정이 불가하오니 작성 시 주의바랍니다.
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 경영지원팀(02-750-8048)
+ </inqryCont>
+ <empnEtcCont>
+  - 제출서류는 반환하지 않으며, 기재된 내용이 사실과 다를 경우 합격(입사)이 취소됩니다. - 국가보훈 대상자 및 장애인은 관계법령에 의거 우대합니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

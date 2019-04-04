@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)포스코아이씨티
+ </crp_nm> 
+ <crp_nm_e>
+  POSCO ICT COMPANY LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  포스코 ICT
+ </crp_nm_i> 
+ <stock_cd>
+  022100
+ </stock_cd> 
+ <ceo_nm>
+  손건재
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110658637
+ </crp_no> 
+ <bsn_no>
+  2198100428
+ </bsn_no> 
+ <adr>
+  경상북도 포항시 남구 호동로 68 (주)포스코아이씨티
+ </adr> 
+ <hm_url>
+  www.poscoict.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  054-280-1114
+ </phn_no> 
+ <fax_no>
+  031-723-2102
+ </fax_no> 
+ <ind_cd>
+  72129
+ </ind_cd> 
+ <est_dt>
+  19891115
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  에어부산 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Air Busan Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  에어부산
+ </crp_nm_i> 
+ <stock_cd>
+  298690
+ </stock_cd> 
+ <ceo_nm>
+  한태근
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110605121
+ </crp_no> 
+ <bsn_no>
+  6058184518
+ </bsn_no> 
+ <adr>
+  부산광역시 강서구 유통단지1로57번가길 6
+ </adr> 
+ <hm_url>
+  www.airbusan.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  1666-3060
+ </phn_no> 
+ <fax_no>
+  051-410-0849
+ </fax_no> 
+ <ind_cd>
+  511
+ </ind_cd> 
+ <est_dt>
+  20070831
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

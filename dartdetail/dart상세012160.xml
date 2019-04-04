@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  영흥철강(주)
+ </crp_nm> 
+ <crp_nm_e>
+  YOUNG HEUNG IRON &amp; STEEL CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  영흥철강
+ </crp_nm_i> 
+ <stock_cd>
+  012160
+ </stock_cd> 
+ <ceo_nm>
+  한재열, 최영민 (각자대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1942110000191
+ </crp_no> 
+ <bsn_no>
+  6098102065
+ </bsn_no> 
+ <adr>
+  충청남도 보령시 주교면 관창공단길 50 -
+ </adr> 
+ <hm_url>
+  youngwire.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2077-8522
+ </phn_no> 
+ <fax_no>
+  02-2077-8512
+ </fax_no> 
+ <ind_cd>
+  24123
+ </ind_cd> 
+ <est_dt>
+  19770420
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

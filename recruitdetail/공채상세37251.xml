@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37251
+ </empSeqno>
+ <empWantedTitle>
+  본사 기술지원실 건축 기술직 경력사원 채용
+ </empWantedTitle>
+ <empBusiNm>
+  이화공영
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190312
+ </empWantedStdt>
+ <empWantedEndt>
+  20190428
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.ee-hwa.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.ee-hwa.co.kr/2010/eehwa/join.asp
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRivQes%2FMle6d2S8j3EYGHisZzrO6Fdw0DynhZFcaHM4iM7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    1차 서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류전형 합격자 개별통보
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    3차 면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    2차면접 합격자 임원면접
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    건축 기술직
+   </empRecrNm>
+   <jobCont>
+    - 민간영업 및 현장 기술지원 - Proposal 업무(시공계획서 작성 외) - 기술자료 관리 (대리, 과장급)
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 해당직무 근무경험 - Proposal 및 지원업무 실무경력자 설계 및 현장 경험자 (도심지 탑다운 혹은 산업플랜트 유경험자) C/G 소프트웨어 활용가능자(BIM) - Sketchup) 편집디자인 가능자 어학어학능력 우수자 - 건축/토목/조경/도시공학
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    140200
+   </jobsCd>
+   <jobsCdKorNm>
+    건축공학 기술자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont>
+  가. 이력서(사진부착) 나. 자기소개서(경력 상세 기재 요망) 다. 경력증명서 라. 자격증사본(서류전형 합격시
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - e-mail 접수 : plan@ee-hwa.co.kr
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - TEL : (02)336-0041 기획실
+ </inqryCont>
+ <empnEtcCont>
+  가. 제출된 서류는 일체 반환하지 않음 나. 해외여행에 결격사유가 없는 자로서 병역필 또는 면제자 다. 이력서 우측 상단에 연락처 및 희망급여 명시
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

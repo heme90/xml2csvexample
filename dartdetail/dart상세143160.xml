@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)아이디스
+ </crp_nm> 
+ <crp_nm_e>
+  INTELLIGENT DIGITAL INTEGRATED SECURITY CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  아이디스
+ </crp_nm_i> 
+ <stock_cd>
+  143160
+ </stock_cd> 
+ <ceo_nm>
+  김영달
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1601110302755
+ </crp_no> 
+ <bsn_no>
+  3148625786
+ </bsn_no> 
+ <adr>
+  대전 유성구 관평동 1301
+ </adr> 
+ <hm_url>
+  www.idis.co.kr
+ </hm_url> 
+ <ir_url>
+  https://www.idisglobal.com/
+ </ir_url> 
+ <phn_no>
+  031-723-5425
+ </phn_no> 
+ <fax_no>
+  031-723-5100
+ </fax_no> 
+ <ind_cd>
+  26429
+ </ind_cd> 
+ <est_dt>
+  20110701
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

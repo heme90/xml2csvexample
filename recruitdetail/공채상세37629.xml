@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37629
+ </empSeqno>
+ <empWantedTitle>
+  CI/CD 플랫폼 서비스 Java 개발자 채용
+ </empWantedTitle>
+ <empBusiNm>
+  엔씨소프트
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190322
+ </empWantedStdt>
+ <empWantedEndt>
+  20190421
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.ncsoft.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.ncsoft.net/korean/careers/adoptionview.aspx?BID=&amp;BC=&amp;SYear=&amp;SType=&amp;SWord=%ED%94%8C%EB%9E%AB%ED%8F%BC+%EC%84%9C%EB%B9%84%EC%8A%A4&amp;PNo=1&amp;d1=0&amp;d2=0&amp;BNo=7234&amp;Section=
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvD5ZNZMU%2FSFziUVQigG7EWR3%2Fc1STDnJntNsKflBvDXG
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무1차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    NC TEST
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무2차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    (필요시)HR면접
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    처우협의
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    Server Programming
+   </empRecrNm>
+   <jobCont>
+    1. 업무 내용 사내 CI/CD(빌드/배포) 자동화 서비스 운영 및 각 서비스 연동을 위한 웹/서버 개발 및 운영 2. 주요 업무 내용 1) 사내 CI/CD 자동화를 위한 웹/서버 개발 - 운영툴 웹 UI 설계 / 운영툴 및 Proxy서버 개발 - 각 서비스별 API 확인 및 연동 기능 개발 2) 사내 CI/CD 플랫폼 인프라 운영 - Bitbucket, Jenkins, Artifactory사용 및 통합 운영 - Docker Container의 Kubernetes 연동 업무 지원 - Mobile 빌드/배포 진행 - 서버 튜닝, 모니터링을 통한 안정적인 인프라 서비스를 운영 - 네트워크 및 서비스 이중화를 위한 환경 구성 - CI/CD 서비스 환경 구축 자동화 3) 기술 지원 - 다양한 빌드 및 배포, 새로운 기술에 대한 사용자 기술 지원 - 각 조직별 사용중인 유사 서비스에 대한 CI/CD 서비스로의 마이그레이션 지원 - 인프라 구축 자동화 환경 제공을 위한 기술 지원 - 신규 사용자에 대한 서비스 가이드 안내 - 사용부서의 문의 사항 확인 / 업무 지원
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 상기 업무에 대한 경력: 5년 ~ 8년
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    024
+   </jobsCd>
+   <jobsCdKorNm>
+    소프트웨어
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ㆍ해외여행 결격사유 없는 자 ㆍ채용 규정에 어긋나지 않는 자 ㆍ보훈 대상자 및 장애인 우대
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 엔씨소프트 홈페이지 온라인 입사지원서 - 포트폴리오 - 자기소개서
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지 온라인 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 홈페이지 &gt; 채용안내 &gt; 채용문의 참조
+ </inqryCont>
+ <empnEtcCont>
+  ㆍ전형 결과에 따라 계약직 채용이 검토될 수 있습니다. ㆍ채용 시 조기마감 될 수 있습니다. ㆍ채용 과정에서 오프라인으로 제출한 서류가 있을 경우, 해당 공고의 채용여부가 확정된 이후 14일 이내에 반환을 요청할 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

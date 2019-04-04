@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에이스침대
+ </crp_nm> 
+ <crp_nm_e>
+  AceBed
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이스침대
+ </crp_nm_i> 
+ <stock_cd>
+  003800
+ </stock_cd> 
+ <ceo_nm>
+  안성호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1311110002772
+ </crp_no> 
+ <bsn_no>
+  1298102666
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 사기막골로105번길 42
+ </adr> 
+ <hm_url>
+  www.acebed.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043 -877 -1881
+ </phn_no> 
+ <fax_no>
+  043 -877 -1889
+ </fax_no> 
+ <ind_cd>
+  32029
+ </ind_cd> 
+ <est_dt>
+  19770512
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

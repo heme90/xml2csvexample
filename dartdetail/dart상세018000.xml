@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  유니슨(주)
+ </crp_nm> 
+ <crp_nm_e>
+  UNISON CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  유니슨
+ </crp_nm_i> 
+ <stock_cd>
+  018000
+ </stock_cd> 
+ <ceo_nm>
+  허화도
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110382020
+ </crp_no> 
+ <bsn_no>
+  1208130898
+ </bsn_no> 
+ <adr>
+  경상남도 사천시 사남면 해안산업로 513 -
+ </adr> 
+ <hm_url>
+  www.unison.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02 -528 -8777
+ </phn_no> 
+ <fax_no>
+  02-553-6415
+ </fax_no> 
+ <ind_cd>
+  29119
+ </ind_cd> 
+ <est_dt>
+  19840924
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

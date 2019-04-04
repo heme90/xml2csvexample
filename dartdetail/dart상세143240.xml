@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)사람인에이치알
+ </crp_nm> 
+ <crp_nm_e>
+  SaraminHR Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  사람인에이치알
+ </crp_nm_i> 
+ <stock_cd>
+  143240
+ </stock_cd> 
+ <ceo_nm>
+  김용환
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101113318387
+ </crp_no> 
+ <bsn_no>
+  1138600917
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로34길 43 코오롱싸이언스밸리1차 201호
+ </adr> 
+ <hm_url>
+  www.saramin.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2025-4733
+ </phn_no> 
+ <fax_no>
+  02-6937-0035
+ </fax_no> 
+ <ind_cd>
+  63120
+ </ind_cd> 
+ <est_dt>
+  20051007
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

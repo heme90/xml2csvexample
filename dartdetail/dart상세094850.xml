@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  참좋은여행(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Very Good Tour Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  참좋은여행
+ </crp_nm_i> 
+ <stock_cd>
+  094850
+ </stock_cd> 
+ <ceo_nm>
+  이상호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101113624007
+ </crp_no> 
+ <bsn_no>
+  2118793420
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 서소문로 135 서소문동, 연호빌딩 10층
+ </adr> 
+ <hm_url>
+  verygoodtourcompany.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2188-4137
+ </phn_no> 
+ <fax_no>
+  02-2178-9549
+ </fax_no> 
+ <ind_cd>
+  752
+ </ind_cd> 
+ <est_dt>
+  20070220
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

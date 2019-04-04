@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37700
+ </empSeqno>
+ <empWantedTitle>
+  화약/방산 신입사원 채용
+ </empWantedTitle>
+ <empBusiNm>
+  한화
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190325
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.hanwhacorp.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://www.hanwhain.com/web/apply/notification/view.do?rtSeq=3502
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRikqBnvDKA7hH%2B1dGR79gHXKenksUWgE4%2B8jOnrEdKYoM7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형 1차
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형 2차
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    신원조회 및 건강검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    관련 법규에 따라 방위업체 채용 예정자는 신원조회를 실시하며, 결과에 따라 최종 합격 여부가 결정됨.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    인사/총무 外
+   </empRecrNm>
+   <jobCont>
+    [경영관리 부문] - 인사/총무, 재경/원가, 구매/물류 [생산/품질관리 부문] - 생산관리, 품질관리, E&amp;C, 환경/안전/보건관리 [연구개발 부문] - 화약 연구개발(보온 화공품 개발), 방산 연구개발(구미 해중장비 개발), 방산 연구개발(Hanwha R&amp;D Center 유도무기 기술개발), 방산 연구개발(판교 레이저 개발), 방산 연구개발(대전 종합군수지원), 방산 연구개발(대전 유도무기 체계 개발), 방산 연구개발(대전 항법장치 개발)
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    ※ 모집분야별 상세내용은 공고문 확인 바랍니다.
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    01
+   </jobsCd>
+   <jobsCdKorNm>
+    경영·사무·금융·보험
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    09
+   </jobsCd>
+   <jobsCdKorNm>
+    설치·정비·생산-기계·금속·재료
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [지원자격] - 직무별 요구 역량을 보유한 자(2019년 7월 1일부터 근무 가능한 자) - 군필 또는 군 면제자(2019년 7월 1일 기준) - 해외여행에 결격사유가 없는 자 ※ 입사지원 시 본 공고의 직무코드를 꼼꼼히 확인하시어 지원 바랍니다. ※ 전형 결과에 따라 입사 시 직무, 근무지는 변경될 수 있습니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 추가제출서류의 경우 서류전형 합격 후 면접전형 시 별도 안내 예정
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 인터넷 접수 (한화인: https://www.hanwhain.com)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 모집공고 우측 상단 [1:1 문의하기] 메뉴 활용
+ </inqryCont>
+ <empnEtcCont>
+  - 입사지원서는 본인이 직접 정확하게 입력해야 하며, 차후 입력사항이 허위로 판명될 경우 입사(합격)를 취소함 - 국가보훈대상자(취업보호대상자 증명서 제출) 및 장애인은 관련 법규에 의거 우대함 - 근무지역 및 직무는 향후 회사필요에 의해 조정될 수 있음 - 어학성적의 경우 필수입력 사항은 아니나, 유효기간 내 어학성적 보유 시 입력 요망 *'자주 묻는 질문'에 관한 내용은 공고문 참고 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

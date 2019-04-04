@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한국제8호기업인수목적 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Korea No.8 Special Purpose Acquisition Co., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국제8호스팩
+ </crp_nm_i> 
+ <stock_cd>
+  310870
+ </stock_cd> 
+ <ceo_nm>
+  진성태
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101116902393
+ </crp_no> 
+ <bsn_no>
+  5878101164
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 의사당대로 88
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3276-5508
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  66199
+ </ind_cd> 
+ <est_dt>
+  20181022
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

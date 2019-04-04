@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 포앤티
+ </crp_nm> 
+ <crp_nm_e>
+  FO&amp;T INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  포앤티
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  강치구
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1341110030082
+ </crp_no> 
+ <bsn_no>
+  1238121928
+ </bsn_no> 
+ <adr>
+  경기도 군포시 흥안대로18번길 35 (금정동)
+ </adr> 
+ <hm_url>
+  www.fo-t.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-458-2131
+ </phn_no> 
+ <fax_no>
+  031-457-7562
+ </fax_no> 
+ <ind_cd>
+  26410
+ </ind_cd> 
+ <est_dt>
+  19891215
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

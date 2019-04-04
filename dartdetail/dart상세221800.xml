@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 유투바이오
+ </crp_nm> 
+ <crp_nm_e>
+  U2BIO CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  유투바이오
+ </crp_nm_i> 
+ <stock_cd>
+  221800
+ </stock_cd> 
+ <ceo_nm>
+  김진태
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101114022325
+ </crp_no> 
+ <bsn_no>
+  1138626732
+ </bsn_no> 
+ <adr>
+  서울특별시 송파구 거마로 65 (마천동)
+ </adr> 
+ <hm_url>
+  www.u2bio.co.kr 
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  1577-1338
+ </phn_no> 
+ <fax_no>
+  02-941-0482
+ </fax_no> 
+ <ind_cd>
+  72911
+ </ind_cd> 
+ <est_dt>
+  20090102
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

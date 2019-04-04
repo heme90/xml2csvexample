@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)칩스앤미디어
+ </crp_nm> 
+ <crp_nm_e>
+  Chips&amp;Media, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  칩스앤미디어
+ </crp_nm_i> 
+ <stock_cd>
+  094360
+ </stock_cd> 
+ <ceo_nm>
+  김상현
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112732413
+ </crp_no> 
+ <bsn_no>
+  2148730098
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 삼성로85길 26, 11~13층
+ </adr> 
+ <hm_url>
+  www.chipsnmedia.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-568-3767
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  58221
+ </ind_cd> 
+ <est_dt>
+  20030306
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

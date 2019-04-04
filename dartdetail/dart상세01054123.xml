@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  엠텍비젼 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Mtekvision Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  엠텍비젼
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  강성범
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1311110389865
+ </crp_no> 
+ <bsn_no>
+  1448130536
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로 255 58 6층 601호(삼평동, 씨즈타워)
+ </adr> 
+ <hm_url>
+  www.mtekvision.com/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-627-0100
+ </phn_no> 
+ <fax_no>
+  031-627-0199
+ </fax_no> 
+ <ind_cd>
+  2611
+ </ind_cd> 
+ <est_dt>
+  20141017
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

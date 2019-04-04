@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  동양철관(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DONGYANG STEEL PIPE CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  동양철관
+ </crp_nm_i> 
+ <stock_cd>
+  008970
+ </stock_cd> 
+ <ceo_nm>
+  한흥수
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1201110002056
+ </crp_no> 
+ <bsn_no>
+  1228100857
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 동남구 풍세면 풍세로 515 동양철관(주)
+ </adr> 
+ <hm_url>
+  www.dysp.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6903-0200
+ </phn_no> 
+ <fax_no>
+  02)777-7663
+ </fax_no> 
+ <ind_cd>
+  2413
+ </ind_cd> 
+ <est_dt>
+  19730628
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

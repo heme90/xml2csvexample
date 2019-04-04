@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)유쎌
+ </crp_nm> 
+ <crp_nm_e>
+  YOUCEL Inc
+ </crp_nm_e> 
+ <crp_nm_i>
+  유쎌
+ </crp_nm_i> 
+ <stock_cd>
+  252370
+ </stock_cd> 
+ <ceo_nm>
+  차재영
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  2149110029209
+ </crp_no> 
+ <bsn_no>
+  4038151139
+ </bsn_no> 
+ <adr>
+  전라북도 익산시 함열읍 익산대로78길 265
+ </adr> 
+ <hm_url>
+  www.youcel.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  063-834-6877
+ </phn_no> 
+ <fax_no>
+  063-834-6878
+ </fax_no> 
+ <ind_cd>
+  20423
+ </ind_cd> 
+ <est_dt>
+  20080818
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

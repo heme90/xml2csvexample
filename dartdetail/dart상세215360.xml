@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  우리산업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  WOORY INDUSTRIAL CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  우리산업
+ </crp_nm_i> 
+ <stock_cd>
+  215360
+ </stock_cd> 
+ <ceo_nm>
+  김정우
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1345110257251
+ </crp_no> 
+ <bsn_no>
+  4168602172
+ </bsn_no> 
+ <adr>
+  경기도 용인시 기흥구 지삼로 89
+ </adr> 
+ <hm_url>
+  www.woory.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-201-6522
+ </phn_no> 
+ <fax_no>
+  031-204-3199
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  20150401
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

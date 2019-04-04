@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  AK홀딩스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  AK Holdings, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  AK홀딩스
+ </crp_nm_i> 
+ <stock_cd>
+  006840
+ </stock_cd> 
+ <ceo_nm>
+  안재석, 채형석
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110029721
+ </crp_no> 
+ <bsn_no>
+  1138110894
+ </bsn_no> 
+ <adr>
+  서울특별시 마포구 양화로 188 -
+ </adr> 
+ <hm_url>
+  www.aekyunggroup.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-768-2923
+ </phn_no> 
+ <fax_no>
+  02-768-2904
+ </fax_no> 
+ <ind_cd>
+  64992
+ </ind_cd> 
+ <est_dt>
+  19701013
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

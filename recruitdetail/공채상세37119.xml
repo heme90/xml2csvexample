@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37119
+ </empSeqno>
+ <empWantedTitle>
+  [신입]연구소 출판기획 채용
+ </empWantedTitle>
+ <empBusiNm>
+  해커스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190308
+ </empWantedStdt>
+ <empWantedEndt>
+  20190508
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.hackers.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://recruit.hackers.com/remNormalList.php?act=view&amp;idx=609
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvC%2FetZMOLnajPrEKSn6RPRzi9Y6jgXH7FbtxDY9kSBkl
+ </regLogImgNm>
+ <empWantedTypeNm>
+  기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류 합격자에 한하여 개별 연락
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인적성전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    신체검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    연구소 출판기획
+   </empRecrNm>
+   <jobCont>
+    1. 교재 마케팅 관련 컨텐츠 기획 2. 교재 홍보자료 작성/편집 3. 교재 출간/제작 관리 4. 시장동향 분석
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    026102
+   </jobsCd>
+   <jobsCdKorNm>
+    마케팅·광고·홍보·상품기획 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [고용형태] - 계약직 [연봉사항] 1. 연봉: 2,950만원 2. 공통사항: 포괄연봉제, 퇴직연금(DC형) 기여금 포함 [복리후생] · 4대보험 · 해커스 교육그룹 온/오프라인 강의 무료 수강 및 교재 할인(임직원 가족 할인) · 전국 체인 휴양소(콘도미니엄) 지원 : 대명리조트, 쏠비치/소노펠리체 해커스 전용객실 등 365일 이용가능 · 해커스 교육그룹 60여개 제휴업체 할인(스포츠센터/안과/피부과/헤어샵/음식점/카페 등) · 자유로운 산전후휴가/육아휴직제 · 사내 도서관 운영 (희망도서 구매 신청 및 대여 가능) · 사내 간식 제공(모닝밀크/토스트) · 명절선물 / 상여금 · 야근자 식대 / 간식비 / 교통비 지원 · 정기 건강검진 · 경조사 지원 : 각종 경조금, 경조휴가제
+ </recrCommCont>
+ <empSubmitDocCont>
+  · 지원서 외 서류(졸업증명서, 성적증명서, 어학성적표 등)은 최종합격자에 한하여 추후 제출합니다. · 공인자격/외국어 시험 성적은 유효기간 내의 것만 인정합니다. (원서접수마감일 기준)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - ~ 채용시까지 - 채용사이트 (http://recruit.hackers.com)를 통해 온라인지원만 가능(방문, 이메일지원 불가)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 기타 문의사항은 채용사이트의 FAQ를 참고하시거나, Q&amp;A로 문의주시기 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  · 접수된 서류는 반환하지 않으며, 채용과 무관한 곳에는 사용하지 않습니다. · 지원서 및 제출하신 서류에 허위사실이 확인 될 경우 해당자의 합격을 취소할 수 있으며,입사 이후라도 입사가 취소될 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

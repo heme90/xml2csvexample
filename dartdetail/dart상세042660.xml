@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  대우조선해양(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Daewoo Shipbuilding &amp; Marine Engineering Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  대우조선해양
+ </crp_nm_i> 
+ <stock_cd>
+  042660
+ </stock_cd> 
+ <ceo_nm>
+  이성근
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101112095837
+ </crp_no> 
+ <bsn_no>
+  1048157667
+ </bsn_no> 
+ <adr>
+  경상남도 거제시 거제대로 3370 (아주동)
+ </adr> 
+ <hm_url>
+  www.dsme.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-735-2114
+ </phn_no> 
+ <fax_no>
+  02-2129-0084
+ </fax_no> 
+ <ind_cd>
+  3111
+ </ind_cd> 
+ <est_dt>
+  20001023
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

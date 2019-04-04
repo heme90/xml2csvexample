@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37556
+ </empSeqno>
+ <empWantedTitle>
+  2019 상반기 신입사원 모집
+ </empWantedTitle>
+ <empBusiNm>
+  한화테크윈
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190320
+ </empWantedStdt>
+ <empWantedEndt>
+  20190405
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.hanwhatechwin.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://www.hanwhain.com/web/apply/notification/view.do?rtSeq=3490
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvOx8%2FnanuuAyfMEdFI1LPQ%2FQuZqXp4Mty7ARZWKED8Xm
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※ 인적성 검사는 실시하지 않습니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    개발(SW/ R&amp;D)
+   </empRecrNm>
+   <jobCont>
+    - 세부업무 : SW개발 - 관련전공 : 전기/전자/컴퓨터/통신 계열 - 우대조건 · 영상처리, 컴퓨터, 통신 관련 석사 학위 보유자 · 딥러닝 기반 영상처리 개발 지식/경험 보유자
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 성남시 분당구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    024
+   </jobsCd>
+   <jobsCdKorNm>
+    소프트웨어
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [응시자격] - 학력 : 국내외 정규 4년제 대학교 기 졸업자 및 &amp;apos;19년 8월 졸업 예정자 - 어학 : 회화자격보유자(OPIc IL 또는 TOEIC-Speaking 5급 이상) - 기타 : 병역필 또는 면제자로 해외여행에 결격사유가 없는 자 ※ 국가등록장애인 및 국가보훈대상자는 관련법 및 내부규정에 의거하여 우대합니다.
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지(www.hanwhain.com)을 통한 온라인 접수 - 지원서는 한화그룹 채용사이트를 통해 접수하며, 온/오프라인을 통한 개별 접수는 받지 않습니다.
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  한화인 홈페이지 1:1 문의하기 활용
+ </inqryCont>
+ <empnEtcCont>
+  - 입사지원서에 허위 기재가 있거나 제출서류가 허위로 판명되는 경우 채용이 취소될 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

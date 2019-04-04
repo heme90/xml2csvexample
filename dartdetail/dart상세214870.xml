@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  에치디프로(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HDPRO CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  에치디프로
+ </crp_nm_i> 
+ <stock_cd>
+  214870
+ </stock_cd> 
+ <ceo_nm>
+  박대우
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1211110117424
+ </crp_no> 
+ <bsn_no>
+  1308604354
+ </bsn_no> 
+ <adr>
+  경기도 부천시 오정구 신흥로362번길 23 (내동)
+ </adr> 
+ <hm_url>
+  www.hdprocctv.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-683-7903
+ </phn_no> 
+ <fax_no>
+  032-683-7906
+ </fax_no> 
+ <ind_cd>
+  264
+ </ind_cd> 
+ <est_dt>
+  20040224
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

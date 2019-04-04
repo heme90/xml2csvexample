@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)서울리거
+ </crp_nm> 
+ <crp_nm_e>
+  SEOULEAGUER CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  서울리거
+ </crp_nm_i> 
+ <stock_cd>
+  043710
+ </stock_cd> 
+ <ceo_nm>
+  이재규
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1243110031007
+ </crp_no> 
+ <bsn_no>
+  1398112555
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 논현로163길 10 4층(신사동,베드로빌딩)
+ </adr> 
+ <hm_url>
+  www.seouleaguer.net
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2138-5281
+ </phn_no> 
+ <fax_no>
+  02-2138-5280
+ </fax_no> 
+ <ind_cd>
+  713
+ </ind_cd> 
+ <est_dt>
+  19910302
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

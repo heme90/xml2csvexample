@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼성에스디에스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SAMSUNG SDS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼성에스디에스
+ </crp_nm_i> 
+ <stock_cd>
+  018260
+ </stock_cd> 
+ <ceo_nm>
+  홍원표
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110398556
+ </crp_no> 
+ <bsn_no>
+  1108128774
+ </bsn_no> 
+ <adr>
+  서울특별시 송파구 올림픽로35길 125(신천동)
+ </adr> 
+ <hm_url>
+  www.samsungsds.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6155-3114
+ </phn_no> 
+ <fax_no>
+  02-6155-0257
+ </fax_no> 
+ <ind_cd>
+  62021
+ </ind_cd> 
+ <est_dt>
+  19850501
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

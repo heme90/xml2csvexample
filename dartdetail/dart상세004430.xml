@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  송원산업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SONGWON INDUSTRIAL CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  송원산업
+ </crp_nm_i> 
+ <stock_cd>
+  004430
+ </stock_cd> 
+ <ceo_nm>
+  김충식, 마우리지오 부티(Maurizio Butti) 각자대표이사
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110000636
+ </crp_no> 
+ <bsn_no>
+  6108107100
+ </bsn_no> 
+ <adr>
+  울산광역시 남구 장생포로 83
+ </adr> 
+ <hm_url>
+  www.songwon.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  052-273-9841
+ </phn_no> 
+ <fax_no>
+  052-272-3528
+ </fax_no> 
+ <ind_cd>
+  20499
+ </ind_cd> 
+ <est_dt>
+  19651215
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

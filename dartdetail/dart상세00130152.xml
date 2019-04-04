@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)서광
+ </crp_nm> 
+ <crp_nm_e>
+  SuKwang Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  서광
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  기경도
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110041949
+ </crp_no> 
+ <bsn_no>
+  1198101035
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 벚꽃로 234 에이스 하이엔드6차 1301호
+ </adr> 
+ <hm_url>
+  www.sukwang.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-819-8205
+ </phn_no> 
+ <fax_no>
+  02-861-3068
+ </fax_no> 
+ <ind_cd>
+  14111
+ </ind_cd> 
+ <est_dt>
+  19611006
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

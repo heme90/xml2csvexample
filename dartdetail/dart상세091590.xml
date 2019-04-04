@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  남화토건(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Nam Hwa Construction Company, Limited
+ </crp_nm_e> 
+ <crp_nm_i>
+  남화토건
+ </crp_nm_i> 
+ <stock_cd>
+  091590
+ </stock_cd> 
+ <ceo_nm>
+  최상준, 최재훈
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  2001110002843
+ </crp_no> 
+ <bsn_no>
+  4088108184
+ </bsn_no> 
+ <adr>
+  전라남도 화순군 화순읍 벽라1길 40
+ </adr> 
+ <hm_url>
+  www.namhwaconst.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  062-520-1072
+ </phn_no> 
+ <fax_no>
+  062)520-1077
+ </fax_no> 
+ <ind_cd>
+  411
+ </ind_cd> 
+ <est_dt>
+  19590822
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

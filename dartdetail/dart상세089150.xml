@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)케이씨티
+ </crp_nm> 
+ <crp_nm_e>
+  Korea Computer Terminal Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이씨티
+ </crp_nm_i> 
+ <stock_cd>
+  089150
+ </stock_cd> 
+ <ceo_nm>
+  이규현
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1358110088245
+ </crp_no> 
+ <bsn_no>
+  1248603350
+ </bsn_no> 
+ <adr>
+  경기도 수원시 권선구 일월천로4번길 7-10 금제빌딩
+ </adr> 
+ <hm_url>
+  www.kctinc.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6377-5622
+ </phn_no> 
+ <fax_no>
+  02-829-3190
+ </fax_no> 
+ <ind_cd>
+  62021
+ </ind_cd> 
+ <est_dt>
+  20021214
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

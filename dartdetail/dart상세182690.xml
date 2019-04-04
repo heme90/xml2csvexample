@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  테라셈(주)
+ </crp_nm> 
+ <crp_nm_e>
+  TerraSem Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  테라셈
+ </crp_nm_i> 
+ <stock_cd>
+  182690
+ </stock_cd> 
+ <ceo_nm>
+  서성기
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1344110015932
+ </crp_no> 
+ <bsn_no>
+  1268146549
+ </bsn_no> 
+ <adr>
+  충청북도 청주시 청원구 오창읍 과학산업5로 9
+ </adr> 
+ <hm_url>
+  www.terrasem.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043-240-8160
+ </phn_no> 
+ <fax_no>
+  043-218-2145
+ </fax_no> 
+ <ind_cd>
+  2612
+ </ind_cd> 
+ <est_dt>
+  20000630
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

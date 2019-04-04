@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  대한제분(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DAEHAN FLOUR MILL CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  대한제분
+ </crp_nm_i> 
+ <stock_cd>
+  001130
+ </stock_cd> 
+ <ceo_nm>
+  이건영, 박현용
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110003733
+ </crp_no> 
+ <bsn_no>
+  1048104345
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 세종대로 39
+ </adr> 
+ <hm_url>
+  www.dhflour.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3455-0200
+ </phn_no> 
+ <fax_no>
+  02)755-9975
+ </fax_no> 
+ <ind_cd>
+  10612
+ </ind_cd> 
+ <est_dt>
+  19521225
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

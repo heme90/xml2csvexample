@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)원익큐브
+ </crp_nm> 
+ <crp_nm_e>
+  WONIK CUBE Corp.
+ </crp_nm_e> 
+ <crp_nm_i>
+  원익큐브
+ </crp_nm_i> 
+ <stock_cd>
+  014190
+ </stock_cd> 
+ <ceo_nm>
+  문경수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110425432
+ </crp_no> 
+ <bsn_no>
+  2208105078
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로255번길 20 원익빌딩
+ </adr> 
+ <hm_url>
+  www.hunus.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-530-8800
+ </phn_no> 
+ <fax_no>
+  031-8038-9303
+ </fax_no> 
+ <ind_cd>
+  46739
+ </ind_cd> 
+ <est_dt>
+  19790612
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

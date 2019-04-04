@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)뷰웍스
+ </crp_nm> 
+ <crp_nm_e>
+  Vieworks Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  뷰웍스
+ </crp_nm_i> 
+ <stock_cd>
+  100120
+ </stock_cd> 
+ <ceo_nm>
+  김후식
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111775894
+ </crp_no> 
+ <bsn_no>
+  1208193796
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 부림로 17041-3
+ </adr> 
+ <hm_url>
+  www.vieworks.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-7011-6190
+ </phn_no> 
+ <fax_no>
+  031-737-4954
+ </fax_no> 
+ <ind_cd>
+  27199
+ </ind_cd> 
+ <est_dt>
+  19990918
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

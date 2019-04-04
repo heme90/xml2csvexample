@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한국동서발전주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Korea East-West Power Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국동서발전
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  박일준
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101112207151
+ </crp_no> 
+ <bsn_no>
+  1208619199
+ </bsn_no> 
+ <adr>
+  울산광역시 중구 종가로 395 (북정동)
+ </adr> 
+ <hm_url>
+  www.ewp.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  07050001136
+ </phn_no> 
+ <fax_no>
+  07050001199
+ </fax_no> 
+ <ind_cd>
+  3511
+ </ind_cd> 
+ <est_dt>
+  20010402
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37097
+ </empSeqno>
+ <empWantedTitle>
+  [경력] 전장 SW개발_ Android Platform
+ </empWantedTitle>
+ <empBusiNm>
+  휴맥스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190308
+ </empWantedStdt>
+ <empWantedEndt>
+  20190430
+ </empWantedEndt>
+ <empWantedHomepg>
+  https://kr.humaxdigital.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.humaxdigital.com/jobs/joblist.aspx
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvP0lSP%2FWgueaSVYk8KcVhdk4NnkqzFjA8CG8uJgicJAy
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원면접, CEO면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용검진, 입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※면접일정은 서류전형 합격자에 한해 별도로 연락 드립니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    Android Platform
+   </empRecrNm>
+   <jobCont>
+    - 전장 Android Platform 개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - IT 계열 전공하신 분(정보통신/컴퓨터/전산/전자/전기 등) - 전장 분야 개발 경험이 있으신 분 - 영어 Email 업무 진행 가능하신 분
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    612106
+   </jobsCd>
+   <jobsCdKorNm>
+    IT 기술영업원(전산장비,소프트웨어)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 보훈대상자, 장애인의 경우 관련법에 의거하여 우대합니다.
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 홈페이지 접수(https://recruit.humaxdigital.com/, 입사지원 click) &lt; ※채용 홈페이지를 통해서만 접수 가능하며, 이메일을 통한 개별접수는 받지 않습니다. &gt;
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - HR팀 031-776-6124 / recruit@humaxdigital.com
+ </inqryCont>
+ <empnEtcCont>
+  - 지원서 및 제출서류가 허위일 경우, 채용이 취소됩니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)삼원강재
+ </crp_nm> 
+ <crp_nm_e>
+  SAMWONSTEEL Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼원강재
+ </crp_nm_i> 
+ <stock_cd>
+  023000
+ </stock_cd> 
+ <ceo_nm>
+  허재철, 장범석 (각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1746110014924
+ </crp_no> 
+ <bsn_no>
+  5068112319
+ </bsn_no> 
+ <adr>
+  경상북도 포항시 남구 대송면 철강산단로66번길 40
+ </adr> 
+ <hm_url>
+  www.samwon-steel.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  054-278-1983-8
+ </phn_no> 
+ <fax_no>
+  054-279-3597
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19920721
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

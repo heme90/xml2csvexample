@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼보산업 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  SAMBO Industrial Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼보산업
+ </crp_nm_i> 
+ <stock_cd>
+  009620
+ </stock_cd> 
+ <ceo_nm>
+  최찬규, 이태용(각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1801110020246
+ </crp_no> 
+ <bsn_no>
+  6098116685
+ </bsn_no> 
+ <adr>
+  경상남도 창원시 진해구 남의로21번길 36
+ </adr> 
+ <hm_url>
+  www.samboind.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055 -552-7130 -
+ </phn_no> 
+ <fax_no>
+  055 -541 -0135
+ </fax_no> 
+ <ind_cd>
+  24222
+ </ind_cd> 
+ <est_dt>
+  19740208
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

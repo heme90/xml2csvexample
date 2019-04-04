@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  대성에너지(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DAESUNG ENERGY CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  대성에너지
+ </crp_nm_i> 
+ <stock_cd>
+  117580
+ </stock_cd> 
+ <ceo_nm>
+  대표이사 김영훈 대표이사 우중본
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1701110387416
+ </crp_no> 
+ <bsn_no>
+  5048183652
+ </bsn_no> 
+ <adr>
+  대구광역시 중구 명덕로 85 (남산동)
+ </adr> 
+ <hm_url>
+  www.taegugas.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-606-1000
+ </phn_no> 
+ <fax_no>
+  053)606-1004
+ </fax_no> 
+ <ind_cd>
+  35200
+ </ind_cd> 
+ <est_dt>
+  20091001
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

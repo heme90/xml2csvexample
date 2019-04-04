@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  알보젠코리아(주)
+ </crp_nm> 
+ <crp_nm_e>
+  ALVOGEN KOREA CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  알보젠코리아
+ </crp_nm_i> 
+ <stock_cd>
+  002250
+ </stock_cd> 
+ <ceo_nm>
+  이준수
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110033673
+ </crp_no> 
+ <bsn_no>
+  2158121950
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 국제금융로10, 13층(여의도동, 서울국제금융센터 투 아이에프씨동)
+ </adr> 
+ <hm_url>
+  www.Alvogenkorea.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2047-7712
+ </phn_no> 
+ <fax_no>
+  443-0589
+ </fax_no> 
+ <ind_cd>
+  21210
+ </ind_cd> 
+ <est_dt>
+  19580107
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

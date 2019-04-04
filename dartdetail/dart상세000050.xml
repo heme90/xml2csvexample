@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)경방
+ </crp_nm> 
+ <crp_nm_e>
+  KYUNGBANG LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  경방
+ </crp_nm_i> 
+ <stock_cd>
+  000050
+ </stock_cd> 
+ <ceo_nm>
+  김준, 김담
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110013287
+ </crp_no> 
+ <bsn_no>
+  1078105232
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 영중로 15 (영등포동 4가)
+ </adr> 
+ <hm_url>
+  www.kyungbang.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2638-6000
+ </phn_no> 
+ <fax_no>
+  (02) 2639 - 6249
+ </fax_no> 
+ <ind_cd>
+  13101
+ </ind_cd> 
+ <est_dt>
+  19191005
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

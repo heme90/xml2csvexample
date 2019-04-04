@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)씨이랩
+ </crp_nm> 
+ <crp_nm_e>
+  XIIlab Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨이랩
+ </crp_nm_i> 
+ <stock_cd>
+  189330
+ </stock_cd> 
+ <ceo_nm>
+  이우영
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101114401438
+ </crp_no> 
+ <bsn_no>
+  1198631534
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 논현로76길 94층 (역삼동,서울강남빌딩)
+ </adr> 
+ <hm_url>
+  www.xiilab.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2039-3147
+ </phn_no> 
+ <fax_no>
+  02-6914-9373
+ </fax_no> 
+ <ind_cd>
+  62010
+ </ind_cd> 
+ <est_dt>
+  20100727
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

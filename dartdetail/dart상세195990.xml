@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)유지인트
+ </crp_nm> 
+ <crp_nm_e>
+  Ugint Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  유지인트
+ </crp_nm_i> 
+ <stock_cd>
+  195990
+ </stock_cd> 
+ <ceo_nm>
+  이성민,정성진
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1701110271528
+ </crp_no> 
+ <bsn_no>
+  5038164797
+ </bsn_no> 
+ <adr>
+  대구광역시 달성군 유가면 테크노중앙대로 139
+ </adr> 
+ <hm_url>
+  www.ugint.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-582-8036
+ </phn_no> 
+ <fax_no>
+  053-582-8039
+ </fax_no> 
+ <ind_cd>
+  29223
+ </ind_cd> 
+ <est_dt>
+  20040812
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  금호산업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KUMHO INDUSTRIAL CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  금호산업
+ </crp_nm_i> 
+ <stock_cd>
+  002990
+ </stock_cd> 
+ <ceo_nm>
+  서재환
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110134877
+ </crp_no> 
+ <bsn_no>
+  1048131309
+ </bsn_no> 
+ <adr>
+  전라남도 나주시 시청길 4
+ </adr> 
+ <hm_url>
+  www.kumhoenc.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6303-0114
+ </phn_no> 
+ <fax_no>
+  02-6303-0750
+ </fax_no> 
+ <ind_cd>
+  41112
+ </ind_cd> 
+ <est_dt>
+  19721011
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

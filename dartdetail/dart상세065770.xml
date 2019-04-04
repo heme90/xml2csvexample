@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)씨에스
+ </crp_nm> 
+ <crp_nm_e>
+  CS CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  CS
+ </crp_nm_i> 
+ <stock_cd>
+  065770
+ </stock_cd> 
+ <ceo_nm>
+  최규훈, 최규백
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111644809
+ </crp_no> 
+ <bsn_no>
+  2158174874
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로228번길 15 윈스동 10층 (삼평동 판교세븐벤처밸리1)
+ </adr> 
+ <hm_url>
+  www.cs-holdings.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-622-3200
+ </phn_no> 
+ <fax_no>
+  031-622-3330
+ </fax_no> 
+ <ind_cd>
+  2642
+ </ind_cd> 
+ <est_dt>
+  19990203
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)BYC
+ </crp_nm> 
+ <crp_nm_e>
+  BYC CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  BYC
+ </crp_nm_i> 
+ <stock_cd>
+  001460
+ </stock_cd> 
+ <ceo_nm>
+  유 중 화
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110005995
+ </crp_no> 
+ <bsn_no>
+  1188103063
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 도림천로21길 3
+ </adr> 
+ <hm_url>
+  www.byc.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-840-3175
+ </phn_no> 
+ <fax_no>
+  02-840-3177
+ </fax_no> 
+ <ind_cd>
+  14120
+ </ind_cd> 
+ <est_dt>
+  19550513
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

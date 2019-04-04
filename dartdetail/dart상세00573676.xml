@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)메가젠임플란트
+ </crp_nm> 
+ <crp_nm_e>
+  MegaGen Implant Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  메가젠임플란트
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  박광범
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1701110213231
+ </crp_no> 
+ <bsn_no>
+  5048143999
+ </bsn_no> 
+ <adr>
+  대구광역시 달성군 다사읍 세천로7길 45 (세천리)
+ </adr> 
+ <hm_url>
+  www.megagen.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-222-2820
+ </phn_no> 
+ <fax_no>
+  053-289-3420
+ </fax_no> 
+ <ind_cd>
+  27191
+ </ind_cd> 
+ <est_dt>
+  20020103
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  농업회사법인 합천유통주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Hapcheon Marketing Co. Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  농업회사법인합천유통
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  장문철
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1953110007342
+ </crp_no> 
+ <bsn_no>
+  6118117289
+ </bsn_no> 
+ <adr>
+  경상남도 합천군 합천읍 대야로 1184 합천유통(주)
+ </adr> 
+ <hm_url>
+  www.haewain.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-933-9100
+ </phn_no> 
+ <fax_no>
+  055-933-9110
+ </fax_no> 
+ <ind_cd>
+  4631
+ </ind_cd> 
+ <est_dt>
+  20090401
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

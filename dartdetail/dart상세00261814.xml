@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼정데이타서비스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  samjung data service co.ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼정데이타서비스
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  오충용
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111435026
+ </crp_no> 
+ <bsn_no>
+  2138632489
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로 306 제4층 416호,417호,421호(구로동,대륭포스트타워2차)
+ </adr> 
+ <hm_url>
+  www.sds.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2029-0375
+ </phn_no> 
+ <fax_no>
+  02-544-6008
+ </fax_no> 
+ <ind_cd>
+  58221
+ </ind_cd> 
+ <est_dt>
+  19970801
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

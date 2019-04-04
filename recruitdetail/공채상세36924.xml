@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36924
+ </empSeqno>
+ <empWantedTitle>
+  [신입/경력] 실무 게임기획자 모집
+ </empWantedTitle>
+ <empBusiNm>
+  펄어비스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190225
+ </empWantedStdt>
+ <empWantedEndt>
+  20190424
+ </empWantedEndt>
+ <empWantedHomepg>
+  https://www.pearlabyss.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.pearlabyss.com/
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=tqyczLUvysXSEcOVhPgDCkmY370c6ShSg2s%2BI6dMny6Kg%2BGQe5BbzxGJJM7zD26CTwSUWuVQ%2FkyRj1lnzvs%2FnlN%2BNplQKTraQ36dfDwZiAI%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직전환형|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 필기시험
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 대면면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    합격자발표
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    실무 게임기획자
+   </empRecrNm>
+   <jobCont>
+    [모집 프로젝트] - 검은사막 실무 전반 - 검은사막 모바일 실무 전반 [담당 업무] - 세계관 구성 및 퀘스트 제작 - 아이템 제작 및 밸런스 조정 - 캐릭터 액션 제작 및 밸런스 조정 - 몬스터 AI, 액션 제작 및 밸런스 조정 - UI 스크립트와 UX 기획 - 콘텐츠 및 시스템/이벤트 기획 및 제작 - 액션 스크립트 및 데이터 작동 접수
+   </jobCont>
+   <empWantedCareerNm>
+    경력|신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 콘텐츠와 장르에 대한 식견이 다양하고 깊은 분 - 문장 구성과 단어 및 용어 선정 센스 즉, 필력이 탁월하신 분 - 아티스트, 프로그래머, 운영/QA 등 타 직군 경험이 있으신 분 - 프로젝트를 끝까지 완료해 본 경험이 있으신 분 - 게임에 대한 이해도가 뛰어난 분 - 검은사막 혹은 검은사막 모바일의 레벨과 장비 수준의 높은 모험가 - 연차에 상관없이 실무 능력이 탁월하신 분
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    133206
+   </jobsCd>
+   <jobsCdKorNm>
+    게임 프로그래머
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    133302
+   </jobsCd>
+   <jobsCdKorNm>
+    웹 기획자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 고용형태: 인턴쉽 6개월(업무평가 후 정규직 전환 검토) - 국가보훈대상자 및 장애인은 관련법규에 의거 처우합니다. ※ 펄어비스의 게임 다지이너는 한 분야의 스페셜리스트보다 모든 분야에 다재다능한 멀티레이어를 지향하며, 입사 시 모든 실무를 경험하게 됩니다. ※ 지원한 업무 분야와 실제 배정되는 업무 분야가 다를 수 있습니다. ※ 업무 성과에 따라 정규직 조기 전환 검토될 수 있습니다.
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  ~ 채용시 마감 - 채용홈페이지 '입사 지원하기'를 눌러 채용 홈페이지 에서 입사지원서를 작성해 주세요.
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 상기 채용건에 관련된 전화 문의는 받지 않습니다. - 이메일 문의(hr@pearlabyss.com) 또는 채용Q&amp;A
+ </inqryCont>
+ <empnEtcCont>
+  - 상기 일정은 당사 상황에 따라 일부 변동될 수 있습니다. - 입사지원서 내용 및 제출서류가 허위로 판명될 경우 합격 및 채용이 취소 될 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

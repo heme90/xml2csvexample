@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)인천유나이티드
+ </crp_nm> 
+ <crp_nm_e>
+  INCHEON UNITED CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  인천유나이티드
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  강인덕
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1201110324228
+ </crp_no> 
+ <bsn_no>
+  1218162544
+ </bsn_no> 
+ <adr>
+  인천광역시 중구 참외전로 246 3층 (도원동, 인천축구전용경기장)
+ </adr> 
+ <hm_url>
+  www.incheonutd.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  0328805500
+ </phn_no> 
+ <fax_no>
+  0324231509
+ </fax_no> 
+ <ind_cd>
+  91191
+ </ind_cd> 
+ <est_dt>
+  20030801
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

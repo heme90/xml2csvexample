@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에코솔루션
+ </crp_nm> 
+ <crp_nm_e>
+  ECO Solutions Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에코솔루션
+ </crp_nm_i> 
+ <stock_cd>
+  052510
+ </stock_cd> 
+ <ceo_nm>
+  권혁일
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111523623
+ </crp_no> 
+ <bsn_no>
+  1058192202
+ </bsn_no> 
+ <adr>
+  전라북도 정읍시 북면 3산단4길 93
+ </adr> 
+ <hm_url>
+  www.ecosol.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  1899-1211
+ </phn_no> 
+ <fax_no>
+  063-536-2719
+ </fax_no> 
+ <ind_cd>
+  2049
+ </ind_cd> 
+ <est_dt>
+  19980316
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

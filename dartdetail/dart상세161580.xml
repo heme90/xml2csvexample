@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 필옵틱스
+ </crp_nm> 
+ <crp_nm_e>
+  PHILOPTICS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  필옵틱스
+ </crp_nm_i> 
+ <stock_cd>
+  161580
+ </stock_cd> 
+ <ceo_nm>
+  한기수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1351110088083
+ </crp_no> 
+ <bsn_no>
+  1238613175
+ </bsn_no> 
+ <adr>
+  경기도 수원시 권선구 산업로156번길 17
+ </adr> 
+ <hm_url>
+  www.philoptics.com/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-292-8321
+ </phn_no> 
+ <fax_no>
+  031-298-7274
+ </fax_no> 
+ <ind_cd>
+  2927
+ </ind_cd> 
+ <est_dt>
+  20080205
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

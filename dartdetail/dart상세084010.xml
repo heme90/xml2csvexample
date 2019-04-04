@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  대한제강(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DAEHAN STEEL CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  대한제강
+ </crp_nm_i> 
+ <stock_cd>
+  084010
+ </stock_cd> 
+ <ceo_nm>
+  오치훈
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110003268
+ </crp_no> 
+ <bsn_no>
+  6038113259
+ </bsn_no> 
+ <adr>
+  부산광역시 사하구 하신번영로 69
+ </adr> 
+ <hm_url>
+  www.idaehan.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-1670-3300
+ </phn_no> 
+ <fax_no>
+  051-998-8893
+ </fax_no> 
+ <ind_cd>
+  2411
+ </ind_cd> 
+ <est_dt>
+  19540610
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  현대통신(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HYUNDAI TELECOMMUNICATION CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  현대통신
+ </crp_nm_i> 
+ <stock_cd>
+  039010
+ </stock_cd> 
+ <ceo_nm>
+  이건구
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111539597
+ </crp_no> 
+ <bsn_no>
+  2208151999
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 여의대방로 107 (신길동,현대통신빌딩)
+ </adr> 
+ <hm_url>
+  www.hyundaitel.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02 -2240-9211
+ </phn_no> 
+ <fax_no>
+  02 -2240-9100
+ </fax_no> 
+ <ind_cd>
+  26410
+ </ind_cd> 
+ <est_dt>
+  19980425
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

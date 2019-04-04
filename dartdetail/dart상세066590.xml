@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  우수AMS(주)
+ </crp_nm> 
+ <crp_nm_e>
+  WOOSU AMS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  우수AMS
+ </crp_nm_i> 
+ <stock_cd>
+  066590
+ </stock_cd> 
+ <ceo_nm>
+  전종인
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1943110003995
+ </crp_no> 
+ <bsn_no>
+  6088121958
+ </bsn_no> 
+ <adr>
+  경남 창원시 신촌동 192-4번지
+ </adr> 
+ <hm_url>
+  woosu.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (055)2745011
+ </phn_no> 
+ <fax_no>
+  (055)274-5016
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19950613
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

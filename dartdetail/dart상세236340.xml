@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)메디젠휴먼케어
+ </crp_nm> 
+ <crp_nm_e>
+  Medizen Humancare Inc Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  메디젠휴먼케어
+ </crp_nm_i> 
+ <stock_cd>
+  236340
+ </stock_cd> 
+ <ceo_nm>
+  신동직
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101114922286
+ </crp_no> 
+ <bsn_no>
+  1208785788
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 223 큰길타워빌딩 20층
+ </adr> 
+ <hm_url>
+  www.medizencare.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-555-9808
+ </phn_no> 
+ <fax_no>
+  02-555-9805
+ </fax_no> 
+ <ind_cd>
+  70113
+ </ind_cd> 
+ <est_dt>
+  20120720
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

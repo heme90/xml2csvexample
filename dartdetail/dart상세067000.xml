@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)조이시티
+ </crp_nm> 
+ <crp_nm_e>
+  JoyCity Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  조이시티
+ </crp_nm_i> 
+ <stock_cd>
+  067000
+ </stock_cd> 
+ <ceo_nm>
+  조성원, 박영호 (각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111041633
+ </crp_no> 
+ <bsn_no>
+  1168154101
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 분당로 55
+ </adr> 
+ <hm_url>
+  www.joycity.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-789-6500
+ </phn_no> 
+ <fax_no>
+  031-789-6599
+ </fax_no> 
+ <ind_cd>
+  5821
+ </ind_cd> 
+ <est_dt>
+  19940530
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

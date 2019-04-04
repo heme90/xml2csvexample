@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 에이에이아이헬스케어
+ </crp_nm> 
+ <crp_nm_e>
+  AAI Health Care Co. Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이에이아이헬스케어
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이종성, 김신실
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101115265924
+ </crp_no> 
+ <bsn_no>
+  1208804725
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로83길 21 (삼성동, 다형빌딩) 4층
+ </adr> 
+ <hm_url>
+  www.aaihc.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3449-3564
+ </phn_no> 
+ <fax_no>
+  02-3452-3869
+ </fax_no> 
+ <ind_cd>
+  75999
+ </ind_cd> 
+ <est_dt>
+  20131113
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

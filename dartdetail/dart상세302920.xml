@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)더콘텐츠온
+ </crp_nm> 
+ <crp_nm_e>
+  The Contents On Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  더콘텐츠온
+ </crp_nm_i> 
+ <stock_cd>
+  302920
+ </stock_cd> 
+ <ceo_nm>
+  김상윤
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101115017614
+ </crp_no> 
+ <bsn_no>
+  2118887003
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 322 동관 601호, 602호, 603호, 604호, 605호(역삼동, 한신인터밸리24)
+ </adr> 
+ <hm_url>
+  www.tcokr.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2183-1930
+ </phn_no> 
+ <fax_no>
+  02-2183-1939
+ </fax_no> 
+ <ind_cd>
+  59130
+ </ind_cd> 
+ <est_dt>
+  20121206
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

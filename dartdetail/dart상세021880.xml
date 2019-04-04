@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  메이슨캐피탈주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  MASON CAPITAL CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  메이슨캐피탈
+ </crp_nm_i> 
+ <stock_cd>
+  021880
+ </stock_cd> 
+ <ceo_nm>
+  강승태, 윤석준(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  2101110007510
+ </crp_no> 
+ <bsn_no>
+  4028108740
+ </bsn_no> 
+ <adr>
+  전라북도 전주시 완산구 기린대로 213 대우빌딩 14층 12호
+ </adr> 
+ <hm_url>
+  www.kiccapital.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2125-3200
+ </phn_no> 
+ <fax_no>
+  02-3440-1699
+ </fax_no> 
+ <ind_cd>
+  64911
+ </ind_cd> 
+ <est_dt>
+  19890901
+ </est_dt> 
+ <acc_mt>
+  03
+ </acc_mt> 
+</result>

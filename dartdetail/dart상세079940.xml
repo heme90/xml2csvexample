@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)가비아
+ </crp_nm> 
+ <crp_nm_e>
+  GABIA,Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  가비아
+ </crp_nm_i> 
+ <stock_cd>
+  079940
+ </stock_cd> 
+ <ceo_nm>
+  김홍국
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111777585
+ </crp_no> 
+ <bsn_no>
+  2148639239
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 대왕판교로 660 유스페이스1 B동 401호,501호
+ </adr> 
+ <hm_url>
+  www.gabia.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  1544-4370
+ </phn_no> 
+ <fax_no>
+  02-848-6626
+ </fax_no> 
+ <ind_cd>
+  58221
+ </ind_cd> 
+ <est_dt>
+  19990921
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

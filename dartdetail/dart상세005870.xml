@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)휴니드테크놀러지스
+ </crp_nm> 
+ <crp_nm_e>
+  HUNEED TECHNOLOGIES
+ </crp_nm_e> 
+ <crp_nm_i>
+  휴니드테크놀러지스
+ </crp_nm_i> 
+ <stock_cd>
+  005870
+ </stock_cd> 
+ <ceo_nm>
+  신종석
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1341110005202
+ </crp_no> 
+ <bsn_no>
+  1238106174
+ </bsn_no> 
+ <adr>
+  인천광역시 연수구 벤처로 87
+ </adr> 
+ <hm_url>
+  www.huneed.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-457-6000
+ </phn_no> 
+ <fax_no>
+  032-457-6040
+ </fax_no> 
+ <ind_cd>
+  2642
+ </ind_cd> 
+ <est_dt>
+  19681211
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

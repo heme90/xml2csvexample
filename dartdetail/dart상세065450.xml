@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)빅텍
+ </crp_nm> 
+ <crp_nm_e>
+  VICTEK. Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  빅텍
+ </crp_nm_i> 
+ <stock_cd>
+  065450
+ </stock_cd> 
+ <ceo_nm>
+  임만규
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341110048674
+ </crp_no> 
+ <bsn_no>
+  1238139826
+ </bsn_no> 
+ <adr>
+  경기도 이천시 마장면 덕이로 180-31
+ </adr> 
+ <hm_url>
+  www.victek.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (031)631-7301
+ </phn_no> 
+ <fax_no>
+  031-631-7311
+ </fax_no> 
+ <ind_cd>
+  27211
+ </ind_cd> 
+ <est_dt>
+  19960109
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

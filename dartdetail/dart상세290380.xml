@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)대유
+ </crp_nm> 
+ <crp_nm_e>
+  DAEYU CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  대유
+ </crp_nm_i> 
+ <stock_cd>
+  290380
+ </stock_cd> 
+ <ceo_nm>
+  권성한
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1748110000309
+ </crp_no> 
+ <bsn_no>
+  5158100326
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 학동로77길 26 (청담동, 대유빌딩)
+ </adr> 
+ <hm_url>
+  www.dae-yu.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-556-6293
+ </phn_no> 
+ <fax_no>
+  02-542-8055
+ </fax_no> 
+ <ind_cd>
+  2031
+ </ind_cd> 
+ <est_dt>
+  19770406
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

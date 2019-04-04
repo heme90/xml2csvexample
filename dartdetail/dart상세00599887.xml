@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)신텍
+ </crp_nm> 
+ <crp_nm_e>
+  SEEN TEC Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  신텍
+ </crp_nm_i> 
+ <stock_cd>
+  099660
+ </stock_cd> 
+ <ceo_nm>
+  김명순, 김유상(각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1942110046004
+ </crp_no> 
+ <bsn_no>
+  6098146175
+ </bsn_no> 
+ <adr>
+  경상남도 창원시 성산구 중앙대로 64, 1501(상남동, 신텍타워)
+ </adr> 
+ <hm_url>
+  www.seentec.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-210-7000
+ </phn_no> 
+ <fax_no>
+  055-210-7010
+ </fax_no> 
+ <ind_cd>
+  25130
+ </ind_cd> 
+ <est_dt>
+  20010216
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)코엔텍
+ </crp_nm> 
+ <crp_nm_e>
+  Korea Environment Technology Co., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  코엔텍
+ </crp_nm_i> 
+ <stock_cd>
+  029960
+ </stock_cd> 
+ <ceo_nm>
+  이민석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1812110024485
+ </crp_no> 
+ <bsn_no>
+  6108116574
+ </bsn_no> 
+ <adr>
+  울산광역시 남구 용잠동 산 157
+ </adr> 
+ <hm_url>
+  www.koentec.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (052)228-7300
+ </phn_no> 
+ <fax_no>
+  052-228-7270
+ </fax_no> 
+ <ind_cd>
+  38210
+ </ind_cd> 
+ <est_dt>
+  19930716
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

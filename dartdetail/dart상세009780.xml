@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)엠에스씨
+ </crp_nm> 
+ <crp_nm_e>
+  MSC Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  엠에스씨
+ </crp_nm_i> 
+ <stock_cd>
+  009780
+ </stock_cd> 
+ <ceo_nm>
+  김길제, 김호석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1845110000147
+ </crp_no> 
+ <bsn_no>
+  6218109054
+ </bsn_no> 
+ <adr>
+  경상남도 양산시 웅상읍 소주리 439-13
+ </adr> 
+ <hm_url>
+  www.msckorea.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055 -389 -1001
+ </phn_no> 
+ <fax_no>
+  055-389-1120
+ </fax_no> 
+ <ind_cd>
+  10749
+ </ind_cd> 
+ <est_dt>
+  19740412
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

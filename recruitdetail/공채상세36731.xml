@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36731
+ </empSeqno>
+ <empWantedTitle>
+  [신입/경력] UI스크립트 개발자 모집
+ </empWantedTitle>
+ <empBusiNm>
+  펄어비스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190221
+ </empWantedStdt>
+ <empWantedEndt>
+  20190420
+ </empWantedEndt>
+ <empWantedHomepg>
+  https://www.pearlabyss.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.pearlabyss.com/
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=tqyczLUvysXSEcOVhPgDCkmY370c6ShSg2s%2BI6dMny6Kg%2BGQe5BbzxGJJM7zD26CTwSUWuVQ%2FkyRj1lnzvs%2FnlN%2BNplQKTraQ36dfDwZiAI%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※이력서를 기반으로 평가합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    필기전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※직무능력 평가를 위한 문제와 인성시험문제가 출제됩니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    현장실습(2주)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※현업담당과 동일한 수준의 업무를 부여한 후, 실무역량을 평가합니다.(실습비 지급 1주 50만원)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    대면면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※실무진 및 직무별 전문가가 지원자의 현장실습 결과를 토대로 평가합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※모든 채용 절차가 마무리 되며 입사가 확정됩니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    UI 스크립트 개발자
+   </empRecrNm>
+   <jobCont>
+    - 펄어비스에서 개발하는 프로젝트의 UI제작 전반
+   </jobCont>
+   <empWantedCareerNm>
+    경력|신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc>
+    - C++에 대한 깊은 이해 - 적극적이고 열정적이며, 게임에 대한 이해도가 뛰어난 분
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    415504
+   </jobsCd>
+   <jobsCdKorNm>
+    UX/UI 디자이너
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 고용형태: 정규직, 계약직(계약기간 협의) - 국가보훈대상자 및 장애인은 관련법규에 의거 처우합니다.
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  ~ 채용시 마감 - 채용홈페이지 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 상기 채용건에 관련된 전화 문의는 받지 않습니다. 이메일 문의(hr@pearlabyss.com) 또는 채용 Q&amp;A
+ </inqryCont>
+ <empnEtcCont>
+  - 상기 일정은 당사 상황에 따라 일부 변동될 수 있습니다. - 입사지원서 내용 및 제출서류가 허위로 판명될 경우 합격 및 채용이 취소 될 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

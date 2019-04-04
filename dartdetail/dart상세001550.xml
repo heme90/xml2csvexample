@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)조비
+ </crp_nm> 
+ <crp_nm_e>
+  CHOBI CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  조비
+ </crp_nm_i> 
+ <stock_cd>
+  001550
+ </stock_cd> 
+ <ceo_nm>
+  이병만,이용진
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110086599
+ </crp_no> 
+ <bsn_no>
+  2148108783
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 효령로77길 28 동오빌딩 (서초동 1337-4)
+ </adr> 
+ <hm_url>
+  www.chobi.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3488-5853
+ </phn_no> 
+ <fax_no>
+  (02)3488 - 5954
+ </fax_no> 
+ <ind_cd>
+  20312
+ </ind_cd> 
+ <est_dt>
+  19551115
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

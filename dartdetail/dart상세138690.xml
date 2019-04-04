@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)엘아이에스
+ </crp_nm> 
+ <crp_nm_e>
+  LIS Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  엘아이에스
+ </crp_nm_i> 
+ <stock_cd>
+  138690
+ </stock_cd> 
+ <ceo_nm>
+  임태원
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1351110082861
+ </crp_no> 
+ <bsn_no>
+  1238608352
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 엘에스로116번길 91 (호계동)
+ </adr> 
+ <hm_url>
+  www.ltsolution.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-7162-7205
+ </phn_no> 
+ <fax_no>
+  02-552-9939
+ </fax_no> 
+ <ind_cd>
+  29221
+ </ind_cd> 
+ <est_dt>
+  20061226
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

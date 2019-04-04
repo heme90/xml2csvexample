@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)디엠에스
+ </crp_nm> 
+ <crp_nm_e>
+  DMS Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  DMS
+ </crp_nm_i> 
+ <stock_cd>
+  068790
+ </stock_cd> 
+ <ceo_nm>
+  박용석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1346110012687
+ </crp_no> 
+ <bsn_no>
+  1258129149
+ </bsn_no> 
+ <adr>
+  경기도 용인시 기흥구 흥덕중앙로 120 유타워 6층 (영덕동)
+ </adr> 
+ <hm_url>
+  www.dms21.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-8031-1133
+ </phn_no> 
+ <fax_no>
+  031-211-4990
+ </fax_no> 
+ <ind_cd>
+  292
+ </ind_cd> 
+ <est_dt>
+  19990708
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  씨제이씨지브이(주)
+ </crp_nm> 
+ <crp_nm_e>
+  CJ CGV CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  CJ CGV
+ </crp_nm_i> 
+ <stock_cd>
+  079160
+ </stock_cd> 
+ <ceo_nm>
+  최병환
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101111673220
+ </crp_no> 
+ <bsn_no>
+  1048145690
+ </bsn_no> 
+ <adr>
+  서울특별시 용산구 한강대로23길 55 아이파크몰 6층(한강로동)
+ </adr> 
+ <hm_url>
+  www.cgv.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-371-6660
+ </phn_no> 
+ <fax_no>
+  02-2017-1420
+ </fax_no> 
+ <ind_cd>
+  59141
+ </ind_cd> 
+ <est_dt>
+  19990330
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

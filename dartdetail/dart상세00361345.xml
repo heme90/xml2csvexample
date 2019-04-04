@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 서진캠
+ </crp_nm> 
+ <crp_nm_e>
+  seojin cam co.,ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  서진캠
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  임영호
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1351110050173
+ </crp_no> 
+ <bsn_no>
+  1238150345
+ </bsn_no> 
+ <adr>
+  경기도 평택시 청북읍 청북산단로 31 (어연리, 884번지) 주식회사 서진캠
+ </adr> 
+ <hm_url>
+  www.seojincam.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-680-9100
+ </phn_no> 
+ <fax_no>
+  031-680-9112
+ </fax_no> 
+ <ind_cd>
+  30
+ </ind_cd> 
+ <est_dt>
+  19990903
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

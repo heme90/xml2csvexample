@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)지엠피
+ </crp_nm> 
+ <crp_nm_e>
+  Gmp
+ </crp_nm_e> 
+ <crp_nm_i>
+  지엠피
+ </crp_nm_i> 
+ <stock_cd>
+  018290
+ </stock_cd> 
+ <ceo_nm>
+  정철, 김양평(공동대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110509872
+ </crp_no> 
+ <bsn_no>
+  2028135574
+ </bsn_no> 
+ <adr>
+  경기도 파주시 산업단지길 139 (주)G.M.P
+ </adr> 
+ <hm_url>
+  www.gmp.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031 -943 -4600
+ </phn_no> 
+ <fax_no>
+  031 -942 -8812
+ </fax_no> 
+ <ind_cd>
+  263
+ </ind_cd> 
+ <est_dt>
+  19861107
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

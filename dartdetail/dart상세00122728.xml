@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)범양사
+ </crp_nm> 
+ <crp_nm_e>
+  Pumyang Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  범양사
+ </crp_nm_i> 
+ <stock_cd>
+  002480
+ </stock_cd> 
+ <ceo_nm>
+  이정식
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110016091
+ </crp_no> 
+ <bsn_no>
+  1068151034
+ </bsn_no> 
+ <adr>
+  서울특별시 용산구 장문로6길 12 범양빌딩 5층 (주)범양사
+ </adr> 
+ <hm_url>
+  www.pumyang.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-7993-812
+ </phn_no> 
+ <fax_no>
+  02-799-3737
+ </fax_no> 
+ <ind_cd>
+  13213
+ </ind_cd> 
+ <est_dt>
+  19580904
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

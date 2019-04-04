@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼아제약(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Sam-A Pharm. Co. Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼아제약
+ </crp_nm_i> 
+ <stock_cd>
+  009300
+ </stock_cd> 
+ <ceo_nm>
+  허 준, 허미애 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341110000765
+ </crp_no> 
+ <bsn_no>
+  1388105823
+ </bsn_no> 
+ <adr>
+  강원도 원주시 문막읍 동화공단로 49
+ </adr> 
+ <hm_url>
+  www.samapharm.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2056-7200
+ </phn_no> 
+ <fax_no>
+  02-2056-7388
+ </fax_no> 
+ <ind_cd>
+  21210
+ </ind_cd> 
+ <est_dt>
+  19731004
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

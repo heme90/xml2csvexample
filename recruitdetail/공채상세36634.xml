@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36634
+ </empSeqno>
+ <empWantedTitle>
+  보안 직군 모집
+ </empWantedTitle>
+ <empBusiNm>
+  넷마블
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190222
+ </empWantedStdt>
+ <empWantedEndt>
+  20190422
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.netmarble.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://company.netmarble.com/rem/www/notice.jsp?anno_id=1523555&amp;annotype=all
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRinwzgLAM2A8RrQ5kkeEpm6s5MYTvTTufOJd6fdIXzJ6V7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류합격자 분들을 대상으로 개별 면접을 진행합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    합격발표
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [보안] 정책보안
+   </empRecrNm>
+   <jobCont>
+    - 정보보호 정책 수립 및 운영 - 글로벌 개인정보 컴플라이언스 대응 및 운영 - 정보보호 인식제고 활동 - 정보보호 인증 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 다양한 업무환경의 보안정책 수립 및 구현 경력 (클라우드, 해외지사, 외부협업, 계열사 등) - GDPR, COPPA, 네트워크안전법 등 글로벌 컴플라이언스 대응 경력 - 재해복구훈련, 침해사고훈련, 피싱메일훈련 경력 - 보안솔루션 도입 및 운영 경력 - IT회사 업무 경력 - 영어 비즈니스 커뮤니케이션 능력
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [보안] 인프라보안 (보안시스템 운영 및 침해사고 대응)
+   </empRecrNm>
+   <jobCont>
+    - 보안시스템 운영, 관리 및 트러블슈팅(F/W, IDS, Anti-DDoS, ESM, VPN, 백신, AD) - 사내 네트워크/서버/PC/장비 보안 관리 및 보안 이벤트 모니터링 - 장애 및 보안 침해사고 탐지/방어 및 사고 원인 분석, 영향도 파악, 재발 방지 대책 수립
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - Python, Ruby, JAVA, Bash Script 사용 경험 - Public Cloud(AWS, Azure, GCP 등) 사용 경험 - 웹 해킹 관련 지식 및 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [보안] 게임보안
+   </empRecrNm>
+   <jobCont>
+    - 모바일 게임 보안을 위한 모듈 개발 및 유지보수 - 모바일 게임 어뷰징 이슈 대응 - 모바일 게임 해킹 기법 연구/분석 및 체계 정립
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 게임보안 솔루션 개발 경험 - 보안 관련 Agent 개발 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    135000
+   </jobsCd>
+   <jobsCdKorNm>
+    정보보안 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용페이지 온라인 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 &gt; 인재채용 &gt; 채용문의
+ </inqryCont>
+ <empnEtcCont>
+  * 허위기재 사실이 발견될 시에는 불합격 또는 입사가 취소될 수 있습니다. * 추후 입사 시 당사의 기술과 업무 매뉴얼을 바탕으로 업무를 하게 되므로, 당사는 타 회사의 영업비밀을 필요로 하지 않습니다. * 필요한 경우, 합법적인 방법과 절차를 통해 취득하여 사용합니다. * 입사지원자께서는 전 직장의 영업비밀을 침해하는 일이 없도록 각별히 유의하여 주시기 바라며, 침해 및 관련 분쟁 발생시 본인의 책임으로 당사를 면책하여야 함을 주지하여 주시기 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

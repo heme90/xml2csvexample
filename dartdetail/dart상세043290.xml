@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  케이맥(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Korea Materials &amp; Analysis Corp.
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이맥
+ </crp_nm_i> 
+ <stock_cd>
+  043290
+ </stock_cd> 
+ <ceo_nm>
+  이재원
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1601110058077
+ </crp_no> 
+ <bsn_no>
+  3148117170
+ </bsn_no> 
+ <adr>
+  대전광역시 유성구 테크노8로 33
+ </adr> 
+ <hm_url>
+  www.kmac.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  0429303800
+ </phn_no> 
+ <fax_no>
+  042-930-3843
+ </fax_no> 
+ <ind_cd>
+  292
+ </ind_cd> 
+ <est_dt>
+  19961101
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

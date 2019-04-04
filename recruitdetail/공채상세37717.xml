@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37717
+ </empSeqno>
+ <empWantedTitle>
+  [전산(네트웍)] 좋은사람들 네트워크(전산) 관리부문 신입사원 모집
+ </empWantedTitle>
+ <empBusiNm>
+  좋은사람들
+ </empBusiNm>
+ <coClcdNm></coClcdNm>
+ <empWantedStdt>
+  20190327
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.gpin.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.gpin.co.kr/recruit/recruit_view.asp?m_cd=301&amp;CurID=1000000545&amp;PartNm=%C0%FC%BB%EA(%B3%D7%C6%AE%BF%F7)&amp;CareerYN=N&amp;MenuLocCD=&amp;ResultYn=N&amp;SehTab=0
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRipUbAk1aazq7%2FaiBZdhQ8yhAg1%2Bz7QimPU5SMJqWl6cD7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    입사지원서를 통해 기본 인적 사항, 창의력, 열정, 입사 후 포부 등을 검토
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무진 면접전형(1차)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    핵심가치 부합여부, 조직적합성, 발전가능성, 업무적합성 등을 검증
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    One - Day 면접전형(2차)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    1일간 회사 및 직무를 체험하여 조직적응능력/직무수행능력을 검증
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    경영진 면접전형(3차)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    특정 주제에 대한 발표 및 자유토의를 통한 창의력 및 사고능력을 검증
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    입사일자 및 처우협상을 통한 최종 입사
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    네트워크(전산) 관리부문
+   </empRecrNm>
+   <jobCont>
+    - 전산실 서버 및 네트워크 관리하기 - 사내 PC유지보수 및 헬프데스크 업무하기 - 정보보안 관리 하기 : 보안솔루션, 방화벽, VPN, Active directory 등
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    135000
+   </jobsCd>
+   <jobsCdKorNm>
+    정보보안 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지 온라인 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 기타 문의사항은 채용담당자에게 문의바랍니다. (recruit@gpin.co.kr)
+ </inqryCont>
+ <empnEtcCont>
+  - 지원서를 허위기재 시 입사가 취소될 수 있습니다. - 취업보호대상자는 관계 법령에 의거 우대합니다
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

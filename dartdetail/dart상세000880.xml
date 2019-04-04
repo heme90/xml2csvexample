@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)한화
+ </crp_nm> 
+ <crp_nm_e>
+  HANWHA CORP
+ </crp_nm_e> 
+ <crp_nm_i>
+  한화
+ </crp_nm_i> 
+ <stock_cd>
+  000880
+ </stock_cd> 
+ <ceo_nm>
+  금춘수, 김연철, 이민석, 옥경석
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110002959
+ </crp_no> 
+ <bsn_no>
+  2028116825
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 청계천로 86 24층
+ </adr> 
+ <hm_url>
+  www.hanwhacorp.co.kr
+ </hm_url> 
+ <ir_url>
+  www.hanwhacorp.co.kr
+ </ir_url> 
+ <phn_no>
+  02-729-1114
+ </phn_no> 
+ <fax_no>
+  0505-730-3333
+ </fax_no> 
+ <ind_cd>
+  20494
+ </ind_cd> 
+ <est_dt>
+  19521028
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

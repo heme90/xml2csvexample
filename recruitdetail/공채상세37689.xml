@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37689
+ </empSeqno>
+ <empWantedTitle>
+  공채 13기 상반기 신입사원 모집
+ </empWantedTitle>
+ <empBusiNm>
+  모바일리더
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190327
+ </empWantedStdt>
+ <empWantedEndt>
+  20190411
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.mobileleader.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.mobileleader.com/c_recruit/c_career_201903/
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRir1l7RVuKKiEhpYtNSBbYBvmO0I5YPVtzN3E6NVlJPkR7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqqgNPD4QmH7Cko24rKM%2BrJnfrpPt3DGNm2JRtC5F12Le1zqtaJueFe1pBHNje14C4O6FvNdRITlyEe7%2BTpu9lUT&amp;realFileNm=UmVjcnVpdDIwMTkuemlw
+   </regFileUrl>
+   <realFileNm>
+    Recruit2019.zip
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm></selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    소프트웨어 개발
+   </empRecrNm>
+   <jobCont>
+    – 솔루션 기반 프로젝트 구축
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    OCR
+   </empRecrNm>
+   <jobCont>
+    – OCR 솔루션 개발 – 영상처리 알고리즘 개발
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    석사|박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    딥러닝
+   </empRecrNm>
+   <jobCont>
+    – 딥러닝 기반 이미지 인식
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    석사|박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    132000
+   </jobsCd>
+   <jobsCdKorNm>
+    컴퓨터시스템 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    133102
+   </jobsCd>
+   <jobsCdKorNm>
+    펌웨어 및 임베디드 소프트웨어 프로그래머
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [공통사항] •병역필 또는 면제자, 긍정적인 마인드와 원활한 커뮤니케이션 능력을 가진 사람, 배움에 대한 열정이 큰 사람 [우대사항] •자필 자기소개서 제출자 및 방문/우편 제출자 가산점 부여 •관련 자격증 소지자 우대
+ </recrCommCont>
+ <empSubmitDocCont>
+  •아래 입사지원서 양식 다운로드 후 작성 제출 •제출 서류 : 입사지원서, 성적증명서 (학사 성적증명서 포함), OCR, 딥러닝 분야 한해 개발 포트폴리오 제출 (1차 PT 면접 발표 주제, 약 20분 분량)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  •우편/방문접수 : 서울시 강남구 강남대로 330 5층(역삼동, 우덕빌딩) (주)모바일리더 경영지원팀 채용담당자 앞 •이메일 접수 : recruit2019@mobileleader.com &lt;※방문접수, 등기우편 모두 마감일 18:00까지 접수된 서류에 한하여 유효함.&gt;
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 '채용FAQ' 참조
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

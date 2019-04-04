@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에이티세미콘
+ </crp_nm> 
+ <crp_nm_e>
+  AT semicon Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이티세미콘
+ </crp_nm_i> 
+ <stock_cd>
+  089530
+ </stock_cd> 
+ <ceo_nm>
+  김형준
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1344110022747
+ </crp_no> 
+ <bsn_no>
+  1268155539
+ </bsn_no> 
+ <adr>
+  경기도 이천시 마장면 서이천로 138 -
+ </adr> 
+ <hm_url>
+  www.atsemi.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-5208-5055
+ </phn_no> 
+ <fax_no>
+  070-7950-3334
+ </fax_no> 
+ <ind_cd>
+  2611
+ </ind_cd> 
+ <est_dt>
+  20010727
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

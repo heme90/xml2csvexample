@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37607
+ </empSeqno>
+ <empWantedTitle>
+  정규직(부연구위원) 채용 공고
+ </empWantedTitle>
+ <empBusiNm>
+  한국청소년정책연구원
+ </empBusiNm>
+ <coClcdNm>
+  공공기관
+ </coClcdNm>
+ <empWantedStdt>
+  20190321
+ </empWantedStdt>
+ <empWantedEndt>
+  20190404
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.nypi.re.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.nypi.re.kr/brdartcl/boardarticleView.do?menu_nix=5PAq17HB&amp;brd_id=BDIDX_8IVu162ox5qsT7617y57BG&amp;cont_idx=1230&amp;seltab_idx=0&amp;edomweivgp=R
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRig64nnsbulM3sQCnXxs4ac7jYuqBIYBAOfaywj%2BNWuPk7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqqv3VNem7%2BeduJBNF%2Fa9amNNwlNK1MmzPPWXRaZNS%2Bda0FdHH%2BP5mSGJJkvFWlis%2Fq6FvNdRITlyEe7%2BTpu9lUT&amp;realFileNm=7ZWc6rWt7LKt7IaM64WE7KCV7LGF7Jew6rWs7JuQIOygleq3nOyngSjrtoDsl7DqtazsnITsm5ApIOyxhOyaqS56aXA=
+   </regFileUrl>
+   <realFileNm>
+    한국청소년정책연구원 정규직(부연구위원) 채용.zip
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    1차전형
+   </selsNm>
+   <selsSchdCont>
+    2019.04.09(화)~11(목)
+   </selsSchdCont>
+   <selsCont>
+    서류심사/ 합격자발표 : 2019.04.15(월)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차전형
+   </selsNm>
+   <selsSchdCont>
+    2019.04.18(목)
+   </selsSchdCont>
+   <selsCont>
+    논문발표 및 면접심사/ 장소 : 대회의실
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격자 발표
+   </selsNm>
+   <selsSchdCont>
+    2019.04.24(수)
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※위 전형일정은 추후 원의 사정에 의하여 변경될 수 있음 ※ 각 전형 단계별로 합격자에 한하여 본원 홈페이지(http://www.nypi.re.kr)와 채용시스템(https://nypi.recruiter.co.kr) 게시 및 개별 통보
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    부연구위원
+   </empRecrNm>
+   <jobCont>
+    - 교육, 심리, 사회복지, 사회 등 아동‧청소년, 청년 연구 (직무설명서 참조)
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    ◦ 보훈대상자, 장애인, 비수도권 지역인재* 등은 관련 법률 및 정부권장 정책에 의거 가산점 부여 * 비수도권 지역인재 : 학사학위를 취득한 대학교의 소재지가 서울, 경기, 인천 이외의 지역인 경우
+   </sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    세종
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    03
+   </jobsCd>
+   <jobsCdKorNm>
+    교육·법률·사회복지·경찰·소방 및 군인
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ※ 본 채용은 국가직무능력표준을 활용한 블라인드 채용 방식을 따르고 있습니다. 채용분야의 주요 직무수행 내용과 요구되는 지식 · 기술 · 태도 등은 첨부된 직무설명서를 참고하시기 바랍니다. [직렬/직급] - 연구직/부연구위원 [근무조건] ❍ 근 무 지 : 세종특별자치시 시청대로 370, 세종국책연구단지 ❍ 근무시간 : 5일(주 40시간/월~금) 근무 ❍ 보 수 : 연구원 규정에 따름 ❍ 임용예정일 : 2019년 05월 01일(수) ※ 최초 임용직원의 계약기간은 1년으로 하되, 인사위원회에서 재계약 여부 심의 [결격사유] ◦ 다음 각호에 해당하는 자 1. 국가공무원법 제33조 제1항 각 호에 해당하는 사람 2. 법률에 의하여 공민권이 정지 또는 박탈된 사람 3. 병역의무를 기피한 사실이 있는 사람 4. 신체검사 결과 채용실격으로 판정된 사람 5. 연구원의 징계처분에 의하여 면직된 날로부터 2년이 경과하지 아니한 사람 6. 최근 5년 내 타 공공기관에서 부정한 방법으로 채용된 사실이 적발되어 채용이 취소된 사람
+ </recrCommCont>
+ <empSubmitDocCont>
+  [입사지원시(온라인 채용시스템에 입력 및 업로드)] ◦입사지원서(본원 소정양식) 1부 ◦자기소개서(본원 소정양식) 1부 ◦개인정보 제공 및 이용 동의서(본원 소정양식) 1부 ◦최근4년간 연구업적물 중 200%에 해당하는 연구실적물 각 1부(연구업적 기재분 중 본인 선정) [논문발표, 면접전형시 직접 제출(서류전형 합격자에 한함)] ◦보훈대상자, 장애인관련 증명서 1부(해당자) ◦채용분야와 관련된 자격증 사본 1부(해당자) ◦학위증명서 및 성적증명서(학사, 석사, 박사) 각 1부 ◦경력증명서 각 1부(해당자) ※ 입사지원시 제출서류에 블라인드 사항(개인의 신상, 학교명, 직장명, 연구실적물에 저자 소속기관명과 공동저자명 등)이 기재‧언급되어 있는 경우 감점처리 되므로, 블라인드 처리 여부를 반드시 확인 후 최종 제출 ※ 논문발표 및 면접전형시 제출서류는 인사 담당부서에서 사실관계를 확인하기 위한 것으로 면접심사위원에게 정보가 제공되지 않음. ※ 연구실적물 저자수 기준 인정비율 - 자세한 사항은 채용홈페이지 및 첨부 참조
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 온라인 접수(https://nypi.recruiter.co.kr) - 입사지원서 작성 후 최종 제출버튼을 클릭하지 않거나, 미제출 서류가 있을 시에는 접수되지 않음. - 입사지원서 수정은 접수기간 중에만 가능하며, 접수기간 종료 후에는 불가함. ※ 최종 제출버튼 클릭 후 원서 수정이 필요한 경우는 e-mail / Q&amp;A(지원자 성명 및 지원분야 기재) 등을 통해 인사팀에 문의(단, 근무시간(평일 09:00~18:00)에 한함.)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 세종특별자치시 시청대로 370 세종국책연구단지 사회정책동(D동) 7층 한국청소년정책연구원 인사팀 - 전화 : 044-415-2179, 2183, 2202 - 채용 홈페이지(https://nypi.recruiter.co.kr) 채용Q&amp;A 게시판
+ </inqryCont>
+ <empnEtcCont>
+  ❍ 작성시 유의사항 - 본 채용은 블라인드 채용으로서, 입사지원시 제출서류에 블라인드 사항(개인의 신상, 학교명, 직장명, 연구실적물에 저자 소속기관명과 공동저자명 등)이 기재‧ 언급되어 있는 경우 감점처리 되므로, 블라인드 처리 여부를 반드시 확인 후 제출하도록 함. ex) 한국대학교 → ○○ 대학교, 한국연구소 → ○○ 연구소 등 -입사지원서의 기재란에는 문서의 형태로 증빙이 가능한 사실만 기록해야 함. - 제출서류의 기재내용 중 허위사실(학력, 경력, 우대사항 등)이 있을 경우 합격을 취소함. - 입사지원서의 기재착오 또는 누락, 연락두절, 증빙서류 미제출 등으로 인한 불이익은 응시자 책임으로 함. - 접수기간 마감일에는 접속자 수가 많아 인터넷 접수가 원활하지 않을 수 있으므로 가급적 충분한 시간적 여유를 두고 입사지원서 제출 완료 ❍ 전형 결과 해당분야 적격자가 없을 경우 채용하지 않을 수 있음. ❍ 최종 합격자에 대한 신원조회 결과, 결격사유가 확인된 경우 임용을 취소함.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

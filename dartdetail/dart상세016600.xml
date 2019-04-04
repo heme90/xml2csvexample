@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  큐캐피탈파트너스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Q Capital Partners Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  큐캐피탈
+ </crp_nm_i> 
+ <stock_cd>
+  016600
+ </stock_cd> 
+ <ceo_nm>
+  황희연
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110339691
+ </crp_no> 
+ <bsn_no>
+  2208108089
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 30611층(역삼동. 카이트타워)
+ </adr> 
+ <hm_url>
+  www.qcapital.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-538-2411
+ </phn_no> 
+ <fax_no>
+  02-538-2415
+ </fax_no> 
+ <ind_cd>
+  649
+ </ind_cd> 
+ <est_dt>
+  19821217
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

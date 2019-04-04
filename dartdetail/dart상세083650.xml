@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  비에이치아이주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  BHI Co., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  비에이치아이
+ </crp_nm_i> 
+ <stock_cd>
+  083650
+ </stock_cd> 
+ <ceo_nm>
+  우종인, 조원래 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1943110006262
+ </crp_no> 
+ <bsn_no>
+  6158108287
+ </bsn_no> 
+ <adr>
+  경상남도 함안군 군북면 장백로 122
+ </adr> 
+ <hm_url>
+  www.bhi.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-585-3800
+ </phn_no> 
+ <fax_no>
+  055-585-3805
+ </fax_no> 
+ <ind_cd>
+  29176
+ </ind_cd> 
+ <est_dt>
+  19980612
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

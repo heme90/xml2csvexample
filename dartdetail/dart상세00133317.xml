@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에스티씨 라이프
+ </crp_nm> 
+ <crp_nm_e>
+  STC LIFE Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에스티씨라이프
+ </crp_nm_i> 
+ <stock_cd>
+  026220
+ </stock_cd> 
+ <ceo_nm>
+  이계호
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1301110028852
+ </crp_no> 
+ <bsn_no>
+  1348100898
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 서북구 성거읍 모전1길 139-11 (정촌리)
+ </adr> 
+ <hm_url>
+  www.stclife.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-511-2844
+ </phn_no> 
+ <fax_no>
+  02-511-6419
+ </fax_no> 
+ <ind_cd>
+  47813
+ </ind_cd> 
+ <est_dt>
+  19880328
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

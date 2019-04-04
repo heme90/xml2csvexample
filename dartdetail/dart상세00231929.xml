@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  지에스이피에스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  GS EPS CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  지에스이피에스
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김응식
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1650110004621
+ </crp_no> 
+ <bsn_no>
+  3118108518
+ </bsn_no> 
+ <adr>
+  충청남도 당진시 송악읍 부곡공단로 241
+ </adr> 
+ <hm_url>
+  www.gseps.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2005-8526
+ </phn_no> 
+ <fax_no>
+  02-2005-8599
+ </fax_no> 
+ <ind_cd>
+  35113
+ </ind_cd> 
+ <est_dt>
+  19961009
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

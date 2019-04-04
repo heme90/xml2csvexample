@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)셀루메드
+ </crp_nm> 
+ <crp_nm_e>
+  CELLUMED CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  셀루메드
+ </crp_nm_i> 
+ <stock_cd>
+  049180
+ </stock_cd> 
+ <ceo_nm>
+  유인수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110019225
+ </crp_no> 
+ <bsn_no>
+  1348101408
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 디지털로 130 402(가산동, 에이스테크노타워 9차)
+ </adr> 
+ <hm_url>
+  www.cellumed.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3281-0471
+ </phn_no> 
+ <fax_no>
+  02-2104-0478
+ </fax_no> 
+ <ind_cd>
+  21101
+ </ind_cd> 
+ <est_dt>
+  19850430
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

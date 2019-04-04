@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)넵튠
+ </crp_nm> 
+ <crp_nm_e>
+  Neptune Company
+ </crp_nm_e> 
+ <crp_nm_i>
+  넵튠
+ </crp_nm_i> 
+ <stock_cd>
+  217270
+ </stock_cd> 
+ <ceo_nm>
+  정욱
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115671171
+ </crp_no> 
+ <bsn_no>
+  8068800032
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 성남대로331번길 8 13층(정자동, 킨스타워)
+ </adr> 
+ <hm_url>
+  www.neptunegames.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-698-3498
+ </phn_no> 
+ <fax_no>
+  031-698-3499
+ </fax_no> 
+ <ind_cd>
+  582
+ </ind_cd> 
+ <est_dt>
+  20150319
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

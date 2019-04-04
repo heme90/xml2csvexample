@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  씨큐브(주)
+ </crp_nm> 
+ <crp_nm_e>
+  CQV Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨큐브
+ </crp_nm_i> 
+ <stock_cd>
+  101240
+ </stock_cd> 
+ <ceo_nm>
+  장길완
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1543110010576
+ </crp_no> 
+ <bsn_no>
+  3018147023
+ </bsn_no> 
+ <adr>
+  충청북도 진천군 진천읍 성중로 144 시큐브
+ </adr> 
+ <hm_url>
+  www.cqv.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043-531-2500
+ </phn_no> 
+ <fax_no>
+  043-536-0314
+ </fax_no> 
+ <ind_cd>
+  20131
+ </ind_cd> 
+ <est_dt>
+  20001020
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

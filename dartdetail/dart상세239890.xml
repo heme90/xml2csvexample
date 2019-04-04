@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)피엔에이치테크
+ </crp_nm> 
+ <crp_nm_e>
+  P&amp;H TECH Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  피엔에이치테크
+ </crp_nm_i> 
+ <stock_cd>
+  239890
+ </stock_cd> 
+ <ceo_nm>
+  현서용
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1311110237931
+ </crp_no> 
+ <bsn_no>
+  1298636614
+ </bsn_no> 
+ <adr>
+  경기도 용인시 기흥구 동백중앙로16번길 16-25, 804호(중동, 대우프론티어밸리1단지)
+ </adr> 
+ <hm_url>
+  www.phtech.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-8021-1890
+ </phn_no> 
+ <fax_no>
+  031-8021-1895
+ </fax_no> 
+ <ind_cd>
+  20119
+ </ind_cd> 
+ <est_dt>
+  20090824
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

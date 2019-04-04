@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 약침
+ </crp_nm> 
+ <crp_nm_e>
+  Pharmacopuncture Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  약침
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  강대인
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101113726382
+ </crp_no> 
+ <bsn_no>
+  1098609243
+ </bsn_no> 
+ <adr>
+  경기도 안양시 만안구 전파로 48 (안양동, (주)유테크) 4층 406호
+ </adr> 
+ <hm_url>
+  www.ppmedi.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  0316895713
+ </phn_no> 
+ <fax_no>
+  0316895714
+ </fax_no> 
+ <ind_cd>
+  21210
+ </ind_cd> 
+ <est_dt>
+  20070801
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

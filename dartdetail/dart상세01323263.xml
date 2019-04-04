@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 선향
+ </crp_nm> 
+ <crp_nm_e>
+  SUN HYANG CO.LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  선향
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  방정철
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  2850110266565
+ </crp_no> 
+ <bsn_no>
+  1288709504
+ </bsn_no> 
+ <adr>
+  경기도 부천시 길주로77번길 19-45 305호 (상동, 디아뜨갤러리4차)
+ </adr> 
+ <hm_url>
+  suncos.cafe24.com/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-4215-6170
+ </phn_no> 
+ <fax_no>
+  032-323-6170
+ </fax_no> 
+ <ind_cd>
+  46800
+ </ind_cd> 
+ <est_dt>
+  20140516
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

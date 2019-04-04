@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36591
+ </empSeqno>
+ <empWantedTitle>
+  공유 모빌리티 플랫폼 기획
+ </empWantedTitle>
+ <empBusiNm>
+  한컴엠디에스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190212
+ </empWantedStdt>
+ <empWantedEndt>
+  20190412
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.mdstec.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.hancommds.com/recruit/contents.asp?no=264
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRitqgbEU%2FQwlkvZWsAZW64TLI0%2FwOuWJ8gn3AVZ5bGspY7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인적성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    공유 서비스 기획
+   </empRecrNm>
+   <jobCont>
+    - 공유 서비스 기획 (UI/UX 앱 기획 포함) - 공유 플랫폼 기획 - 공유 사업 기획
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    - Hybrid App Framework 관련 기획 경험자 - 디자인 능력이 있는 분 - 한컴MDS아카데미 교육수료자 (예정자)
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    026102
+   </jobsCd>
+   <jobsCdKorNm>
+    마케팅·광고·홍보·상품기획 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    415504
+   </jobsCd>
+   <jobsCdKorNm>
+    UX/UI 디자이너
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 직군: 기획마케팅 - 근무부서 : IoT 사업총괄 산하 공유서비스(SS)개발팀 - 장애인 및 국가유공자/보훈대상자는 관련법에 의해 우대
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 최종 합격자에 한해 제출
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ~ 채용시까지 - 입사 지원은 당사 홈페이지를 통한 온라인 지원만 가능 (* 서류접수 기간 중이라도 수시면접 진행으로 조기 마감될 수 있음)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 문의: HR팀 박장근 과장 (031-627-3196, recruit@hancommds.com)
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

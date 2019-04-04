@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  금호타이어(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KUMHO TIRE CO., INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  금호타이어
+ </crp_nm_i> 
+ <stock_cd>
+  073240
+ </stock_cd> 
+ <ceo_nm>
+  전대진
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101112810590
+ </crp_no> 
+ <bsn_no>
+  1018195610
+ </bsn_no> 
+ <adr>
+  광주광역시 광산구 어등대로 658
+ </adr> 
+ <hm_url>
+  www.kumhotire.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6303-8114
+ </phn_no> 
+ <fax_no>
+  02-6303-8159
+ </fax_no> 
+ <ind_cd>
+  22111
+ </ind_cd> 
+ <est_dt>
+  20030630
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

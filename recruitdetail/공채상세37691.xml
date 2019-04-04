@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37691
+ </empSeqno>
+ <empWantedTitle>
+  2019년 부문별 경력직 전문직원 채용
+ </empWantedTitle>
+ <empBusiNm>
+  케이비국민카드
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190326
+ </empWantedStdt>
+ <empWantedEndt>
+  20190405
+ </empWantedEndt>
+ <empWantedHomepg>
+  https://card.kbcard.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://kbcard.saramin.co.kr/_service/zlight/apply_site/apply/recruit_list.asp#
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=tqyczLUvysXSEcOVhPgDCnyMDE2QBh3sa8wM34jhXZaIhjEn%2BeYFMCG8BSUIt%2FYpns63Zvpa2J66aHkelv62GI4llj4QrHHYVYh4APm9yrg%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직전환형|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류접수
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    조직적합도 검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    신체검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    조직적합도 검사는 서류전형 합격자에 한해 온라인으로 실시 / * 전형별 선발 결과는 개별 통보
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    디지털서식관리 개발/운영[IT]
+   </empRecrNm>
+   <jobCont>
+    - 디지털서식관리(디지털창구) 개발 프로젝트 수행 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    데이터베이스 및 관련 솔루션 운영/관리[IT]
+   </empRecrNm>
+   <jobCont>
+    - 데이터베이스 및 관련 솔루션 운영/관리
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    중고차 할부금융 기획/추진
+   </empRecrNm>
+   <jobCont>
+    - 중고차 할부금융 기획 (상품개발, 판매계획 수립 등) - 중고차 할부금융 영업조직 구축 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    오픈 API 기획/추진
+   </empRecrNm>
+   <jobCont>
+    - 오픈 API 기획 및 제휴처 확대
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI 기반 알고리즘 및 솔루션 연구/개발
+   </empRecrNm>
+   <jobCont>
+    - 자연어처리, 음성인식, 추천 등 AI기술 기반 서비스 개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    026101
+   </jobsCd>
+   <jobsCdKorNm>
+    경영 기획 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    133101
+   </jobsCd>
+   <jobsCdKorNm>
+    시스템 소프트웨어 개발자(프로그래머)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    134103
+   </jobsCd>
+   <jobsCdKorNm>
+    데이터베이스 운영·관리자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 채용인원: 각 0명 [근무형태] - 근무형태 : 계약직원 ㅇ 일정기간 경과후 별도 심사를 통해 일반직원(정규직원) 전환 - 급여조건 : 현재 급여수준 + ＠ (개별 연봉협상을 통해 확정) [공통 지원자격] - 부분별 요구 직무경력 보유자 (無 경력자 지원 불가) - 경력보유자의 경우라도 군복무 및 학위취득 사유로 채용 즉시 직무배치가 불가한 자는 지원 불가 - 남자의 경우 병역필 또는 면제자 - 해외여행의 결격사유가 없는 자 [우대사항] - 「국가유공자 등 예우 및 지원에 관한 법률」에 의한 취업보호대상자 우대 - 「장애인 고용촉진 및 직업 재활법」에 의한 장애인 지원자 우대
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 전문직원 채용홈페이지(http://kbcard.saramin.co.kr) 온라인 지원서 등록
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 기타 문의사항은 채용 홈페이지 ‘문의사항 &gt; 질문하기’를 이용하여 주시기 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  - 지원서 기재사항이 사실과 다른 것으로 판명될 경우 합격/채용이 취소됩니다. - 본 채용과 관련하여 부정한 청탁 사실이 확인된 경우 합격/채용이 취소됩니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

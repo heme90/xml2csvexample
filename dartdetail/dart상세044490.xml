@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)태웅
+ </crp_nm> 
+ <crp_nm_e>
+  TAEWOONG CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  태웅
+ </crp_nm_i> 
+ <stock_cd>
+  044490
+ </stock_cd> 
+ <ceo_nm>
+  최승식
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1801110073922
+ </crp_no> 
+ <bsn_no>
+  6038116009
+ </bsn_no> 
+ <adr>
+  부산광역시 강서구 녹산산단27로 67
+ </adr> 
+ <hm_url>
+  www.taewoong.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051-329-5000
+ </phn_no> 
+ <fax_no>
+  051-899-7901
+ </fax_no> 
+ <ind_cd>
+  25912
+ </ind_cd> 
+ <est_dt>
+  19870619
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

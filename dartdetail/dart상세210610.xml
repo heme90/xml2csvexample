@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  소프트캠프(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SOFTCAMP CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  소프트캠프
+ </crp_nm_i> 
+ <stock_cd>
+  210610
+ </stock_cd> 
+ <ceo_nm>
+  배환국
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101111735880
+ </crp_no> 
+ <bsn_no>
+  1088117861
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로228번길 17 이랜텍동 3층(삼평동, 판교세븐벤처밸리2)
+ </adr> 
+ <hm_url>
+  www.softcamp.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-697-4500
+ </phn_no> 
+ <fax_no>
+  02-3420-4395
+ </fax_no> 
+ <ind_cd>
+  58222
+ </ind_cd> 
+ <est_dt>
+  19990715
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

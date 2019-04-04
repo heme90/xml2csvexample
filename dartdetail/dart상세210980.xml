@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  SK디앤디(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SK D&amp;D Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  SK디앤디
+ </crp_nm_i> 
+ <stock_cd>
+  210980
+ </stock_cd> 
+ <ceo_nm>
+  함스테판윤성
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101113001685
+ </crp_no> 
+ <bsn_no>
+  1018604792
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로 332 (삼평동)
+ </adr> 
+ <hm_url>
+  www.skdnd.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-398-4700
+ </phn_no> 
+ <fax_no>
+  02-398-4710
+ </fax_no> 
+ <ind_cd>
+  68122
+ </ind_cd> 
+ <est_dt>
+  20040427
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

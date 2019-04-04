@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)창해에탄올
+ </crp_nm> 
+ <crp_nm_e>
+  Changhae Ethanol Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  창해에탄올
+ </crp_nm_i> 
+ <stock_cd>
+  004650
+ </stock_cd> 
+ <ceo_nm>
+  임성우, 이연희
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  2013110000107
+ </crp_no> 
+ <bsn_no>
+  4168100072
+ </bsn_no> 
+ <adr>
+  전라북도 전주시 덕진구 원만성로 15
+ </adr> 
+ <hm_url>
+  www.chethanol.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  063-214-7800
+ </phn_no> 
+ <fax_no>
+  063-214-7805
+ </fax_no> 
+ <ind_cd>
+  11121
+ </ind_cd> 
+ <est_dt>
+  19660616
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

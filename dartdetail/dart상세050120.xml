@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)라이브플렉스
+ </crp_nm> 
+ <crp_nm_e>
+  LIVEPLEX CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  라이브플렉스
+ </crp_nm_i> 
+ <stock_cd>
+  050120
+ </stock_cd> 
+ <ceo_nm>
+  김병진
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1801110031516
+ </crp_no> 
+ <bsn_no>
+  6218121761
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 언주로 702 8층 (논현동)
+ </adr> 
+ <hm_url>
+  www.liveplex.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3446-4875
+ </phn_no> 
+ <fax_no>
+  02-3446-4873
+ </fax_no> 
+ <ind_cd>
+  46419
+ </ind_cd> 
+ <est_dt>
+  19770620
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

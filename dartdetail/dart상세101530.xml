@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  해태제과식품주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Haitai Confectionery and Foods Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  해태제과식품
+ </crp_nm_i> 
+ <stock_cd>
+  101530
+ </stock_cd> 
+ <ceo_nm>
+  신정훈
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1615110044225
+ </crp_no> 
+ <bsn_no>
+  3128149680
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 서북구 성거읍 천흥8길 67-26
+ </adr> 
+ <hm_url>
+  www.ht.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-709-7766
+ </phn_no> 
+ <fax_no>
+  02-793-7969
+ </fax_no> 
+ <ind_cd>
+  107
+ </ind_cd> 
+ <est_dt>
+  20010711
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

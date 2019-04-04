@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)큐엠씨
+ </crp_nm> 
+ <crp_nm_e>
+  QMC Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  큐엠씨
+ </crp_nm_i> 
+ <stock_cd>
+  136660
+ </stock_cd> 
+ <ceo_nm>
+  유병소
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1341110109947
+ </crp_no> 
+ <bsn_no>
+  1238190560
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 흥안대로439번길 55 (관양동, QMC)
+ </adr> 
+ <hm_url>
+  www.iqmc.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-427-0710
+ </phn_no> 
+ <fax_no>
+  031-424-0714
+ </fax_no> 
+ <ind_cd>
+  2927
+ </ind_cd> 
+ <est_dt>
+  20030729
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

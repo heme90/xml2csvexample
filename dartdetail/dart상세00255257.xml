@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  현대아산 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Hyundai Asan Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  현대아산
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  배국환
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1401110011714
+ </crp_no> 
+ <bsn_no>
+  2218113834
+ </bsn_no> 
+ <adr>
+  강원도 고성군 현내면 화진포서길 10
+ </adr> 
+ <hm_url>
+  www.hdasan.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3669-3839
+ </phn_no> 
+ <fax_no>
+  02-3669-3777
+ </fax_no> 
+ <ind_cd>
+  75210
+ </ind_cd> 
+ <est_dt>
+  19990205
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

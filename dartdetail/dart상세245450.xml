@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)씨앤에스링크
+ </crp_nm> 
+ <crp_nm_e>
+  CNSLINK Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨앤에스링크
+ </crp_nm_i> 
+ <stock_cd>
+  245450
+ </stock_cd> 
+ <ceo_nm>
+  안상태
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101112072869
+ </crp_no> 
+ <bsn_no>
+  2148668113
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 방아로16번길 11 메카텍빌딩 3층
+ </adr> 
+ <hm_url>
+  www.cns-link.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-8786-6458
+ </phn_no> 
+ <fax_no>
+  031-702-0256
+ </fax_no> 
+ <ind_cd>
+  264
+ </ind_cd> 
+ <est_dt>
+  20000920
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

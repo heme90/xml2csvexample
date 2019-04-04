@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)야스
+ </crp_nm> 
+ <crp_nm_e>
+  YAS Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  야스
+ </crp_nm_i> 
+ <stock_cd>
+  255440
+ </stock_cd> 
+ <ceo_nm>
+  정광호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112494451
+ </crp_no> 
+ <bsn_no>
+  1108156305
+ </bsn_no> 
+ <adr>
+  경기도 파주시 탄현면 한산로 69
+ </adr> 
+ <hm_url>
+  www.yasoled.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-904-8591
+ </phn_no> 
+ <fax_no>
+  031-945-8595
+ </fax_no> 
+ <ind_cd>
+  29272
+ </ind_cd> 
+ <est_dt>
+  20020411
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  신영건설 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  SHINYOUNG ENGINEERING&amp;CONSTRUCTION CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  신영건설
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김성환
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110101909
+ </crp_no> 
+ <bsn_no>
+  1208109639
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 탄천상로 164 , 에이동 257-1호(구미동, 시그마2오피스텔)
+ </adr> 
+ <hm_url>
+  www.shinyoungenc.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3429-0419
+ </phn_no> 
+ <fax_no>
+  02-3429-0402
+ </fax_no> 
+ <ind_cd>
+  41112
+ </ind_cd> 
+ <est_dt>
+  19580902
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

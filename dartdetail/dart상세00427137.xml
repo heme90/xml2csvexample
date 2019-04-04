@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)대구시민프로축구단
+ </crp_nm> 
+ <crp_nm_e>
+  Daegu Football Club
+ </crp_nm_e> 
+ <crp_nm_i>
+  대구시민프로축구단
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  조광래
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1701110234386
+ </crp_no> 
+ <bsn_no>
+  5028167049
+ </bsn_no> 
+ <adr>
+  대구광역시 수성구 유니버시아드로 180 대구스타디움내
+ </adr> 
+ <hm_url>
+  www.daegufc.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-256-2003
+ </phn_no> 
+ <fax_no>
+  053-756-9199
+ </fax_no> 
+ <ind_cd>
+  91191
+ </ind_cd> 
+ <est_dt>
+  20021016
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37069
+ </empSeqno>
+ <empWantedTitle>
+  웹 Front-End UI 개발자 채용
+ </empWantedTitle>
+ <empBusiNm>
+  엔씨소프트
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190305
+ </empWantedStdt>
+ <empWantedEndt>
+  20190430
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.ncsoft.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.ncsoft.net/korean/careers/adoptionview.aspx?BID=&amp;BC=&amp;SYear=&amp;SType=&amp;SWord=&amp;PNo=1&amp;d1=1&amp;d2=0&amp;BNo=7169&amp;Section=
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvD5ZNZMU%2FSFziUVQigG7EWR3%2Fc1STDnJntNsKflBvDXG
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무1차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    NC TEST
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무2차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    (필요시)HR면접
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    처우협의
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    UI Programming
+   </empRecrNm>
+   <jobCont>
+    1. 업무내용 1) 게이머(저희 고객)들이 게임에서 느낀 즐거움을 다른 게이머들에게 퍼뜨리는 서비스와 관련 시스템을 개발합니다. 2) 게이머간 소통을 더 활발하게 만드는 방송, 메신저, 게임 뉴스, 크리에이티브 마켓 등의 신규 서비스를 개발합니다. 3) 해당 서비스가 다양한 디바이스와 브라우저에서 동작하도록 FrontEnd UI를 개발합니다. 4) 해당 서비스를 다양한 플랫폼에서 사용 가능하도록 javascript 기반의 SDK를 개발합니다.
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    1) 타임라인 류, SNS 웹 메시징 등의 UI 개발 경험 2) Bootstrap, Semantic UI 등 UI Framework 사용 경험 3) React, Vue.js 사용 경험 4) 성능 최적화 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    133300
+   </jobsCd>
+   <jobsCdKorNm>
+    웹 개발자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ㆍ해외여행 결격사유 없는 자 ㆍ채용 규정에 어긋나지 않는 자 ㆍ보훈 대상자 및 장애인 우대 *학력 - 대학교 졸업 이상
+ </recrCommCont>
+ <empSubmitDocCont>
+  -엔씨소프트 온라인 입사지원서 -포트폴리오 (있는 경우)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지 온라인 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 홈페이지 &gt; 채용안내 &gt; 채용문의 참조
+ </inqryCont>
+ <empnEtcCont>
+  ㆍ전형 결과에 따라 계약직 채용이 검토될 수 있습니다. ㆍ채용 시 조기마감 될 수 있습니다. ㆍ채용 과정에서 오프라인으로 제출한 서류가 있을 경우, 해당 공고의 채용여부가 확정된 이후 14일 이내에 반환을 요청할 수 있습니다. ※ 반환 희망 시 엔씨소프트 홈페이지 채용문의 Q&amp;A 메뉴를 통해 반환을 청구해 주시기 바라며, 접수 후 14일 내 요청 서류를 등기우편으로 발송해 드립니다. 오프라인으로 제출한 서류는 당사자가 반환을 청구하지 않을 경우 14일까지 보관된 후 파기됩니다. 단, 홈페이지 또는 전자우편을 통해 제출한 일체의 서류, 당사의 요청이 없음에도 자발적으로 제출한 서류는 반환 청구 대상에 포함되지 않으며 엔씨소프트 개인정보처리방침에 따라서 2년간 보관된 후 파기됩니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

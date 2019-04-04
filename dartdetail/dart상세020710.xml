@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)시공테크
+ </crp_nm> 
+ <crp_nm_e>
+  SIGONG TECH Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  시공테크
+ </crp_nm_i> 
+ <stock_cd>
+  020710
+ </stock_cd> 
+ <ceo_nm>
+  박기석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110562896
+ </crp_no> 
+ <bsn_no>
+  1208126128
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교역로 225-20 시공빌딩
+ </adr> 
+ <hm_url>
+  www.sigongtech.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3438-0077
+ </phn_no> 
+ <fax_no>
+  02-3438-0088
+ </fax_no> 
+ <ind_cd>
+  732
+ </ind_cd> 
+ <est_dt>
+  19880219
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

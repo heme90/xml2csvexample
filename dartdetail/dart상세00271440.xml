@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)코리아2000
+ </crp_nm> 
+ <crp_nm_e>
+  KOREA 2000 CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  코리아2000
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이창수
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1344110014439
+ </crp_no> 
+ <bsn_no>
+  1268141428
+ </bsn_no> 
+ <adr>
+  경기도 이천시 호법면 중부대로866번길 15 (유산리)
+ </adr> 
+ <hm_url>
+  www.k2k.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-280-6082
+ </phn_no> 
+ <fax_no>
+  031-280-6080
+ </fax_no> 
+ <ind_cd>
+  41129
+ </ind_cd> 
+ <est_dt>
+  19991110
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

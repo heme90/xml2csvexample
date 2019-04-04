@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  만호제강(주)
+ </crp_nm> 
+ <crp_nm_e>
+  MANHO ROPE &amp; WIRE LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  만호제강
+ </crp_nm_i> 
+ <stock_cd>
+  001080
+ </stock_cd> 
+ <ceo_nm>
+  김상환
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110054659
+ </crp_no> 
+ <bsn_no>
+  6068108662
+ </bsn_no> 
+ <adr>
+  부산광역시 강서구 녹산화전로 71
+ </adr> 
+ <hm_url>
+  www.manhorope.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051-601-0351
+ </phn_no> 
+ <fax_no>
+  051-442-1163
+ </fax_no> 
+ <ind_cd>
+  24123
+ </ind_cd> 
+ <est_dt>
+  19530904
+ </est_dt> 
+ <acc_mt>
+  06
+ </acc_mt> 
+</result>

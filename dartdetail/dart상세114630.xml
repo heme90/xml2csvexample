@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)우노앤컴퍼니
+ </crp_nm> 
+ <crp_nm_e>
+  UNO&amp;COMPANY ,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  우노앤컴퍼니
+ </crp_nm_i> 
+ <stock_cd>
+  114630
+ </stock_cd> 
+ <ceo_nm>
+  김종천
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  2101110024308
+ </crp_no> 
+ <bsn_no>
+  4188119261
+ </bsn_no> 
+ <adr>
+  전라북도 완주군 봉동읍 완주산단3로 158-15 우노앤컴퍼니
+ </adr> 
+ <hm_url>
+  www.unon.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  063-261-7555
+ </phn_no> 
+ <fax_no>
+  063-261-7559
+ </fax_no> 
+ <ind_cd>
+  20501
+ </ind_cd> 
+ <est_dt>
+  19990719
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

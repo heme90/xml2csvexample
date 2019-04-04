@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  코오롱인더스트리(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KOLON INDUSTRIES, INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  코오롱인더
+ </crp_nm_i> 
+ <stock_cd>
+  120110
+ </stock_cd> 
+ <ceo_nm>
+  장희구
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1353110013606
+ </crp_no> 
+ <bsn_no>
+  1388156604
+ </bsn_no> 
+ <adr>
+  서울특별시 강서구 마곡동로 110 코오롱 One&amp;Only 타워
+ </adr> 
+ <hm_url>
+  -
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  3677-3114
+ </phn_no> 
+ <fax_no>
+  02-3677-3379
+ </fax_no> 
+ <ind_cd>
+  205
+ </ind_cd> 
+ <est_dt>
+  20100105
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

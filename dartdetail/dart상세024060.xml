@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  흥구석유(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HeunguOil
+ </crp_nm_e> 
+ <crp_nm_i>
+  흥구석유
+ </crp_nm_i> 
+ <stock_cd>
+  024060
+ </stock_cd> 
+ <ceo_nm>
+  김상우
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1701110002676
+ </crp_no> 
+ <bsn_no>
+  5018100268
+ </bsn_no> 
+ <adr>
+  대구광역시 중구 동덕로38길 5 (동인동1가)
+ </adr> 
+ <hm_url>
+  없음
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053 -424 -3395
+ </phn_no> 
+ <fax_no>
+  053 -425 -3526
+ </fax_no> 
+ <ind_cd>
+  46712
+ </ind_cd> 
+ <est_dt>
+  19661216
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

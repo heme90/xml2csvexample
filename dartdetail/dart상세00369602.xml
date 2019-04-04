@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 한국우사회
+ </crp_nm> 
+ <crp_nm_e>
+  KOREABULLs Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국우사회
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  박성구
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1801110312031
+ </crp_no> 
+ <bsn_no>
+  6078148240
+ </bsn_no> 
+ <adr>
+  경상북도 청도군 화양읍 남성현로 348
+ </adr> 
+ <hm_url>
+  www.koreabulls.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  054-370-8000
+ </phn_no> 
+ <fax_no>
+  054-373-8029
+ </fax_no> 
+ <ind_cd>
+  91113
+ </ind_cd> 
+ <est_dt>
+  20000127
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

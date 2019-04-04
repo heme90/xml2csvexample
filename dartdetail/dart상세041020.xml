@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)인프라웨어
+ </crp_nm> 
+ <crp_nm_e>
+  INFRAWAREInc
+ </crp_nm_e> 
+ <crp_nm_i>
+  인프라웨어
+ </crp_nm_i> 
+ <stock_cd>
+  041020
+ </stock_cd> 
+ <ceo_nm>
+  곽민철, 이해석, 이홍구
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111398117
+ </crp_no> 
+ <bsn_no>
+  2208143747
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 가산디지털1로 19 대륭테크노타운18차 20층
+ </adr> 
+ <hm_url>
+  www.infraware.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-537-0538
+ </phn_no> 
+ <fax_no>
+  02-535-0534
+ </fax_no> 
+ <ind_cd>
+  58221
+ </ind_cd> 
+ <est_dt>
+  19970407
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

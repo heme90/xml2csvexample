@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36623
+ </empSeqno>
+ <empWantedTitle>
+  [LINE FRIENDS] B2B Sales &amp; Retail Marketing
+ </empWantedTitle>
+ <empBusiNm>
+  라인플러스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190222
+ </empWantedStdt>
+ <empWantedEndt>
+  20190422
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://linepluscorp.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.linepluscorp.com/lineplus/career/detail/20002630?classId=&amp;entTypeCd=&amp;tag=&amp;page=
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRio7tN8%2FfS0w1%2BizSZ9MRlvId5wEzldWhQQFQW5j5C9ob7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    과제전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    레퍼런스 체크
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    처우협의/최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    ※기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    전형일정 및 결과는 지원서에 등록하신 이메일로 개별 안내드립니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    B2B Sales &amp; Retail Marketing
+   </empRecrNm>
+   <jobCont>
+    1. Overseas B2B Sales - 라인프렌즈의 스토어 MD 제품과 라이센싱 제품의 해외 영업 (담당 국가 : 북미 / 남미 / 유럽) - 현지 리테일러에 제품 수출, 에이전트/벤더 관리 - 신규 진출 국가의 시장 분석 및 전략 수립 - 담당 국가의 매출 예상 및 관리 (월별, 분기, 연간) - 내부 유관 부서와 지속적이고 긴밀한 협업 (구매, 물류, 재무, 법무, 전략) 2. Retail Sales Marketing - 라인프렌즈의 라이센시 제품 매출 촉진을 위한 연간 Sales Marketing 전략, KPI 수립 - 국내 중요 리테일러들과 마케팅, 프로모션 협업 - 마케팅을 통한 추가 라이센시 매출 증대를 위해 효율적인 라이센시 관리 - 프로모션/마케팅 종료 후 결과 분석
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 유영한 대내/외적 Communication 가능자 - 국내외 계약서, 발주 시스템, 물류 관련 지식 보유 - 리테일 또는 바이어 경력
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 용산구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    01
+   </jobsCd>
+   <jobsCdKorNm>
+    경영·사무·금융·보험
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    026100
+   </jobsCd>
+   <jobsCdKorNm>
+    기획·마케팅 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    612200
+   </jobsCd>
+   <jobsCdKorNm>
+    해외 영업원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 국가 유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다. [고용형태] - 정규직 [근무국가] - 한국
+ </recrCommCont>
+ <empSubmitDocCont>
+  [보훈 취업지원 대상 및 장애인 서류 제출 안내] - 보훈 및 장애인 지원자에 해당되시는 경우, 입사지원시 [포트폴리오/이력서] 첨부 란에 반드시 관련 증명원을 발급하여 첨부 바랍니다. 1.보훈 지원자 : '보훈취업지원대상자 증명서' 발급하여 첨부 2.장애인 지원자 : '장애인증명서 또는 복지카드' 첨부
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지를 통한 온라인 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 기타 채용 관련 문의사항은 채용 공고 페이지 상단 '채용문의' 또는 공지 사항을 참고하여 문의 부탁드립니다.
+ </inqryCont>
+ <empnEtcCont>
+  - 본 공고는 수시모집으로 채용 시 마감되는 포지션입니다. - 지원서 내용 중 허위사실이 있는 경우 합격이 취소될 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

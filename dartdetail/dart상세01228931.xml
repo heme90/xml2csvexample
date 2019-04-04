@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  프리닉스 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  PRINICS CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  프리닉스
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  노광호
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1358110120005
+ </crp_no> 
+ <bsn_no>
+  1248638688
+ </bsn_no> 
+ <adr>
+  경기도 수원시 권선구 산업로 108 (고색동, 신일중공업(주)) 3층
+ </adr> 
+ <hm_url>
+  www.kodakphotoprinter.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  0312935991
+ </phn_no> 
+ <fax_no>
+  0312935994
+ </fax_no> 
+ <ind_cd>
+  26323
+ </ind_cd> 
+ <est_dt>
+  20051027
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

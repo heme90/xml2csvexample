@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  코리아에셋매니지먼트(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Korea Asset Management Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  코리아에셋매니지먼트
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이경택
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1201110554130
+ </crp_no> 
+ <bsn_no>
+  1318625333
+ </bsn_no> 
+ <adr>
+  인천광역시 남동구 미래로 14 (구월동,일류빌딩2층)
+ </adr> 
+ <hm_url>
+  www.krasset.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-721-8358
+ </phn_no> 
+ <fax_no>
+  02-721-8997
+ </fax_no> 
+ <ind_cd>
+  68
+ </ind_cd> 
+ <est_dt>
+  20101224
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)코이즈
+ </crp_nm> 
+ <crp_nm_e>
+  KOYJ. CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  코이즈
+ </crp_nm_i> 
+ <stock_cd>
+  121850
+ </stock_cd> 
+ <ceo_nm>
+  조재형
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  2801110073830
+ </crp_no> 
+ <bsn_no>
+  1278197643
+ </bsn_no> 
+ <adr>
+  충청북도 충주시 대소원면 첨단산업로 146 코이즈
+ </adr> 
+ <hm_url>
+  www.koyj.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-8255-6400
+ </phn_no> 
+ <fax_no>
+  043-842-1988
+ </fax_no> 
+ <ind_cd>
+  222
+ </ind_cd> 
+ <est_dt>
+  20060216
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

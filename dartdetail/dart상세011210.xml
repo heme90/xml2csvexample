@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  현대위아(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HYUNDAI WIA
+ </crp_nm_e> 
+ <crp_nm_i>
+  현대위아
+ </crp_nm_i> 
+ <stock_cd>
+  011210
+ </stock_cd> 
+ <ceo_nm>
+  김경배
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1942110000125
+ </crp_no> 
+ <bsn_no>
+  6098101770
+ </bsn_no> 
+ <adr>
+  경상남도 창원시 성산구 정동로 153
+ </adr> 
+ <hm_url>
+  www.hyundai-wia.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-280-9114
+ </phn_no> 
+ <fax_no>
+  02-6902-6300
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19760329
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)인지디스플레이
+ </crp_nm> 
+ <crp_nm_e>
+  INZI DISPLAY COMPANY LIMITED
+ </crp_nm_e> 
+ <crp_nm_i>
+  인지디스플레
+ </crp_nm_i> 
+ <stock_cd>
+  037330
+ </stock_cd> 
+ <ceo_nm>
+  정구용,김용구,정혜승
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1350110036315
+ </crp_no> 
+ <bsn_no>
+  1348113942
+ </bsn_no> 
+ <adr>
+  경기도 안산시 단원구 동산로 88
+ </adr> 
+ <hm_url>
+  www.inzidisplay.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-330-3051
+ </phn_no> 
+ <fax_no>
+  031 -491 -9773
+ </fax_no> 
+ <ind_cd>
+  26211
+ </ind_cd> 
+ <est_dt>
+  19920317
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

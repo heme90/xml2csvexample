@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)씨티케이코스메틱스
+ </crp_nm> 
+ <crp_nm_e>
+  CTK Cosmetics Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨티케이코스메틱스
+ </crp_nm_i> 
+ <stock_cd>
+  260930
+ </stock_cd> 
+ <ceo_nm>
+  정인용
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112233560
+ </crp_no> 
+ <bsn_no>
+  2148681682
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로255번길 9-22 우림W-CITY 416호
+ </adr> 
+ <hm_url>
+  ctkcosmetics.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-698-4297
+ </phn_no> 
+ <fax_no>
+  0316984270
+ </fax_no> 
+ <ind_cd>
+  20423
+ </ind_cd> 
+ <est_dt>
+  20010508
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

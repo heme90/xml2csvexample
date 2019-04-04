@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37468
+ </empSeqno>
+ <empWantedTitle>
+  IT기획 및 엔지니어링시스템 개발
+ </empWantedTitle>
+ <empBusiNm>
+  기아자동차
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190318
+ </empWantedStdt>
+ <empWantedEndt>
+  20190415
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.kia.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://career.kia.com:449/kfront/webapply/applyView.do?recuYy=2019&amp;recuType=66&amp;recuCls=5
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvLvxxitjxM%2FjKk8dcYhd3aSfASpSBCDsXmHd%2FtM5giVH
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    지원서 접수
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    신체검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT기획 및 엔지니어링시스템 개발
+   </empRecrNm>
+   <jobCont>
+    [담당업무] - PLM 전략 기획, 엔지니어링 데이터 통합관리 고도화 기획 및 디지털 IT 신기술을 활용한 업무혁신 방안 기획 및 추진 [세부 업무] ○ 차세대 PLM 전략 기획 및 추진 - CAD/PDM/NPD 등 PLM 전반에 걸친 추진전략 및 과제 수립, 세부과제 실행 - 제품개발 디지털 전략 수립 (디지털 트윈, MBSE 등) ○ 엔지니어링 데이터 통합 관리 고도화 기획 및 추진 : PLM 기반 CAD/CAE/CAT 제품 데이터 통합, 대용량 데이터 아키텍처 등 ○ 기타 : 엔지니어링 업무 시스템 기획 등
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    023
+   </jobsCd>
+   <jobsCdKorNm>
+    컴퓨터시스템
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [채용직무] - 부문 : ICT - 분야 : IT기획 및 엔지니어링시스템 개발 - 직급 : 대리 - 근무지역 : 남양연구소
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용포털(career.kia.com)을 통한 인터넷 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 관련 문의는 채용 홈페이지 內 [채용TALK] - [FAQ] - [1:1 문의하기] 를 이용 바랍니다,
+ </inqryCont>
+ <empnEtcCont>
+  - 입사지원서의 내용이 사실과 다른 경우 합격이 취소됩니다. - 국가보훈 취업지원 대상자는 관련 법령에 의거하여 우대합니다. ※ 모바일기기에서는 지원하실 수 없습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

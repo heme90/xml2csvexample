@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37703
+ </empSeqno>
+ <empWantedTitle>
+  회계·행정 사원 모집
+ </empWantedTitle>
+ <empBusiNm>
+  동아일보사
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190327
+ </empWantedStdt>
+ <empWantedEndt>
+  20190408
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.donga.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://damg.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=8159
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRikgep2GT9APxo9mZgivStdtVgytGiVxxRuOpkVhSbICR7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직전환형|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사(4월)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    회계 · 행정
+   </empRecrNm>
+   <jobCont>
+    - 매출관리 - 비용처리 - 결산 - 기타 영업지원업무
+   </jobCont>
+   <empWantedCareerNm>
+    경력|신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 회계 및 세무 전공자 또는 관련 경력자 우대 - 적극적인 소통 능력 및 꼼꼼한 성격의 소유자 - 국가보훈대상자 및 장애인은 관련 법령에 의거 우대
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 종로구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    026103
+   </jobsCd>
+   <jobsCdKorNm>
+    영업 기획·관리·지원 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    027100
+   </jobsCd>
+   <jobsCdKorNm>
+    회계 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [근무조건] - 근무지 : 동아미디어센터 사옥(서울 종로구 광화문 소재) - 고용형태 : 기간제 사원(근무평정에 따라 정규직 전환 가능)
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 동아미디어그룹 채용 홈페이지 (damg.recruiter.co.kr) 온라인 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 인사팀 (02-2020-0556, 0721) - E-mail 문의 : recruit@donga.com
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

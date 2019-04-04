@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37433
+ </empSeqno>
+ <empWantedTitle>
+  2019년 정규직 전환형 하계 인턴 채용
+ </empWantedTitle>
+ <empBusiNm>
+  엘에프
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190318
+ </empWantedStdt>
+ <empWantedEndt>
+  20190402
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.lfcorp.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.lfcorp.com/crub/Jbno10View.do
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRiiLoTVuPeT0OKZb%2FAgNmJfJGue8Iy712lSx15Kxyrh%2FC7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직전환형|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무면접/인성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인턴(8주)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사
+   </selsNm>
+   <selsSchdCont>
+    20년 1월 예정
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [사업부문] 공통(기획MD/영업관리/생산관리)
+   </empRecrNm>
+   <jobCont>
+    ※ 지원자격 공통사항 참조
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 강남구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [온라인부문] 라이프 스타일 매니아(온라인MD)
+   </empRecrNm>
+   <jobCont>
+    ※ 지원자격 공통사항 참조
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 강남구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [온라인부문] ICT개발/운영
+   </empRecrNm>
+   <jobCont>
+    ※ 지원자격 공통사항 참조
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 강남구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [지원부문] 재무/경영기획
+   </empRecrNm>
+   <jobCont>
+    ※ 지원자격 공통사항 참조
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 강남구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [지원부문] 인사/교육
+   </empRecrNm>
+   <jobCont>
+    ※ 지원자격 공통사항 참조
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 강남구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    026103
+   </jobsCd>
+   <jobsCdKorNm>
+    영업 기획·관리·지원 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    026201
+   </jobsCd>
+   <jobsCdKorNm>
+    인사 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    027101
+   </jobsCd>
+   <jobsCdKorNm>
+    재무 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [지원자격] - 학점/어학/전공에 상관 없이, LF와 함께 성장하길 원하는 열정을 갖춘 분 - 국내 취업 및 해외 여행에 결격사유가 없으신 분 - 2020년 2월 졸업예정자 또는 기 졸업으로 2020년 1월에 입사 가능한 분 - 2019년 7월 ~ 8월에 8주 간 인턴 근무가 가능하신 분 - 전공무관 [인원] - 00명 ※ 라이프스타일 매니아란? - 라이프 스타일 (패션/화장품/가구/가전/시계 등) 분야 중 특정 상품군에 &amp;apos;덕력&amp;apos;을 갖추신 분 - 라이프 스타일 상품 관련 온라인 커뮤니티 운영자, 파워블로거, SNS인플루언서, 컨텐츠 크리에이터 우대 - LFmall에서 &amp;apos;덕업일치&amp;apos;를 실현하고 싶으신분
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지 채용공고 &gt; 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 1:1 문의 참조
+ </inqryCont>
+ <empnEtcCont>
+  - 입사지원서 허위 기재 시 입사가 취소욉니다. - 국가보훈대상자는 관련법에 의거하여 우대합니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)셀트리온헬스케어
+ </crp_nm> 
+ <crp_nm_e>
+  Celltrion Healthcare Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  셀트리온헬스케어
+ </crp_nm_i> 
+ <stock_cd>
+  091990
+ </stock_cd> 
+ <ceo_nm>
+  김형기
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341112007066
+ </crp_no> 
+ <bsn_no>
+  1238153473
+ </bsn_no> 
+ <adr>
+  인천광역시 연수구 아카데미로51번길 19, 4층
+ </adr> 
+ <hm_url>
+  www.celltrionhealthcare.com/kr/index.do
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-850-6400
+ </phn_no> 
+ <fax_no>
+  032-260-1217
+ </fax_no> 
+ <ind_cd>
+  467
+ </ind_cd> 
+ <est_dt>
+  19991229
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

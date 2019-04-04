@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)신흥
+ </crp_nm> 
+ <crp_nm_e>
+  SHINHUNG CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  신흥
+ </crp_nm_i> 
+ <stock_cd>
+  004080
+ </stock_cd> 
+ <ceo_nm>
+  이용익
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110047864
+ </crp_no> 
+ <bsn_no>
+  1148143063
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 청파로 450 (중림동) 신흥빌딩 8층 재경팀
+ </adr> 
+ <hm_url>
+  www.shinhung.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6366-2000
+ </phn_no> 
+ <fax_no>
+  02-6366-2107
+ </fax_no> 
+ <ind_cd>
+  4659
+ </ind_cd> 
+ <est_dt>
+  19641113
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)포스코인터내셔널
+ </crp_nm> 
+ <crp_nm_e>
+  POSCO INTERNATIONAL
+ </crp_nm_e> 
+ <crp_nm_i>
+  포스코인터내셔널
+ </crp_nm_i> 
+ <stock_cd>
+  047050
+ </stock_cd> 
+ <ceo_nm>
+  대표이사 사장 김영상
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101112137358
+ </crp_no> 
+ <bsn_no>
+  1048158195
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 통일로 10 연세재단세브란스빌딩
+ </adr> 
+ <hm_url>
+  www.poscointl.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-759-2114
+ </phn_no> 
+ <fax_no>
+  02-2076-3182
+ </fax_no> 
+ <ind_cd>
+  461
+ </ind_cd> 
+ <est_dt>
+  20001227
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

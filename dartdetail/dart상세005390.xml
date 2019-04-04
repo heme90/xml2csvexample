@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  신성통상(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SHINSUNG TONGSANG CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  신성통상
+ </crp_nm_i> 
+ <stock_cd>
+  005390
+ </stock_cd> 
+ <ceo_nm>
+  대표이사 염태순
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110003345
+ </crp_no> 
+ <bsn_no>
+  1048101106
+ </bsn_no> 
+ <adr>
+  서울특별시 강동구 풍성로63길 84(둔촌동)
+ </adr> 
+ <hm_url>
+  www.ssts.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3709-9000
+ </phn_no> 
+ <fax_no>
+  02-6488-0151
+ </fax_no> 
+ <ind_cd>
+  467
+ </ind_cd> 
+ <est_dt>
+  19680111
+ </est_dt> 
+ <acc_mt>
+  06
+ </acc_mt> 
+</result>

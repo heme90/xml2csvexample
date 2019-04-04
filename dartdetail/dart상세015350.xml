@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)부산도시가스
+ </crp_nm> 
+ <crp_nm_e>
+  BUSAN CITY GAS CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  부산도시가스
+ </crp_nm_i> 
+ <stock_cd>
+  015350
+ </stock_cd> 
+ <ceo_nm>
+  김영광
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110039495
+ </crp_no> 
+ <bsn_no>
+  6178101562
+ </bsn_no> 
+ <adr>
+  부산광역시 수영구 황령대로 513
+ </adr> 
+ <hm_url>
+  www.busangas.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051-607-1178
+ </phn_no> 
+ <fax_no>
+  051)623-9870
+ </fax_no> 
+ <ind_cd>
+  35200
+ </ind_cd> 
+ <est_dt>
+  19810304
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

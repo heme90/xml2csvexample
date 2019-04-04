@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)퓨쳐스트림네트웍스
+ </crp_nm> 
+ <crp_nm_e>
+  Futurestream Networks Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  퓨쳐스트림네트웍스
+ </crp_nm_i> 
+ <stock_cd>
+  214270
+ </stock_cd> 
+ <ceo_nm>
+  이상석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115617076
+ </crp_no> 
+ <bsn_no>
+  2208895545
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로98길 8 10층 (대치동, KT&amp;G 대치타워)
+ </adr> 
+ <hm_url>
+  없음
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-5020-9306
+ </phn_no> 
+ <fax_no>
+  02-518-8367
+ </fax_no> 
+ <ind_cd>
+  582
+ </ind_cd> 
+ <est_dt>
+  20150116
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

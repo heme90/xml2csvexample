@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 휴네시온
+ </crp_nm> 
+ <crp_nm_e>
+  Hunesion co.,ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  휴네시온
+ </crp_nm_i> 
+ <stock_cd>
+  290270
+ </stock_cd> 
+ <ceo_nm>
+  정동섭
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112919938
+ </crp_no> 
+ <bsn_no>
+  2148746095
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 봉은사로 620 유진빌딩 3층
+ </adr> 
+ <hm_url>
+  www.hunesion.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-539-3961
+ </phn_no> 
+ <fax_no>
+  02-539-3962
+ </fax_no> 
+ <ind_cd>
+  582
+ </ind_cd> 
+ <est_dt>
+  20031215
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

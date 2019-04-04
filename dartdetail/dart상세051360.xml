@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)토비스
+ </crp_nm> 
+ <crp_nm_e>
+  TOVISCo.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  토비스
+ </crp_nm_i> 
+ <stock_cd>
+  051360
+ </stock_cd> 
+ <ceo_nm>
+  김 용 범, 하 희 조 
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1349110013457
+ </crp_no> 
+ <bsn_no>
+  1338137806
+ </bsn_no> 
+ <adr>
+  인천광역시 연수구 송도동 7-10
+ </adr> 
+ <hm_url>
+  www.tovism.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-712-5112
+ </phn_no> 
+ <fax_no>
+  032-818-2412
+ </fax_no> 
+ <ind_cd>
+  265
+ </ind_cd> 
+ <est_dt>
+  19980908
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

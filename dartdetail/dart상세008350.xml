@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)남선알미늄
+ </crp_nm> 
+ <crp_nm_e>
+  NAMSUN ALUMINIUM CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  남선알미늄
+ </crp_nm_i> 
+ <stock_cd>
+  008350
+ </stock_cd> 
+ <ceo_nm>
+  이상일, 박기재
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1701110005042
+ </crp_no> 
+ <bsn_no>
+  5028100107
+ </bsn_no> 
+ <adr>
+  대구광역시 달성군 논공읍 논공중앙로 288
+ </adr> 
+ <hm_url>
+  www.namsun.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-610-5110
+ </phn_no> 
+ <fax_no>
+  0536105169
+ </fax_no> 
+ <ind_cd>
+  24222
+ </ind_cd> 
+ <est_dt>
+  19730104
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

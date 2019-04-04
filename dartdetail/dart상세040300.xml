@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)와이티엔
+ </crp_nm> 
+ <crp_nm_e>
+  YTN
+ </crp_nm_e> 
+ <crp_nm_i>
+  YTN
+ </crp_nm_i> 
+ <stock_cd>
+  040300
+ </stock_cd> 
+ <ceo_nm>
+  정찬형
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110971873
+ </crp_no> 
+ <bsn_no>
+  1028132883
+ </bsn_no> 
+ <adr>
+  서울특별시 마포구 상암산로 76와이티엔뉴스퀘어
+ </adr> 
+ <hm_url>
+  www.ytn.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (02) 398-8000
+ </phn_no> 
+ <fax_no>
+  02-398-8069
+ </fax_no> 
+ <ind_cd>
+  591
+ </ind_cd> 
+ <est_dt>
+  19930914
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)다우기술
+ </crp_nm> 
+ <crp_nm_e>
+  DAOU TECHNOLOGY INC
+ </crp_nm_e> 
+ <crp_nm_i>
+  다우기술
+ </crp_nm_i> 
+ <stock_cd>
+  023590
+ </stock_cd> 
+ <ceo_nm>
+  김윤덕
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110414758
+ </crp_no> 
+ <bsn_no>
+  2208102810
+ </bsn_no> 
+ <adr>
+  경기도 용인시 수지구 디지털벨리로 81 디지털스퀘어 6층
+ </adr> 
+ <hm_url>
+  www.daou.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-8707-1000
+ </phn_no> 
+ <fax_no>
+  02-6008-8601
+ </fax_no> 
+ <ind_cd>
+  631
+ </ind_cd> 
+ <est_dt>
+  19860109
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

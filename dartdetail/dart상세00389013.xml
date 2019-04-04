@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한국남동발전 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Korea South-East Power Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국남동발전
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  유향열
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101112207119
+ </crp_no> 
+ <bsn_no>
+  1208619151
+ </bsn_no> 
+ <adr>
+  경상남도 진주시 사들로123번길 32 (충무공동)
+ </adr> 
+ <hm_url>
+  www.koenergy.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-8898-1169
+ </phn_no> 
+ <fax_no>
+  050-5027-2357
+ </fax_no> 
+ <ind_cd>
+  3511
+ </ind_cd> 
+ <est_dt>
+  20010402
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

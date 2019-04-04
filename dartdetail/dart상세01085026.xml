@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 유진테크놀로지
+ </crp_nm> 
+ <crp_nm_e>
+  YUJIN TECHNOLOGY CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  유진테크놀로지
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  여현국,이미연
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1501110137013
+ </crp_no> 
+ <bsn_no>
+  3178118936
+ </bsn_no> 
+ <adr>
+  충청북도 청주시 청원구 오창읍 신평중신길 93-22 (신평리, 유진테크놀로지)
+ </adr> 
+ <hm_url>
+  www.kryjt.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043-237-1113
+ </phn_no> 
+ <fax_no>
+  043-237-3339
+ </fax_no> 
+ <ind_cd>
+  29294
+ </ind_cd> 
+ <est_dt>
+  20100519
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

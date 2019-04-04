@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  동국실업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DONGKOOK IND CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  동국실업
+ </crp_nm_i> 
+ <stock_cd>
+  001620
+ </stock_cd> 
+ <ceo_nm>
+  김진산
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110028939
+ </crp_no> 
+ <bsn_no>
+  1068112972
+ </bsn_no> 
+ <adr>
+  서울특별시 용산구 한강대로 350
+ </adr> 
+ <hm_url>
+  www.dongkook-ind.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-754-2961
+ </phn_no> 
+ <fax_no>
+  (02)754-2960
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19551229
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

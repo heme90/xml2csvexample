@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)피엔아이컴퍼니
+ </crp_nm> 
+ <crp_nm_e>
+  PNIcompany.Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  피엔아이컴퍼니
+ </crp_nm_i> 
+ <stock_cd>
+  242350
+ </stock_cd> 
+ <ceo_nm>
+  신재중
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101113044651
+ </crp_no> 
+ <bsn_no>
+  1148637585
+ </bsn_no> 
+ <adr>
+  제주특별자치도 제주시 첨단로 245-2
+ </adr> 
+ <hm_url>
+  www.pnisys.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-8610-5333
+ </phn_no> 
+ <fax_no>
+  064-702-4180
+ </fax_no> 
+ <ind_cd>
+  591
+ </ind_cd> 
+ <est_dt>
+  20040706
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  하이트진로홀딩스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HITEJINRO HOLDINGS CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  하이트진로홀딩스
+ </crp_nm_i> 
+ <stock_cd>
+  000140
+ </stock_cd> 
+ <ceo_nm>
+  김인규
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110013766
+ </crp_no> 
+ <bsn_no>
+  1078100955
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 영동대로 714
+ </adr> 
+ <hm_url>
+  www.hitejinroholdings.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-520-3112
+ </phn_no> 
+ <fax_no>
+  02-520-3119
+ </fax_no> 
+ <ind_cd>
+  64992
+ </ind_cd> 
+ <est_dt>
+  19330809
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

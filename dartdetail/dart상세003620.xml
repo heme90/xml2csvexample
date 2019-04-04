@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  쌍용자동차(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SSANGYONG MOTOR CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  쌍용자동차
+ </crp_nm_i> 
+ <stock_cd>
+  003620
+ </stock_cd> 
+ <ceo_nm>
+  예병태
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110035132
+ </crp_no> 
+ <bsn_no>
+  1258114248
+ </bsn_no> 
+ <adr>
+  경기도 평택시 동삭로 455-12
+ </adr> 
+ <hm_url>
+  www.smotor.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-610-1114
+ </phn_no> 
+ <fax_no>
+  02-3469-6992
+ </fax_no> 
+ <ind_cd>
+  301
+ </ind_cd> 
+ <est_dt>
+  19621206
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

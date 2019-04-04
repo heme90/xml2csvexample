@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 파라텍
+ </crp_nm> 
+ <crp_nm_e>
+  Paratech Company Limited
+ </crp_nm_e> 
+ <crp_nm_i>
+  파라텍
+ </crp_nm_i> 
+ <stock_cd>
+  033540
+ </stock_cd> 
+ <ceo_nm>
+  안계환
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1243110000573
+ </crp_no> 
+ <bsn_no>
+  1308100241
+ </bsn_no> 
+ <adr>
+  경기도 부천시 원미구 길주로425번길 30-21
+ </adr> 
+ <hm_url>
+  www.paradise-ind.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3780-8704
+ </phn_no> 
+ <fax_no>
+  02-3785-0094
+ </fax_no> 
+ <ind_cd>
+  292
+ </ind_cd> 
+ <est_dt>
+  19730608
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

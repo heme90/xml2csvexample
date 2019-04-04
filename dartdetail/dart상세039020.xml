@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)이건홀딩스
+ </crp_nm> 
+ <crp_nm_e>
+  EAGON HOLDINGS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  이건홀딩스
+ </crp_nm_i> 
+ <stock_cd>
+  039020
+ </stock_cd> 
+ <ceo_nm>
+  안기명
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1301110028935
+ </crp_no> 
+ <bsn_no>
+  1348101053
+ </bsn_no> 
+ <adr>
+  인천 남구 도화동 967-3
+ </adr> 
+ <hm_url>
+  www.eagon.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-760-0552
+ </phn_no> 
+ <fax_no>
+  032-232-0465
+ </fax_no> 
+ <ind_cd>
+  64992
+ </ind_cd> 
+ <est_dt>
+  19880414
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

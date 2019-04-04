@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)서한
+ </crp_nm> 
+ <crp_nm_e>
+  Seohan
+ </crp_nm_e> 
+ <crp_nm_i>
+  서한
+ </crp_nm_i> 
+ <stock_cd>
+  011370
+ </stock_cd> 
+ <ceo_nm>
+  조 종 수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1701110023002
+ </crp_no> 
+ <bsn_no>
+  5028116195
+ </bsn_no> 
+ <adr>
+  대구광역시 수성구 명덕로 415 서한빌딩
+ </adr> 
+ <hm_url>
+  www.seo-han.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053 -741 -9980
+ </phn_no> 
+ <fax_no>
+  053 -743 -0533
+ </fax_no> 
+ <ind_cd>
+  41112
+ </ind_cd> 
+ <est_dt>
+  19760512
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

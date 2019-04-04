@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)켐온
+ </crp_nm> 
+ <crp_nm_e>
+  CHEMON Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  켐온
+ </crp_nm_i> 
+ <stock_cd>
+  217600
+ </stock_cd> 
+ <ceo_nm>
+  송시환
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115678846
+ </crp_no> 
+ <bsn_no>
+  3338600035
+ </bsn_no> 
+ <adr>
+  경기도 수원시 영통구 광교로 147 이의동 경기바이오센터 15층
+ </adr> 
+ <hm_url>
+  www.chemon.co.kr 
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-888-6634
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  701
+ </ind_cd> 
+ <est_dt>
+  20150326
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

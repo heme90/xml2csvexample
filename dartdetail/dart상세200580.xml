@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)메디쎄이
+ </crp_nm> 
+ <crp_nm_e>
+  MEDYSSEY CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  메디쎄이
+ </crp_nm_i> 
+ <stock_cd>
+  200580
+ </stock_cd> 
+ <ceo_nm>
+  장종욱
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1348110088014
+ </crp_no> 
+ <bsn_no>
+  1248614463
+ </bsn_no> 
+ <adr>
+  충청북도 제천시 한방엑스포로 129 (제천시 왕암동 1389)
+ </adr> 
+ <hm_url>
+  www.medyssey.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-879-0414
+ </phn_no> 
+ <fax_no>
+  031-879-0415
+ </fax_no> 
+ <ind_cd>
+  27199
+ </ind_cd> 
+ <est_dt>
+  20031014
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

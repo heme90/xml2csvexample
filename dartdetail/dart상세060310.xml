@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)삼에스코리아
+ </crp_nm> 
+ <crp_nm_e>
+  3S KOREA CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  3S
+ </crp_nm_i> 
+ <stock_cd>
+  060310
+ </stock_cd> 
+ <ceo_nm>
+  박종익
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110746474
+ </crp_no> 
+ <bsn_no>
+  1298116215
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 시흥대로71길 30-1
+ </adr> 
+ <hm_url>
+  www.3sref.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-896-9474
+ </phn_no> 
+ <fax_no>
+  02-896-9376
+ </fax_no> 
+ <ind_cd>
+  292
+ </ind_cd> 
+ <est_dt>
+  19910128
+ </est_dt> 
+ <acc_mt>
+  03
+ </acc_mt> 
+</result>

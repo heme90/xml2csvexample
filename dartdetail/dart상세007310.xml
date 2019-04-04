@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)오뚜기
+ </crp_nm> 
+ <crp_nm_e>
+  OTTOGI CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  오뚜기
+ </crp_nm_i> 
+ <stock_cd>
+  007310
+ </stock_cd> 
+ <ceo_nm>
+  함영준,이강훈
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1341110002258
+ </crp_no> 
+ <bsn_no>
+  1388103238
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 흥안대로 405
+ </adr> 
+ <hm_url>
+  www.ottogi.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-421-2122
+ </phn_no> 
+ <fax_no>
+  02) 528 -1970
+ </fax_no> 
+ <ind_cd>
+  10749
+ </ind_cd> 
+ <est_dt>
+  19710603
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

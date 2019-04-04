@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)녹십자홀딩스
+ </crp_nm> 
+ <crp_nm_e>
+  Green Cross Holdings
+ </crp_nm_e> 
+ <crp_nm_i>
+  녹십자홀딩스
+ </crp_nm_i> 
+ <stock_cd>
+  005250
+ </stock_cd> 
+ <ceo_nm>
+  허일섭, 허용준
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1345110000014
+ </crp_no> 
+ <bsn_no>
+  1358105009
+ </bsn_no> 
+ <adr>
+  경기 용인시 구성읍 동백리 (주)녹십자 303
+ </adr> 
+ <hm_url>
+  www.greencross.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-260-9300
+ </phn_no> 
+ <fax_no>
+  031)260-9405
+ </fax_no> 
+ <ind_cd>
+  715
+ </ind_cd> 
+ <est_dt>
+  19671005
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

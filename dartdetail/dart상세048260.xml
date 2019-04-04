@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  오스템임플란트(주)
+ </crp_nm> 
+ <crp_nm_e>
+  OSSTEMIMPLANT.CO.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  오스템임플란트
+ </crp_nm_i> 
+ <stock_cd>
+  048260
+ </stock_cd> 
+ <ceo_nm>
+  엄태관
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111361669
+ </crp_no> 
+ <bsn_no>
+  1128147103
+ </bsn_no> 
+ <adr>
+  서울 금천구 가산동426-5 월드메르디앙벤처센터2차8층
+ </adr> 
+ <hm_url>
+  www.osstem.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2016-7000
+ </phn_no> 
+ <fax_no>
+  02-2025-8971
+ </fax_no> 
+ <ind_cd>
+  27191
+ </ind_cd> 
+ <est_dt>
+  19970108
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

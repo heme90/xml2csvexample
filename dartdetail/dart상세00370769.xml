@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  쉬프트정보통신(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SHIFT Co. Ltd.,
+ </crp_nm_e> 
+ <crp_nm_i>
+  쉬프트정보통신
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  최영식
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110894299
+ </crp_no> 
+ <bsn_no>
+  1108134126
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로 242 (삼평동) IT밸리 PDC타워 C동 602호
+ </adr> 
+ <hm_url>
+  shift.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2106-1715
+ </phn_no> 
+ <fax_no>
+  02-464-7234
+ </fax_no> 
+ <ind_cd>
+  62021
+ </ind_cd> 
+ <est_dt>
+  19921105
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

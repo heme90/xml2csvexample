@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)이수페타시스
+ </crp_nm> 
+ <crp_nm_e>
+  ISUPETASYS CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  이수페타시스
+ </crp_nm_i> 
+ <stock_cd>
+  007660
+ </stock_cd> 
+ <ceo_nm>
+  서영준
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110186638
+ </crp_no> 
+ <bsn_no>
+  5148116131
+ </bsn_no> 
+ <adr>
+  대구광역시 달성군 논공읍 논공로53길 36 이수페타시스
+ </adr> 
+ <hm_url>
+  www.petasys.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-610-0300
+ </phn_no> 
+ <fax_no>
+  053-6100-401
+ </fax_no> 
+ <ind_cd>
+  2622
+ </ind_cd> 
+ <est_dt>
+  19720204
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

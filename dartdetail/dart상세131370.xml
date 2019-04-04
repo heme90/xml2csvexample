@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  알서포트(주)
+ </crp_nm> 
+ <crp_nm_e>
+  RSUPPORT Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  알서포트
+ </crp_nm_i> 
+ <stock_cd>
+  131370
+ </stock_cd> 
+ <ceo_nm>
+  서형수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101114398859
+ </crp_no> 
+ <bsn_no>
+  1148682265
+ </bsn_no> 
+ <adr>
+  서울특별시 송파구 위례성대로 10 방이동, 에스타워 9층, 10층, 11층, 12층
+ </adr> 
+ <hm_url>
+  www.rsupport.com
+ </hm_url> 
+ <ir_url>
+  http://www.rsupport.com/AboutUs/Pubdisclosures
+ </ir_url> 
+ <phn_no>
+  070-7011-3900
+ </phn_no> 
+ <fax_no>
+  02-414-2721
+ </fax_no> 
+ <ind_cd>
+  58222
+ </ind_cd> 
+ <est_dt>
+  20100722
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

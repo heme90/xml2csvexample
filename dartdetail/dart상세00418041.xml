@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)미라콤아이앤씨
+ </crp_nm> 
+ <crp_nm_e>
+  Miracom Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  미라콤아이앤씨
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  민응기
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111617533
+ </crp_no> 
+ <bsn_no>
+  1208184846
+ </bsn_no> 
+ <adr>
+  서울특별시 송파구 올림픽로35길 123 10층(신천동, 향군타워)
+ </adr> 
+ <hm_url>
+  www.miracom.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2125-6800
+ </phn_no> 
+ <fax_no>
+  02-2125-6804
+ </fax_no> 
+ <ind_cd>
+  62021
+ </ind_cd> 
+ <est_dt>
+  19981208
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

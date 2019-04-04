@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  와토스코리아(주)
+ </crp_nm> 
+ <crp_nm_e>
+  WATOSCOREACO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  와토스코리아
+ </crp_nm_i> 
+ <stock_cd>
+  079000
+ </stock_cd> 
+ <ceo_nm>
+  송공석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110153916
+ </crp_no> 
+ <bsn_no>
+  1368123922
+ </bsn_no> 
+ <adr>
+  전라남도 장성군 동화면 전자농공단지1길 31
+ </adr> 
+ <hm_url>
+  www.watos.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  061-392-3685
+ </phn_no> 
+ <fax_no>
+  061-392-3685
+ </fax_no> 
+ <ind_cd>
+  22222
+ </ind_cd> 
+ <est_dt>
+  19970613
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

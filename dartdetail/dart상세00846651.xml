@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  에이치케이자산관리대부 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  HK AMC Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이치케이자산관리대부
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김재광
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1601110290257
+ </crp_no> 
+ <bsn_no>
+  3148620030
+ </bsn_no> 
+ <adr>
+  대전광역시 서구 둔산서로 81
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3468-4011
+ </phn_no> 
+ <fax_no>
+  02-3468-4401
+ </fax_no> 
+ <ind_cd>
+  64999
+ </ind_cd> 
+ <est_dt>
+  20101213
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

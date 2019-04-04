@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)두합크린텍
+ </crp_nm> 
+ <crp_nm_e>
+  DOOHAP CLEANTECH CO.LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  두합크린텍
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김상진
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111220154
+ </crp_no> 
+ <bsn_no>
+  1178116420
+ </bsn_no> 
+ <adr>
+  인천광역시 서구 원창로89번길 14-16 (원창동, (주)두합크린텍기술연구소)
+ </adr> 
+ <hm_url>
+  www.doohap.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2601-2612
+ </phn_no> 
+ <fax_no>
+  02-837-7888
+ </fax_no> 
+ <ind_cd>
+  29175
+ </ind_cd> 
+ <est_dt>
+  19951208
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

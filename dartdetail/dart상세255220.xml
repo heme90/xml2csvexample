@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  에스지이(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SG CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  SG
+ </crp_nm_i> 
+ <stock_cd>
+  255220
+ </stock_cd> 
+ <ceo_nm>
+  박창호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110517154
+ </crp_no> 
+ <bsn_no>
+  1378603486
+ </bsn_no> 
+ <adr>
+  인천광역시 서구 봉수대로300번길 15, 300번길 9
+ </adr> 
+ <hm_url>
+  sgholdings.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-574-6525
+ </phn_no> 
+ <fax_no>
+  032-574-6527
+ </fax_no> 
+ <ind_cd>
+  23991
+ </ind_cd> 
+ <est_dt>
+  20091211
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

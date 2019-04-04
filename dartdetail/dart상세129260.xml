@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  인터지스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  INTERGIS CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  인터지스
+ </crp_nm_i> 
+ <stock_cd>
+  129260
+ </stock_cd> 
+ <ceo_nm>
+  정원우
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110001973
+ </crp_no> 
+ <bsn_no>
+  6018100739
+ </bsn_no> 
+ <adr>
+  부산광역시 중구 충장대로9번길 52 마린센터 13층
+ </adr> 
+ <hm_url>
+  www.intergis.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051-604-3333
+ </phn_no> 
+ <fax_no>
+  051-634-0613
+ </fax_no> 
+ <ind_cd>
+  49301
+ </ind_cd> 
+ <est_dt>
+  19560223
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

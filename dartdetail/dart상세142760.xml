@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)바이오리더스
+ </crp_nm> 
+ <crp_nm_e>
+  Bioleaders Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  바이오리더스
+ </crp_nm_i> 
+ <stock_cd>
+  142760
+ </stock_cd> 
+ <ceo_nm>
+  박영철
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1601110091332
+ </crp_no> 
+ <bsn_no>
+  3148129870
+ </bsn_no> 
+ <adr>
+  경기도 용인시 수지구 신수로 767 7층 (동천동, 분당수지유타워 지식산업센터)
+ </adr> 
+ <hm_url>
+  www.bioleaders.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  042-934-7671
+ </phn_no> 
+ <fax_no>
+  042-934-7670
+ </fax_no> 
+ <ind_cd>
+  701
+ </ind_cd> 
+ <est_dt>
+  19991230
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

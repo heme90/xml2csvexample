@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)이미지스테크놀로지
+ </crp_nm> 
+ <crp_nm_e>
+  IMAGIS Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  이미지스
+ </crp_nm_i> 
+ <stock_cd>
+  115610
+ </stock_cd> 
+ <ceo_nm>
+  김정철
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1358110102649
+ </crp_no> 
+ <bsn_no>
+  1358169380
+ </bsn_no> 
+ <adr>
+  경기도 수원시 영통구 광교로 105 경기 R&amp;DB 센터 3층 301호(이의동 906-5)
+ </adr> 
+ <hm_url>
+  imagis.co.kr
+ </hm_url> 
+ <ir_url>
+  imagis.co.kr
+ </ir_url> 
+ <phn_no>
+  031-888-5280
+ </phn_no> 
+ <fax_no>
+  031-888-5270
+ </fax_no> 
+ <ind_cd>
+  2611
+ </ind_cd> 
+ <est_dt>
+  20040325
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

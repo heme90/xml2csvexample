@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  동양파일(주)
+ </crp_nm> 
+ <crp_nm_e>
+  TONGYANG PILE Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  동양파일
+ </crp_nm_i> 
+ <stock_cd>
+  228340
+ </stock_cd> 
+ <ceo_nm>
+  김시년, 한웅걸(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1648110073035
+ </crp_no> 
+ <bsn_no>
+  3128653248
+ </bsn_no> 
+ <adr>
+  충청남도 아산시 염치읍 아산온천로 16-127
+ </adr> 
+ <hm_url>
+  www.tongyangphc.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3770-3157
+ </phn_no> 
+ <fax_no>
+  02-545-5775
+ </fax_no> 
+ <ind_cd>
+  23325
+ </ind_cd> 
+ <est_dt>
+  20130612
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

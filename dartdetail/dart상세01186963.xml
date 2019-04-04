@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)메디오젠
+ </crp_nm> 
+ <crp_nm_e>
+  MEDIOGEN
+ </crp_nm_e> 
+ <crp_nm_i>
+  메디오젠
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  백남수
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111999874
+ </crp_no> 
+ <bsn_no>
+  2068127265
+ </bsn_no> 
+ <adr>
+  충청북도 제천시 바이오밸리1로 120 (왕암동)
+ </adr> 
+ <hm_url>
+  www.mediogen.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-858-3018
+ </phn_no> 
+ <fax_no>
+  02-858-3018
+ </fax_no> 
+ <ind_cd>
+  10797
+ </ind_cd> 
+ <est_dt>
+  20000617
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

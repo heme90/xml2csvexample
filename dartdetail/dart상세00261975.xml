@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 후이즈
+ </crp_nm> 
+ <crp_nm_e>
+  who is co., ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  후이즈
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이 청 종
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111706378
+ </crp_no> 
+ <bsn_no>
+  1108141272
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로34길 43 (구로동, 1004호)
+ </adr> 
+ <hm_url>
+  www.whois.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3484-4700
+ </phn_no> 
+ <fax_no>
+  02-3484-4702
+ </fax_no> 
+ <ind_cd>
+  58221
+ </ind_cd> 
+ <est_dt>
+  19990601
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

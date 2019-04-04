@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)동아엘텍
+ </crp_nm> 
+ <crp_nm_e>
+  DONGAELTEKCo.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  동아엘텍
+ </crp_nm_i> 
+ <stock_cd>
+  088130
+ </stock_cd> 
+ <ceo_nm>
+  박재규, 김재평(각자대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341110065470
+ </crp_no> 
+ <bsn_no>
+  1388119462
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 시민대로327번길 12-24 (주)동아엘텍 빌딩
+ </adr> 
+ <hm_url>
+  www.dongaeltek.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-345-1500
+ </phn_no> 
+ <fax_no>
+  031-421-4053
+ </fax_no> 
+ <ind_cd>
+  292
+ </ind_cd> 
+ <est_dt>
+  19990414
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

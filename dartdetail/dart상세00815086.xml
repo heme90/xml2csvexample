@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)네이처리퍼블릭
+ </crp_nm> 
+ <crp_nm_e>
+  Naturerepublic co.ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  네이처리퍼블릭
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  정운호
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101114045129
+ </crp_no> 
+ <bsn_no>
+  2208777410
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 534 (대치동, 글라스타워빌딩)
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3496-2862
+ </phn_no> 
+ <fax_no>
+  02-3496-2899
+ </fax_no> 
+ <ind_cd>
+  20423
+ </ind_cd> 
+ <est_dt>
+  20090217
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

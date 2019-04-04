@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)셀젠텍
+ </crp_nm> 
+ <crp_nm_e>
+  CELLGENTEK Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  셀젠텍
+ </crp_nm_i> 
+ <stock_cd>
+  258250
+ </stock_cd> 
+ <ceo_nm>
+  김회율
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  2001110168265
+ </crp_no> 
+ <bsn_no>
+  4098172807
+ </bsn_no> 
+ <adr>
+  대전광역시 유성구 유성대로 579-4(구암동)
+ </adr> 
+ <hm_url>
+  cellgentek.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  042-822-9482
+ </phn_no> 
+ <fax_no>
+  042-822-9484
+ </fax_no> 
+ <ind_cd>
+  582
+ </ind_cd> 
+ <est_dt>
+  20020802
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

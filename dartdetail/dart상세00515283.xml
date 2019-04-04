@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한마음금융 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Microfinance &amp; Badbank Harmony Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  한마음금융
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  양기영
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101113008269
+ </crp_no> 
+ <bsn_no>
+  2208684627
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 강남대로 450 한국자산관리공사 중소기업인지원부
+ </adr> 
+ <hm_url>
+  www.badbank.or.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3420-5609
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  64992
+ </ind_cd> 
+ <est_dt>
+  20040517
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

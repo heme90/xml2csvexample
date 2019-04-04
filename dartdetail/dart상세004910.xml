@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  조광페인트(주)
+ </crp_nm> 
+ <crp_nm_e>
+  CHOKWANG PAINT CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  조광페인트
+ </crp_nm_i> 
+ <stock_cd>
+  004910
+ </stock_cd> 
+ <ceo_nm>
+  양성아
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110007088
+ </crp_no> 
+ <bsn_no>
+  6068100205
+ </bsn_no> 
+ <adr>
+  부산광역시 사상구 삼덕로 5 148
+ </adr> 
+ <hm_url>
+  www.chokwangpaint.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051-304-7701-5
+ </phn_no> 
+ <fax_no>
+  051) 304-7744
+ </fax_no> 
+ <ind_cd>
+  20411
+ </ind_cd> 
+ <est_dt>
+  19670116
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

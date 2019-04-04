@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)모토닉
+ </crp_nm> 
+ <crp_nm_e>
+  MOTONIC CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  모토닉
+ </crp_nm_i> 
+ <stock_cd>
+  009680
+ </stock_cd> 
+ <ceo_nm>
+  김영봉, 신현돈(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110161317
+ </crp_no> 
+ <bsn_no>
+  1018102940
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 청계천로 100 동관 9층(수표동, 시그니쳐타워)
+ </adr> 
+ <hm_url>
+  www.motonic.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-589-6262
+ </phn_no> 
+ <fax_no>
+  02)720-9292
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19740307
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

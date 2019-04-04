@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  STX조선해양(주)
+ </crp_nm> 
+ <crp_nm_e>
+  STX OFFSHORE &amp; SHIPBUILDING CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  STX조선해양
+ </crp_nm_i> 
+ <stock_cd>
+  067250
+ </stock_cd> 
+ <ceo_nm>
+  장윤근
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1801110002814
+ </crp_no> 
+ <bsn_no>
+  1208168604
+ </bsn_no> 
+ <adr>
+  경상남도 창원시 진해구 명제로 60 STX조선해양
+ </adr> 
+ <hm_url>
+  www.stxons.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-548-1122
+ </phn_no> 
+ <fax_no>
+  055-546-4322
+ </fax_no> 
+ <ind_cd>
+  3111
+ </ind_cd> 
+ <est_dt>
+  19670410
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

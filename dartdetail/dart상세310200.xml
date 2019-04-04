@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  미래에셋대우기업인수목적2호 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  MIRAE ASSET DAEWOO SPECIAL PURPOSE ACQUISITION 2 CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  미래에셋대우스팩2호
+ </crp_nm_i> 
+ <stock_cd>
+  310200
+ </stock_cd> 
+ <ceo_nm>
+  박광열
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101116895217
+ </crp_no> 
+ <bsn_no>
+  3188109181
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 을지로5길 26 미래에셋센터원
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3774-7117
+ </phn_no> 
+ <fax_no>
+  02-3774-8399
+ </fax_no> 
+ <ind_cd>
+  661
+ </ind_cd> 
+ <est_dt>
+  20181015
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

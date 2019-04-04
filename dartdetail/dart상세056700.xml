@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  신화인터텍(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SHINWHA INTERTEK CORP.
+ </crp_nm_e> 
+ <crp_nm_i>
+  신화인터텍
+ </crp_nm_i> 
+ <stock_cd>
+  056700
+ </stock_cd> 
+ <ceo_nm>
+  김학태
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1348110011677
+ </crp_no> 
+ <bsn_no>
+  1248135935
+ </bsn_no> 
+ <adr>
+  충남 천안시 동남구 병천면 매봉로 308
+ </adr> 
+ <hm_url>
+  www.shinwha.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-590-3300
+ </phn_no> 
+ <fax_no>
+  041-590-3306
+ </fax_no> 
+ <ind_cd>
+  2229
+ </ind_cd> 
+ <est_dt>
+  19880527
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

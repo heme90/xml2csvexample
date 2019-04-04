@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)태양
+ </crp_nm> 
+ <crp_nm_e>
+  TAEYANG Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  태양
+ </crp_nm_i> 
+ <stock_cd>
+  053620
+ </stock_cd> 
+ <ceo_nm>
+  현창수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1615110006118
+ </crp_no> 
+ <bsn_no>
+  3128107206
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 서북구 업성1길 27 태양산업(주)
+ </adr> 
+ <hm_url>
+  www.taeyangsun.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (041)621-9820
+ </phn_no> 
+ <fax_no>
+  041-621-9822
+ </fax_no> 
+ <ind_cd>
+  25991
+ </ind_cd> 
+ <est_dt>
+  19891014
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

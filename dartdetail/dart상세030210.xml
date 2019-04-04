@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  케이티비투자증권(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KTB Investment &amp; Securities Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  KTB투자증권
+ </crp_nm_i> 
+ <stock_cd>
+  030210
+ </stock_cd> 
+ <ceo_nm>
+  이병철, 최석종
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110878706
+ </crp_no> 
+ <bsn_no>
+  1168100319
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 여의대로 66 KTB빌딩
+ </adr> 
+ <hm_url>
+  www.ktb.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2184-2000
+ </phn_no> 
+ <fax_no>
+  02-2184-2030
+ </fax_no> 
+ <ind_cd>
+  66121
+ </ind_cd> 
+ <est_dt>
+  19810501
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

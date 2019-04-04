@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  써니전자(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SUNNY ELECTRONICS CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  써니전자
+ </crp_nm_i> 
+ <stock_cd>
+  004770
+ </stock_cd> 
+ <ceo_nm>
+  차상권
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110070881
+ </crp_no> 
+ <bsn_no>
+  1138106968
+ </bsn_no> 
+ <adr>
+  충청북도 충주시 목행산단2로 59
+ </adr> 
+ <hm_url>
+  www.sunny.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043-853-1760
+ </phn_no> 
+ <fax_no>
+  043-853-5805
+ </fax_no> 
+ <ind_cd>
+  2612
+ </ind_cd> 
+ <est_dt>
+  19660915
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

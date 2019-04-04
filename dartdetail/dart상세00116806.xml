@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)동아
+ </crp_nm> 
+ <crp_nm_e>
+  DONG-A PRECISION MACHINARY CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  동아
+ </crp_nm_i> 
+ <stock_cd>
+  012760
+ </stock_cd> 
+ <ceo_nm>
+  김옥열
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1345110002135
+ </crp_no> 
+ <bsn_no>
+  1358102394
+ </bsn_no> 
+ <adr>
+  경기도 안성시 공단1로 121 (신건지동)
+ </adr> 
+ <hm_url>
+  www.dongapm.co.kr
+ </hm_url> 
+ <ir_url>
+  http://www.dongapm.co.kr
+ </ir_url> 
+ <phn_no>
+  031-672-2462
+ </phn_no> 
+ <fax_no>
+  031-672-2464
+ </fax_no> 
+ <ind_cd>
+  30
+ </ind_cd> 
+ <est_dt>
+  19771207
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

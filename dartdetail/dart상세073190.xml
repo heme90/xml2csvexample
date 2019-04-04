@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)듀오백
+ </crp_nm> 
+ <crp_nm_e>
+  DUOBACK CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  듀오백
+ </crp_nm_i> 
+ <stock_cd>
+  073190
+ </stock_cd> 
+ <ceo_nm>
+  정관영
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110040676
+ </crp_no> 
+ <bsn_no>
+  1368107470
+ </bsn_no> 
+ <adr>
+  인천 서구 가좌동 543-2
+ </adr> 
+ <hm_url>
+  duoback.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-816-4814
+ </phn_no> 
+ <fax_no>
+  032-816-4817
+ </fax_no> 
+ <ind_cd>
+  32091
+ </ind_cd> 
+ <est_dt>
+  19870422
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

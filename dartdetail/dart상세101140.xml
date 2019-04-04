@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)아티스
+ </crp_nm> 
+ <crp_nm_e>
+  ARTIS CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  아티스
+ </crp_nm_i> 
+ <stock_cd>
+  101140
+ </stock_cd> 
+ <ceo_nm>
+  이상준, 김상우
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1313110080427
+ </crp_no> 
+ <bsn_no>
+  1258173285
+ </bsn_no> 
+ <adr>
+  경기도 평택시 통미로 23 (합정동,1층)
+ </adr> 
+ <hm_url>
+  www.arthis.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-420-4900
+ </phn_no> 
+ <fax_no>
+  02-850-9590
+ </fax_no> 
+ <ind_cd>
+  464
+ </ind_cd> 
+ <est_dt>
+  20080305
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

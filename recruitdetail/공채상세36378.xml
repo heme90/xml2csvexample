@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36378
+ </empSeqno>
+ <empWantedTitle>
+  Data Scientist (LINE 유저 데이터 분석 및 머신러닝 모델 연구/개발)
+ </empWantedTitle>
+ <empBusiNm>
+  라인플러스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190218
+ </empWantedStdt>
+ <empWantedEndt>
+  20190418
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://linepluscorp.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.linepluscorp.com/lineplus/career/detail/20002598?classId=&amp;entTypeCd=&amp;tag=&amp;page=
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRio7tN8%2FfS0w1%2BizSZ9MRlvId5wEzldWhQQFQW5j5C9ob7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류 합격자를 대상으로 온라인 필기테스트 전형이 있습니다. 온라인 필기테스트 합격자에 한해 1차 면접이 진행됩니다. 필기테스트는 머신러닝 관련 Linear Algebra, Calculus, Probability/Statistics 에 대한 지식을 테스트합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    과제전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    레퍼런스 체크
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    처우협의/최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    - 채용절차에 관한 자세한 사항은 채용 홈페이지를 참조하시기 바랍니다. - 전형일정 및 결과는 지원서에 등록하신 이메일로 개별 안내드립니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    Data Scientist
+   </empRecrNm>
+   <jobCont>
+    - LINE 유저 데이터 분석 및 비즈니스 인사이트 도출 - Machine Learning 모델(개인화 추천, 피드 랭킹, Anomaly Detection 등) 연구/개발 ● 현재 부서에서 진행중인 프로젝트는 다음과 같습니다. - 개인화 추천: YouTube나 Netflix와 같이 개인의 취향에 맞는 컨텐츠를 추천하기 위한 모델을 개발합니다. - 피드 랭킹: LINE의 SNS인 타임라인 피드에서 포스트가 &amp;apos;좋아요&amp;apos;를 받을 확률을 예측하는 모델을 개발합니다. - Anomaly Detection: 타임라인 상에서 이상 행동을 보이는 유저를 식별하는 모델을 개발합니다.
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    ● 다음 주제에 대한 지식 또는 경험 - Deep Learning - Convex Optimization - Causal Inference - Bayesian Statistics
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 성남시 분당구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    134303
+   </jobsCd>
+   <jobsCdKorNm>
+    IT 기술지원 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [근무국가] - 한국 ※ 국가 유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  * 포트폴리오 제출은 필수입니다. [보훈 취업지원 대상 및 장애인 서류 제출 안내] - 보훈 및 장애인 지원자에 해당되시는 경우, 입사지원시 [포트폴리오/이력서] 첨부 란에 반드시 관련 증명원을 발급하여 첨부 바랍니다. ㆍ보훈 지원자 : '보훈취업지원대상자 증명서' 발급하여 첨부 ㆍ장애인 지원자 : '장애인증명서 또는 복지카드' 첨부
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - ~ 채용시까지 - 채용 홈페이지 온라인 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 기타 채용 관련 문의사항은 채용 공고 페이지 상단 '채용문의' 또는 공지 사항을 참고하여 문의 부탁드립니다.
+ </inqryCont>
+ <empnEtcCont>
+  - 본 공고는 수시 모집으로 채용완료 시 조기 마감될 수 있습니다. - 지원서 내용 중 허위사실이 있는 경우 합격이 취소될 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

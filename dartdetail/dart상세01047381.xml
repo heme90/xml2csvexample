@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 스마트캅
+ </crp_nm> 
+ <crp_nm_e>
+  smart cap co.,ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  스마트캅
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이 정 희
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1314110329592
+ </crp_no> 
+ <bsn_no>
+  1348732636
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 가산디지털1로 168 (가산동, 우림라이온스밸리)씨동707호
+ </adr> 
+ <hm_url>
+  www.smartcop.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  1666-3767
+ </phn_no> 
+ <fax_no>
+  070-8270-2120
+ </fax_no> 
+ <ind_cd>
+  7531
+ </ind_cd> 
+ <est_dt>
+  20141010
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

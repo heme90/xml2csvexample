@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)팬스타엔터프라이즈
+ </crp_nm> 
+ <crp_nm_e>
+  Panstar Enterprise Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  팬스타엔터프라이즈
+ </crp_nm_i> 
+ <stock_cd>
+  054300
+ </stock_cd> 
+ <ceo_nm>
+  김현겸, 최영학 각자대표
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110126038
+ </crp_no> 
+ <bsn_no>
+  1398123687
+ </bsn_no> 
+ <adr>
+  부산광역시 중구 해관로 30 팬스타크루즈프라자
+ </adr> 
+ <hm_url>
+  www.heshbon.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  000-1577-3520
+ </phn_no> 
+ <fax_no>
+  032-585-3535
+ </fax_no> 
+ <ind_cd>
+  29169
+ </ind_cd> 
+ <est_dt>
+  19951121
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

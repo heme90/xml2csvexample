@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼영이엔씨(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Samyung ENC Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼영이엔씨
+ </crp_nm_i> 
+ <stock_cd>
+  065570
+ </stock_cd> 
+ <ceo_nm>
+  황 원, 황재우(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1801110172667
+ </crp_no> 
+ <bsn_no>
+  6018126156
+ </bsn_no> 
+ <adr>
+  부산광역시 영도구 상리로 69
+ </adr> 
+ <hm_url>
+  www.samyungenc.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (051)601-6666
+ </phn_no> 
+ <fax_no>
+  02-569-6243
+ </fax_no> 
+ <ind_cd>
+  26429
+ </ind_cd> 
+ <est_dt>
+  19950206
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

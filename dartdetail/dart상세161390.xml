@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한국타이어(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HANKOOK TIRE CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국타이어
+ </crp_nm_i> 
+ <stock_cd>
+  161390
+ </stock_cd> 
+ <ceo_nm>
+  조현범,이수일
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101114952093
+ </crp_no> 
+ <bsn_no>
+  2208843431
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 133
+ </adr> 
+ <hm_url>
+  kr.hankooktire.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2222-1000
+ </phn_no> 
+ <fax_no>
+  02-2222-1746
+ </fax_no> 
+ <ind_cd>
+  22111
+ </ind_cd> 
+ <est_dt>
+  20120901
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

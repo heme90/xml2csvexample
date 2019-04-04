@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)노바텍
+ </crp_nm> 
+ <crp_nm_e>
+  NOVATECH Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  노바텍
+ </crp_nm_i> 
+ <stock_cd>
+  285490
+ </stock_cd> 
+ <ceo_nm>
+  오춘택
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1351110083661
+ </crp_no> 
+ <bsn_no>
+  1238609157
+ </bsn_no> 
+ <adr>
+  경기도 용인시 기흥구 흥덕중앙로 120, 511호, 1101호,1111호,1112호,1113호(영덕동, 유타워)
+ </adr> 
+ <hm_url>
+  www.novatek.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-627-5290
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  339
+ </ind_cd> 
+ <est_dt>
+  20070223
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

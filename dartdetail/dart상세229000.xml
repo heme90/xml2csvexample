@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)젠큐릭스
+ </crp_nm> 
+ <crp_nm_e>
+  Gencurix Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  젠큐릭스
+ </crp_nm_i> 
+ <stock_cd>
+  229000
+ </stock_cd> 
+ <ceo_nm>
+  조상래
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101114690768
+ </crp_no> 
+ <bsn_no>
+  2068657589
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로 242402, 403, 404, 908, 910, 911호
+ </adr> 
+ <hm_url>
+  www.gencurix.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-7508-2340
+ </phn_no> 
+ <fax_no>
+  02-2621-7039
+ </fax_no> 
+ <ind_cd>
+  27199
+ </ind_cd> 
+ <est_dt>
+  20110921
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

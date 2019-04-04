@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37542
+ </empSeqno>
+ <empWantedTitle>
+  [Expert] 웹서비스 개발 분야 전문가
+ </empWantedTitle>
+ <empBusiNm>
+  에스케이텔레콤
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190312
+ </empWantedStdt>
+ <empWantedEndt>
+  20190411
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.sktelecom.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://tas-sktelecom.taleo.net/careersection/ex/jobdetail.ftl?job=1900002B&amp;lang=ko
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRiqWFTeUnC7Ku62jSw89T55S8vfkZRM3S%2FA9%2FFLaarZ0gVCYZge%2B3Ai%2BWL36%2FdbFmVg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    SKCT
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    건강검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    웹서비스 개발 분야 전문가
+   </empRecrNm>
+   <jobCont>
+    •Cloud 기반 Video Surveillance System의 Web 개발 (Cloud 기반 웹서비스) •Web Application server 개발 •Web Backend 개발 및 시스템 성능 튜닝 •Restful API 설계 / 구현 •Web Frontend 일부 유지보수
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    •총 보유경력 : 6년 이상 •학력/전공 : 학사~박사/ 컴퓨터공학/영상처리/네트워크 전공자 우대 •기술/경험 ◦Java/Javascript 프로그래밍 역량 중급 이상 (필수) ◦Linux 프로그래밍 관련 역량 중급 이상 (필수) ◦Spring 활용 역량 (필수) ◦ES6 기반 Frontend 개발 역량 (우대)
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 성남시 분당구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    133300
+   </jobsCd>
+   <jobsCdKorNm>
+    웹 개발자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 주 근무지 : 수도권N_분당사옥 - 직무 : SW Engineering - 조직 : Security_Labs - 직급유형 : 실무직(Expert)
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지를 통해 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 홈페이지를 통해 문의
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

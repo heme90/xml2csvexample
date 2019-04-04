@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  이원컴포텍(주)
+ </crp_nm> 
+ <crp_nm_e>
+  EWON COMFORTECH CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  이원컴포텍
+ </crp_nm_i> 
+ <stock_cd>
+  088290
+ </stock_cd> 
+ <ceo_nm>
+  류일주
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1613110004067
+ </crp_no> 
+ <bsn_no>
+  3088105946
+ </bsn_no> 
+ <adr>
+  전라북도 정읍시 첨단1로 8 (신정동)
+ </adr> 
+ <hm_url>
+  www.ewonseat.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-740-3113
+ </phn_no> 
+ <fax_no>
+  063-928-1004
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19941118
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

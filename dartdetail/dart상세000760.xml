@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  이화산업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  RIFA CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  이화산업
+ </crp_nm_i> 
+ <stock_cd>
+  000760
+ </stock_cd> 
+ <ceo_nm>
+  홍성우
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110018138
+ </crp_no> 
+ <bsn_no>
+  1078113542
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 선유동2로 70 (당산동 5가)
+ </adr> 
+ <hm_url>
+  www.rifa.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2007-5555
+ </phn_no> 
+ <fax_no>
+  2636-2230
+ </fax_no> 
+ <ind_cd>
+  46731
+ </ind_cd> 
+ <est_dt>
+  19500329
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  아주아이비투자(주)
+ </crp_nm> 
+ <crp_nm_e>
+  AJU IB INVESTMENT CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  아주IB투자
+ </crp_nm_i> 
+ <stock_cd>
+  027360
+ </stock_cd> 
+ <ceo_nm>
+  김지원
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110169874
+ </crp_no> 
+ <bsn_no>
+  1168141872
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 201, 아주빌딩 4, 5층
+ </adr> 
+ <hm_url>
+  www.ajuib.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3451-9200
+ </phn_no> 
+ <fax_no>
+  02-3452-9805
+ </fax_no> 
+ <ind_cd>
+  649
+ </ind_cd> 
+ <est_dt>
+  19740909
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

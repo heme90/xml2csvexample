@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36799
+ </empSeqno>
+ <empWantedTitle>
+  SW Architecture 개발 경력직 모집
+ </empWantedTitle>
+ <empBusiNm>
+  텔레칩스
+ </empBusiNm>
+ <coClcdNm></coClcdNm>
+ <empWantedStdt>
+  20190227
+ </empWantedStdt>
+ <empWantedEndt>
+  20190427
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.telechips.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://careers.telechips.com/kor/jobs/notice_view.php?idx=36&amp;recruit_type=A&amp;recruit_leng=&amp;page=0&amp;list=0
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRio1SYYNCW6QJeJHgljEqVwdfCBkpSrNhOOUURRm1eB6y7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    SW Architecture 개발
+   </empRecrNm>
+   <jobCont>
+    - 요구사항 분석을 통한 동작시나리오 구성 - 동작시나리오 구성을 통한 Architecture 설계
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 영어 가능자 및 석사 학위 보유자 우대 - 보훈대상자, 장애인의 경우 관련법에 의거하여 우대합니다.
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    133102
+   </jobsCd>
+   <jobsCdKorNm>
+    펌웨어 및 임베디드 소프트웨어 프로그래머
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    133202
+   </jobsCd>
+   <jobsCdKorNm>
+    C언어 및 그 외 프로그래밍 언어 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [직무소개] - Platform그룹은 비메모리 반도체의 자동차 영역과 소비자 제품 영역에서의 응용을 위한 Solution을 개발하는 곳입니다. OS와 Platform은 Android와 Linux를 사용하고 있으며, 칩위에 Linux와 Android를 구현할 수 있는 Build System 등을 개발하고 제공합니다. 또한 자체적으로 보유한 자동차와 소비자 제품관련 요소기술들을 정합하고 종합하여 하나의 SDK로 만드는 역할을 합니다. 더불어 최근 각 응용분야별로 요구되는 기능 안전과 보안 기술 등을 SDK에 적용하여 사용자의 요구사항을 충족시키는 SDK를 만들고 있습니다. 이러한 SDK를 만들기 위하여 필요한 SW 설계, 검증, 구현, 그리고 사용자가 요구하는 최신 소프트웨어 등을 적용하여 미래 기술를 선도하는 Solution을 개발하고 제공하는 시점이되는 부서입니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  ▷ 이력서(자유양식) 1부 ▷ 자기소개서(자유양식) 1부 ▷ 프로젝트 수행내역서 1부 (연구소 지원자만 해당) ▷ 대학교(대학원) 전학년 성적증명서 1부(신입만 해당) ▷ 최종학교 졸업(예정)증명서 1부(신입만 해당) * 제출서류는 위 서류를 취합하여 1개 PDF 파일로 제출해 주십시오. * 이력서, 자기소개서, 지원서류를 하나의 PDF파일로 합쳐서 첨부해 주십시오. * 첨부파일은 PDF파일만 등록되며, 10mb이하만 등록 가능하십니다.
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ~ 채용시 까지 - 채용홈페이지 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 '채용FAQ' 참조
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

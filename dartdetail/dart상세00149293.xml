@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)신한은행
+ </crp_nm> 
+ <crp_nm_e>
+  SHINHAN BANK
+ </crp_nm_e> 
+ <crp_nm_i>
+  신한은행
+ </crp_nm_i> 
+ <stock_cd>
+  000010
+ </stock_cd> 
+ <ceo_nm>
+  진옥동
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110012809
+ </crp_no> 
+ <bsn_no>
+  2028102637
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 세종대로9길 20 (태평로2가, 신한은행 본점)
+ </adr> 
+ <hm_url>
+  www.shinhan.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-756-0505
+ </phn_no> 
+ <fax_no>
+  02-776-8194
+ </fax_no> 
+ <ind_cd>
+  64121
+ </ind_cd> 
+ <est_dt>
+  18970219
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

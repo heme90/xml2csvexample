@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)푸드웰
+ </crp_nm> 
+ <crp_nm_e>
+  FOODWELL CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  푸드웰
+ </crp_nm_i> 
+ <stock_cd>
+  005670
+ </stock_cd> 
+ <ceo_nm>
+  성기준, 성민겸
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1701110001628
+ </crp_no> 
+ <bsn_no>
+  5028100145
+ </bsn_no> 
+ <adr>
+  대구광역시 달서구 성서서로 121 -
+ </adr> 
+ <hm_url>
+  www.foodwell.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-980-3320
+ </phn_no> 
+ <fax_no>
+  053-982-1240
+ </fax_no> 
+ <ind_cd>
+  1030
+ </ind_cd> 
+ <est_dt>
+  19680809
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

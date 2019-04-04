@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37425
+ </empSeqno>
+ <empWantedTitle>
+  AI 연구/개발 직군 모집
+ </empWantedTitle>
+ <empBusiNm>
+  넷마블
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190318
+ </empWantedStdt>
+ <empWantedEndt>
+  20190518
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.netmarble.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://company.netmarble.com/rem/www/notice.jsp?anno_id=1533571&amp;annotype=all
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRinwzgLAM2A8RrQ5kkeEpm6s5MYTvTTufOJd6fdIXzJ6V7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류합격자 분들을 대상으로 개별 면접을 진행합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    합격발표
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    본 절차는 경력기준입니다. 자세한 사항은 채용 홈페이지 참조
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI 연구개발(QA자동화)
+   </empRecrNm>
+   <jobCont>
+    QA Automation - QA 자동화를 위한 스크립트 분석 - 기계학습/딥러닝 모델과 연계한 시스템 통합
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 모바일 게임에 대한 이해도 - 딥러닝 기반 computer vision 관련 프로젝트 경험 - CVPR, ICCV, ECCV, ICIP, BMVC 등 국제 학회에 논문 발표 경험 - 해당 분야 박사 학위
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI 연구개발(컴퓨터비전)
+   </empRecrNm>
+   <jobCont>
+    Computer Vision - Object detection, image captioning, OCR 알고리즘 개발 및 최적화 - 딥러닝 등 머신러닝을 이용한 모델링 기술 - Computer Vision 관련 선행 연구
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 모바일 게임에 대한 이해도 - 딥러닝 기반 computer vision 관련 프로젝트 경험 - CVPR, ICCV, ECCV, ICIP, BMVC 등 국제 학회에 논문 발표 경험 - 해당 분야 박사 학위
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI 연구개발(음성인식)
+   </empRecrNm>
+   <jobCont>
+    음성인식 - Acoustic 모델링 및 automatic speech recognition(ASR) - Voice Activation(키워드 인식) 기술 알고리즘 및 최적화 - 원거리 음성인식 전처리 기술 알고리즘 및 최적화 - 음성 인식/합성 엔진 개발 - 음성 인식/합성 용 언어처리 엔진 개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 모바일 게임에 대한 이해도가 있으신 분 - ICASSP, INTERSPEECH 등 국제 학회에 논문 발표 경험 - 음성 인식/합성 용 언어처리(텍스트 정규화, 발음변환, 언어모델 등) 유경험자 - 해당 분야 박사 학위 소지자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI 머신러닝 엔지니어
+   </empRecrNm>
+   <jobCont>
+    AI ML Engineer - 머신러닝(ML) 을 이용한 상품/서비스 개발 및 운영 · ML 서비스화에 필요한 라이브버리, 툴 및 대용량 ML API 개발 · ML 모델 상용화 배포를 위한 아케텍쳐 설계 및 운영 · 최신 ML 서비스 엔지니어링에 대한 F/U 및 기술 확보
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 모바일 게임에 대한 이해도 - Hadoop/Spark 등 분산처리 프로그래밍 기반 대용량 데이터 엔지니어링 경험 - Docker 등 가상화 환경 사용 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI 연구개발(강화학습)
+   </empRecrNm>
+   <jobCont>
+    강화학습 - 강화학습, 모방학습 등의 기술을 사용한 최적화 기술 개발 - 게임 플레이 가능한 에이전트 개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 게임 및 게임개발 전반에 대한 경험과 이해도 - 강화학습 프로젝트 경험 - C#, C++등 다양한 언어 사용능력 - NIPS, ICML, ICLR, CIG 등 국제 학회 논문 발표 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI 리서치 엔지니어
+   </empRecrNm>
+   <jobCont>
+    AI Research Engineer - 다음을 포함하는 업무 분야의 문제를 해결하는 데 활용될 인공지능 기술의 연구/개발 및 고도화 · 게임 재미: 지능형 NPC 개발, AI 게임 플레이어 개발, 게임 밸런스 최적화 · 게임 개발: 캐릭터 3D 모델/애니메이션 자동 생성, 게임 콘텐츠 자동 생성, 빌드 테스트 자동화 등 · 게임 운영: 유저 인텔리전스 생성, 게임데이터 기반 유저액션분석 및 예측모델개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 모바일 게임에 대한 이해도 - 게임 서비스에 ML/AI를 적용한 경험 - NIPS, ICML, ICLR, IJCAI, AAAI, UAI, AISTATS 등 국제 학회에 논문 발표 경험 - 중국어, 일본어, 영어 소통 능력 - 관련 분야 박사 학위
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI 연구개발(NLP)
+   </empRecrNm>
+   <jobCont>
+    - 텍스트 데이터 마이닝 - 사용자의 질문에 대한 의도 파악, 분류, 문서 요약 관련 모델링 기술 - 대규모 게임 유저 VOC 분석 모델링 기술 - 상용화에 필요한 라이브버리, 툴 및 Rest-API 개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 모바일 게임에 대한 이해도 - ACL, EMNLP, COLING 등 국제 학회에 논문 발표 경험 - NLP/IR 분야 박사 학위 - 정보 시스템(예: 검색 시스템) 개발 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [직군] - AI/데이터분석
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용페이지 온라인 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 &gt; 인재채용 &gt; 채용문의
+ </inqryCont>
+ <empnEtcCont>
+  * 허위기재 사실이 발견될 시에는 불합격 또는 입사가 취소될 수 있습니다. * 추후 입사 시 당사의 기술과 업무 매뉴얼을 바탕으로 업무를 하게 되므로, 당사는 타 회사의 영업비밀을 필요로 하지 않습니다. * 필요한 경우, 합법적인 방법과 절차를 통해 취득하여 사용합니다. * 입사지원자께서는 전 직장의 영업비밀을 침해하는 일이 없도록 각별히 유의하여 주시기 바라며, 침해 및 관련 분쟁 발생시 본인의 책임으로 당사를 면책하여야 함을 주지하여 주시기 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

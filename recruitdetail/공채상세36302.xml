@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36302
+ </empSeqno>
+ <empWantedTitle>
+  수시채용
+ </empWantedTitle>
+ <empBusiNm>
+  휴메딕스
+ </empBusiNm>
+ <coClcdNm></coClcdNm>
+ <empWantedStdt>
+  20190215
+ </empWantedStdt>
+ <empWantedEndt>
+  20190415
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.humedix.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://recruit.huons.com/Recruit/careerDetail?announceType=&amp;announceIdx=152&amp;isOpen=0
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRiguGtrHU3dxrLW5pirX9HNPD6Q%2FNa4vcidPFwpIEwGHZ7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    온라인 입사지원
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 면접(실무진)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인적성검사 및 2차 면접(경영진)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용 검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종 합격 / 입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    기술지원부
+   </empRecrNm>
+   <jobCont>
+    - Utility 및 생산 설비 유지보수
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 전공 : 기계관련학과 전공자 우대 - 자격사항 : 기계, 설비 관련 자격증 소지자 우대 - 기타 : 제약공장 유지보수 업무 경험자 우대, 국가보훈대상자 및 복지카드 소유자 우대
+   </sptCertEtc>
+   <recrPsncnt>
+    2
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    충북 제천시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    경영지원본부
+   </empRecrNm>
+   <jobCont>
+    - 전략기획 및 법무
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 전공 : 상경계열, 법학계열 - 기타 : 해당 업무경력 7년 이상, 바이오/제약 산업 경험자, 컴퓨터활용 능력 우수자(EXCEL, PPT 등)
+   </sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 안양시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    마케팅팀
+   </empRecrNm>
+   <jobCont>
+    - 필러 마케팅 - 리즈톡스 마케팅
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 기타 : 총 경력 중 에스테틱 분야의 톡신, 필러 경험 2년 이상 필수(리즈톡스 마케팅, 1명 ) / - 에스테틱분야, 비급여 분야에서의 경험 필수(필러 마케팅, 1명)
+   </sptCertEtc>
+   <recrPsncnt>
+    2
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 안양시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    에스테틱1사업부
+   </empRecrNm>
+   <jobCont>
+    - 엘라비에 제약영업(MR)
+   </jobCont>
+   <empWantedCareerNm>
+    경력|신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 자격사항 : 경력 3년이상 - 기타 : 필러, 미용성형기기, 웰빙주사제 영업 경력
+   </sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 안양시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    에스테틱2사업부
+   </empRecrNm>
+   <jobCont>
+    - Filler 및 Toxin을 중심으로 한 Aesthetic 영업 (부산,대전)
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    [우대사항] - 자격사항 : Filler와 Toxin 국내 영업 有 경험자, 병역필 또는 면제자로 해외여행에 결격사유가 없어야 합니다. - 기타 : 국가보훈대상자 및 장애인 관련서류 제출시 과계 법령에 의거 우대, 입사지원 서류 허위사실이 발견될 경우 채용 확정 이후라도 채용 취소 될수도 있습니다. [근무지] - 강원,충청,영남,호남,제주
+   </sptCertEtc>
+   <recrPsncnt>
+    2
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    01
+   </jobsCd>
+   <jobsCdKorNm>
+    경영·사무·금융·보험
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  &lt;
+ </recrCommCont>
+</dhsOpenEmpInfoDetailRoot>

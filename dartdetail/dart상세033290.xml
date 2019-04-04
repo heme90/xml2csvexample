@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  코웰패션(주)
+ </crp_nm> 
+ <crp_nm_e>
+  COWELL FASHION CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  코웰패션
+ </crp_nm_i> 
+ <stock_cd>
+  033290
+ </stock_cd> 
+ <ceo_nm>
+  최용석, 임종민
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110166127
+ </crp_no> 
+ <bsn_no>
+  1248122987
+ </bsn_no> 
+ <adr>
+  경기 수원시 팔달구 원천동 381
+ </adr> 
+ <hm_url>
+  www.pilkor.co.kr
+ </hm_url> 
+ <ir_url>
+  www.cowellfashion.co.kr
+ </ir_url> 
+ <phn_no>
+  031 -217 -2500
+ </phn_no> 
+ <fax_no>
+  031-8060-0799
+ </fax_no> 
+ <ind_cd>
+  144
+ </ind_cd> 
+ <est_dt>
+  19740611
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

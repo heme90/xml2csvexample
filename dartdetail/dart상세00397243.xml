@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)티에스엠텍
+ </crp_nm> 
+ <crp_nm_e>
+  TSM TECH CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  티에스엠텍
+ </crp_nm_i> 
+ <stock_cd>
+  066350
+ </stock_cd> 
+ <ceo_nm>
+  마대열
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111513137
+ </crp_no> 
+ <bsn_no>
+  1138146733
+ </bsn_no> 
+ <adr>
+  울산광역시 울주군 청량면 처용산업3길 93 (용암리, (주)티에스엠텍)
+ </adr> 
+ <hm_url>
+  www.tsm-tech.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  052-241-0300
+ </phn_no> 
+ <fax_no>
+  052-241-0369
+ </fax_no> 
+ <ind_cd>
+  292
+ </ind_cd> 
+ <est_dt>
+  19980216
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

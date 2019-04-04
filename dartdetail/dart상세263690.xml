@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)디알젬
+ </crp_nm> 
+ <crp_nm_e>
+  DRGEM CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  디알젬
+ </crp_nm_i> 
+ <stock_cd>
+  263690
+ </stock_cd> 
+ <ceo_nm>
+  박정병
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112863789
+ </crp_no> 
+ <bsn_no>
+  2208671516
+ </bsn_no> 
+ <adr>
+  경기도 광명시 하안로 60 광명테크노파크 E동 7층 ;
+ </adr> 
+ <hm_url>
+  www.drgem.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-869-8566
+ </phn_no> 
+ <fax_no>
+  02-869-8567
+ </fax_no> 
+ <ind_cd>
+  27111
+ </ind_cd> 
+ <est_dt>
+  20030925
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

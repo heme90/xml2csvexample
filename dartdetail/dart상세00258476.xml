@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 독립문
+ </crp_nm> 
+ <crp_nm_e>
+  DOKLIPMUN CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  독립문
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  조재훈, 김형숙
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110005705
+ </crp_no> 
+ <bsn_no>
+  2058101466
+ </bsn_no> 
+ <adr>
+  서울특별시 동대문구 망우로12길 6
+ </adr> 
+ <hm_url>
+  www.pat.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3407-0854
+ </phn_no> 
+ <fax_no>
+  070-7431-1702
+ </fax_no> 
+ <ind_cd>
+  14300
+ </ind_cd> 
+ <est_dt>
+  19610605
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

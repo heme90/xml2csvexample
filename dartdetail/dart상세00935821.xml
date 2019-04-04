@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  넷마블네오(주)
+ </crp_nm> 
+ <crp_nm_e>
+  NetmarbleNeo Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  넷마블네오
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  권영식
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101114886151
+ </crp_no> 
+ <bsn_no>
+  1138660405
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로 300 (구로동, 지밸리비즈플라자) 9층
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  0222718603
+ </phn_no> 
+ <fax_no>
+  0222718632
+ </fax_no> 
+ <ind_cd>
+  5821
+ </ind_cd> 
+ <est_dt>
+  20120608
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

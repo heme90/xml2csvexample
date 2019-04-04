@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한신기계공업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HANSHIN MACHINERY CO
+ </crp_nm_e> 
+ <crp_nm_i>
+  한신기계공업
+ </crp_nm_i> 
+ <stock_cd>
+  011700
+ </stock_cd> 
+ <ceo_nm>
+  최영민
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1301110010346
+ </crp_no> 
+ <bsn_no>
+  1348103309
+ </bsn_no> 
+ <adr>
+  경기도 안산시 단원구 해봉로330번길 23 신길동
+ </adr> 
+ <hm_url>
+  www.hanshin.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-491-3911
+ </phn_no> 
+ <fax_no>
+  031-491-3916
+ </fax_no> 
+ <ind_cd>
+  29132
+ </ind_cd> 
+ <est_dt>
+  19761123
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

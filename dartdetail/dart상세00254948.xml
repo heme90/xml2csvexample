@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한화호텔앤드리조트 (주)
+ </crp_nm> 
+ <crp_nm_e>
+  Hanwha Hotels &amp; Resorts CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  한화호텔앤드리조트
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  문석
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110249709
+ </crp_no> 
+ <bsn_no>
+  1018130747
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 63로 50 (여의도동, 63한화생명빌딩) 12층
+ </adr> 
+ <hm_url>
+  www.hwhnr.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-789-5183
+ </phn_no> 
+ <fax_no>
+  02-789-5514
+ </fax_no> 
+ <ind_cd>
+  55103
+ </ind_cd> 
+ <est_dt>
+  19790320
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

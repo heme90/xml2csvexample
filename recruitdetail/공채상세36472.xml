@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36472
+ </empSeqno>
+ <empWantedTitle>
+  SPM 경력 채용
+ </empWantedTitle>
+ <empBusiNm>
+  이씨에스텔레콤
+ </empBusiNm>
+ <coClcdNm></coClcdNm>
+ <empWantedStdt>
+  20190212
+ </empWantedStdt>
+ <empWantedEndt>
+  20190412
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.ecstel.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.ecstel.co.kr/
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvOxBzZ31N28z8l5s5uuNuMDFvFfIDYfpeLKey%2B8QrwPp
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5W9zO%2FTu4wWmdhfGyFQnRPAo6xiOqjMKevin2eljRs8yzJT%2FOFAosdx%2Fpk8JbaOuvLUxzIER5UM4wC5YmEsxYzjBnq064MYN6W5uz9ngl0ZxA&amp;realFileNm=7J6F7IKs7KeA7JuQ7IScX+qyveugpV8yMDE4LmRvY3g=
+   </regFileUrl>
+   <realFileNm>
+    입사지원서_경력_2018.docx
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 실무진면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    SPM(서비스 PM)
+   </empRecrNm>
+   <jobCont>
+    -IPT/IPCC등 고객사 유지보수 업무 -IPT/IPCC등 장애처리 업무 -정기점검 및 보고서 작성
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    2
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    SPM(Helpdesk)
+   </empRecrNm>
+   <jobCont>
+    - 서비스데스크 전화응대 - 사내IT헬프데스크 - 협력사 장애보고 관리 - 고객사 유지보수 업무
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    1
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    012205
+   </jobsCd>
+   <jobsCdKorNm>
+    기타 경영지원 서비스 관리자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    134302
+   </jobsCd>
+   <jobsCdKorNm>
+    네트워크 관리자(클라우딩컴퓨터운영관리자)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 모집부문: SPM - 지원대상: 경력 3년이상 - 직급: 대리~차장 - 팀(Part): R4
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  ~ 채용시 마감 - 채용홈페이지 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 02-3415-8326 - recruit@ecstel.co.kr
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

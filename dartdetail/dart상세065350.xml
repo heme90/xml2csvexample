@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  신성델타테크(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SHINSUNG DELTA TECH CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  신성델타테크
+ </crp_nm_i> 
+ <stock_cd>
+  065350
+ </stock_cd> 
+ <ceo_nm>
+  구자천
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1942110003096
+ </crp_no> 
+ <bsn_no>
+  6098107658
+ </bsn_no> 
+ <adr>
+  경상남도 창원시 성산구 공단로271번길 39 신성델타테크(주)
+ </adr> 
+ <hm_url>
+  www.ssdelta.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-260-1000
+ </phn_no> 
+ <fax_no>
+  055-285-1628
+ </fax_no> 
+ <ind_cd>
+  28519
+ </ind_cd> 
+ <est_dt>
+  19871109
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

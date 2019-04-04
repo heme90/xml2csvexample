@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)코렌
+ </crp_nm> 
+ <crp_nm_e>
+  KOLEN CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  코렌
+ </crp_nm_i> 
+ <stock_cd>
+  078650
+ </stock_cd> 
+ <ceo_nm>
+  지을렬
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1311110043776
+ </crp_no> 
+ <bsn_no>
+  1298130916
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 사기막골로 90 (상대원동) 1층 (주)코렌
+ </adr> 
+ <hm_url>
+  www.kolen.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-740-6800
+ </phn_no> 
+ <fax_no>
+  031-741-0050
+ </fax_no> 
+ <ind_cd>
+  27301
+ </ind_cd> 
+ <est_dt>
+  19991103
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

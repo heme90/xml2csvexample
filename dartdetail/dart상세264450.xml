@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)유비쿼스
+ </crp_nm> 
+ <crp_nm_e>
+  Ubiquoss Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  유비쿼스
+ </crp_nm_i> 
+ <stock_cd>
+  264450
+ </stock_cd> 
+ <ceo_nm>
+  이상근
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1311110475341
+ </crp_no> 
+ <bsn_no>
+  6558800491
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로255번길 68
+ </adr> 
+ <hm_url>
+  www.ubiquoss.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-4865-0500
+ </phn_no> 
+ <fax_no>
+  031-8017-1183
+ </fax_no> 
+ <ind_cd>
+  26410
+ </ind_cd> 
+ <est_dt>
+  20170302
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

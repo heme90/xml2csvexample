@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  상신전자(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SANGSHIN ELECTRONICS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  상신전자
+ </crp_nm_i> 
+ <stock_cd>
+  263810
+ </stock_cd> 
+ <ceo_nm>
+  김승천
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341110025060
+ </crp_no> 
+ <bsn_no>
+  1388105124
+ </bsn_no> 
+ <adr>
+  경상남도 김해시 진영읍 본산로269번길 16-34
+ </adr> 
+ <hm_url>
+  www.sangshin-e.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-343-3826
+ </phn_no> 
+ <fax_no>
+  055-345-9647
+ </fax_no> 
+ <ind_cd>
+  2629
+ </ind_cd> 
+ <est_dt>
+  19880701
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

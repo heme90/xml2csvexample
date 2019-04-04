@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  대우정보시스템주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Daewoo Information System Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  대우정보시스템
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이태하
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110625991
+ </crp_no> 
+ <bsn_no>
+  1048118820
+ </bsn_no> 
+ <adr>
+  서울특별시 종로구 종로33길 15 (연지동, 두산아트센터)
+ </adr> 
+ <hm_url>
+  www.daewoobrenic.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3704-6095
+ </phn_no> 
+ <fax_no>
+  02-6007-9825
+ </fax_no> 
+ <ind_cd>
+  62021
+ </ind_cd> 
+ <est_dt>
+  19890429
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)화이브라더스코리아
+ </crp_nm> 
+ <crp_nm_e>
+  Huayi Brothers Korea Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  화이브라더스코리아
+ </crp_nm_i> 
+ <stock_cd>
+  204630
+ </stock_cd> 
+ <ceo_nm>
+  지승범
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115488493
+ </crp_no> 
+ <bsn_no>
+  1078826110
+ </bsn_no> 
+ <adr>
+  서울특별시 성동구 독서당로39길 37-37 302호(옥수동, 루하우스)
+ </adr> 
+ <hm_url>
+  www.huayibrothersent.com
+ </hm_url> 
+ <ir_url>
+  www.huayibrothersent.com
+ </ir_url> 
+ <phn_no>
+  02-2299-8089
+ </phn_no> 
+ <fax_no>
+  02-2299-4049
+ </fax_no> 
+ <ind_cd>
+  901
+ </ind_cd> 
+ <est_dt>
+  20140812
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

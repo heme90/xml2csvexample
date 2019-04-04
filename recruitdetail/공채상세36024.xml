@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36024
+ </empSeqno>
+ <empWantedTitle>
+  Java 웹 서비스 및 플랫폼 개발자 채용
+ </empWantedTitle>
+ <empBusiNm>
+  엔에이치엔엔터테인먼트
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190211
+ </empWantedStdt>
+ <empWantedEndt>
+  20190411
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.nhnent.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://recruit.nhnent.com/ent/recruitings/20001115
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRisrJqQij789SYiMWgAZC%2FBUpJqeHmr%2Bv3gMrjeE%2BaB1x7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    전형일정은 서류 합격자에 한하여 개별 연락 드립니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    필기 테스트/1차 면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    필기테스트/1차면접 전형은 모집 부문에 따라 변경 될 수 있으며, 각 단계별 합격자에게 상세하게 안내드립니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    웹 개발
+   </empRecrNm>
+   <jobCont>
+    - 웹 서비스 플랫폼 개발 - 유저 타겟팅 시스템, 쿠폰 시스템, 이벤트 플랫폼, 배너 플랫폼, 프로젝트 매니징 플랫폼 등 웹 서비스를 효율적으로 운영하기 위한 기반 플랫폼 개발 - 한게임 웹 포털 서비스 및 운영툴 개발 - 한게임 메인, 유료 서비스, 게임 웹 및게임 운영툴 등 한게임 전반에 대한 서비스 및 운영툴 개발 - 웹 서비스간, 웹 서비스와 게임 간의 연계를위한 API 서버 개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 레거시 코드를 적극적으로 리팩토링할수 있는 기술과 열정이 있으신 분 - 업무를 통해 개발적으로 성장하고자 하는욕구가 높고 책임감이 강하신 분 - 유관 부서와의 원활한 커뮤니케이션 능력과 긍정적인 마인드
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 성남시 분당구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    024
+   </jobsCd>
+   <jobsCdKorNm>
+    소프트웨어
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 지원자격 : 병역필 혹은 면제로 해외여행에 결격 사유가 없는 자 - 국가보훈해당자 및 장애인은 관련 법률에 의거 우대합니다.(증빙서류 제출자에 한함)
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지 온라인 지원서 작성 ※ ~ 채용시까지
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 채용문의 참조
+ </inqryCont>
+ <empnEtcCont>
+  - 본 채용은 상시 채용으로 면접이 수시로 진행되며, 先지원자에게 기회가 먼저 부여되므로 빠른 지원 바랍니다. - 제출서류에 허위기재 또는 기재착오, 구비서류 미제출 등으로 인한 불이익은 응시자 본인의 책임으로 합니다. - 제출서류나 각종 증명서의 기재내용이 허위일 경우, 응시를 무효로 하며 합격을 취소합니다. - 당사 소개 및 기타 자세한 사항은 홈페이지(http://www.nhnent.com)를 참조하시기 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

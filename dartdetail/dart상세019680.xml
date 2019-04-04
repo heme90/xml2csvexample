@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)대교
+ </crp_nm> 
+ <crp_nm_e>
+  DAEKYO CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  대교
+ </crp_nm_i> 
+ <stock_cd>
+  019680
+ </stock_cd> 
+ <ceo_nm>
+  박수완
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110514029
+ </crp_no> 
+ <bsn_no>
+  1128141114
+ </bsn_no> 
+ <adr>
+  서울특별시 관악구 보라매로 3길 23 (보라매동 729-21) 대교타워
+ </adr> 
+ <hm_url>
+  www.daekyo.co.kr
+ </hm_url> 
+ <ir_url>
+  http://company.daekyo.com
+ </ir_url> 
+ <phn_no>
+  02-829-1114
+ </phn_no> 
+ <fax_no>
+  070-4275-0717
+ </fax_no> 
+ <ind_cd>
+  851
+ </ind_cd> 
+ <est_dt>
+  19861220
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

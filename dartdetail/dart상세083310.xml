@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)엘오티베큠
+ </crp_nm> 
+ <crp_nm_e>
+  LOTVacuum.Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  엘오티베큠
+ </crp_nm_i> 
+ <stock_cd>
+  083310
+ </stock_cd> 
+ <ceo_nm>
+  오흥식
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1615110049069
+ </crp_no> 
+ <bsn_no>
+  3128156143
+ </bsn_no> 
+ <adr>
+  경기도 안성시 공단1로 68
+ </adr> 
+ <hm_url>
+  www.lotvacuum.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-677-4431
+ </phn_no> 
+ <fax_no>
+  031-677-4434
+ </fax_no> 
+ <ind_cd>
+  29271
+ </ind_cd> 
+ <est_dt>
+  20020323
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

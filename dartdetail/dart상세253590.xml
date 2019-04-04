@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)네오셈
+ </crp_nm> 
+ <crp_nm_e>
+  Neosem Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  네오셈
+ </crp_nm_i> 
+ <stock_cd>
+  253590
+ </stock_cd> 
+ <ceo_nm>
+  염동현
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101116168614
+ </crp_no> 
+ <bsn_no>
+  1418600436
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 시민대로327번길 12-26 주식회사 네오셈
+ </adr> 
+ <hm_url>
+  www.neosem.com
+ </hm_url> 
+ <ir_url>
+  www.neosem.com
+ </ir_url> 
+ <phn_no>
+  031-8091-0853
+ </phn_no> 
+ <fax_no>
+  031-8091-8850
+ </fax_no> 
+ <ind_cd>
+  272
+ </ind_cd> 
+ <est_dt>
+  20160905
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

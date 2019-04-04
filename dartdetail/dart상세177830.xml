@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)파버나인
+ </crp_nm> 
+ <crp_nm_e>
+  PAVONINE CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  파버나인
+ </crp_nm_i> 
+ <stock_cd>
+  177830
+ </stock_cd> 
+ <ceo_nm>
+  이제훈
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110155011
+ </crp_no> 
+ <bsn_no>
+  1318144728
+ </bsn_no> 
+ <adr>
+  인천광역시 남동구 호구포로 33 (고잔동 728-2) 남동공단 157블럭 4로트
+ </adr> 
+ <hm_url>
+  www.pavonine.net
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-814-6900
+ </phn_no> 
+ <fax_no>
+  032)814-6937
+ </fax_no> 
+ <ind_cd>
+  2629
+ </ind_cd> 
+ <est_dt>
+  19970704
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

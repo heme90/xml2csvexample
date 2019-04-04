@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  화성밸브(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HS VALVE CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  화성밸브
+ </crp_nm_i> 
+ <stock_cd>
+  039610
+ </stock_cd> 
+ <ceo_nm>
+  장원규, 장성필(각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1701110030958
+ </crp_no> 
+ <bsn_no>
+  5038108664
+ </bsn_no> 
+ <adr>
+  대구광역시 서구 팔달로2길 29 화성
+ </adr> 
+ <hm_url>
+  www.hsvalve.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053 -353 -5789
+ </phn_no> 
+ <fax_no>
+  053-352-1179
+ </fax_no> 
+ <ind_cd>
+  29133
+ </ind_cd> 
+ <est_dt>
+  19870427
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  오로라월드(주)
+ </crp_nm> 
+ <crp_nm_e>
+  AURORA WORLD Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  오로라
+ </crp_nm_i> 
+ <stock_cd>
+  039830
+ </stock_cd> 
+ <ceo_nm>
+  홍기선
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110407456
+ </crp_no> 
+ <bsn_no>
+  2158102803
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 624 오로라빌딩
+ </adr> 
+ <hm_url>
+  www.auroraworld.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02 -3420-4114
+ </phn_no> 
+ <fax_no>
+  02-3420-4003
+ </fax_no> 
+ <ind_cd>
+  73203
+ </ind_cd> 
+ <est_dt>
+  19850925
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)씨유메디칼시스템
+ </crp_nm> 
+ <crp_nm_e>
+  CU MEDICAL SYSTEMS Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨유메디칼
+ </crp_nm_i> 
+ <stock_cd>
+  115480
+ </stock_cd> 
+ <ceo_nm>
+  나학록
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1412110022619
+ </crp_no> 
+ <bsn_no>
+  2248124096
+ </bsn_no> 
+ <adr>
+  강원도 원주시 문막읍 동화공단로 130-1
+ </adr> 
+ <hm_url>
+  www.cu911.com
+ </hm_url> 
+ <ir_url>
+  www.cu911.com
+ </ir_url> 
+ <phn_no>
+  033-747-7657
+ </phn_no> 
+ <fax_no>
+  031-421-9911
+ </fax_no> 
+ <ind_cd>
+  27112
+ </ind_cd> 
+ <est_dt>
+  20011213
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

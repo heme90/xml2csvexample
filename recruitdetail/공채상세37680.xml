@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37680
+ </empSeqno>
+ <empWantedTitle>
+  IT전략팀 경력사원 채용
+ </empWantedTitle>
+ <empBusiNm>
+  호텔롯데
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190325
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.lottehotel.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://job.lotte.co.kr/LotteRecruit/Recruit_Info/RecruitView.aspx?regtype=&amp;emptype=20000213&amp;keyword=&amp;keyselect=99999&amp;nowpage=1
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRiirj6mBXsPwn%2BBmhyHWkwwYMhI53BZ7hSmvbvv57ZpJ67suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    조직적합도 검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형(직무/임원)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    신체검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    ※기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    전형 결과는 메일 및 SMS를 통해 개별 통보 예정입니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    Opera System(멤버십)
+   </empRecrNm>
+   <jobCont>
+    •고객정보 표준관리, DB관리, 통합 멤버십, 라세느 멤버십, 피트니스, 트레비, 스파, Basic9, OPMS IFC, Revenue Bucket
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    Opera System(판촉)
+   </empRecrNm>
+   <jobCont>
+    •S&amp;C모듈(객실판촉, 연회판촉)
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    012205
+   </jobsCd>
+   <jobsCdKorNm>
+    기타 경영지원 서비스 관리자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    023
+   </jobsCd>
+   <jobsCdKorNm>
+    컴퓨터시스템
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [응시자격] - 해외 여행 및 건강상 결격 사유가 없는 분 - 남성의 경우, 군필 혹은 면제자 [채용조건] - 고용형태 : 정규직 - 직급 및 처우 : SA Grade, 당사 사규에 따름
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지 온라인 접수 (https://career.lottehotel.com)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 인사팀 인사담당 (hotelhrm@lotte.net)
+ </inqryCont>
+ <empnEtcCont>
+  - 입사 지원사항 및 자격사항이 사실과 다를 경우, 입사가 취소됩니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

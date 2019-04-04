@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  서브원
+ </crp_nm> 
+ <crp_nm_e>
+  SERVEONE
+ </crp_nm_e> 
+ <crp_nm_i>
+  서브원
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이동열
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101116944022
+ </crp_no> 
+ <bsn_no>
+  8528601272
+ </bsn_no> 
+ <adr>
+  서울특별시 강서구 마곡중앙로 150
+ </adr> 
+ <hm_url>
+  www.serveone.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6924-1889
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  47911
+ </ind_cd> 
+ <est_dt>
+  20181201
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

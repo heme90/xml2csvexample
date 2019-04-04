@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)한익스프레스
+ </crp_nm> 
+ <crp_nm_e>
+  HAN EXPRESS CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  한익스프레스
+ </crp_nm_i> 
+ <stock_cd>
+  014130
+ </stock_cd> 
+ <ceo_nm>
+  이재헌, 이석환 (각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1243110015051
+ </crp_no> 
+ <bsn_no>
+  1308116025
+ </bsn_no> 
+ <adr>
+  경기도 화성시 양감면 초록로 103 (주)한익스프레스
+ </adr> 
+ <hm_url>
+  www.hanex.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3400-5474
+ </phn_no> 
+ <fax_no>
+  02)3401-4131
+ </fax_no> 
+ <ind_cd>
+  49301
+ </ind_cd> 
+ <est_dt>
+  19790515
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

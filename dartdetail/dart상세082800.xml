@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  루미마이크로(주)
+ </crp_nm> 
+ <crp_nm_e>
+  LUMIMICROCO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  루미마이크로
+ </crp_nm_i> 
+ <stock_cd>
+  082800
+ </stock_cd> 
+ <ceo_nm>
+  한재관
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1358110085019
+ </crp_no> 
+ <bsn_no>
+  1248199564
+ </bsn_no> 
+ <adr>
+  경기도 용인시 처인구 남사면 봉무로 309
+ </adr> 
+ <hm_url>
+  www.lumimicro.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-213-9200
+ </phn_no> 
+ <fax_no>
+  031-210-7905
+ </fax_no> 
+ <ind_cd>
+  2612
+ </ind_cd> 
+ <est_dt>
+  20020822
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

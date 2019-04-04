@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)베스파
+ </crp_nm> 
+ <crp_nm_e>
+  Vespa Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  베스파
+ </crp_nm_i> 
+ <stock_cd>
+  299910
+ </stock_cd> 
+ <ceo_nm>
+  김진수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115131886
+ </crp_no> 
+ <bsn_no>
+  1208798186
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로83길 15, 제이엠빌딩 9층
+ </adr> 
+ <hm_url>
+  www.vespainteractive.com/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6954-0889
+ </phn_no> 
+ <fax_no>
+  070-4015-7788
+ </fax_no> 
+ <ind_cd>
+  5821
+ </ind_cd> 
+ <est_dt>
+  20130509
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  제이씨케미칼(주)
+ </crp_nm> 
+ <crp_nm_e>
+  JC Chemical Corporation, LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  제이씨케미칼
+ </crp_nm_i> 
+ <stock_cd>
+  137950
+ </stock_cd> 
+ <ceo_nm>
+  윤사호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1358110124726
+ </crp_no> 
+ <bsn_no>
+  1358185115
+ </bsn_no> 
+ <adr>
+  울산광역시 울주군 온산읍 화산1길 70
+ </adr> 
+ <hm_url>
+  www.jcchemical.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6321-1333
+ </phn_no> 
+ <fax_no>
+  027615404
+ </fax_no> 
+ <ind_cd>
+  2049
+ </ind_cd> 
+ <est_dt>
+  20060324
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

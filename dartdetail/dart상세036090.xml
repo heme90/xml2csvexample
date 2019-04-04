@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)위지트
+ </crp_nm> 
+ <crp_nm_e>
+  WIZIT Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  위지트
+ </crp_nm_i> 
+ <stock_cd>
+  036090
+ </stock_cd> 
+ <ceo_nm>
+  김상우
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111373755
+ </crp_no> 
+ <bsn_no>
+  1058185147
+ </bsn_no> 
+ <adr>
+  인천광역시 남동구 남동서로 187 (고잔동, 58B/5L)
+ </adr> 
+ <hm_url>
+  www.wizit.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-820-9900
+ </phn_no> 
+ <fax_no>
+  032-822-9192
+ </fax_no> 
+ <ind_cd>
+  29272
+ </ind_cd> 
+ <est_dt>
+  19970204
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

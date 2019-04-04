@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 우진엔지니어링
+ </crp_nm> 
+ <crp_nm_e>
+  WOOJIN E.N.G CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  우진엔지니어링
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  박관래
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  2801110084457
+ </crp_no> 
+ <bsn_no>
+  1278607559
+ </bsn_no> 
+ <adr>
+  경기도 화성시 향남읍 장안로 781-29 (상신리)
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-861-6061
+ </phn_no> 
+ <fax_no>
+  031-864-6063
+ </fax_no> 
+ <ind_cd>
+  24212
+ </ind_cd> 
+ <est_dt>
+  20071130
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

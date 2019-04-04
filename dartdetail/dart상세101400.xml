@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  엔시트론(주)
+ </crp_nm> 
+ <crp_nm_e>
+  N CITRON, INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  엔시트론
+ </crp_nm_i> 
+ <stock_cd>
+  101400
+ </stock_cd> 
+ <ceo_nm>
+  김성우
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111930787
+ </crp_no> 
+ <bsn_no>
+  1138160337
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로255번길 35 (삼평동, 실리콘파크 A동 8층)
+ </adr> 
+ <hm_url>
+  www.neofidelity.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6340-1000
+ </phn_no> 
+ <fax_no>
+  031-8038-4885
+ </fax_no> 
+ <ind_cd>
+  2611
+ </ind_cd> 
+ <est_dt>
+  20000404
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

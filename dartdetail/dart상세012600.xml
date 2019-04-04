@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)청호컴넷
+ </crp_nm> 
+ <crp_nm_e>
+  CHUNGHO COMNET CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  청호컴넷
+ </crp_nm_i> 
+ <stock_cd>
+  012600
+ </stock_cd> 
+ <ceo_nm>
+  지창배, 이정우 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110220204
+ </crp_no> 
+ <bsn_no>
+  2088107756
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 도산대로 318
+ </adr> 
+ <hm_url>
+  www.chunghocomnet.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3670-7700-2
+ </phn_no> 
+ <fax_no>
+  02)741-0880
+ </fax_no> 
+ <ind_cd>
+  29180
+ </ind_cd> 
+ <est_dt>
+  19771013
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

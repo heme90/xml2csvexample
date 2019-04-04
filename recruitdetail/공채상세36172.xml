@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36172
+ </empSeqno>
+ <empWantedTitle>
+  [TECH] 보안팀장
+ </empWantedTitle>
+ <empBusiNm>
+  크래프톤
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190212
+ </empWantedStdt>
+ <empWantedEndt>
+  20190412
+ </empWantedEndt>
+ <empWantedHomepg>
+  https://www.krafton.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://krafton.jobagent.co.kr:4431/jobinfo/jobinfo_view.asp?ID=1740
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=tqyczLUvysXSEcOVhPgDCmxZIgjVPaF7ZzuSXZtUGHLykeLuqDmTeRkwibATKd1ggq%2FTaPBEZO7snM72eFWmHLUc%2FjrVV6i%2Byj35yQdr2iY%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류 심사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무팀인터뷰
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종인터뷰
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    보안팀장
+   </empRecrNm>
+   <jobCont>
+    - 크래프톤 정보보안 기획, 운영, 대응 – 서비스, 시스템, 네트웍, 오피스의 IT 보안 - 게임 서비스의 서버, 클라이언트의 보안 취약성 점검 및 대안 제시
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 글로벌 서비스 유경험자: 다 국가 오피스 및 다 국가 서비스 유경험자 - AWS, Azure 등 클라우드 서비스에 대한 이해가 있으신 분 - x86, x64, ARM 등 리버스엔지니어링 가능하신 분 - 어플리케이션, 모바일, 웹 서비스 등에 대한 모의해킹과 취약점 진단 가능하신 분 - 정보보안기사, CISA, CISSP, CPPG 등 관련 자격 보유하신 분 - ISMS, PIMS, ISO27001 등 심사원 자격 보유 또는 경험하신 분
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    135000
+   </jobsCd>
+   <jobsCdKorNm>
+    정보보안 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 국가 유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 입사지원서(온라인작성)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ※ ~ 상시채용 - 채용홈페이지를 통한 온라인 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 '채용FAQ' 참조
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

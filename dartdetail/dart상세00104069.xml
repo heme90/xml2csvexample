@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  케이디비생명보험(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KDB Life Insurance Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이디비생명보험
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  정재욱
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  2001110014608
+ </crp_no> 
+ <bsn_no>
+  4088107958
+ </bsn_no> 
+ <adr>
+  서울특별시 용산구 한강대로 372 (동자동, 센트레빌아스테리움서울)
+ </adr> 
+ <hm_url>
+  www.kdblife.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  1588-4040
+ </phn_no> 
+ <fax_no>
+  02-771-7561
+ </fax_no> 
+ <ind_cd>
+  65110
+ </ind_cd> 
+ <est_dt>
+  19880401
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

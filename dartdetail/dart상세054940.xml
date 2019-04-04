@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)엑사이엔씨
+ </crp_nm> 
+ <crp_nm_e>
+  EXA E&amp;C, Inc
+ </crp_nm_e> 
+ <crp_nm_i>
+  엑사이엔씨
+ </crp_nm_i> 
+ <stock_cd>
+  054940
+ </stock_cd> 
+ <ceo_nm>
+  구자극, 원종일 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110774376
+ </crp_no> 
+ <bsn_no>
+  1058147352
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로 288
+ </adr> 
+ <hm_url>
+  www.exaenc.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (02) 3289-5100
+ </phn_no> 
+ <fax_no>
+  02-3289-5261
+ </fax_no> 
+ <ind_cd>
+  424
+ </ind_cd> 
+ <est_dt>
+  19910503
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

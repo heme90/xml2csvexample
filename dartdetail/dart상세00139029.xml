@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  아주산업 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  AJU CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  아주산업
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  박상일
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110425606
+ </crp_no> 
+ <bsn_no>
+  2148110130
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 강남대로 351 (서초동)
+ </adr> 
+ <hm_url>
+  www.aju.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02)3475-9614
+ </phn_no> 
+ <fax_no>
+  02)3475-9533
+ </fax_no> 
+ <ind_cd>
+  23322
+ </ind_cd> 
+ <est_dt>
+  19751201
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

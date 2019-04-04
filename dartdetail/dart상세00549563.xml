@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 지엔티파마
+ </crp_nm> 
+ <crp_nm_e>
+  GNT PHARMA
+ </crp_nm_e> 
+ <crp_nm_i>
+  지엔티파마
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  곽 병주
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111531303
+ </crp_no> 
+ <bsn_no>
+  1248158170
+ </bsn_no> 
+ <adr>
+  경기도 용인시 기흥구 용구대로1855번길 23 GNT B/D(하갈동)
+ </adr> 
+ <hm_url>
+  gntpharma.com
+ </hm_url> 
+ <ir_url>
+  http://gntpharma.com
+ </ir_url> 
+ <phn_no>
+  031-8005-9910
+ </phn_no> 
+ <fax_no>
+  031-8005-9917
+ </fax_no> 
+ <ind_cd>
+  70113
+ </ind_cd> 
+ <est_dt>
+  19980403
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

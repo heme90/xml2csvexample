@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)알에프텍
+ </crp_nm> 
+ <crp_nm_e>
+  RFTECH CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  알에프텍
+ </crp_nm_i> 
+ <stock_cd>
+  061040
+ </stock_cd> 
+ <ceo_nm>
+  이진형
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1350110045639
+ </crp_no> 
+ <bsn_no>
+  1358119560
+ </bsn_no> 
+ <adr>
+  경기도 용인시 처인구 원삼면 죽양대로1763번길 60 알에프텍
+ </adr> 
+ <hm_url>
+  www.rftech.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-322-1114
+ </phn_no> 
+ <fax_no>
+  031-322-2366
+ </fax_no> 
+ <ind_cd>
+  2642
+ </ind_cd> 
+ <est_dt>
+  19950222
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

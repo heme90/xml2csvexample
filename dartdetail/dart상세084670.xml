@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)동양고속
+ </crp_nm> 
+ <crp_nm_e>
+  DONGYANG EXPRESS CORP.
+ </crp_nm_e> 
+ <crp_nm_i>
+  동양고속
+ </crp_nm_i> 
+ <stock_cd>
+  084670
+ </stock_cd> 
+ <ceo_nm>
+  백남근
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1341110131073
+ </crp_no> 
+ <bsn_no>
+  1388128578
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 흥안대로 67
+ </adr> 
+ <hm_url>
+  www.dyexpress.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-535-3111
+ </phn_no> 
+ <fax_no>
+  02-536-6725
+ </fax_no> 
+ <ind_cd>
+  49220
+ </ind_cd> 
+ <est_dt>
+  20050704
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

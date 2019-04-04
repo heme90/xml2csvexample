@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)판타지오
+ </crp_nm> 
+ <crp_nm_e>
+  Fantagio Corp.
+ </crp_nm_e> 
+ <crp_nm_i>
+  판타지오
+ </crp_nm_i> 
+ <stock_cd>
+  032800
+ </stock_cd> 
+ <ceo_nm>
+  워이지에
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1601110023757
+ </crp_no> 
+ <bsn_no>
+  3018126727
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 역삼로 248 판타지오 빌딩
+ </adr> 
+ <hm_url>
+  fantagio.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3452-6100
+ </phn_no> 
+ <fax_no>
+  02-3452-6637
+ </fax_no> 
+ <ind_cd>
+  901
+ </ind_cd> 
+ <est_dt>
+  19910108
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

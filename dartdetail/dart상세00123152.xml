@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)보루네오가구
+ </crp_nm> 
+ <crp_nm_e>
+  BORNEO INTERNATIONAL FURNITURE CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  보루네오가구
+ </crp_nm_i> 
+ <stock_cd>
+  004740
+ </stock_cd> 
+ <ceo_nm>
+  김삼기
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1201110004599
+ </crp_no> 
+ <bsn_no>
+  1398100705
+ </bsn_no> 
+ <adr>
+  인천광역시 남동구 논고개로 101 아름다운타워
+ </adr> 
+ <hm_url>
+  www.bif.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-420-8500
+ </phn_no> 
+ <fax_no>
+  032-420-8591
+ </fax_no> 
+ <ind_cd>
+  32029
+ </ind_cd> 
+ <est_dt>
+  19660903
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

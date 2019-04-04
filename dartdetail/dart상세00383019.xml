@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한국서부발전주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Korea Western Power Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국서부발전
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김병숙
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101112207177
+ </crp_no> 
+ <bsn_no>
+  1208619205
+ </bsn_no> 
+ <adr>
+  충청남도 태안군 태안읍 중앙로 285 (평천리, 한국서부발전(주)본사)
+ </adr> 
+ <hm_url>
+  www.westernpower.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-400-1353
+ </phn_no> 
+ <fax_no>
+  041-400-1208
+ </fax_no> 
+ <ind_cd>
+  3511
+ </ind_cd> 
+ <est_dt>
+  20010402
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

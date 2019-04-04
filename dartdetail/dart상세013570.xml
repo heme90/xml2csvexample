@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  디와이(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DY Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  디와이
+ </crp_nm_i> 
+ <stock_cd>
+  013570
+ </stock_cd> 
+ <ceo_nm>
+  김지현
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1942110000472
+ </crp_no> 
+ <bsn_no>
+  1398104152
+ </bsn_no> 
+ <adr>
+  인천광역시 남동구 남동서로362번길 36 (남촌동)
+ </adr> 
+ <hm_url>
+  www.dy.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-810-4100
+ </phn_no> 
+ <fax_no>
+  032-810-4200
+ </fax_no> 
+ <ind_cd>
+  64992
+ </ind_cd> 
+ <est_dt>
+  19781005
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

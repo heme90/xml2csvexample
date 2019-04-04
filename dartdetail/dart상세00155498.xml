@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  풍림산업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  POONGLIM INDUSTRIAL CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  풍림산업
+ </crp_nm_i> 
+ <stock_cd>
+  001310
+ </stock_cd> 
+ <ceo_nm>
+  지우종
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110031908
+ </crp_no> 
+ <bsn_no>
+  2208110116
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 124 19층 재경팀
+ </adr> 
+ <hm_url>
+  www.poonglim.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-528-6350
+ </phn_no> 
+ <fax_no>
+  02-528-6101
+ </fax_no> 
+ <ind_cd>
+  41112
+ </ind_cd> 
+ <est_dt>
+  19541005
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

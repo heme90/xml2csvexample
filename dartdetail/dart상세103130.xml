@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  웅진에너지(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Woongjin Energy Co. Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  웅진에너지
+ </crp_nm_i> 
+ <stock_cd>
+  103130
+ </stock_cd> 
+ <ceo_nm>
+  신종진
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1601110214702
+ </crp_no> 
+ <bsn_no>
+  3148185611
+ </bsn_no> 
+ <adr>
+  대전광역시 유성구 테크노2로 37 (관평동)
+ </adr> 
+ <hm_url>
+  www.woongjinenergy.com/
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  042-939-8114
+ </phn_no> 
+ <fax_no>
+  042-939-8098
+ </fax_no> 
+ <ind_cd>
+  261
+ </ind_cd> 
+ <est_dt>
+  20061117
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

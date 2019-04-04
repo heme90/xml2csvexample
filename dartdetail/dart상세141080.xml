@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 레고켐바이오사이언스
+ </crp_nm> 
+ <crp_nm_e>
+  LegoChem Biosciences Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  레고켐바이오
+ </crp_nm_i> 
+ <stock_cd>
+  141080
+ </stock_cd> 
+ <ceo_nm>
+  김용주
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1601110206866
+ </crp_no> 
+ <bsn_no>
+  3148182268
+ </bsn_no> 
+ <adr>
+  대전광역시 대덕구 문평서로 8-26(문평동)
+ </adr> 
+ <hm_url>
+  www.legochembio.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  042-861-0688
+ </phn_no> 
+ <fax_no>
+  042)861-0689
+ </fax_no> 
+ <ind_cd>
+  70113
+ </ind_cd> 
+ <est_dt>
+  20060502
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

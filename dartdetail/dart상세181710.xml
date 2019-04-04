@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  엔에이치엔엔터테인먼트(주)
+ </crp_nm> 
+ <crp_nm_e>
+  NHN Entertainment Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  NHN엔터테인먼트
+ </crp_nm_i> 
+ <stock_cd>
+  181710
+ </stock_cd> 
+ <ceo_nm>
+  정우진
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1311110350139
+ </crp_no> 
+ <bsn_no>
+  1448115549
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 대왕판교로645번길 16 플레이뮤지엄
+ </adr> 
+ <hm_url>
+  www.nhn.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  1544-6859
+ </phn_no> 
+ <fax_no>
+  031-8038-3000
+ </fax_no> 
+ <ind_cd>
+  5821
+ </ind_cd> 
+ <est_dt>
+  20130801
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

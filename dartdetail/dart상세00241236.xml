@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)씨엘인터내셔널
+ </crp_nm> 
+ <crp_nm_e>
+  CLinternational Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨엘인터내셔널
+ </crp_nm_i> 
+ <stock_cd>
+  037340
+ </stock_cd> 
+ <ceo_nm>
+  박광혁
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111299125
+ </crp_no> 
+ <bsn_no>
+  2208126447
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 둔촌대로457번길 27 성남우림라이온스밸리 1차 12층
+ </adr> 
+ <hm_url>
+  www.timo.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-777-7330
+ </phn_no> 
+ <fax_no>
+  031-777-1138
+ </fax_no> 
+ <ind_cd>
+  2642
+ </ind_cd> 
+ <est_dt>
+  19960719
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼천당제약(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SAM CHUN DANG PHARM CO. LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼천당제약
+ </crp_nm_i> 
+ <stock_cd>
+  000250
+ </stock_cd> 
+ <ceo_nm>
+  윤대인, 전인석(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1348110003327
+ </crp_no> 
+ <bsn_no>
+  1248104295
+ </bsn_no> 
+ <adr>
+  경기도 화성시 향남읍 제약공단2길 71
+ </adr> 
+ <hm_url>
+  www.scd.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2046-1235
+ </phn_no> 
+ <fax_no>
+  02-2046-1101
+ </fax_no> 
+ <ind_cd>
+  21210
+ </ind_cd> 
+ <est_dt>
+  19431229
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

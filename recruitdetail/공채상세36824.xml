@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36824
+ </empSeqno>
+ <empWantedTitle>
+  Kernel BSP Driver개발 경력직 모집
+ </empWantedTitle>
+ <empBusiNm>
+  텔레칩스
+ </empBusiNm>
+ <coClcdNm></coClcdNm>
+ <empWantedStdt>
+  20190228
+ </empWantedStdt>
+ <empWantedEndt>
+  20190428
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.telechips.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://careers.telechips.com/kor/jobs/notice_view.php?idx=34&amp;recruit_type=A&amp;recruit_leng=&amp;page=0&amp;list=0
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRio1SYYNCW6QJeJHgljEqVwdfCBkpSrNhOOUURRm1eB6y7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    Kernel BSP Driver 개발
+   </empRecrNm>
+   <jobCont>
+    - Linux Kernel BSP Driver 파트 담당
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    ▷ 영어 가능자 및 석사 학위 보유자 우대 ▷ 보훈대상자, 장애인의 경우 관련법에 의거하여 우대합니다.
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [직무소개] - 제품기술그룹은 당사 제품에 대한 품질 안정화 확보를 위해 칩에 대한 검증 및 평가를 수행하는 부서입니다. 칩이 디자인이 된 이후 양산 단계에서 칩에 대한 Final test와 SLT test를 통해 제품에 대한 설계 검증 테스트를 하고 있으며, 더불어 Hardware (Evaluation Board)와 Software (BSP-Board Support Package)에 대한 설계 및 개발을 통해 이를 기반으로 제품에 대한 IP별 상세 검증/평가를 수행하는 역할을 합니다. 또한, 안정화된 Hardware와 Software(BSP) 솔루션 개발 및 제반 환경 제공을 통해 고객의 만족도를 향상시키고 급변하는 시장 상황에서도 빠른 대응을 할 수 있도록 다양한 기술과 솔루션을 제공하고 있습니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  ▷ 이력서(자유양식) 1부 ▷ 자기소개서(자유양식) 1부 ▷ 프로젝트 수행내역서 1부 (연구소 지원자만 해당) ▷ 대학교(대학원) 전학년 성적증명서 1부(신입만 해당) ▷ 최종학교 졸업(예정)증명서 1부(신입만 해당) * 제출서류는 위 서류를 취합하여 1개 PDF 파일로 제출해 주십시오.
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ~ 채용시 까지 - 채용홈페이지 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 '채용FAQ' 참조
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

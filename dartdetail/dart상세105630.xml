@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한세실업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HANSAE CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  한세실업
+ </crp_nm_i> 
+ <stock_cd>
+  105630
+ </stock_cd> 
+ <ceo_nm>
+  김익환
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1201110484303
+ </crp_no> 
+ <bsn_no>
+  1378192214
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 은행로 29 정우빌딩
+ </adr> 
+ <hm_url>
+  www.hansae.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3779-0779
+ </phn_no> 
+ <fax_no>
+  02-3779-5596
+ </fax_no> 
+ <ind_cd>
+  14199
+ </ind_cd> 
+ <est_dt>
+  20090106
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

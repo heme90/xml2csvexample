@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37626
+ </empSeqno>
+ <empWantedTitle>
+  IT 서비스 기획자 모집
+ </empWantedTitle>
+ <empBusiNm>
+  웅진씽크빅
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190322
+ </empWantedStdt>
+ <empWantedEndt>
+  20190404
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.wjthinkbig.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://www.woongjin.com/recruit/notice_list_new.aspx
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRipY%2FR8zMU78yo4rxUVw%2FQCPV254dOReeHmTz5rDiC91I7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격자 발표
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    각 전형 단계별 결과는 웅진그룹 홈페이지를 통해 확인 가능하며, 합격자에 한해서 개별 통보합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT 서비스 기획
+   </empRecrNm>
+   <jobCont>
+    - IT 서비스 기획(모바일/웹/앱)
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 모바일 서비스 기획 경험이 있는 분 - 플랫폼 서비스 신규 기획 경험이 있는 분
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 파주시
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    026100
+   </jobsCd>
+   <jobsCdKorNm>
+    기획·마케팅 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 근로형태 : 정규직(시용기간 : 3개월) - 근무장소 : 웅진씽크빅 본사(파주출판단지 내 위치)/ 무료 통근버스 운행(서울 주요지역, 일산) - 근무요일/시간 : 월요일~금요일(주 5일)/ 오전 9시~오후 6시(시차출퇴근제 운영) - 급여조건 : 회사 내규에 따름
+ </recrCommCont>
+ <empSubmitDocCont>
+  ※ 입사지원서 작성 시 '경력기술서(포트폴리오)'를 반드시 첨부해 주시기 바랍니다.
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지 內 `인재채용`에서 온라인 입사지원(www.woongjin.com)
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 홈페이지(www.woongjin.com) &gt; 1:1 채용문의하기
+ </inqryCont>
+ <empnEtcCont>
+  - 채용 홈페이지를 통해 접수된 지원서에 한해 서류전형을 시행합니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

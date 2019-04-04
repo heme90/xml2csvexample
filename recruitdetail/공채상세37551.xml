@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37551
+ </empSeqno>
+ <empWantedTitle>
+  2019년 1분기 사무직/기술직 수시채용
+ </empWantedTitle>
+ <empBusiNm>
+  한국미쓰비시엘리베이터
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190319
+ </empWantedStdt>
+ <empWantedEndt>
+  20190403
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.mitsubishielevator.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://rcrt.mitsubishielevator.co.kr/recruitAnnounceList.do
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvKmR%2BP1WpbTyVUdgxWVbKAA33ptcUp1EkwS8ewdqyH6G
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    성장과정 및 배경 (400자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    관심분야 및 전문지식 (400자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    지원직무 관련 경험 및 활동 (400자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    지원동기 및 장래희망 (400자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont>
+    4/9발표예정
+   </selsSchdCont>
+   <selsCont>
+    E-mail or SMS 통보
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인성검사(온라인)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont>
+    4/15 예정
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    결과 발표
+   </selsNm>
+   <selsSchdCont>
+    4/25 예정
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사
+   </selsNm>
+   <selsSchdCont>
+    5/16부
+   </selsSchdCont>
+   <selsCont>
+    입사 예정일 - 2019.5.16(목)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [사무직] 영업설계
+   </empRecrNm>
+   <jobCont>
+    - 국내/수출현장 시방확정 및 기술검토
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 기계/전기관련 전공자 - 영어가능자 - AutoCAD 사용 가능자
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    인천
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [사무직] 기계 설계/개발
+   </empRecrNm>
+   <jobCont>
+    - 현장 공사설계 - 기계 관련 부품개발
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 기계/전기관련 전공자 - 일본어, 영어가능자 - AutoCAD 사용 가능자
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    인천
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [기술직] 품질관리
+   </empRecrNm>
+   <jobCont>
+    - 품질관리(전기검사)
+   </jobCont>
+   <empWantedCareerNm>
+    경력무관
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    고졸|대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 전기 관련 전공자
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    인천
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [기술직] 설치안전관리
+   </empRecrNm>
+   <jobCont>
+    - 현장 안전관리업무
+   </jobCont>
+   <empWantedCareerNm>
+    경력무관
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(2~3)|대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    [우대사항] - 기계/전기/산업/안전 관련 전공자 - 건설/산업안전기사 및 산업기사 [비고] - 1년 계약직 근무 후 평가를 통해 계약연장 (총 2년 근무 후 계약종료)
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    지역무관
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    09
+   </jobsCd>
+   <jobsCdKorNm>
+    설치·정비·생산-기계·금속·재료
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 국가보훈대상자 및 장애인은 관계법령에 의거 우대 [근무조건 및 복리후생] - 고용형태 : 사무직(정규직), 기술직(계약직) - 근무조건 : 주 5일 근무 - 복리후생 : 자녀학자금 지원/자녀 유치원 입학축하금/본인의료비 지원/임직원&amp;배우자 건강검진 등 자세한 사항은 공고문 참고 바랍니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  1. 입사지원 : 당사홈페이지 ※ 홈페이지-우측상단 채용정보-해당공고 확인 후 지원하기(응시분야 선택 필수) 2. 최종학교 졸업증명서 3. 경력증명서 또는 재직증명서 (해당자에 한함) 4. 어학성적증명서 사본(JPT, TOEIC) (해당자에 한함) 5. 자격증 사본 (해당자에 한함) 6. 직전년도 또는 최종근무년도 근로소득 원천징수 영수증 ※2~6번 서류는 면접 참여인원에 한해 제출
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지를 통한 온라인 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 인사팀 채용담당자 insa@k-mec.co.kr
+ </inqryCont>
+ <empnEtcCont>
+  - 입사지원과 관련하여 개인정보 제공에 동의하며 지원서의 내용이 사실과 다를 경우 합격이 취소함 - 제출된 서류는 채용의 목적 외에는 사용하지 않으며 반환요청 시 우편을 통해 반환가능 - 지원내용 및 제출서류에 허위 기재 사실이 있을 시, 채용을 취소할 수 있음 ※ 입사지원서 마감일의 경우 지원자의 폭주로 접속이 원활하지 않을 수 있으니 충분히 여유를 두고 지원해주시기 바라며, 위와 같은 사유로 접속하지 못할 경우에도 추가 접수는 절대 불가합니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

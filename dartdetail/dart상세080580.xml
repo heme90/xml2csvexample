@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)오킨스전자
+ </crp_nm> 
+ <crp_nm_e>
+  OKins Electronics Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  오킨스전자
+ </crp_nm_i> 
+ <stock_cd>
+  080580
+ </stock_cd> 
+ <ceo_nm>
+  전진국
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341110059845
+ </crp_no> 
+ <bsn_no>
+  1388116581
+ </bsn_no> 
+ <adr>
+  경기도 의왕시 오전공업길 13, 6층 (오전동, 벽산선영테크노피아)
+ </adr> 
+ <hm_url>
+  www.okins.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-460-3500
+ </phn_no> 
+ <fax_no>
+  031-460-3588
+ </fax_no> 
+ <ind_cd>
+  262
+ </ind_cd> 
+ <est_dt>
+  19980413
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

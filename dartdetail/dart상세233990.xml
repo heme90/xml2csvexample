@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)질경이
+ </crp_nm> 
+ <crp_nm_e>
+  JILGYUNGYI CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  질경이
+ </crp_nm_i> 
+ <stock_cd>
+  233990
+ </stock_cd> 
+ <ceo_nm>
+  최원석
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101115093862
+ </crp_no> 
+ <bsn_no>
+  2648115047
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 사임당로 32 2층(서초동, 재우빌딩)
+ </adr> 
+ <hm_url>
+  www.jilgyungyi.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-8952-5702
+ </phn_no> 
+ <fax_no>
+  02-581-5708
+ </fax_no> 
+ <ind_cd>
+  20423
+ </ind_cd> 
+ <est_dt>
+  20130321
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한창산업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HanchangIndustryCo.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  한창산업
+ </crp_nm_i> 
+ <stock_cd>
+  079170
+ </stock_cd> 
+ <ceo_nm>
+  강호익, 강상균(각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1348110003715
+ </crp_no> 
+ <bsn_no>
+  1248133499
+ </bsn_no> 
+ <adr>
+  경기도 화성시 양감면 암소고개로 227-14
+ </adr> 
+ <hm_url>
+  www.hanchem.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (031)353-2970
+ </phn_no> 
+ <fax_no>
+  02-3448-4268
+ </fax_no> 
+ <ind_cd>
+  24229
+ </ind_cd> 
+ <est_dt>
+  19860325
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

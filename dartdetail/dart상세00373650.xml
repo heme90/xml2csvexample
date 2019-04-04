@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)조은시스템
+ </crp_nm> 
+ <crp_nm_e>
+  JOEUN SYSTEMS CO.
+ </crp_nm_e> 
+ <crp_nm_i>
+  조은시스템
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김승남
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110915722
+ </crp_no> 
+ <bsn_no>
+  1108131570
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 선유로 70 우리벤처타운투 9층 (문래동3가)
+ </adr> 
+ <hm_url>
+  www.joeun.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02)2122-7500
+ </phn_no> 
+ <fax_no>
+  02)757-4040
+ </fax_no> 
+ <ind_cd>
+  75310
+ </ind_cd> 
+ <est_dt>
+  19930126
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

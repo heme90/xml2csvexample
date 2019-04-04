@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  유니퀘스트(주)
+ </crp_nm> 
+ <crp_nm_e>
+  UNIQUEST COPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  유니퀘스트
+ </crp_nm_i> 
+ <stock_cd>
+  077500
+ </stock_cd> 
+ <ceo_nm>
+  앤드류김
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101111216757
+ </crp_no> 
+ <bsn_no>
+  1208156132
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 황새울로 314 (서현동,유니퀘스트빌딩)
+ </adr> 
+ <hm_url>
+  www.uniquest.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-708-9988
+ </phn_no> 
+ <fax_no>
+  031-708-6598
+ </fax_no> 
+ <ind_cd>
+  4659
+ </ind_cd> 
+ <est_dt>
+  19951125
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

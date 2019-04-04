@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36942
+ </empSeqno>
+ <empWantedTitle>
+  [카트] 카트라이더 리마스터 클라이언트 프로그래머 모집
+ </empWantedTitle>
+ <empBusiNm>
+  넥슨코리아
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190305
+ </empWantedStdt>
+ <empWantedEndt>
+  20190505
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.nexon.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://career.nexon.com/user/recruit/notice/noticeView?joinCorp=NX&amp;reNo=20190035
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvCtLkPmEbdw265dhQOvJqzN8CkDzwJCcaV3ydXwPdcwh
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류심사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류 심사 통과자에 한해 개별적으로 일정을 알려 드립니다. / 서류 접수 이후 4주 이내로 결과를 알려 드립니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    과제심사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    카트라이더 리마스터 클라이언트 프로그래머
+   </empRecrNm>
+   <jobCont>
+    - UE4 엔진을 사용한 캐주얼 레이싱 게임 개발 - PC, XBOX, PS4 등 멀티 플렛폼 / 클로스 플레이
+   </jobCont>
+   <empWantedCareerNm>
+    경력|신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - Unreal Engine의 이해도가 높으신 분 - 게임 프로그래밍 기반 지식(수학, 알고리즘, 그래픽스 등)이 풍부하신 분 - Network/Windows System Programming의 지식이 풍부하신 분 - 레이싱 게임을 좋아하고 즐기시는 분 - 글로벌 론칭 / 데디 서버 개발 / 콘솔 (Xbox, PS4) 개발 우대
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    133206
+   </jobsCd>
+   <jobsCdKorNm>
+    게임 프로그래머
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 직군/직렬/직무 : 게임프로그래밍 / 게임프로그래밍 / 게임프로그래머 - 근무형태 : 일반직_수습
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지를 통해 접수 ※ 모집기간 : ~ 채용시
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 홈페이지 채용문의 참조
+ </inqryCont>
+ <empnEtcCont>
+  - 국가보훈대상자는 관련법규에 의거, 우대합니다. - 회사 소개는 http://company.nexon.com를 참조 부탁 드립니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  엔에이치투자증권(주)
+ </crp_nm> 
+ <crp_nm_e>
+  NH INVESTMENT &amp; SECURITIES CO.,LTD. 
+ </crp_nm_e> 
+ <crp_nm_i>
+  NH투자증권
+ </crp_nm_i> 
+ <stock_cd>
+  005940
+ </stock_cd> 
+ <ceo_nm>
+  정영채
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110098130
+ </crp_no> 
+ <bsn_no>
+  1168103693
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 여의대로 60 우리투자증권빌딩
+ </adr> 
+ <hm_url>
+  www.nhqv.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-768-7000
+ </phn_no> 
+ <fax_no>
+  768-7229
+ </fax_no> 
+ <ind_cd>
+  66121
+ </ind_cd> 
+ <est_dt>
+  19690116
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

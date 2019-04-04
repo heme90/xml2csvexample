@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에쎈테크
+ </crp_nm> 
+ <crp_nm_e>
+  ESSEN TECH CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에쎈테크
+ </crp_nm_i> 
+ <stock_cd>
+  043340
+ </stock_cd> 
+ <ceo_nm>
+  조시영, 정재식
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110087834
+ </crp_no> 
+ <bsn_no>
+  1398105578
+ </bsn_no> 
+ <adr>
+  전라북도 군산시 자유무역2길 15 (오식도동, 군산자유무역표준공장 7동)
+ </adr> 
+ <hm_url>
+  www.essentech.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  063-440-6561
+ </phn_no> 
+ <fax_no>
+  063-440-2552
+ </fax_no> 
+ <ind_cd>
+  29133
+ </ind_cd> 
+ <est_dt>
+  19930806
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

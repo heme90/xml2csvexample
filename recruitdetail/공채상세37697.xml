@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37697
+ </empSeqno>
+ <empWantedTitle>
+  2019년 상반기 대졸인턴 공채 (정규직 전환)
+ </empWantedTitle>
+ <empBusiNm>
+  한섬
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190326
+ </empWantedStdt>
+ <empWantedEndt>
+  20190409
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.thehandsome.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.ehyundai.com/recruit-info/announcement/view.nhd?pageNo=1&amp;hireGb=01&amp;hireId=2019141&amp;coCd=&amp;applYn=&amp;searchStr=
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvOpU2n3GHtzH5m1bxyfP6QFyFAwJAsB022ADTzeC7jnk
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직전환형|기간제|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인적성검사
+   </selsNm>
+   <selsSchdCont>
+    4/20 ~ 21
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 면접
+   </selsNm>
+   <selsSchdCont>
+    4월 중
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차면접/ 3차 면접
+   </selsNm>
+   <selsSchdCont>
+    2차면접 : 5월 초
+   </selsSchdCont>
+   <selsCont>
+    3차면접 : 5월 중
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인턴 실습
+   </selsNm>
+   <selsSchdCont>
+    5월 ~ 7월
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    전형 일정은 회사 사정에 따라 변경될 수 있습니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    상품기획
+   </empRecrNm>
+   <jobCont>
+    - O&amp;apos;2nd
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    칼라기획
+   </empRecrNm>
+   <jobCont>
+    - TIME/ MINE / SYSTEM / OBZEE / FORUM STUDIO
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    우븐디자인
+   </empRecrNm>
+   <jobCont>
+    - LATT BY T / LAVIN COLLECTION / OBZEE / 2nd floor / TIME HOMME / SYSTEM HOMME / FOURM THE STORE / FOURM STUDIO
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    VMD
+   </empRecrNm>
+   <jobCont>
+    - MINE / SYSTEM / O&amp;apos;2nd / TIME HOMME (의류, 의상, 패션, 섬유, 미술, 공예 등 관련 복수 및 부전공자 포함)
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    아트기획
+   </empRecrNm>
+   <jobCont>
+    - TIME / SJSJ / O&amp;apos;2nd
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    소재기획
+   </empRecrNm>
+   <jobCont>
+    - TIME / LATT BY T / MINE / OBZEE / SYSTEM / O&amp;apos;2nd / TIME HOMME / the CASHMERE / FOURM STUDIO / CLUB MONACO MEN / CLUB MONACO WOMEN
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    니트디자인
+   </empRecrNm>
+   <jobCont>
+    - TIME / LATT BY T / LANVIN COLLECTION / OBZEE / the CASHMERE / FOURM THE STORE
+   </jobCont>
+   <empWantedCareerNm>
+    인턴
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    017
+   </jobsCd>
+   <jobsCdKorNm>
+    경영지원 사무
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    055
+   </jobsCd>
+   <jobsCdKorNm>
+    디자이너 (미디어콘텐츠 제외)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ※ 인턴평가 우수자는 2019년 상반기 신입사원으로 채용될 예정입니다. (정규직전환) [지원자격] - 인턴 및 정규직 전환 후, 풀타임 근무가 가능한 분 - 해외여행에 결격 사유가 없는 분 - 2019년 8월 졸업예정 및 기졸업자 - 장애인, 보훈 대상자는 관련 법령에 의거하여 우대 [채용설명회] - 건국대 4월 1일 15~17시 법학관 102호 - 국민대 4월 2일 11~13시 종합복지관 지하1층 101호 - 이화여대 4월 2일 16~18시 ECC B142호 - 서울여대 4월 3일 15~17시 학생누리관 117호 - 성균관대 4월 3일 16~18시 경영관 지하 1층 101호(경영관 33b101호) - 경희대 4월 4일 11시 ~13시 중앙도서관 1층 시청각실 - 숙명여대 4월 4일 15~17시 진리관 1층 106호 - 홍익대 4월 4일 16시 ~ 18시 K동 201호
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 서류제출은 면접 전형 대상자에 한하여 제출바랍니다.
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 현대백화점그룹 채용사이트, 온라인 입사지원만 가능 - 현대백화점 그룹 통합 채용사이트 : recruit.ehyundai.com
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 문의방법 : 채용사이트 내 문의게시판(Q&amp;A) 이용 - 담당자1 : 일반관리자 / hsrecruit@thehandsome.com
+ </inqryCont>
+ <empnEtcCont>
+  - 허위기재 사실 발견 시, 채용 취소 등 불이익이 있으니 유의하시기 바랍니다. - 공고상 기재되어있는 직무 및 브랜드만 채용 예정이니, 공고 기재 외 직무 및 브랜드 지원 시 서류전형에서 배제될 수 있습니다. - 지원서 작성 중, 오류 발생 시 CHROME에서 재시도 하시기 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

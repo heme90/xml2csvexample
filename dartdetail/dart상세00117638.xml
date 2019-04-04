@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  동양텔레콤(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DONGYANG TELECOM CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  동양텔레콤
+ </crp_nm_i> 
+ <stock_cd>
+  007150
+ </stock_cd> 
+ <ceo_nm>
+  강만준
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110109763
+ </crp_no> 
+ <bsn_no>
+  1098102376
+ </bsn_no> 
+ <adr>
+  경기도 용인시 기흥구 구성로 262-14 (청덕동)
+ </adr> 
+ <hm_url>
+  www.dyt.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-288-3406
+ </phn_no> 
+ <fax_no>
+  031-288-3490
+ </fax_no> 
+ <ind_cd>
+  26
+ </ind_cd> 
+ <est_dt>
+  19691030
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

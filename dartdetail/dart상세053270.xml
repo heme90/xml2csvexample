@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)구영테크
+ </crp_nm> 
+ <crp_nm_e>
+  GUYOUNGTECHNOLOGY COMPANY LIMITED
+ </crp_nm_e> 
+ <crp_nm_i>
+  구영테크
+ </crp_nm_i> 
+ <stock_cd>
+  053270
+ </stock_cd> 
+ <ceo_nm>
+  이희화
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1747110001791
+ </crp_no> 
+ <bsn_no>
+  5058104626
+ </bsn_no> 
+ <adr>
+  대구광역시 달성군 구지면 국가산단대로39길 119 (창리)
+ </adr> 
+ <hm_url>
+  www.guyoungtech.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-592-6111
+ </phn_no> 
+ <fax_no>
+  054-334-7387
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19891109
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

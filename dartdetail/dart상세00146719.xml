@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  일화모직공업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  ILHWA WOOL TEXTILE IND CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  일화모직공업
+ </crp_nm_i> 
+ <stock_cd>
+  001590
+ </stock_cd> 
+ <ceo_nm>
+  변동필
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1348110001587
+ </crp_no> 
+ <bsn_no>
+  1248106600
+ </bsn_no> 
+ <adr>
+  경기도 화성시 봉담읍 삼천병마로 1359-95
+ </adr> 
+ <hm_url>
+  www.ilhwawool.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-227-5381
+ </phn_no> 
+ <fax_no>
+  031-227-5386
+ </fax_no> 
+ <ind_cd>
+  13212
+ </ind_cd> 
+ <est_dt>
+  19551129
+ </est_dt> 
+ <acc_mt>
+  11
+ </acc_mt> 
+</result>

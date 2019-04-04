@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  SK네트웍스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SKNetworksCompanyLimited
+ </crp_nm_e> 
+ <crp_nm_i>
+  SK네트웍스
+ </crp_nm_i> 
+ <stock_cd>
+  001740
+ </stock_cd> 
+ <ceo_nm>
+  최신원, 박상규 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1301110005199
+ </crp_no> 
+ <bsn_no>
+  1248100718
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 남대문로 90 5-3 SK네트웍스
+ </adr> 
+ <hm_url>
+  www.sknetworks.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-7800-2114
+ </phn_no> 
+ <fax_no>
+  070-7800-0097
+ </fax_no> 
+ <ind_cd>
+  467
+ </ind_cd> 
+ <est_dt>
+  19560324
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

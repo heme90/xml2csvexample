@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37659
+ </empSeqno>
+ <empWantedTitle>
+  노경업무 담당자 채용
+ </empWantedTitle>
+ <empBusiNm>
+  엘지유플러스
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190325
+ </empWantedStdt>
+ <empWantedEndt>
+  20190404
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.uplus.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvL88DIO5XqypIVrt5WFsmX8F6xVNQU98fJZdUjTyKuCX
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인적성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    건강검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [전사] 인사
+   </empRecrNm>
+   <jobCont>
+    - 노동조합 실무 (단체교섭, 분쟁대응, 노사협의회 등) - 노무 관련 기획업무
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 공인노무사 자격
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    026201
+   </jobsCd>
+   <jobsCdKorNm>
+    인사 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [지원자격] ○ 필수 지원자격 : 상세내용 참고 ○ 해외여행 및 건강상 결격사유가 없는 자 ○ 남성의 경우 병역필 또는 면제자 ○ 국가보훈대상자 및 장애우는 관계법령에 의거 우대합니다. (면접 시 증빙제출)
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - LG Careers (careers.lg.com)을 통한 온라인 접수만 가능 (E-Mail 및 우편/방문접수 불가) - 마감 시간 전 작성완료 후 제출하여야 정상적으로 지원이 됩니다.
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - LG Careers (careers.lg.com) 내 '채용문의' - '1:1질문하기'를 이용해주시기 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  - 입사지원서는 모든 사항을 정확히 입력해야 하며, 추후 입력사항이 허위로 판명될 경우 입사(합격)가 취소됩니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

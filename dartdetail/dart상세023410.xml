@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  유진기업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  EUGENE Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  유진기업
+ </crp_nm_i> 
+ <stock_cd>
+  023410
+ </stock_cd> 
+ <ceo_nm>
+  최종성
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110376148
+ </crp_no> 
+ <bsn_no>
+  1308122624
+ </bsn_no> 
+ <adr>
+  경기도 부천시 오정구 석천로 457
+ </adr> 
+ <hm_url>
+  www.eugenes.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3704-3300
+ </phn_no> 
+ <fax_no>
+  02-3704-5729
+ </fax_no> 
+ <ind_cd>
+  23322
+ </ind_cd> 
+ <est_dt>
+  19840613
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

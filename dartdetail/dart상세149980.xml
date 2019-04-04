@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)하이로닉
+ </crp_nm> 
+ <crp_nm_e>
+  Hironic Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  하이로닉
+ </crp_nm_i> 
+ <stock_cd>
+  149980
+ </stock_cd> 
+ <ceo_nm>
+  이진우
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101113802992
+ </crp_no> 
+ <bsn_no>
+  2068621359
+ </bsn_no> 
+ <adr>
+  경기도 용인시 수지구 신수로 767 19층(동천동, 분당수지U-TOWER)
+ </adr> 
+ <hm_url>
+  www.hironic.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-698-4900
+ </phn_no> 
+ <fax_no>
+  031-525-7010
+ </fax_no> 
+ <ind_cd>
+  27199
+ </ind_cd> 
+ <est_dt>
+  20071211
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

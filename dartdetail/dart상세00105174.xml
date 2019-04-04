@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  현대오일뱅크주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Hyundai Oilbank Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  현대오일뱅크
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  문종박
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110090558
+ </crp_no> 
+ <bsn_no>
+  3108120275
+ </bsn_no> 
+ <adr>
+  충청남도 서산시 대산읍 평신2로 182
+ </adr> 
+ <hm_url>
+  www.oilbank.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-660-5114
+ </phn_no> 
+ <fax_no>
+  041-660-5111
+ </fax_no> 
+ <ind_cd>
+  19210
+ </ind_cd> 
+ <est_dt>
+  19641114
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

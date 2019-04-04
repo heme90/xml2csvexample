@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)서연전자
+ </crp_nm> 
+ <crp_nm_e>
+  SEOYON ELECTRONICS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  서연전자
+ </crp_nm_i> 
+ <stock_cd>
+  012860
+ </stock_cd> 
+ <ceo_nm>
+  김상기
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1301110008961
+ </crp_no> 
+ <bsn_no>
+  1348102523
+ </bsn_no> 
+ <adr>
+  경기도 수원시 권선구 산업로156번길 100 (고색동)
+ </adr> 
+ <hm_url>
+  www.seoyonelec.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-5174-3000
+ </phn_no> 
+ <fax_no>
+  03151743050
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19780107
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37636
+ </empSeqno>
+ <empWantedTitle>
+  품질관리 사원 모집
+ </empWantedTitle>
+ <empBusiNm>
+  대승
+ </empBusiNm>
+ <coClcdNm></coClcdNm>
+ <empWantedStdt>
+  20190313
+ </empWantedStdt>
+ <empWantedEndt>
+  20190412
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.dae-seung.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.dae-seung.co.kr/recruit/recruit.php?ptype=view&amp;idx=5441&amp;page=1&amp;code=recruit
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRimBsDk5pBXm4c33XbNIa03hAeH1uea1o05D0KuaeY6Kt7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    * 서류전형 합격자에 한해 면접일 개별통보
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    * 면접시 시간엄수(10분전 도착 대기)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    건강검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    품질관리
+   </empRecrNm>
+   <jobCont>
+    - 품질보증, 공정관리 ,고객사 대응
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm>
+    고졸|박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    028400
+   </jobsCd>
+   <jobsCdKorNm>
+    생산·품질 사무원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont>
+  - 이력서, 자기소개서 - 주민등록등본 * 이력서에 연락처 필히 기재 * 이력서에 응시분야/근무부서 필히 기재 * 이력서에 희망연봉 기재
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - ~ 채용시까지 ** 수시로 면접 진행하며 적격자 채용시 조기 마감 됩니다. ** - 채용홈페이지 → 인재채용 → 채용공고 → 입사지원 * 양식에 맞게 이력서 작성 바랍니다.
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 담당자명 : 관리부/채용담당자 - E-mail : dshr933@dae-seung.co.kr - FAX : 0504-325-8428 - 회사주소 : (451-852) 경기 평택시 서탄면 수월암4길 200 ㈜대승 - 실시간 오픈 카카오톡 문의 가능 https://open.kakao.com/o/sOQKhpk
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

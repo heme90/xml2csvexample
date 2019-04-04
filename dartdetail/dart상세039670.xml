@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한류타임즈(주)
+ </crp_nm> 
+ <crp_nm_e>
+  The Hanryu Times Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  한류타임즈
+ </crp_nm_i> 
+ <stock_cd>
+  039670
+ </stock_cd> 
+ <ceo_nm>
+  각자 유지환, 이승호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111840928
+ </crp_no> 
+ <bsn_no>
+  1048148945
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 경인로 775, 1동 5층 (문래동3가, 에이스하이테크시티)
+ </adr> 
+ <hm_url>
+  www.sportsseoul.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (02)2001-0072
+ </phn_no> 
+ <fax_no>
+  02-2001-0089
+ </fax_no> 
+ <ind_cd>
+  58121
+ </ind_cd> 
+ <est_dt>
+  19991230
+ </est_dt> 
+ <acc_mt>
+  03
+ </acc_mt> 
+</result>

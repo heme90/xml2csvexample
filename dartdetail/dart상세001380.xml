@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에스지충방
+ </crp_nm> 
+ <crp_nm_e>
+  SG CHOONGBANG CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  SG충방
+ </crp_nm_i> 
+ <stock_cd>
+  001380
+ </stock_cd> 
+ <ceo_nm>
+  이의범
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1615110000037
+ </crp_no> 
+ <bsn_no>
+  3148108778
+ </bsn_no> 
+ <adr>
+  충청남도 예산군 예산읍 창말로 75 (주)SG충방
+ </adr> 
+ <hm_url>
+  www.sgchoongbang.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-5038-5498
+ </phn_no> 
+ <fax_no>
+  070-4369-2409
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19541222
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

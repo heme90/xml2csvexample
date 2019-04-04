@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)엘엠에스
+ </crp_nm> 
+ <crp_nm_e>
+  LMS Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  엘엠에스
+ </crp_nm_i> 
+ <stock_cd>
+  073110
+ </stock_cd> 
+ <ceo_nm>
+  조성민
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111651242
+ </crp_no> 
+ <bsn_no>
+  2148629653
+ </bsn_no> 
+ <adr>
+  경기도 평택시 진위면 진위산단로 53-73
+ </adr> 
+ <hm_url>
+  www.lgskorea.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-421-2345
+ </phn_no> 
+ <fax_no>
+  031-421-6446
+ </fax_no> 
+ <ind_cd>
+  273
+ </ind_cd> 
+ <est_dt>
+  19990213
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

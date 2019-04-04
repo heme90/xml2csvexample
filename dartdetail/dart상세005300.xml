@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  롯데칠성음료(주)
+ </crp_nm> 
+ <crp_nm_e>
+  LOTTE CHILSUNG BEVERAGE CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  롯데칠성음료
+ </crp_nm_i> 
+ <stock_cd>
+  005300
+ </stock_cd> 
+ <ceo_nm>
+  이영구, 김태환
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110003684
+ </crp_no> 
+ <bsn_no>
+  2148107770
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 서초대로70길 15
+ </adr> 
+ <hm_url>
+  company.lottechilsung.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3479-9114
+ </phn_no> 
+ <fax_no>
+  02-535-8619
+ </fax_no> 
+ <ind_cd>
+  11209
+ </ind_cd> 
+ <est_dt>
+  19671129
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

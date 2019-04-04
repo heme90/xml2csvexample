@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  코오롱글로벌(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KolonGlobalCorporation CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  코오롱글로벌
+ </crp_nm_i> 
+ <stock_cd>
+  003070
+ </stock_cd> 
+ <ceo_nm>
+  윤창운
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110036502
+ </crp_no> 
+ <bsn_no>
+  1208150012
+ </bsn_no> 
+ <adr>
+  경기도 과천시 코오롱로 11 코오롱타워
+ </adr> 
+ <hm_url>
+  www.kolonglobal.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3677-5114
+ </phn_no> 
+ <fax_no>
+  032-420-9969
+ </fax_no> 
+ <ind_cd>
+  41221
+ </ind_cd> 
+ <est_dt>
+  19601228
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

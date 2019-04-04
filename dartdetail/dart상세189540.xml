@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)씨티네트웍스
+ </crp_nm> 
+ <crp_nm_e>
+  ctnetworks Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨티네트웍스
+ </crp_nm_i> 
+ <stock_cd>
+  189540
+ </stock_cd> 
+ <ceo_nm>
+  이재성
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1344110033588
+ </crp_no> 
+ <bsn_no>
+  1268600010
+ </bsn_no> 
+ <adr>
+  충청남도 논산시 연무읍 신화길 12
+ </adr> 
+ <hm_url>
+  ctnetworks.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-742-0609
+ </phn_no> 
+ <fax_no>
+  041-742-0611
+ </fax_no> 
+ <ind_cd>
+  26410
+ </ind_cd> 
+ <est_dt>
+  20070109
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

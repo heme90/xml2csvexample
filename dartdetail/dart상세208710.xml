@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)바이오로그디바이스
+ </crp_nm> 
+ <crp_nm_e>
+  BIOLOG DEVICE CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  바이오로그디바이스
+ </crp_nm_i> 
+ <stock_cd>
+  208710
+ </stock_cd> 
+ <ceo_nm>
+  이재선, 윤형진
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115546217
+ </crp_no> 
+ <bsn_no>
+  1078832553
+ </bsn_no> 
+ <adr>
+  경기도 화성시 동탄면 동탄기흥로 64-10 3층
+ </adr> 
+ <hm_url>
+  www.biologdevice.com
+ </hm_url> 
+ <ir_url>
+  http://www.biologdevice.com
+ </ir_url> 
+ <phn_no>
+  031-831-3696
+ </phn_no> 
+ <fax_no>
+  031-831-3697
+ </fax_no> 
+ <ind_cd>
+  262
+ </ind_cd> 
+ <est_dt>
+  20141023
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

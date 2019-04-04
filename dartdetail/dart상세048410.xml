@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  현대바이오사이언스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HYUNDAI BIOSCIENCE CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  현대바이오
+ </crp_nm_i> 
+ <stock_cd>
+  048410
+ </stock_cd> 
+ <ceo_nm>
+  오상기
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1344110015693
+ </crp_no> 
+ <bsn_no>
+  1268145614
+ </bsn_no> 
+ <adr>
+  경상북도 김천시 아포읍 아포공단길 106
+ </adr> 
+ <hm_url>
+  www.hyundaiibt.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-7008-0114
+ </phn_no> 
+ <fax_no>
+  02-362-8813
+ </fax_no> 
+ <ind_cd>
+  204
+ </ind_cd> 
+ <est_dt>
+  20000525
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

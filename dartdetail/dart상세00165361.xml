@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)휴코드
+ </crp_nm> 
+ <crp_nm_e>
+  Hucord Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  휴코드
+ </crp_nm_i> 
+ <stock_cd>
+  036840
+ </stock_cd> 
+ <ceo_nm>
+  김준영
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1311110003655
+ </crp_no> 
+ <bsn_no>
+  1268121908
+ </bsn_no> 
+ <adr>
+  경기도 용인시 수지구 풍덕천로129번길 9 599 (풍덕천동, 오성빌딩)
+ </adr> 
+ <hm_url>
+  www.hucord.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-732-1555
+ </phn_no> 
+ <fax_no>
+  031-747-2555
+ </fax_no> 
+ <ind_cd>
+  70113
+ </ind_cd> 
+ <est_dt>
+  19790124
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

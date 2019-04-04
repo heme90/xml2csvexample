@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37712
+ </empSeqno>
+ <empWantedTitle>
+  2019 상반기 전문대졸 신입사원 채용
+ </empWantedTitle>
+ <empBusiNm>
+  서브원
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190327
+ </empWantedStdt>
+ <empWantedEndt>
+  20190408
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.serveone.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://careers.serveone.co.kr/app/job/RetrieveJobNoticesDetail.rpi
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRik1rat8TDTUhdBWPAcPnG%2FHCiToTXxYaT8Jva%2BUiyIKy7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인적성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    1차면접 이후 합격자에 한하여 개별 채용검진을 실시합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    건강검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인턴십
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [구매] 구매지원
+   </empRecrNm>
+   <jobCont>
+    - 신규상품 등록 처리 - 상품 가격 및 주문 관리 - 주문 발주 생성 및 관리 - 협력사 선정 및 관리
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(2~3)
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 전공무관
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 평택시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [구매] DB관리
+   </empRecrNm>
+   <jobCont>
+    - 신규 상품 Data 등록 - DB 검증 및 상품 등록 업무 - 분류체계 및 제조원 코드 관리 - 중복 및 미주문 상품 정리
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(2~3)
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 전공무관
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 강서구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [SCM] 서비스(CS/조달CS)
+   </empRecrNm>
+   <jobCont>
+    - 상품 납기 및 배송관리 - 정산관리 - 긴급 배송 및 품질 대응 - 반품/교환 처리 - 고객사 입고상품 검수 및 조달
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(2~3)
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 전공무관
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 파주시,경기 평택시,경남 창원시,경북 구미시
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [경영지원] 인사운영
+   </empRecrNm>
+   <jobCont>
+    - 임직원 급여 운영 - 4대보험 관련 업무 - 복리후생 운영 - 기타 Payroll 관련 업무
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(2~3)
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 전공무관
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 강서구
+   </workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    [경영지원] 총무
+   </empRecrNm>
+   <jobCont>
+    - 사무공간 및 물리보안 운영 업무 - 총무일반 업무 - 직장 민방위 운영 업무
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(2~3)
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 전공무관
+   </sptCertEtc>
+   <recrPsncnt>
+    0
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 강서구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    01
+   </jobsCd>
+   <jobsCdKorNm>
+    경영·사무·금융·보험
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ○ 지원자격 - 2년제 이상 전문대학교 졸업 및 &amp;apos;19년 8월 졸업예정자 (졸업 예정자의 경우 &amp;apos;19년 5월 인턴십 및 &amp;apos;19년 6월 정규 출근이 가능해야 함.) - 해외여행에 결격사유가 없는 자 / 남자의 경우, 병역필 또는 면제자 - 보훈 취업보호대상자와 장애인은 관련 법규에 의하여 우대함 ○ 인턴십 전형 - 채용 형태 : 4주 간의 인턴실습 후 심사를 통해 정규직 선발 - 인턴 기간 : 2019년 
+ </recrCommCont>
+</dhsOpenEmpInfoDetailRoot>

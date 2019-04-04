@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)토박스코리아
+ </crp_nm> 
+ <crp_nm_e>
+  TOEBOX KOREA, Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  토박스코리아
+ </crp_nm_i> 
+ <stock_cd>
+  215480
+ </stock_cd> 
+ <ceo_nm>
+  이선근
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115648518
+ </crp_no> 
+ <bsn_no>
+  1968100028
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로26길 111 7층 702호
+ </adr> 
+ <hm_url>
+  www.toebox.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6101-3639
+ </phn_no> 
+ <fax_no>
+  02-887-8484
+ </fax_no> 
+ <ind_cd>
+  474
+ </ind_cd> 
+ <est_dt>
+  20150224
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

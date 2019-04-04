@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  올리패스 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  OliPass Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  올리패스
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  정신
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101113562570
+ </crp_no> 
+ <bsn_no>
+  1138609261
+ </bsn_no> 
+ <adr>
+  경기도 용인시 기흥구 동백중앙로16번길 16-4 (중동, 에이스동백타워) 1동 20층
+ </adr> 
+ <hm_url>
+  www.olipass.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-8060-8100
+ </phn_no> 
+ <fax_no>
+  031-8060-8110
+ </fax_no> 
+ <ind_cd>
+  70113
+ </ind_cd> 
+ <est_dt>
+  20061116
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

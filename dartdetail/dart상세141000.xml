@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)비아트론
+ </crp_nm> 
+ <crp_nm_e>
+  Viatron Technologies, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  비아트론
+ </crp_nm_i> 
+ <stock_cd>
+  141000
+ </stock_cd> 
+ <ceo_nm>
+  김 형 준
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112405721
+ </crp_no> 
+ <bsn_no>
+  1198152946
+ </bsn_no> 
+ <adr>
+  경기도 수원시 권선구 산업로155번길 139 (고색동)
+ </adr> 
+ <hm_url>
+  www.viatrontech.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-4016-3200
+ </phn_no> 
+ <fax_no>
+  031-227-6540
+ </fax_no> 
+ <ind_cd>
+  29272
+ </ind_cd> 
+ <est_dt>
+  20011226
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

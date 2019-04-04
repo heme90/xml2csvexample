@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 피피아이
+ </crp_nm> 
+ <crp_nm_e>
+  PHOTONICS PLANAR INTEGRATION TECHNOLOGY INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  피피아이
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김진봉
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  2001110105176
+ </crp_no> 
+ <bsn_no>
+  4098149801
+ </bsn_no> 
+ <adr>
+  광주광역시 북구 첨단과기로 345 (주)피피아이
+ </adr> 
+ <hm_url>
+  www.ppitek.com
+ </hm_url> 
+ <ir_url>
+  www.ppitek.com
+ </ir_url> 
+ <phn_no>
+  062-972-0116
+ </phn_no> 
+ <fax_no>
+  062-972-0117
+ </fax_no> 
+ <ind_cd>
+  26410
+ </ind_cd> 
+ <est_dt>
+  19990921
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

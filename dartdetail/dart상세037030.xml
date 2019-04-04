@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 파워넷
+ </crp_nm> 
+ <crp_nm_e>
+  POWERNET TECHNOLOGIES CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  파워넷
+ </crp_nm_i> 
+ <stock_cd>
+  037030
+ </stock_cd> 
+ <ceo_nm>
+  김상우, 양승환
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1412110006738
+ </crp_no> 
+ <bsn_no>
+  2248107438
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 두산로 70 현대지식산업센터 B동 17층
+ </adr> 
+ <hm_url>
+  www.gopowernet.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3282-0700
+ </phn_no> 
+ <fax_no>
+  02-3282-0800
+ </fax_no> 
+ <ind_cd>
+  2811
+ </ind_cd> 
+ <est_dt>
+  19931228
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)네오플럭스
+ </crp_nm> 
+ <crp_nm_e>
+  Neoplux Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  네오플럭스
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이상하
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111927841
+ </crp_no> 
+ <bsn_no>
+  2018155941
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 534 (대치동, 글라스타워빌딩)
+ </adr> 
+ <hm_url>
+  www.neoplux.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-560-9791
+ </phn_no> 
+ <fax_no>
+  02-560-9701
+ </fax_no> 
+ <ind_cd>
+  64209
+ </ind_cd> 
+ <est_dt>
+  20000401
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

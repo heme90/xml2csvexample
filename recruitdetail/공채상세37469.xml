@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37469
+ </empSeqno>
+ <empWantedTitle>
+  공장 IoT아키텍쳐 기획 및 구축
+ </empWantedTitle>
+ <empBusiNm>
+  기아자동차
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190318
+ </empWantedStdt>
+ <empWantedEndt>
+  20190415
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.kia.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://career.kia.com:449/kfront/webapply/applyView.do?recuYy=2019&amp;recuType=66&amp;recuCls=6
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvLvxxitjxM%2FjKk8dcYhd3aSfASpSBCDsXmHd%2FtM5giVH
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    지원서 접수
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    신체검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    공장 IoT 아키텍처 기획 및 구축
+   </empRecrNm>
+   <jobCont>
+    [담당업무] - 스마트팩토리 위한 IoT 적용 아키텍쳐를 설계하고, 생산현장의 Data 수집을 자동화하거나 효율화할 수 있는 적용기술 발굴 및 선행연구 [세부 업무] ○ 스마트 팩토리 IoT 적용 아키텍쳐 설계 - 스마트팩토리 IT 아키텍쳐 설계 (글로벌, 공장별, 샵별) - IoT 요소기술 활용체계 수립 (센싱, 에지처리, 클라우드화) - 제조/설비 데이터 관리체계 표준화 및 활용가이드 제.개정 ○ 정보수집 적용기술 선행연구/검증 - 공장 IoT 적용기술 보유 스타트업 발굴/협업 추진 - 新 무선통신 기술 및 센서/디바이스 활요한 Data수집 자동화기술 검증 수행 - 프로토타입 추진을 통한 활용방안 및 실행계획 수립(필요시 Data 수집 구현)
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    석사|박사
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [채용직무] - 부문 : ICT - 분야 : 공장 IoT 아키텍처 기획 및 구축 - 직급 : 과장급 - 근무지역 : 서울(양재)
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용포털(career.kia.com)을 통한 인터넷 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 관련 문의는 채용 홈페이지 內 [채용TALK] - [FAQ] - [1:1 문의하기] 를 이용 바랍니다,
+ </inqryCont>
+ <empnEtcCont>
+  - 입사지원서의 내용이 사실과 다른 경우 합격이 취소됩니다. - 국가보훈 취업지원 대상자는 관련 법령에 의거하여 우대합니다. ※ 모바일기기에서는 지원하실 수 없습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

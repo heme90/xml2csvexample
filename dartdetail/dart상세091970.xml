@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  나노캠텍(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Nano Chem Tech, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  나노캠텍
+ </crp_nm_i> 
+ <stock_cd>
+  091970
+ </stock_cd> 
+ <ceo_nm>
+  심익호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1345110037710
+ </crp_no> 
+ <bsn_no>
+  1358135463
+ </bsn_no> 
+ <adr>
+  경기도 용인시 처인구 남사면 완장천로 42-34
+ </adr> 
+ <hm_url>
+  www.nanosbiz.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-671-9466
+ </phn_no> 
+ <fax_no>
+  031-671-9468
+ </fax_no> 
+ <ind_cd>
+  2229
+ </ind_cd> 
+ <est_dt>
+  19991223
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

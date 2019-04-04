@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)티브로드
+ </crp_nm> 
+ <crp_nm_e>
+  Tbroad Co.,Ltd. 
+ </crp_nm_e> 
+ <crp_nm_i>
+  티브로드
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  강신웅
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  2101110013343
+ </crp_no> 
+ <bsn_no>
+  4188108013
+ </bsn_no> 
+ <adr>
+  경기도 수원시 영통구 창룡대로 260 (이의동, 광교센트럴비즈타워)
+ </adr> 
+ <hm_url>
+  www.tbroad.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-8188-8015
+ </phn_no> 
+ <fax_no>
+  070-8111-7087
+ </fax_no> 
+ <ind_cd>
+  60222
+ </ind_cd> 
+ <est_dt>
+  19940219
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

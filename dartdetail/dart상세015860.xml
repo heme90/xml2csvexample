@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  일진홀딩스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  ILJIN HOLDINGS CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  일진홀딩스
+ </crp_nm_i> 
+ <stock_cd>
+  015860
+ </stock_cd> 
+ <ceo_nm>
+  허정석
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1201110011990
+ </crp_no> 
+ <bsn_no>
+  1248134732
+ </bsn_no> 
+ <adr>
+  경기도 화성시 만년로 905-17
+ </adr> 
+ <hm_url>
+  www.iljin.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-220-0500
+ </phn_no> 
+ <fax_no>
+  02-707-9698
+ </fax_no> 
+ <ind_cd>
+  64992
+ </ind_cd> 
+ <est_dt>
+  19820127
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

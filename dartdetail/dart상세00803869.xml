@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  에이플러스리얼티(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Aplus Realty Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이플러스리얼티
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  이재광
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101114091685
+ </crp_no> 
+ <bsn_no>
+  1208739950
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 강남대로 329 (서초동, 산학재단빌딩) 18층
+ </adr> 
+ <hm_url>
+  www.aplusr.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-569-8248
+ </phn_no> 
+ <fax_no>
+  02-6455-4882
+ </fax_no> 
+ <ind_cd>
+  682
+ </ind_cd> 
+ <est_dt>
+  20090508
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

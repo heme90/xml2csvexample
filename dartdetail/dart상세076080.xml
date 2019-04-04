@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)웰크론한텍
+ </crp_nm> 
+ <crp_nm_e>
+  WELCRON HANTEC CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  웰크론한텍
+ </crp_nm_i> 
+ <stock_cd>
+  076080
+ </stock_cd> 
+ <ceo_nm>
+  이영규, 이기창, 이영식
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111118276
+ </crp_no> 
+ <bsn_no>
+  1268123094
+ </bsn_no> 
+ <adr>
+  경기도 화성시 향남읍 발안공단로 92-36
+ </adr> 
+ <hm_url>
+  www.welcronhantec.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-350-8900
+ </phn_no> 
+ <fax_no>
+  02-854-1681
+ </fax_no> 
+ <ind_cd>
+  411
+ </ind_cd> 
+ <est_dt>
+  19950112
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

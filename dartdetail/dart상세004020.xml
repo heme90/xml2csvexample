@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  현대제철(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HYUNDAI STEEL COMPANY
+ </crp_nm_e> 
+ <crp_nm_i>
+  현대제철
+ </crp_nm_i> 
+ <stock_cd>
+  004020
+ </stock_cd> 
+ <ceo_nm>
+  안동일
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1201110001743
+ </crp_no> 
+ <bsn_no>
+  1218110385
+ </bsn_no> 
+ <adr>
+  인천광역시 동구 중봉대로 63
+ </adr> 
+ <hm_url>
+  www.hyundai-steel.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-760-2114
+ </phn_no> 
+ <fax_no>
+  02) 2112 - 9599
+ </fax_no> 
+ <ind_cd>
+  2411
+ </ind_cd> 
+ <est_dt>
+  19530610
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

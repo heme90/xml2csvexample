@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)케이티
+ </crp_nm> 
+ <crp_nm_e>
+  KT CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이티
+ </crp_nm_i> 
+ <stock_cd>
+  030200
+ </stock_cd> 
+ <ceo_nm>
+  황창규
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101111468754
+ </crp_no> 
+ <bsn_no>
+  1028142945
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 불정로 90 KT 본사
+ </adr> 
+ <hm_url>
+  www.kt.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-727-0114
+ </phn_no> 
+ <fax_no>
+  02-3495-5914
+ </fax_no> 
+ <ind_cd>
+  612
+ </ind_cd> 
+ <est_dt>
+  19811210
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

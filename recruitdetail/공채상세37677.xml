@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37677
+ </empSeqno>
+ <empWantedTitle>
+  Back-end 개발 (신입,경력)
+ </empWantedTitle>
+ <empBusiNm>
+  에스케이엔카닷컴
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190320
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.encar.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://encar.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=7999
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRiluB3WEJf6b5BQH%2FSZXKxaT%2By%2BzmSBVYHERszs2ctn6V7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류접수 및 검토
+   </selsNm>
+   <selsSchdCont>
+    ~ 4/7(일)
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 면접
+   </selsNm>
+   <selsSchdCont>
+    4월 중순
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 면접
+   </selsNm>
+   <selsSchdCont>
+    4월말 ~ 5월초
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    처우 협의
+   </selsNm>
+   <selsSchdCont>
+    ~ 5월 중순
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용검진 및 입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    개별협의
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    Back-end 개발 (신입,경력)
+   </empRecrNm>
+   <jobCont>
+    - 요구사항 분석과 시스템 분석을 통해 지속적이고 안정적으로 제품을 구현합니다. - 기획, 디자인, 퍼블리셔, 프론트 개발자들과의 협업을 통해 Back-end 개발을 추진합니다.
+   </jobCont>
+   <empWantedCareerNm>
+    경력|신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    024
+   </jobsCd>
+   <jobsCdKorNm>
+    소프트웨어
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [Journey Map] - 입사자가 보유하고 있는 기술력과 역량을 파악하는 과정을 통해 엔타에서뿐만 아니라 개발자로서의 로드맵을 제시합니다. 설계된 로드맵을 기반으로 그에 맞는 스킬을 더욱 강화할 수 있도록 코칭하며, 제작단 내 많은 개발자들과 스터디하여 새로운 기술에 항상 안테나를 올릴 수 있도록 지원합니다. [우리는 이렇게 일해요!] - 자율과 책임 - 자신감 - 열린 시선 - 가능성을 향한 여정 ※ 자세한 사항은 공고문 참조 바랍니다.
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용 홈페이지 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 참조
+ </inqryCont>
+ <empnEtcCont>
+  - 엔카닷컴에 대한 좀 더 많은 이야기를 듣고 싶으시다면? (https://blog.naver.com/wantedlab/221492692575)
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

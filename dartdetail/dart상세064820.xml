@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)케이프
+ </crp_nm> 
+ <crp_nm_e>
+  CAPE INDUSTRIES LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이프
+ </crp_nm_i> 
+ <stock_cd>
+  064820
+ </stock_cd> 
+ <ceo_nm>
+  정 형 석
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1801110051770
+ </crp_no> 
+ <bsn_no>
+  6218122339
+ </bsn_no> 
+ <adr>
+  경상남도 양산시 상북면 양산대로 1303
+ </adr> 
+ <hm_url>
+  www.cape.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-370-1234
+ </phn_no> 
+ <fax_no>
+  055-370-1239
+ </fax_no> 
+ <ind_cd>
+  31114
+ </ind_cd> 
+ <est_dt>
+  19831226
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

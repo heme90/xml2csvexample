@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  현대해상화재보험(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HYUNDAIMARINE&amp;FIREINSURANCECO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  현대해상
+ </crp_nm_i> 
+ <stock_cd>
+  001450
+ </stock_cd> 
+ <ceo_nm>
+  이철영, 박찬종
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110035893
+ </crp_no> 
+ <bsn_no>
+  1028132035
+ </bsn_no> 
+ <adr>
+  서울특별시 종로구 세종로 현대해상화재보험빌딩
+ </adr> 
+ <hm_url>
+  www.hi.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-1588-5656
+ </phn_no> 
+ <fax_no>
+  732-5683
+ </fax_no> 
+ <ind_cd>
+  65121
+ </ind_cd> 
+ <est_dt>
+  19550305
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

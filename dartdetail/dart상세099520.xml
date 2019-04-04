@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)아이티엑스엠투엠
+ </crp_nm> 
+ <crp_nm_e>
+  ITX-M2M Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  ITX엠투엠
+ </crp_nm_i> 
+ <stock_cd>
+  099520
+ </stock_cd> 
+ <ceo_nm>
+  박상열
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111517709
+ </crp_no> 
+ <bsn_no>
+  1208178820
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 가산디지털1로 212 코오롱디지털타워애스턴 906호
+ </adr> 
+ <hm_url>
+  www.itxsecurity.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2082-8379
+ </phn_no> 
+ <fax_no>
+  02-25082-8501
+ </fax_no> 
+ <ind_cd>
+  26519
+ </ind_cd> 
+ <est_dt>
+  19980227
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

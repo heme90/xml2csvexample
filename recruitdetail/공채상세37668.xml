@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37668
+ </empSeqno>
+ <empWantedTitle>
+  2019년 상반기 신입사원 모집
+ </empWantedTitle>
+ <empBusiNm>
+  신세계아이앤씨
+ </empBusiNm>
+ <coClcdNm>
+  대기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190325
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.shinsegae-inc.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?isSearch=&amp;tabKey0=&amp;currentPage=1&amp;rowsPerPage=11&amp;notino=4479&amp;recrtpnm=%25EB%258C%2580%25EC%25A1%25B8%25EC%258B%25A0%25EC%259E%2585&amp;searchWord0=&amp;searchKey0=&amp;searchKey1=&amp;searchWord1=
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRir1l7RVuKKiEhpYtNSBbYBu9jdpkSfkNGHN4vvyL%2FEsc7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •1. 당사에 지원한 이유와 입사를 위해 어떤 노력을 하였는지 구체적으로 기술하시오* (1000자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •2. 지원한 직군에서 구체적으로 하고 싶은 일과 본인이 그 일을 남들보다 잘할 수 있는 차별화된 능력과 경험을 기술하시오* (1000자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selfintroQstCont>
+    •3. 학업 외 가장 열정적이고 도전적으로 몰입하여 성과를 창출했거나 목표를 달성한 경험을 기술하시오* (1000자)
+   </selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원/면접 전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인턴십(12주)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    IT Programmer
+   </empRecrNm>
+   <jobCont>
+    - 전공무관 - 2019.08월 이전 졸업 또는 2019.08월 졸업예정자 - 병역필 또는 면제자로 해외여행에 결격사유가 없는 분 (국가보훈 대상자는 관련 법령에 의거 우대) - 프로그래밍, DB, 보안 등 IT관련 자격증/기술 소유자 또는 대회 수상 경험자 우대
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 근무지 : 서울 및 수도권
+   </sptCertEtc>
+   <recrPsncnt>
+    00
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    023
+   </jobsCd>
+   <jobsCdKorNm>
+    컴퓨터시스템
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ※ &amp;apos;혜택 소개&amp;apos;에 관한 내용은 공고문 참조 바랍니다.
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용사이트 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용 홈페이지 內 '채용문의' 게시판 이용 바랍니다.
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

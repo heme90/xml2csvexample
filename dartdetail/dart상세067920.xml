@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)이글루시큐리티
+ </crp_nm> 
+ <crp_nm_e>
+  Igloo Security, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  이글루시큐리티
+ </crp_nm_i> 
+ <stock_cd>
+  067920
+ </stock_cd> 
+ <ceo_nm>
+  이득춘
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111800659
+ </crp_no> 
+ <bsn_no>
+  1078172385
+ </bsn_no> 
+ <adr>
+  서울특별시 송파구 정의로8길 7 한스빌딩
+ </adr> 
+ <hm_url>
+  www.igloosec.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02 3452 8814
+ </phn_no> 
+ <fax_no>
+  3452-8815
+ </fax_no> 
+ <ind_cd>
+  58221
+ </ind_cd> 
+ <est_dt>
+  19991102
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

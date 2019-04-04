@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)스틸플라워
+ </crp_nm> 
+ <crp_nm_e>
+  STEEL FLOWER CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  스틸플라워
+ </crp_nm_i> 
+ <stock_cd>
+  087220
+ </stock_cd> 
+ <ceo_nm>
+  김종룡
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1801110311083
+ </crp_no> 
+ <bsn_no>
+  6038140872
+ </bsn_no> 
+ <adr>
+  부산광역시 해운대구 센텀서로 30 2401호 (우동, 케이엔엔타워)
+ </adr> 
+ <hm_url>
+  www.steelflower.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051-745-3000
+ </phn_no> 
+ <fax_no>
+  051-745-3080
+ </fax_no> 
+ <ind_cd>
+  2413
+ </ind_cd> 
+ <est_dt>
+  20000201
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

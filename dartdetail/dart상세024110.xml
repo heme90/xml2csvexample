@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  중소기업은행
+ </crp_nm> 
+ <crp_nm_e>
+  INDUSTRIAL BANK OF KOREA
+ </crp_nm_e> 
+ <crp_nm_i>
+  기업은행
+ </crp_nm_i> 
+ <stock_cd>
+  024110
+ </stock_cd> 
+ <ceo_nm>
+  Kim, Do-jin
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101350000903
+ </crp_no> 
+ <bsn_no>
+  2028100978
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 을지로 79 중소기업은행본점
+ </adr> 
+ <hm_url>
+  www.kiupbank.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-729-6114
+ </phn_no> 
+ <fax_no>
+  02-729-7105
+ </fax_no> 
+ <ind_cd>
+  64121
+ </ind_cd> 
+ <est_dt>
+  19610725
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

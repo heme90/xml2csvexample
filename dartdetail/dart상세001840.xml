@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  이화공영(주)
+ </crp_nm> 
+ <crp_nm_e>
+  EehwaConstruction
+ </crp_nm_e> 
+ <crp_nm_i>
+  이화공영
+ </crp_nm_i> 
+ <stock_cd>
+  001840
+ </stock_cd> 
+ <ceo_nm>
+  최삼규,최종찬
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110033839
+ </crp_no> 
+ <bsn_no>
+  1058111500
+ </bsn_no> 
+ <adr>
+  서울특별시 마포구 양화로 104 (서교동,삼윤빌딩)
+ </adr> 
+ <hm_url>
+  www.ee-hwa.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02 -336 -0041
+ </phn_no> 
+ <fax_no>
+  023333198
+ </fax_no> 
+ <ind_cd>
+  411
+ </ind_cd> 
+ <est_dt>
+  19560830
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

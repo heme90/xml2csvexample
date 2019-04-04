@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  동화약품(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DONGWHA PHARM.CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  동화약품
+ </crp_nm_i> 
+ <stock_cd>
+  000020
+ </stock_cd> 
+ <ceo_nm>
+  박기환
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110043870
+ </crp_no> 
+ <bsn_no>
+  1108100102
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 후암로 98 19층(남대문로5가)
+ </adr> 
+ <hm_url>
+  www.dong-wha.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2021-9300
+ </phn_no> 
+ <fax_no>
+  753-2347
+ </fax_no> 
+ <ind_cd>
+  21210
+ </ind_cd> 
+ <est_dt>
+  18970925
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

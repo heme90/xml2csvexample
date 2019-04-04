@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  광진실업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KwangjinInd
+ </crp_nm_e> 
+ <crp_nm_i>
+  광진실업
+ </crp_nm_i> 
+ <stock_cd>
+  026910
+ </stock_cd> 
+ <ceo_nm>
+  김영욱, 허정도
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1801110025882
+ </crp_no> 
+ <bsn_no>
+  6038108305
+ </bsn_no> 
+ <adr>
+  부산 사하구 신평동 370-103
+ </adr> 
+ <hm_url>
+  www.kjsteel.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  051 -204 -9101
+ </phn_no> 
+ <fax_no>
+  051 -204 -9109
+ </fax_no> 
+ <ind_cd>
+  24121
+ </ind_cd> 
+ <est_dt>
+  19761206
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

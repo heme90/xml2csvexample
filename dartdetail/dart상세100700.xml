@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)세운메디칼
+ </crp_nm> 
+ <crp_nm_e>
+  SEWOONMEDICAL CO,. LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  세운메디칼
+ </crp_nm_i> 
+ <stock_cd>
+  100700
+ </stock_cd> 
+ <ceo_nm>
+  이길환
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110324858
+ </crp_no> 
+ <bsn_no>
+  2048111321
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 서북구 입장면 도림길 60 (주)세운메디칼
+ </adr> 
+ <hm_url>
+  SEWOONMEDICAL.CO.KR
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-584-2903
+ </phn_no> 
+ <fax_no>
+  0415842907
+ </fax_no> 
+ <ind_cd>
+  21300
+ </ind_cd> 
+ <est_dt>
+  19820806
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

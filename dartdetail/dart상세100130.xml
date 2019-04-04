@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)동국에스엔씨
+ </crp_nm> 
+ <crp_nm_e>
+  DONGKUK STRUCTURES &amp; CONSTRUCTION COMPANY LIMITED
+ </crp_nm_e> 
+ <crp_nm_i>
+  동국S&amp;C
+ </crp_nm_i> 
+ <stock_cd>
+  100130
+ </stock_cd> 
+ <ceo_nm>
+  양승주
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112276784
+ </crp_no> 
+ <bsn_no>
+  1048163193
+ </bsn_no> 
+ <adr>
+  경상북도 포항시 남구 대송로 62(장흥동)
+ </adr> 
+ <hm_url>
+  www.dongkuksnc.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  054-271-0542
+ </phn_no> 
+ <fax_no>
+  054-722-2740
+ </fax_no> 
+ <ind_cd>
+  2511
+ </ind_cd> 
+ <est_dt>
+  20010702
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

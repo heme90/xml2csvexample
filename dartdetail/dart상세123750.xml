@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)알톤스포츠
+ </crp_nm> 
+ <crp_nm_e>
+  Alton Sports Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  알톤스포츠
+ </crp_nm_i> 
+ <stock_cd>
+  123750
+ </stock_cd> 
+ <ceo_nm>
+  김신성
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101114313807
+ </crp_no> 
+ <bsn_no>
+  1078733730
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교역로 221 12층(삼평동 투썬월드빌딩)
+ </adr> 
+ <hm_url>
+  www.altonsports.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-422-0574
+ </phn_no> 
+ <fax_no>
+  041-531-2772
+ </fax_no> 
+ <ind_cd>
+  31991
+ </ind_cd> 
+ <est_dt>
+  20100325
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한국정보인증(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KOREA INFORMATION CERTIFICATE AUTHORITY, INCORPORATED
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국정보인증
+ </crp_nm_i> 
+ <stock_cd>
+  053300
+ </stock_cd> 
+ <ceo_nm>
+  김상준
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111727332
+ </crp_no> 
+ <bsn_no>
+  1108141568
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로 242판교디지털센터(PDC) C동 5층
+ </adr> 
+ <hm_url>
+  www.signgate.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-360-3010
+ </phn_no> 
+ <fax_no>
+  02-360-3001
+ </fax_no> 
+ <ind_cd>
+  58221
+ </ind_cd> 
+ <est_dt>
+  19990702
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 신성이엔지
+ </crp_nm> 
+ <crp_nm_e>
+  SHINSUNG E&amp;G Co.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  신성이엔지
+ </crp_nm_i> 
+ <stock_cd>
+  011930
+ </stock_cd> 
+ <ceo_nm>
+  이지선, 안윤수
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1301110008664
+ </crp_no> 
+ <bsn_no>
+  1348103352
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 대왕판교로395번길 8 (백현동 404-1) 신성솔라에너지
+ </adr> 
+ <hm_url>
+  www.shinsungeng.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-788-9500
+ </phn_no> 
+ <fax_no>
+  031-788-9290
+ </fax_no> 
+ <ind_cd>
+  2612
+ </ind_cd> 
+ <est_dt>
+  19770120
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

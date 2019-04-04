@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37682
+ </empSeqno>
+ <empWantedTitle>
+  [경력] HR팀 급여 담당자 채용
+ </empWantedTitle>
+ <empBusiNm>
+  태준제약
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190326
+ </empWantedStdt>
+ <empWantedEndt>
+  20190407
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.taejoon.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.taejoon.co.kr:1001/apply_site/recruit/view/17681
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRinMM5IK9etyZPKzRZuH32g7pROzdd7FAChccqcz6bnFl7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont>
+    서류합격자 발표 : 2019년 4월 9일(화) 14:00 예정(당사 채용 홈페이지)
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 면접(실무,임원)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    합격자발표
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [경영관리본부] HR팀(급여 담당)
+   </empRecrNm>
+   <jobCont>
+    - 급여관리(급여, 원천세 신고, 퇴직급여) - 4대보험 및 복리후생 관리 - 연차휴가 및 근태 관리 - 기타 인사관련 업무 지원
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(2~3)|대졸(4)|박사
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 노무법인 등 급여 관련 실무 경력자 우대 - 300인 이상 급여 관련 경력자 우대
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울 용산구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    017
+   </jobsCd>
+   <jobsCdKorNm>
+    경영지원 사무
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont>
+  - 서류 전형 합격자에 한하여 별도 안내
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 기타 문의: tj_hr@taejoon.co.kr
+ </inqryCont>
+ <empnEtcCont>
+  가. 공통지원자격 : 병역필 또는 면제자로서 해외여행에 결격 사유가 없는 지원자 나. 취업보호대상자(국가보훈대상자 및 장애인) 관련 법령에 의거 우대 다. 지원서 및 제출 서류에 허위 사실이 있는 경우 합격(또는 입사) 취소 라. 응시부문 및 희망 근무지 정확히 표기
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

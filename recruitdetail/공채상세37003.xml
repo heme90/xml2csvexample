@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37003
+ </empSeqno>
+ <empWantedTitle>
+  Blockchain DApp Service QA
+ </empWantedTitle>
+ <empBusiNm>
+  라인플러스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190306
+ </empWantedStdt>
+ <empWantedEndt>
+  20190506
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://linepluscorp.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.linepluscorp.com/lineplus/career/detail/20002642?classId=&amp;entTypeCd=&amp;tag=&amp;page=
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRio7tN8%2FfS0w1%2BizSZ9MRlvId5wEzldWhQQFQW5j5C9ob7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    과제전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    레퍼런스 체크
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    처우협의/최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    Blockchain DApp Service QA
+   </empRecrNm>
+   <jobCont>
+    - 라인의 블록체인 플랫폼인 LINK Chain Platform 품질관리 업무 - LINK Chain Platform을 사용하는 Dapp Service 테스트 업무 - Dapp의 품질확보를 위한 테스트 설계 - Dapp 서비스 품질유지 및 향상을 위한 QA 프로세스 정립
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - Server 및 Client 연동에 대한 검증 경험과 logic에 대한 이해가 높은 자 - nGrinder, Zipkin, TestRail, TestFLO 사용 경험이 있는 자 - Python, Java 등 개발 언어 사용 경험을 가진 자 - Platform 테스트 및 TDD 테스트 경험이 있는 자 - 소프트웨어 테스트 자동화를 위해 다양한 솔루션을 사용 경험을 가진 자 - 기본적인 개발 역량을 보유하고, 테스트 코드를 직접 작성하실 수 있는 자 - Jenkins, Circle CI 사용 경험을 가진 자 - 일본어로 업무 진행이 가능한 자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 성남시 분당구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    024
+   </jobsCd>
+   <jobsCdKorNm>
+    소프트웨어
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [근무국가] - 한국 ※ 국가 유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  [보훈 취업지원 대상 및 장애인 서류 제출 안내] - 보훈 및 장애인 지원자에 해당되시는 경우, 입사지원시 [포트폴리오/이력서] 첨부 란에 반드시 관련 증명원을 발급하여 첨부 바랍니다. 1.보훈 지원자 : '보훈취업지원대상자 증명서' 발급하여 첨부 2.장애인 지원자 : '장애인증명서 또는 복지카드' 첨부
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - ~ 채용시까지 - 채용 홈페이지 온라인 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 기타 채용 관련 문의사항은 채용 공고 페이지 상단 '채용문의' 또는 공지 사항을 참고하여 문의 부탁드립니다.
+ </inqryCont>
+ <empnEtcCont>
+  - 본 공고는 수시 모집으로 채용완료 시 조기 마감될 수 있습니다. - 전형일정 및 결과는 지원서에 등록하신 이메일로 개별 안내드립니다. - 지원서 내용 중 허위사실이 있는 경우 합격이 취소될 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

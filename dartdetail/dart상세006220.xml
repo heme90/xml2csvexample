@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)제주은행
+ </crp_nm> 
+ <crp_nm_e>
+  Jeju Bank
+ </crp_nm_e> 
+ <crp_nm_i>
+  제주은행
+ </crp_nm_i> 
+ <stock_cd>
+  006220
+ </stock_cd> 
+ <ceo_nm>
+  서현주
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  2201110000819
+ </crp_no> 
+ <bsn_no>
+  6168100615
+ </bsn_no> 
+ <adr>
+  제주특별자치도 제주시 오현길 90 (이도일동)
+ </adr> 
+ <hm_url>
+  www.e-jejubank.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  064-720-0200
+ </phn_no> 
+ <fax_no>
+  064-720-0183
+ </fax_no> 
+ <ind_cd>
+  64121
+ </ind_cd> 
+ <est_dt>
+  19690919
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

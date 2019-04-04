@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)아난티
+ </crp_nm> 
+ <crp_nm_e>
+  Ananti Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  아난티
+ </crp_nm_i> 
+ <stock_cd>
+  025980
+ </stock_cd> 
+ <ceo_nm>
+  이만규
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1301110026814
+ </crp_no> 
+ <bsn_no>
+  1348107135
+ </bsn_no> 
+ <adr>
+  충청북도 진천군 백곡면 배티로 818-105
+ </adr> 
+ <hm_url>
+  www.theananti.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-6742-1500
+ </phn_no> 
+ <fax_no>
+  02-6742-1699
+ </fax_no> 
+ <ind_cd>
+  91121
+ </ind_cd> 
+ <est_dt>
+  19870116
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)테이팩스
+ </crp_nm> 
+ <crp_nm_e>
+  TAPEX INC
+ </crp_nm_e> 
+ <crp_nm_i>
+  테이팩스
+ </crp_nm_i> 
+ <stock_cd>
+  055490
+ </stock_cd> 
+ <ceo_nm>
+  심병섭
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1201110095499
+ </crp_no> 
+ <bsn_no>
+  1398115931
+ </bsn_no> 
+ <adr>
+  경기도 화성시 양감면 초록로532번길 62-16
+ </adr> 
+ <hm_url>
+  tapex.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-8047-4100
+ </phn_no> 
+ <fax_no>
+  031-8047-4292
+ </fax_no> 
+ <ind_cd>
+  2229
+ </ind_cd> 
+ <est_dt>
+  19940801
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

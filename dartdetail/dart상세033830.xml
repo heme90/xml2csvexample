@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)티비씨
+ </crp_nm> 
+ <crp_nm_e>
+  TAEGU BROADCASTING CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  티비씨
+ </crp_nm_i> 
+ <stock_cd>
+  033830
+ </stock_cd> 
+ <ceo_nm>
+  최진민, 김정길
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1701110080458
+ </crp_no> 
+ <bsn_no>
+  5028127241
+ </bsn_no> 
+ <adr>
+  대구광역시 수성구 동대구로 23
+ </adr> 
+ <hm_url>
+  www.tbc.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  537601900
+ </phn_no> 
+ <fax_no>
+  053-760-1888
+ </fax_no> 
+ <ind_cd>
+  60210
+ </ind_cd> 
+ <est_dt>
+  19941007
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

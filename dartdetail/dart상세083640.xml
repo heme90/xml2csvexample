@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)인콘
+ </crp_nm> 
+ <crp_nm_e>
+  INCON Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  인콘
+ </crp_nm_i> 
+ <stock_cd>
+  083640
+ </stock_cd> 
+ <ceo_nm>
+  김동원
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112039934
+ </crp_no> 
+ <bsn_no>
+  1138163616
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 엘에스로91번길 16-17 (호계동)
+ </adr> 
+ <hm_url>
+  www.in-con.biz
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-455-8600
+ </phn_no> 
+ <fax_no>
+  031-455-8601
+ </fax_no> 
+ <ind_cd>
+  264
+ </ind_cd> 
+ <est_dt>
+  20000801
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

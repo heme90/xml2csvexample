@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)원익아이피에스
+ </crp_nm> 
+ <crp_nm_e>
+  WONIK IPS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  원익IPS
+ </crp_nm_i> 
+ <stock_cd>
+  240810
+ </stock_cd> 
+ <ceo_nm>
+  이현덕, 이재경 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1313110163174
+ </crp_no> 
+ <bsn_no>
+  6958100374
+ </bsn_no> 
+ <adr>
+  경기도 평택시 진위면 진위산단로 75
+ </adr> 
+ <hm_url>
+  .www.ips.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-8047-7222
+ </phn_no> 
+ <fax_no>
+  031-8047-7084
+ </fax_no> 
+ <ind_cd>
+  292
+ </ind_cd> 
+ <est_dt>
+  20160404
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

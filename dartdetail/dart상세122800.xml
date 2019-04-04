@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)썬테크놀로지스
+ </crp_nm> 
+ <crp_nm_e>
+  Sun Technologies Co., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  썬텍
+ </crp_nm_i> 
+ <stock_cd>
+  122800
+ </stock_cd> 
+ <ceo_nm>
+  주승환
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1348110067844
+ </crp_no> 
+ <bsn_no>
+  1248194346
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 국제금융로2길 25 eusu홀딩스빌딩 12층
+ </adr> 
+ <hm_url>
+  www.suntechinc.net
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2055-4051
+ </phn_no> 
+ <fax_no>
+  031-354-0028
+ </fax_no> 
+ <ind_cd>
+  24311
+ </ind_cd> 
+ <est_dt>
+  20020206
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

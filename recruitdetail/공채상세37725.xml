@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37725
+ </empSeqno>
+ <empWantedTitle>
+  2019 신입공개채용
+ </empWantedTitle>
+ <empBusiNm>
+  데상트코리아
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190328
+ </empWantedStdt>
+ <empWantedEndt>
+  20190410
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.descente.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://descentekorea.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=8064
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvLzCqr%2FtRwRQKwzzy3d5Rp2XMqWCmviCgO%2FbqqijAwHZ
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차 면접
+   </selsNm>
+   <selsSchdCont>
+    05.08~05.10
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차 면접
+   </selsNm>
+   <selsSchdCont>
+    05.27~05.29
+   </selsSchdCont>
+   <selsCont>
+    2차면접 유형은 모집분야마다 차이가 있으니 자세한 사항은 공고문 확인 바랍니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    정규직 입사
+   </selsNm>
+   <selsSchdCont>
+    07.01
+   </selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [디자인] 용품 外
+   </empRecrNm>
+   <jobCont>
+    - [디자인] 용품 / [온라인] 웹기획 / [온라인] 웹디자인 / [영업] 영업 / [영업] 영업MD / [마케팅] 광고홍보 / [마케팅] 스포츠 마케팅 / VMD / 인테리어 / 경영전략
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    대졸(4)
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 모집분야별 상세내용은 공고문 참고 바랍니다.
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    01
+   </jobsCd>
+   <jobsCdKorNm>
+    경영·사무·금융·보험
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    05
+   </jobsCd>
+   <jobsCdKorNm>
+    예술·디자인·방송·스포츠
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    07
+   </jobsCd>
+   <jobsCdKorNm>
+    영업·판매·운전·운송
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [지원자격] - 국내/외 4년제 대학(원) 졸업예정자(~2019/08) 및 기졸업자 - 병역필 또는 면제자로 해외여행에 결격사유가 없는 자 * 당사는 건강증진을 위한 금연정책 시행 중으로, 흡연자는 입사가 제한될 수 있습니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 입사지원서(필수): 채용홈페이지 - 동영상 제출(디자인, 마케팅 지원자 중 선택사항) *주제: "본인이 지원직무에 적합하다고 생각하는 이유" *동영상 형식(인당 1개, 최대 60초, 50mb 이하, 확장자 mp4, avi 등) *후작업(배경음악, 자막, 편집 등) 하지 않은 원본으로 본인 식별 가능한 얼굴과 목소리 포함
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용사이트 온라인 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지(채용문의) 이용 및 상반기 채용설명회 영상(https://www.youtube.com/JG0zSmowMVA) 참고
+ </inqryCont>
+ <empnEtcCont>
+  - 국가보훈대상자 등 취업보호대상자는 관계법령에 의거 우대합니다. - 지원서에 허위기재사실이 있을 시, 합격 및 입사가 취소될 수 있습니다. - 입사일로부터 3개월간 시용기간이 적용됩니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

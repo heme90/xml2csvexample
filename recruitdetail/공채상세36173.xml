@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36173
+ </empSeqno>
+ <empWantedTitle>
+  [TECH] 보안 정책 담당자
+ </empWantedTitle>
+ <empBusiNm>
+  크래프톤
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190212
+ </empWantedStdt>
+ <empWantedEndt>
+  20190412
+ </empWantedEndt>
+ <empWantedHomepg>
+  https://www.krafton.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://krafton.jobagent.co.kr:4431/jobinfo/jobinfo_view.asp?ID=1741
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=tqyczLUvysXSEcOVhPgDCmxZIgjVPaF7ZzuSXZtUGHLykeLuqDmTeRkwibATKd1ggq%2FTaPBEZO7snM72eFWmHLUc%2FjrVV6i%2Byj35yQdr2iY%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류 심사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무팀인터뷰
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종인터뷰
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    보안 정책 담당자
+   </empRecrNm>
+   <jobCont>
+    - 개인정보∙정보보호∙보안정책 기획 운영 - 개인정보∙정보보호 국내∙외 법적 요구사항 대응 - 개인정보 Life Cycle 관리
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 정보보안기사, CISA, CISSP, CPPG 등 관련 자격 보유자 - GDPR 대응 경험 보유자 - ISMS, PIMS, ISO27001 등 심사원 자격 보유자 (심사일 수 30일 이상 시 가산 부여) - 영어를 읽고 쓰고 말하기에 자유로우신 분 - 우대 사항 해당자는 관련 증빙서류 첨부
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    135000
+   </jobsCd>
+   <jobsCdKorNm>
+    정보보안 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  - 국가 유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다.
+ </recrCommCont>
+ <empSubmitDocCont>
+  - 입사지원서(온라인작성)
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ※ ~ 상시채용 - 채용홈페이지를 통한 온라인 접수
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 '채용FAQ' 등 참조
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

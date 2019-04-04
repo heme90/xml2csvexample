@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)캠시스
+ </crp_nm> 
+ <crp_nm_e>
+  CammSys Corp.
+ </crp_nm_e> 
+ <crp_nm_i>
+  캠시스
+ </crp_nm_i> 
+ <stock_cd>
+  050110
+ </stock_cd> 
+ <ceo_nm>
+  박영태 (단일대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110081951
+ </crp_no> 
+ <bsn_no>
+  1398103094
+ </bsn_no> 
+ <adr>
+  인천광역시 연수구 벤처로100번길 26
+ </adr> 
+ <hm_url>
+  www.cammsys.net
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-4680-2500
+ </phn_no> 
+ <fax_no>
+  032-811-9042
+ </fax_no> 
+ <ind_cd>
+  2629
+ </ind_cd> 
+ <est_dt>
+  19930130
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

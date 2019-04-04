@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)한농화성
+ </crp_nm> 
+ <crp_nm_e>
+  HANNONG CHEMICALS INC
+ </crp_nm_e> 
+ <crp_nm_i>
+  한농화성
+ </crp_nm_i> 
+ <stock_cd>
+  011500
+ </stock_cd> 
+ <ceo_nm>
+  김응상, 경상호 (각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  2111110001090
+ </crp_no> 
+ <bsn_no>
+  4018101273
+ </bsn_no> 
+ <adr>
+  전라북도 군산시 외항1길 24 (소룡동,0)
+ </adr> 
+ <hm_url>
+  hannong.koreasme.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  063-462-2455
+ </phn_no> 
+ <fax_no>
+  063-461-5569
+ </fax_no> 
+ <ind_cd>
+  20421
+ </ind_cd> 
+ <est_dt>
+  19760710
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

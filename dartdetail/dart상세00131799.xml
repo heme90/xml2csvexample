@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  SK건설(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SK Engineering &amp; Construction co., ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  SK건설
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  안재현, 임영문 (각자 대표)
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110038805
+ </crp_no> 
+ <bsn_no>
+  1018134928
+ </bsn_no> 
+ <adr>
+  서울특별시 종로구 인사동7길 32 (관훈동)
+ </adr> 
+ <hm_url>
+  www.skec.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3499-1140
+ </phn_no> 
+ <fax_no>
+  02-3700-8190
+ </fax_no> 
+ <ind_cd>
+  41229
+ </ind_cd> 
+ <est_dt>
+  19620221
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

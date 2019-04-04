@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)비츠로시스
+ </crp_nm> 
+ <crp_nm_e>
+  VitzroSys., Co. LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  비츠로시스
+ </crp_nm_i> 
+ <stock_cd>
+  054220
+ </stock_cd> 
+ <ceo_nm>
+  변석재
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110657275
+ </crp_no> 
+ <bsn_no>
+  2188101953
+ </bsn_no> 
+ <adr>
+  서울특별시 성동구 성덕정길 151 (주)비츠로시스
+ </adr> 
+ <hm_url>
+  www.vitzrosys.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (02)460-2000
+ </phn_no> 
+ <fax_no>
+  02-461-8030
+ </fax_no> 
+ <ind_cd>
+  28123
+ </ind_cd> 
+ <est_dt>
+  19891104
+ </est_dt> 
+ <acc_mt>
+  03
+ </acc_mt> 
+</result>

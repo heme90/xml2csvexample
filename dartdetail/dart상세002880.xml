@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)대유에이텍
+ </crp_nm> 
+ <crp_nm_e>
+  DAYOU AUTOMOTIVE SEAT TECHNOLOGY CO., LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  대유에이텍
+ </crp_nm_i> 
+ <stock_cd>
+  002880
+ </stock_cd> 
+ <ceo_nm>
+  권의경,라현근 ( 각자 대표이사 )
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1115110000136
+ </crp_no> 
+ <bsn_no>
+  1278100094
+ </bsn_no> 
+ <adr>
+  광주광역시 광산구 소촌로123번길 40-12
+ </adr> 
+ <hm_url>
+  www.dayouat.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  062-940-8672
+ </phn_no> 
+ <fax_no>
+  062-943-8631
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19600116
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

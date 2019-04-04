@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)세미콘라이트
+ </crp_nm> 
+ <crp_nm_e>
+  Semicon Light Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  세미콘라이트
+ </crp_nm_i> 
+ <stock_cd>
+  214310
+ </stock_cd> 
+ <ceo_nm>
+  박은현
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1311110191004
+ </crp_no> 
+ <bsn_no>
+  1298611651
+ </bsn_no> 
+ <adr>
+  경기도 용인시 기흥구 원고매로2번길 49(고매동)
+ </adr> 
+ <hm_url>
+  www.semiconlight.com
+ </hm_url> 
+ <ir_url>
+  www.semiconlight.com
+ </ir_url> 
+ <phn_no>
+  031-282-6425
+ </phn_no> 
+ <fax_no>
+  031-282-6426
+ </fax_no> 
+ <ind_cd>
+  2612
+ </ind_cd> 
+ <est_dt>
+  20070704
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

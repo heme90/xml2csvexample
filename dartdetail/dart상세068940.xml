@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)아이씨케이
+ </crp_nm> 
+ <crp_nm_e>
+  ICK Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  아이씨케이
+ </crp_nm_i> 
+ <stock_cd>
+  068940
+ </stock_cd> 
+ <ceo_nm>
+  김남주
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1701110141812
+ </crp_no> 
+ <bsn_no>
+  5018123451
+ </bsn_no> 
+ <adr>
+  대구광역시 달서구 호산동로7길 17
+ </adr> 
+ <hm_url>
+  www.cardnsoft.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-592-3433
+ </phn_no> 
+ <fax_no>
+  053-592-3438
+ </fax_no> 
+ <ind_cd>
+  26293
+ </ind_cd> 
+ <est_dt>
+  19981110
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

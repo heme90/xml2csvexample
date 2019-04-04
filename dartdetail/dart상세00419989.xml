@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)클루넷
+ </crp_nm> 
+ <crp_nm_e>
+  CLUNET CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  클루넷
+ </crp_nm_i> 
+ <stock_cd>
+  067130
+ </stock_cd> 
+ <ceo_nm>
+  박 은 탁
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101112523010
+ </crp_no> 
+ <bsn_no>
+  2148711897
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로26길 5 (구로동, 에이스하이엔드타워1차) 1201호
+ </adr> 
+ <hm_url>
+  www.clunet.co.kr
+ </hm_url> 
+ <ir_url>
+  www.clunet.co.kr
+ </ir_url> 
+ <phn_no>
+  070-8889-0767
+ </phn_no> 
+ <fax_no>
+  02-6020-9722
+ </fax_no> 
+ <ind_cd>
+  62090
+ </ind_cd> 
+ <est_dt>
+  20020514
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

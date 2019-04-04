@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 얍컴퍼니
+ </crp_nm> 
+ <crp_nm_e>
+  YAP Company
+ </crp_nm_e> 
+ <crp_nm_i>
+  얍컴퍼니
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  안경훈
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101115168839
+ </crp_no> 
+ <bsn_no>
+  1148710109
+ </bsn_no> 
+ <adr>
+  서울특별시 종로구 율곡로 6 (중학동, 트윈트리빌딩)A동 16,17층
+ </adr> 
+ <hm_url>
+  www.yap.net
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-5099-2706
+ </phn_no> 
+ <fax_no>
+  02-525-2658
+ </fax_no> 
+ <ind_cd>
+  639
+ </ind_cd> 
+ <est_dt>
+  20130627
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

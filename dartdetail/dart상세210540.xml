@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  디와이파워(주)
+ </crp_nm> 
+ <crp_nm_e>
+  DY POWER Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  디와이파워
+ </crp_nm_i> 
+ <stock_cd>
+  210540
+ </stock_cd> 
+ <ceo_nm>
+  김지현
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1942110234534
+ </crp_no> 
+ <bsn_no>
+  6098622391
+ </bsn_no> 
+ <adr>
+  경상남도 창원시 성산구 웅남로 812 (성주동)
+ </adr> 
+ <hm_url>
+  power.dy.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  055-278-0800
+ </phn_no> 
+ <fax_no>
+  055-282-6667
+ </fax_no> 
+ <ind_cd>
+  29241
+ </ind_cd> 
+ <est_dt>
+  20141203
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

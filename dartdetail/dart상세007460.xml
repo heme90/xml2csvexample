@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에이프로젠케이아이씨
+ </crp_nm> 
+ <crp_nm_e>
+  Aprogen KIC Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이프로젠 KIC
+ </crp_nm_i> 
+ <stock_cd>
+  007460
+ </stock_cd> 
+ <ceo_nm>
+  김재섭
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110122731
+ </crp_no> 
+ <bsn_no>
+  2198100146
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 둔촌대로 545 경기도 성남시 중원구 둔촌대로545, 비2층 (상대원동, 한라시그마밸리)
+ </adr> 
+ <hm_url>
+  www.aprogen-kic.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-782-3433
+ </phn_no> 
+ <fax_no>
+  02-424-1381
+ </fax_no> 
+ <ind_cd>
+  259
+ </ind_cd> 
+ <est_dt>
+  19711115
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

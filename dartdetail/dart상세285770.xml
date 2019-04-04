@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 라이프사이언스테크놀로지
+ </crp_nm> 
+ <crp_nm_e>
+  Life Science Technology Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  라이프사이언스테크놀로지
+ </crp_nm_i> 
+ <stock_cd>
+  285770
+ </stock_cd> 
+ <ceo_nm>
+  김정환
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1211110160093
+ </crp_no> 
+ <bsn_no>
+  2148812379
+ </bsn_no> 
+ <adr>
+  서울특별시 강서구 양천로 401 B-1207(가양동, 강서한강자이타워)
+ </adr> 
+ <hm_url>
+  www.lstgrp.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-8620-8020
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  58221
+ </ind_cd> 
+ <est_dt>
+  20070703
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

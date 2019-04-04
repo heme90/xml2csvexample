@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36679
+ </empSeqno>
+ <empWantedTitle>
+  개발 직군 모집
+ </empWantedTitle>
+ <empBusiNm>
+  넷마블
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190225
+ </empWantedStdt>
+ <empWantedEndt>
+  20190425
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.netmarble.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://company.netmarble.com/rem/www/notice.jsp?anno_id=1523394&amp;annotype=all
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRinwzgLAM2A8RrQ5kkeEpm6s5MYTvTTufOJd6fdIXzJ6V7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류합격자 분들을 대상으로 개별 면접을 진행합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    합격발표
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    iOS/Android 개발
+   </empRecrNm>
+   <jobCont>
+    [퍼블리싱플랫폼 iOS SDK 개발] - 게임퍼블리싱을 위한 인증, 인앱결제 및 마케팅 기능을 제공하는 iOS SDK 개발 - 게임과 back-end 서비스를 이해하고 연동되는 아키텍처 설계 - SDK를 이용하는 개발자의 편의성을 고려한 API 설계 - 개발효율화를 위한 자체도구 제작
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - Swift 개발 경험 - iOS framework 개발 경험 - Unity3D, Unreal 엔진 환경에서 iOS framework 연동 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    Front-end 개발
+   </empRecrNm>
+   <jobCont>
+    [퍼플리싱플랫폼 Front-end UI 개발] - 넷마블게임 이용자 대상 웹기반 서비스의 front-end 개발 - 전세계 다양한 모바일기기 대상 최적화 작업 - 다양한 언어/문화권 localization 작업 및 framework화 [퍼플리싱플랫폼 운영도구 제작] - 내부고객이 게임 운영에 사용하는 도구 front-end UI 개발 - 조작 편의성과 운영효과 파악을 위한 대시보드 아이디어 제안/개발 및 개선
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - Hybrid WebApp 경험 - Server-side 개발 경험 - UX에 대한 관심 및 개선 경험
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    빌링개발
+   </empRecrNm>
+   <jobCont>
+    빌링시스템 개발/운영 - 결제수단 유지 보수, 신규 연동 - 결제, 구매, 통계, 관리자 등 빌링 프로세스 개발 - 개인정보 취급 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - C, C++ 개발 가능자 - c/s 프로그램 경험자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    Back-end 개발
+   </empRecrNm>
+   <jobCont>
+    [퍼블리싱플랫폼 서버 개발] - 게임의 인증과 인앱결제 서비스의 back-end 서비스 개발 - 서비스의 reliability를 높이기 위한 자체 도구/프로세스 제작 및 적용/개선 - MSA 기반의 서비스 설계 및 개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 생산성에 대한 관심 및 생산성을 높이기 위한 툴 개발/도입에 적극적인 분 - API 설계 및 가이드 경험 위한 툴 개발/도입에 적극적인분 - API 설계 및 가이드 유경험자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    023
+   </jobsCd>
+   <jobsCdKorNm>
+    컴퓨터시스템
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    024
+   </jobsCd>
+   <jobsCdKorNm>
+    소프트웨어
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용페이지 온라인 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 &gt; 인재채용 &gt; 채용문의
+ </inqryCont>
+ <empnEtcCont>
+  * 허위기재 사실이 발견될 시에는 불합격 또는 입사가 취소될 수 있습니다. * 추후 입사 시 당사의 기술과 업무 매뉴얼을 바탕으로 업무를 하게 되므로, 당사는 타 회사의 영업비밀을 필요로 하지 않습니다. * 필요한 경우, 합법적인 방법과 절차를 통해 취득하여 사용합니다. * 입사지원자께서는 전 직장의 영업비밀을 침해하는 일이 없도록 각별히 유의하여 주시기 바라며, 침해 및 관련 분쟁 발생시 본인의 책임으로 당사를 면책하여야 함을 주지하여 주시기 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

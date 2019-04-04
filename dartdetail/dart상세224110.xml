@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에이텍티앤
+ </crp_nm> 
+ <crp_nm_e>
+  ATEC T&amp; CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에이텍티앤
+ </crp_nm_i> 
+ <stock_cd>
+  224110
+ </stock_cd> 
+ <ceo_nm>
+  신승영
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1311110416816
+ </crp_no> 
+ <bsn_no>
+  6988800163
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로 289 (삼평동, 에이텍빌딩)
+ </adr> 
+ <hm_url>
+  www.atectn.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-698-8743
+ </phn_no> 
+ <fax_no>
+  031-698-8799
+ </fax_no> 
+ <ind_cd>
+  26429
+ </ind_cd> 
+ <est_dt>
+  20150720
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

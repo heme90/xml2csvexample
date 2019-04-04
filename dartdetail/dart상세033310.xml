@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)디케이디앤아이
+ </crp_nm> 
+ <crp_nm_e>
+  DK D&amp;I Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  디케이디앤아이
+ </crp_nm_i> 
+ <stock_cd>
+  033310
+ </stock_cd> 
+ <ceo_nm>
+  서홍민
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1345110000600
+ </crp_no> 
+ <bsn_no>
+  1358105130
+ </bsn_no> 
+ <adr>
+  서울특별시 영등포구 여의대로 14 KT빌딩 16층
+ </adr> 
+ <hm_url>
+  www.dkdni.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2636-2431
+ </phn_no> 
+ <fax_no>
+  02-2671-6075
+ </fax_no> 
+ <ind_cd>
+  25991
+ </ind_cd> 
+ <est_dt>
+  19651210
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

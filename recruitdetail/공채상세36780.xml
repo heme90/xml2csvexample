@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36780
+ </empSeqno>
+ <empWantedTitle>
+  SOC설계 경력직 모집
+ </empWantedTitle>
+ <empBusiNm>
+  텔레칩스
+ </empBusiNm>
+ <coClcdNm></coClcdNm>
+ <empWantedStdt>
+  20190226
+ </empWantedStdt>
+ <empWantedEndt>
+  20190426
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.telechips.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://careers.telechips.com/kor/jobs/notice_view.php?idx=20&amp;recruit_type=C&amp;recruit_leng=&amp;page=0&amp;list=0
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRio1SYYNCW6QJeJHgljEqVwdfCBkpSrNhOOUURRm1eB6y7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    SOC 설계
+   </empRecrNm>
+   <jobCont>
+    - SOC 그룹은 반도체의 두뇌, 특히 자동차 영역과 소비자 제품 영역에서의 응용에 적합한 두뇌와 같은 응용 칩을 개발하는 곳입니다. 특히, ARM CPU 기반의 버스 구조에 DRAM, 저장 장치 등의 인터페이스, USB, PCIe 등의 고속 인터페이스, HDMI, LVDS, MIPI 등의 영상 입출력 기능 등을 종합하여 하나의 칩으로 만들어 공급하는 역할을 합니다. 최근에는 기능 구현에서 나아가 각 응용 분야별로 요구되는 보안/기능 안전 등의 요구 사항에 맞게 특화된 기술을 적용하여 사용자가 안심하고 사용할 수 있는 칩을 만들고 있습니다. 이러한 칩을 만들기 위하여 필요한 과정인 설계, 검증, 구현, 그리고 칩에서 구동되는 주요 보안 소프트웨어 등에 대한 기술의 발전을 통하여 미래 기술의 핵심 두뇌가 되는 칩을 개발하는 회사로 성장하기 위한 텔레칩스의 핵심 역할을 하는 곳입니다.
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 영어 가능자 및 석사 학위 보유자 우대 - 보훈대상자, 장애인의 경우 관련법에 의거하여 우대합니다.
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    132002
+   </jobsCd>
+   <jobsCdKorNm>
+    컴퓨터시스템 설계 및 분석가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    134101
+   </jobsCd>
+   <jobsCdKorNm>
+    데이터 설계 및 프로그래머
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont>
+  ▷ 이력서(자유양식) 1부 ▷ 자기소개서(자유양식) 1부 ▷ 프로젝트 수행내역서 1부 (연구소 지원자만 해당) ▷ 대학교(대학원) 전학년 성적증명서 1부(신입만 해당) ▷ 최종학교 졸업(예정)증명서 1부(신입만 해당) * 제출서류는 위 서류를 취합하여 1개 PDF 파일로 제출해 주십시오.
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  ~ 채용시 까지 - 채용홈페이지 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 '채용FAQ' 참조
+ </inqryCont>
+ <empnEtcCont></empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

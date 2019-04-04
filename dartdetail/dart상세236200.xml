@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)슈프리마
+ </crp_nm> 
+ <crp_nm_e>
+  Suprema Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  슈프리마
+ </crp_nm_i> 
+ <stock_cd>
+  236200
+ </stock_cd> 
+ <ceo_nm>
+  송봉섭,문영수 각자대표
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1311110433589
+ </crp_no> 
+ <bsn_no>
+  4318700369
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 정자일로 248, 16층
+ </adr> 
+ <hm_url>
+  www.suprema.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-783-4505
+ </phn_no> 
+ <fax_no>
+  031-783-4518
+ </fax_no> 
+ <ind_cd>
+  26410
+ </ind_cd> 
+ <est_dt>
+  20151231
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

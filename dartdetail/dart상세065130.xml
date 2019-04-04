@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)탑엔지니어링
+ </crp_nm> 
+ <crp_nm_e>
+  Top Engineering Company Limited
+ </crp_nm_e> 
+ <crp_nm_i>
+  탑엔지니어링
+ </crp_nm_i> 
+ <stock_cd>
+  065130
+ </stock_cd> 
+ <ceo_nm>
+  김원남,류도현(공동)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1760110007937
+ </crp_no> 
+ <bsn_no>
+  5138107376
+ </bsn_no> 
+ <adr>
+  경상북도 구미시 고아읍 농공단지길 53-17
+ </adr> 
+ <hm_url>
+  www.topengnet.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-8039-1000
+ </phn_no> 
+ <fax_no>
+  054-482-0346
+ </fax_no> 
+ <ind_cd>
+  29272
+ </ind_cd> 
+ <est_dt>
+  19931113
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

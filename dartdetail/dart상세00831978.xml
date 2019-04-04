@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)세명테크
+ </crp_nm> 
+ <crp_nm_e>
+  semyoung tech.co.,ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  세명테크
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  최승용
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1201110225064
+ </crp_no> 
+ <bsn_no>
+  1318156656
+ </bsn_no> 
+ <adr>
+  충청남도 아산시 둔포면 장영실로 922-5 (신남리)
+ </adr> 
+ <hm_url>
+  www.semyoungtech.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-501-3624
+ </phn_no> 
+ <fax_no>
+  02-501-3719
+ </fax_no> 
+ <ind_cd>
+  20311
+ </ind_cd> 
+ <est_dt>
+  20000622
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

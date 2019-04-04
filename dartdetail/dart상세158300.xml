@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에스에이티
+ </crp_nm> 
+ <crp_nm_e>
+  Solution Advanced Technology Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에스에이티이엔지
+ </crp_nm_i> 
+ <stock_cd>
+  158300
+ </stock_cd> 
+ <ceo_nm>
+  소진석
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1355110151048
+ </crp_no> 
+ <bsn_no>
+  1408102004
+ </bsn_no> 
+ <adr>
+  경기도 시흥시 군자천로21번길 66 (정왕동)
+ </adr> 
+ <hm_url>
+  www.sateng.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-433-4711
+ </phn_no> 
+ <fax_no>
+  031-433-1441
+ </fax_no> 
+ <ind_cd>
+  29271
+ </ind_cd> 
+ <est_dt>
+  20040701
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

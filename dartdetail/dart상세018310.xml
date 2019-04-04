@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  삼목에스폼(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SAMMOK S-FORM CO.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼목에스폼
+ </crp_nm_i> 
+ <stock_cd>
+  018310
+ </stock_cd> 
+ <ceo_nm>
+  엄석호
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110400377
+ </crp_no> 
+ <bsn_no>
+  1338123898
+ </bsn_no> 
+ <adr>
+  경기도 안성시 미양면 안성맞춤대로 474-40
+ </adr> 
+ <hm_url>
+  www.sammok.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02 -561 -0941
+ </phn_no> 
+ <fax_no>
+  02 -561 -5194
+ </fax_no> 
+ <ind_cd>
+  2511
+ </ind_cd> 
+ <est_dt>
+  19850607
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

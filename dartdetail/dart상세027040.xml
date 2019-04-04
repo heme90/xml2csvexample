@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  서울전자통신(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SEOUL ELECTRONICS &amp; TELECOM
+ </crp_nm_e> 
+ <crp_nm_i>
+  서울전자통신
+ </crp_nm_i> 
+ <stock_cd>
+  027040
+ </stock_cd> 
+ <ceo_nm>
+  손종만
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1243110009781
+ </crp_no> 
+ <bsn_no>
+  1308110787
+ </bsn_no> 
+ <adr>
+  인천광역시 부평구 새벌로 4사무동 4층
+ </adr> 
+ <hm_url>
+  www.seoulset.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032-723-4111
+ </phn_no> 
+ <fax_no>
+  032-723-4112
+ </fax_no> 
+ <ind_cd>
+  339
+ </ind_cd> 
+ <est_dt>
+  19830617
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

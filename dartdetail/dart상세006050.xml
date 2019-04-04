@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)국영지앤엠
+ </crp_nm> 
+ <crp_nm_e>
+  KUK YOUNG G M
+ </crp_nm_e> 
+ <crp_nm_i>
+  국영지앤엠
+ </crp_nm_i> 
+ <stock_cd>
+  006050
+ </stock_cd> 
+ <ceo_nm>
+  최재원
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110103707
+ </crp_no> 
+ <bsn_no>
+  2078141843
+ </bsn_no> 
+ <adr>
+  서울시 서초구 서초중앙로 36 (서초동, 준영빌딩 7층)
+ </adr> 
+ <hm_url>
+  www.kukyong.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2015-0370
+ </phn_no> 
+ <fax_no>
+  02 -2015-0399
+ </fax_no> 
+ <ind_cd>
+  231
+ </ind_cd> 
+ <est_dt>
+  19690507
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

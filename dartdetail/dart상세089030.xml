@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)테크윙
+ </crp_nm> 
+ <crp_nm_e>
+  Techwing, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  테크윙
+ </crp_nm_i> 
+ <stock_cd>
+  089030
+ </stock_cd> 
+ <ceo_nm>
+  나윤성
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1348110072942
+ </crp_no> 
+ <bsn_no>
+  1248198532
+ </bsn_no> 
+ <adr>
+  경기도 화성시 동탄면 동탄산단6길 37
+ </adr> 
+ <hm_url>
+  techwing.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-378-5640
+ </phn_no> 
+ <fax_no>
+  031-378-5648
+ </fax_no> 
+ <ind_cd>
+  29271
+ </ind_cd> 
+ <est_dt>
+  20020801
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

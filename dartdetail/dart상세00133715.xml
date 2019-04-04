@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  대주코레스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  KORES CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  대주코레스
+ </crp_nm_i> 
+ <stock_cd>
+  008340
+ </stock_cd> 
+ <ceo_nm>
+  박주정
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110138168
+ </crp_no> 
+ <bsn_no>
+  1348100961
+ </bsn_no> 
+ <adr>
+  전라북도 완주군 봉동읍 완주산단6로 266
+ </adr> 
+ <hm_url>
+  www.kores21.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  063-263-3505
+ </phn_no> 
+ <fax_no>
+  063-263-3508
+ </fax_no> 
+ <ind_cd>
+  24222
+ </ind_cd> 
+ <est_dt>
+  19721229
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

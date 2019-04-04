@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)지에스리테일
+ </crp_nm> 
+ <crp_nm_e>
+  GS Retail Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  GS리테일
+ </crp_nm_i> 
+ <stock_cd>
+  007070
+ </stock_cd> 
+ <ceo_nm>
+  허연수
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110090037
+ </crp_no> 
+ <bsn_no>
+  1168118745
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 논현로 508GS타워(역삼동 679)
+ </adr> 
+ <hm_url>
+  www.gsretail.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2005-1114
+ </phn_no> 
+ <fax_no>
+  2006-3489
+ </fax_no> 
+ <ind_cd>
+  47122
+ </ind_cd> 
+ <est_dt>
+  19710213
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

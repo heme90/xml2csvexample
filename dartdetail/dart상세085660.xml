@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)차바이오텍
+ </crp_nm> 
+ <crp_nm_e>
+  Chabiotech Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  차바이오텍
+ </crp_nm_i> 
+ <stock_cd>
+  085660
+ </stock_cd> 
+ <ceo_nm>
+  오상훈 (단독대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1345110065662
+ </crp_no> 
+ <bsn_no>
+  1358158340
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 도산대로 442 청담동 피엔폴루스 3층
+ </adr> 
+ <hm_url>
+  www.chabio.com
+ </hm_url> 
+ <ir_url>
+  http://www.chabio.com/iv_info.asp
+ </ir_url> 
+ <phn_no>
+  031-881-7400
+ </phn_no> 
+ <fax_no>
+  031-8817499
+ </fax_no> 
+ <ind_cd>
+  21102
+ </ind_cd> 
+ <est_dt>
+  20021106
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

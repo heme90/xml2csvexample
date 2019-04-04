@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  36993
+ </empSeqno>
+ <empWantedTitle>
+  회계결산 담당자
+ </empWantedTitle>
+ <empBusiNm>
+  네이버아이앤에스
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190215
+ </empWantedStdt>
+ <empWantedEndt>
+  20190415
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.naverins.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://recruit.naverins.com/ins/recruitIng
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRiqzAk7ZDTd3CE%2Fmur0S0jkM07sk9Wm0gBqtb%2BRBqN0uH7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종발표
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    ※기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    채용전형 일정은 공지사항 또는 합격자 대상 e-mail을 통해 공지합니다. 합격여부는 공채의 경우 결과확인란, 수시채용의 경우 개별 e-mail을 통해 안내드립니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    회계결산 담당자
+   </empRecrNm>
+   <jobCont>
+    - 네이버 및 계열법인 별도 회계결산 및 감사대응 - 감사보고서 주석 및 공시자료(dsd화일) 작성
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기 성남시 분당구
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    018
+   </jobsCd>
+   <jobsCdKorNm>
+    회계·경리 사무
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [고용형태] - 정규직 (수습 3개월) [직군] - 경영지원(Staff)
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용공고페이지 내 '신규지원' 클릭 ※ ~ 채용시까지
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 입사지원 관련 궁금하신 점은 채용문의란을 이용하여 주시기 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  - 수시모집이므로 조기에 마감될 수 있습니다. [지원서 작성 요령] - 입사지원서는 최종 제출 전까지 자유롭게 등록 및 수정하실 수 있습니다. - 비밀번호를 잊어버린 경우, 채용문의란을 통해 연락 주시면 e-mail로 안내 드립니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

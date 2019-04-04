@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  제이더블유생명과학(주)
+ </crp_nm> 
+ <crp_nm_e>
+  JW LIFESCIENCE CORPORATION
+ </crp_nm_e> 
+ <crp_nm_i>
+  JW생명과학
+ </crp_nm_i> 
+ <stock_cd>
+  234080
+ </stock_cd> 
+ <ceo_nm>
+  차성남
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1350110057395
+ </crp_no> 
+ <bsn_no>
+  1338125692
+ </bsn_no> 
+ <adr>
+  충청남도 당진시 송악읍 한진1길 28
+ </adr> 
+ <hm_url>
+  www.jw-lifescience.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-351-7600
+ </phn_no> 
+ <fax_no>
+  041-351-7655
+ </fax_no> 
+ <ind_cd>
+  21210
+ </ind_cd> 
+ <est_dt>
+  19940510
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

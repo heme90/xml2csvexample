@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)유니테스트
+ </crp_nm> 
+ <crp_nm_e>
+  UniTestInc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  유니테스트
+ </crp_nm_i> 
+ <stock_cd>
+  086390
+ </stock_cd> 
+ <ceo_nm>
+  김종현
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1311110047356
+ </crp_no> 
+ <bsn_no>
+  1298133266
+ </bsn_no> 
+ <adr>
+  경기도 용인시 기흥구 기곡로 27 (주)유니테스트
+ </adr> 
+ <hm_url>
+  www.uni-test.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-205-6111
+ </phn_no> 
+ <fax_no>
+  031-203-5886
+ </fax_no> 
+ <ind_cd>
+  29271
+ </ind_cd> 
+ <est_dt>
+  20000321
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37020
+ </empSeqno>
+ <empWantedTitle>
+  AI/빅데이터직군 모집
+ </empWantedTitle>
+ <empBusiNm>
+  넷마블
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190306
+ </empWantedStdt>
+ <empWantedEndt>
+  20190506
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.netmarble.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://company.netmarble.com/rem/www/notice.jsp?anno_id=1053987&amp;annotype=all
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRinwzgLAM2A8RrQ5kkeEpm6s5MYTvTTufOJd6fdIXzJ6V7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    서류합격자 분들을 대상으로 개별 면접을 진행합니다.
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    실무면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인성검사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    임원면접
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    합격발표
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    본 절차는 경력기준입니다. 자세한 사항은 채용 홈페이지 참조
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    빅데이터(엔지니어)
+   </empRecrNm>
+   <jobCont>
+    - 정형, 반정형, 비정형 데이터 ETL - ETL 프로세스 장애 모니터링 및 대응
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - Public Cloud 기반 개발, 서비스, 운영 경험이 있으신 분 - Machine Learning, Deep Learning 분야에 대한 자기계발 의지가 있으신 분
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    빅데이터(BA:Business Analytics)
+   </empRecrNm>
+   <jobCont>
+    - 비즈니스 데이터의 지속적인 제공 - Adhoc성으로 요구되는 Data 제공 - 유관부서에 협력하여 유의미한 측정지표 개발 - 사업영역에 대한 원인분석 및 비즈니스 방향성에 대한 측정 가능한 개선 도출 - BI기반의 리포팅 자동화 설계를 통한 데이터 가시화 및 사업영역에 효율적으로 인사이트 제공
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 분석툴(Zeppelin/Taleau) 활용능력 - 데이터 기반의 업무 진행 경험 - 협업을 위한 의사 소통능력 보유 - 복잡하고 신속한 비즈니스 환경에서 업무 우선순위를 파악하는 능력
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI(엔지니어)
+   </empRecrNm>
+   <jobCont>
+    - Machine Learning, Deep Learning을 이용한 Data Product 개발 및 운영
+   </jobCont>
+   <empWantedCareerNm></empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - Public Cloud 기반 개발, 서비스, 운영 경험이 있으신 분
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    빅데이터(개발)
+   </empRecrNm>
+   <jobCont>
+    - 빅데이터 분석/처리 인프라 개발 및 운영 - 실시간 데이터 처리 인프라 개발 및 운영
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 대용량 트래픽 처리 가능한 서버 아키텍처 경험 - Machine Learning을 이용한 서비스 구축 경험 - spark/storm/samza/flink 등 실시간 배치 데이터 처리 인프라 구축 경험 - spark/hive/presto 등 빅데이터 기반 분석시스템 구축/운영 경험 - hbase/cassandra/aerospike 등의 NoSQL 시스템 개발 및 운영 경험 - 오픈소스 트러블슈팅 능력
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    빅데이터(분석)
+   </empRecrNm>
+   <jobCont>
+    - 라이브 게임 분석 - 로그, 지표 설계 가이드
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 모델 생성하고, 해당 모델의 한계를 정확히 인식할 수 있는자 - 통계, 기계학습, 데이터 마이닝 분야 지식 보유자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    AI(연구/개발)
+   </empRecrNm>
+   <jobCont>
+    - 다음을 포함하는 업무 분야의 문제를 해결하는 데 활용될 인공지능 기술의 연구/개발 및 고도화 • 게임 재미: 지능형 NPC 개발, AI 게임 플레이어 개발, 게임 밸런스 최적화 • 게임 개발: 캐릭터 3D 모델/애니메이션 자동 생성, 게임 콘텐츠 자동 생성, 빌드 테스트 자동화 등 • 게임 운영: 유저 인텔리전스 생성, 게임데이터 기반 유저액션분석 및 예측모델개발
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc>
+    - 모바일 게임에 대한 이해 보유 - 중국어, 일본어, 영어 능통자 우대 - 관련 분야 박사 학위 소지자 - 게임 서비스에 ML/AI를 적용한 경험하신 분 - Java, Python 등 프로그래밍 능력 우수자
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    134102
+   </jobsCd>
+   <jobsCdKorNm>
+    데이터 분석가(빅데이터 분석가)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    134303
+   </jobsCd>
+   <jobsCdKorNm>
+    IT 기술지원 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용페이지 온라인 입사지원
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 채용홈페이지 &gt; 인재채용 &gt; 채용문의
+ </inqryCont>
+ <empnEtcCont>
+  * 허위기재 사실이 발견될 시에는 불합격 또는 입사가 취소될 수 있습니다. * 추후 입사 시 당사의 기술과 업무 매뉴얼을 바탕으로 업무를 하게 되므로, 당사는 타 회사의 영업비밀을 필요로 하지 않습니다. * 필요한 경우, 합법적인 방법과 절차를 통해 취득하여 사용합니다. * 입사지원자께서는 전 직장의 영업비밀을 침해하는 일이 없도록 각별히 유의하여 주시기 바라며, 침해 및 관련 분쟁 발생시 본인의 책임으로 당사를 면책하여야 함을 주지하여 주시기 바랍니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

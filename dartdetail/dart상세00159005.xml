@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  한국유리공업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HANKUK GLASS INDUSTRIES CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  한국유리공업
+ </crp_nm_i> 
+ <stock_cd>
+  002000
+ </stock_cd> 
+ <ceo_nm>
+  이용성
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110027345
+ </crp_no> 
+ <bsn_no>
+  1168100115
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 211 10층 (역삼동, 한국고등교육재단빌딩)
+ </adr> 
+ <hm_url>
+  www.hanglas.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3706-9078
+ </phn_no> 
+ <fax_no>
+  02-771-5340
+ </fax_no> 
+ <ind_cd>
+  23111
+ </ind_cd> 
+ <est_dt>
+  19570325
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

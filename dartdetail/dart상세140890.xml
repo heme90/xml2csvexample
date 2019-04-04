@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  트러스와이제7호위탁관리부동산투자회사
+ </crp_nm> 
+ <crp_nm_e>
+  TRUS Y 7 REIT CO., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  트러스제7호
+ </crp_nm_i> 
+ <stock_cd>
+  140890
+ </stock_cd> 
+ <ceo_nm>
+  김종수
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101114547357
+ </crp_no> 
+ <bsn_no>
+  1178175507
+ </bsn_no> 
+ <adr>
+  서울특별시 양천구 목동동로 233-3
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-785-8920
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  68112
+ </ind_cd> 
+ <est_dt>
+  20110303
+ </est_dt> 
+ <acc_mt>
+  04
+ </acc_mt> 
+</result>

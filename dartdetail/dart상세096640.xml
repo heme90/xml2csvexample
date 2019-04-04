@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)멜파스
+ </crp_nm> 
+ <crp_nm_e>
+  Melfas Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  멜파스
+ </crp_nm_i> 
+ <stock_cd>
+  096640
+ </stock_cd> 
+ <ceo_nm>
+  민동진
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111870347
+ </crp_no> 
+ <bsn_no>
+  1198135461
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교역로 225-14
+ </adr> 
+ <hm_url>
+  www.melfas.com
+ </hm_url> 
+ <ir_url>
+  http://www.melfas.com/new/html/0501.asp
+ </ir_url> 
+ <phn_no>
+  031-707-2280
+ </phn_no> 
+ <fax_no>
+  031-707-2290
+ </fax_no> 
+ <ind_cd>
+  2629
+ </ind_cd> 
+ <est_dt>
+  20000202
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

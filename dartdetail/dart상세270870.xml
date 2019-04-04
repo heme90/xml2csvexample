@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)뉴트리
+ </crp_nm> 
+ <crp_nm_e>
+  Newtree Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  뉴트리
+ </crp_nm_i> 
+ <stock_cd>
+  270870
+ </stock_cd> 
+ <ceo_nm>
+  김도언
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112214429
+ </crp_no> 
+ <bsn_no>
+  2148680043
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 사기막골로 124 테크동 1109호 (상대원동, SKn테크노파크)
+ </adr> 
+ <hm_url>
+  www.newtree.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-776-3494
+ </phn_no> 
+ <fax_no>
+  031-776-3495
+ </fax_no> 
+ <ind_cd>
+  10797
+ </ind_cd> 
+ <est_dt>
+  20010412
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

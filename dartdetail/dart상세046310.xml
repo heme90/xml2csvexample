@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)백금티앤에이
+ </crp_nm> 
+ <crp_nm_e>
+  BG T&amp;A Co.
+ </crp_nm_e> 
+ <crp_nm_i>
+  백금T&amp;A
+ </crp_nm_i> 
+ <stock_cd>
+  046310
+ </stock_cd> 
+ <ceo_nm>
+  임학규
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111353153
+ </crp_no> 
+ <bsn_no>
+  2298125504
+ </bsn_no> 
+ <adr>
+  경기도 군포시 엘에스로 153-18(산본동) L&amp;C타워 4,5,6층
+ </adr> 
+ <hm_url>
+  www.bgtna.com
+ </hm_url> 
+ <ir_url>
+  www.bgtna.com
+ </ir_url> 
+ <phn_no>
+  031-488-7900
+ </phn_no> 
+ <fax_no>
+  031-488-5959
+ </fax_no> 
+ <ind_cd>
+  2642
+ </ind_cd> 
+ <est_dt>
+  19961217
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

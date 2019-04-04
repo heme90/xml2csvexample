@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  크루셜텍(주)
+ </crp_nm> 
+ <crp_nm_e>
+  Crucialtec Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  크루셜텍
+ </crp_nm_i> 
+ <stock_cd>
+  114120
+ </stock_cd> 
+ <ceo_nm>
+  안건준
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1648110019948
+ </crp_no> 
+ <bsn_no>
+  3128148041
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 판교로 255 62 크루셜텍빌딩
+ </adr> 
+ <hm_url>
+  crucialtec.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-913-0001
+ </phn_no> 
+ <fax_no>
+  041-913-0009
+ </fax_no> 
+ <ind_cd>
+  262
+ </ind_cd> 
+ <est_dt>
+  20010420
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

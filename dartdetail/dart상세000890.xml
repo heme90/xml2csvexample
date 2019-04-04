@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  보해양조(주)
+ </crp_nm> 
+ <crp_nm_e>
+  BOHAE BREWERY CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  보해양조
+ </crp_nm_i> 
+ <stock_cd>
+  000890
+ </stock_cd> 
+ <ceo_nm>
+  임지선(단독 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  2011110000036
+ </crp_no> 
+ <bsn_no>
+  4118100209
+ </bsn_no> 
+ <adr>
+  전라남도 목포시 호남로68번길 36 보해양조(주)
+ </adr> 
+ <hm_url>
+  www.bohae.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  061-243-3141
+ </phn_no> 
+ <fax_no>
+  (061)242-7001
+ </fax_no> 
+ <ind_cd>
+  11122
+ </ind_cd> 
+ <est_dt>
+  19521111
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

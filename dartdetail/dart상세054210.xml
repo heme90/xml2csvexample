@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)이랜텍
+ </crp_nm> 
+ <crp_nm_e>
+  Elentec Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  이랜텍
+ </crp_nm_i> 
+ <stock_cd>
+  054210
+ </stock_cd> 
+ <ceo_nm>
+  이세용
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1345110002375
+ </crp_no> 
+ <bsn_no>
+  1248139417
+ </bsn_no> 
+ <adr>
+  경기도 수원시 영통구 삼성로268번길 37
+ </adr> 
+ <hm_url>
+  www.elentec.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-7098-8071
+ </phn_no> 
+ <fax_no>
+  031)211-9696
+ </fax_no> 
+ <ind_cd>
+  262
+ </ind_cd> 
+ <est_dt>
+  19820121
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

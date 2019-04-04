@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)케이지모빌리언스
+ </crp_nm> 
+ <crp_nm_e>
+  KGMobilians Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  KG모빌리언스
+ </crp_nm_i> 
+ <stock_cd>
+  046440
+ </stock_cd> 
+ <ceo_nm>
+  박철순
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111911050
+ </crp_no> 
+ <bsn_no>
+  2208182546
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 통일로 92 케이지타워 16층
+ </adr> 
+ <hm_url>
+  www.mobilians.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  (02)2192-2000
+ </phn_no> 
+ <fax_no>
+  02-508-2240
+ </fax_no> 
+ <ind_cd>
+  582
+ </ind_cd> 
+ <est_dt>
+  20000317
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

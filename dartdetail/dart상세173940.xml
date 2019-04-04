@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에프엔씨엔터테인먼트
+ </crp_nm> 
+ <crp_nm_e>
+  FNC ENTERTAINMENT Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에프엔씨엔터
+ </crp_nm_i> 
+ <stock_cd>
+  173940
+ </stock_cd> 
+ <ceo_nm>
+  안석준, 한승훈(공동대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101113580390
+ </crp_no> 
+ <bsn_no>
+  2118790928
+ </bsn_no> 
+ <adr>
+  서울시 강남구 청담동 111
+ </adr> 
+ <hm_url>
+  www.fncent.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-4659-0222
+ </phn_no> 
+ <fax_no>
+  02-518-5428
+ </fax_no> 
+ <ind_cd>
+  59201
+ </ind_cd> 
+ <est_dt>
+  20061214
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

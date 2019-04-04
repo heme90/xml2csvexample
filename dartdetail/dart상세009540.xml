@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  현대중공업(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HYUNDAI HEAVY INDUSTRIES CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  현대중공업
+ </crp_nm_i> 
+ <stock_cd>
+  009540
+ </stock_cd> 
+ <ceo_nm>
+  가삼현
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1812110000386
+ </crp_no> 
+ <bsn_no>
+  6208100012
+ </bsn_no> 
+ <adr>
+  울산광역시 동구 방어진순환도로 1000 현대중공업
+ </adr> 
+ <hm_url>
+  www.hhi.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  052-202-2114
+ </phn_no> 
+ <fax_no>
+  02-746-4662
+ </fax_no> 
+ <ind_cd>
+  31113
+ </ind_cd> 
+ <est_dt>
+  19731228
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)씨엠에스에듀
+ </crp_nm> 
+ <crp_nm_e>
+  CMS Edu Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨엠에스에듀
+ </crp_nm_i> 
+ <stock_cd>
+  225330
+ </stock_cd> 
+ <ceo_nm>
+  이충국
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101112828353
+ </crp_no> 
+ <bsn_no>
+  2118737049
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 동작대로 234 CMS M빌딩 5~8층
+ </adr> 
+ <hm_url>
+  www.cmsedu.co.kr
+ </hm_url> 
+ <ir_url>
+  www.cmsedu.co.kr
+ </ir_url> 
+ <phn_no>
+  02-552-8500
+ </phn_no> 
+ <fax_no>
+  02-552-8501
+ </fax_no> 
+ <ind_cd>
+  85501
+ </ind_cd> 
+ <est_dt>
+  20030724
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

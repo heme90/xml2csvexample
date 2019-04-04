@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)이노메트리
+ </crp_nm> 
+ <crp_nm_e>
+  INNOMETRY Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  이노메트리
+ </crp_nm_i> 
+ <stock_cd>
+  302430
+ </stock_cd> 
+ <ceo_nm>
+  김준보
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1345110127040
+ </crp_no> 
+ <bsn_no>
+  1428114049
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 동편로13번길 65 넥스트아이빌딩 5층
+ </adr> 
+ <hm_url>
+  www.innometry.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-275-5174
+ </phn_no> 
+ <fax_no>
+  031-421-2864
+ </fax_no> 
+ <ind_cd>
+  29299
+ </ind_cd> 
+ <est_dt>
+  20080603
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

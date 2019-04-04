@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)삼익악기
+ </crp_nm> 
+ <crp_nm_e>
+  SAMICK MUSICAL INSTRUMENTS CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼익악기
+ </crp_nm_i> 
+ <stock_cd>
+  002450
+ </stock_cd> 
+ <ceo_nm>
+  김종섭, 이형국
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1201110001818
+ </crp_no> 
+ <bsn_no>
+  1228101045
+ </bsn_no> 
+ <adr>
+  충청북도 음성군 소이면 소이로 313
+ </adr> 
+ <hm_url>
+  www.samick.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043-1688-3151
+ </phn_no> 
+ <fax_no>
+  070-7950-0602
+ </fax_no> 
+ <ind_cd>
+  33201
+ </ind_cd> 
+ <est_dt>
+  19730104
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

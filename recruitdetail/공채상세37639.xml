@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37639
+ </empSeqno>
+ <empWantedTitle>
+  기술연구소, 생산기술 사원모집
+ </empWantedTitle>
+ <empBusiNm>
+  대승
+ </empBusiNm>
+ <coClcdNm></coClcdNm>
+ <empWantedStdt>
+  20190313
+ </empWantedStdt>
+ <empWantedEndt>
+  20190412
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.dae-seung.co.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  http://www.dae-seung.co.kr/recruit/recruit.php?ptype=view&amp;idx=5440&amp;page=1&amp;code=recruit
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRimBsDk5pBXm4c33XbNIa03hAeH1uea1o05D0KuaeY6Kt7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    * 서류전형 합격자에 한해 면접일 개별통보
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    * 면접시 시간엄수(10분전 도착 대기)
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    건강검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    입사
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    기술연구소
+   </empRecrNm>
+   <jobCont>
+    - 승용 P/Shaft 설계 外
+   </jobCont>
+   <empWantedCareerNm>
+    경력|신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    생산기술
+   </empRecrNm>
+   <jobCont>
+    * 생산기술 개발 및 관리 - 신규Line set up, 조립 - 검사용 설비 제작 - 치공구 설계 및 제작
+   </jobCont>
+   <empWantedCareerNm>
+    경력|신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    151100
+   </jobsCd>
+   <jobsCdKorNm>
+    기계공학 기술자 및 연구원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    151108
+   </jobsCd>
+   <jobsCdKorNm>
+    자동차공학 기술자 및 연구원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont></recrCommCont>
+ <empSubmitDocCont>
+  - 이력서, 자기소개서 - 주민등록등본 * 이력서에 연락처 필히 기재 * 이력서에 응시분야/근무부서 필히 기재 * 이력서에 희망연봉 기재
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - ~ 채용시까지 ** 수시로 면접 진행하며 적격자 채용시 조기 마감 됩니다. ** - 채용홈페이지 → 인재채용 → 채용공고 → 입사지원 ※ 양식에 맞게 이력서 작성 바랍니다.
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - E-mail : dshr933@dae-seung.co.kr - FAX : 0504-325-8428 - 회사주소 : (17703) 경기 평택시 서탄면 수월암4길 200 ㈜대승 - 실시간 오픈 카카오톡 문의 가능 https://open.kakao.com/o/sOQKhpk
+ </inqryCont>
+ <empnEtcCont>
+  - 입사지원 서류에 허위사실이 발견될 경우, 채용확정 이후라도 채용이 취소될 수 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

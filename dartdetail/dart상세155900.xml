@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  바다로19호선박투자회사
+ </crp_nm> 
+ <crp_nm_e>
+  Badaro No.19 Ship Investment Company
+ </crp_nm_e> 
+ <crp_nm_i>
+  바다로19호
+ </crp_nm_i> 
+ <stock_cd>
+  155900
+ </stock_cd> 
+ <ceo_nm>
+  이재붕
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  2201110086223
+ </crp_no> 
+ <bsn_no>
+  6168190169
+ </bsn_no> 
+ <adr>
+  제주특별자치도 제주시 연삼로 473 (이도이동,산업경제진흥원)
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3210-3333
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  76190
+ </ind_cd> 
+ <est_dt>
+  20110929
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

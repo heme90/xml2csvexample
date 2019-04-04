@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 DB하이텍
+ </crp_nm> 
+ <crp_nm_e>
+  DB HiTek Co.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  DB하이텍
+ </crp_nm_i> 
+ <stock_cd>
+  000990
+ </stock_cd> 
+ <ceo_nm>
+  최창식
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110026206
+ </crp_no> 
+ <bsn_no>
+  2118110771
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 테헤란로 432 (주)동부하이텍
+ </adr> 
+ <hm_url>
+  www.dbhitek.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3484-2888
+ </phn_no> 
+ <fax_no>
+  02-550-1899
+ </fax_no> 
+ <ind_cd>
+  2611
+ </ind_cd> 
+ <est_dt>
+  19530428
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

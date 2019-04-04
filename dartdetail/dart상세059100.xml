@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)아이컴포넌트
+ </crp_nm> 
+ <crp_nm_e>
+  i-Components Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  아이컴포넌트
+ </crp_nm_i> 
+ <stock_cd>
+  059100
+ </stock_cd> 
+ <ceo_nm>
+  김양국
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1301110060490
+ </crp_no> 
+ <bsn_no>
+  1248172828
+ </bsn_no> 
+ <adr>
+  경기도 평택시 팽성읍 추팔산단1길 23
+ </adr> 
+ <hm_url>
+  www.i-components.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-719-4316
+ </phn_no> 
+ <fax_no>
+  031-653-5993
+ </fax_no> 
+ <ind_cd>
+  26211
+ </ind_cd> 
+ <est_dt>
+  20000512
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

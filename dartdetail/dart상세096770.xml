@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  SK이노베이션(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SK Innovation Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  SK이노베이션
+ </crp_nm_i> 
+ <stock_cd>
+  096770
+ </stock_cd> 
+ <ceo_nm>
+  김준
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101113710385
+ </crp_no> 
+ <bsn_no>
+  1018632319
+ </bsn_no> 
+ <adr>
+  서울특별시 종로구 종로 26
+ </adr> 
+ <hm_url>
+  www.SKinnovation.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2121-5114
+ </phn_no> 
+ <fax_no>
+  02-2121-2118
+ </fax_no> 
+ <ind_cd>
+  64992
+ </ind_cd> 
+ <est_dt>
+  20070703
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)옵티팜
+ </crp_nm> 
+ <crp_nm_e>
+  Optipharm.CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  옵티팜
+ </crp_nm_i> 
+ <stock_cd>
+  153710
+ </stock_cd> 
+ <ceo_nm>
+  한성준, 김현일
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1301110062876
+ </crp_no> 
+ <bsn_no>
+  1248175413
+ </bsn_no> 
+ <adr>
+  충청북도 청주시 흥덕구 오송읍 오송생명6로 63
+ </adr> 
+ <hm_url>
+  www.optipharm.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  043-249-7500
+ </phn_no> 
+ <fax_no>
+  043-249-7501
+ </fax_no> 
+ <ind_cd>
+  21300
+ </ind_cd> 
+ <est_dt>
+  20000727
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

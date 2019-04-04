@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)제일바이오
+ </crp_nm> 
+ <crp_nm_e>
+  CHEIL BIO CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  제일바이오
+ </crp_nm_i> 
+ <stock_cd>
+  052670
+ </stock_cd> 
+ <ceo_nm>
+  심광경
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1350110030490
+ </crp_no> 
+ <bsn_no>
+  1348101956
+ </bsn_no> 
+ <adr>
+  경기 안산시 목내동 456-2
+ </adr> 
+ <hm_url>
+  www.cheilbio.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-494-8226
+ </phn_no> 
+ <fax_no>
+  031-429-0570
+ </fax_no> 
+ <ind_cd>
+  21230
+ </ind_cd> 
+ <est_dt>
+  19890221
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

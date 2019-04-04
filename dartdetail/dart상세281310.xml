@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)바이오시네틱스
+ </crp_nm> 
+ <crp_nm_e>
+  Bio-Synectics, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  바이오시네틱스
+ </crp_nm_i> 
+ <stock_cd>
+  281310
+ </stock_cd> 
+ <ceo_nm>
+  김갑식
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1101112943010
+ </crp_no> 
+ <bsn_no>
+  1058663304
+ </bsn_no> 
+ <adr>
+  서울특별시 금천구 가산디지털2로 184, 708호(가산동, 벽산디지털밸리 2차)
+ </adr> 
+ <hm_url>
+  www.bio-synectics.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2113-1285
+ </phn_no> 
+ <fax_no>
+  02-2113-1284
+ </fax_no> 
+ <ind_cd>
+  70113
+ </ind_cd> 
+ <est_dt>
+  20040129
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)와이지플러스
+ </crp_nm> 
+ <crp_nm_e>
+  YG PLUS, INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  YG PLUS
+ </crp_nm_i> 
+ <stock_cd>
+  037270
+ </stock_cd> 
+ <ceo_nm>
+  양민석
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101111342289
+ </crp_no> 
+ <bsn_no>
+  1208167338
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 도산대로15길 12 -
+ </adr> 
+ <hm_url>
+  www.ygplus.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3140-4600
+ </phn_no> 
+ <fax_no>
+  02-3140-4695
+ </fax_no> 
+ <ind_cd>
+  334
+ </ind_cd> 
+ <est_dt>
+  19961115
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

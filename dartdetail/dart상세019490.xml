@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)하이트론씨스템즈
+ </crp_nm> 
+ <crp_nm_e>
+  HITRON SYSTEMS INC
+ </crp_nm_e> 
+ <crp_nm_i>
+  하이트론씨스템즈
+ </crp_nm_i> 
+ <stock_cd>
+  019490
+ </stock_cd> 
+ <ceo_nm>
+  최영덕
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1243110017841
+ </crp_no> 
+ <bsn_no>
+  3128106094
+ </bsn_no> 
+ <adr>
+  경기도 안성시 삼죽면 서동대로 5953-85
+ </adr> 
+ <hm_url>
+  www.hitron.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-670-9100
+ </phn_no> 
+ <fax_no>
+  0316709099
+ </fax_no> 
+ <ind_cd>
+  265
+ </ind_cd> 
+ <est_dt>
+  19861110
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

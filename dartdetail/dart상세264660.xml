@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  씨앤지하이테크(주)
+ </crp_nm> 
+ <crp_nm_e>
+  C&amp;G Hi Tech Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  씨앤지하이테크
+ </crp_nm_i> 
+ <stock_cd>
+  264660
+ </stock_cd> 
+ <ceo_nm>
+  홍사문
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1348110072786
+ </crp_no> 
+ <bsn_no>
+  1248198492
+ </bsn_no> 
+ <adr>
+  경기도 안성시 원곡면 승량길 162
+ </adr> 
+ <hm_url>
+  www.cnghitech.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-659-9803
+ </phn_no> 
+ <fax_no>
+  0316549229
+ </fax_no> 
+ <ind_cd>
+  29271
+ </ind_cd> 
+ <est_dt>
+  20020716
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

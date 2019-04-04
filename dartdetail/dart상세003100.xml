@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)선광
+ </crp_nm> 
+ <crp_nm_e>
+  SUN KWANG Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  선광
+ </crp_nm_i> 
+ <stock_cd>
+  003100
+ </stock_cd> 
+ <ceo_nm>
+  심충식,이도희(공동대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1201110000034
+ </crp_no> 
+ <bsn_no>
+  1218101455
+ </bsn_no> 
+ <adr>
+  인천 중구 항동 34-2
+ </adr> 
+ <hm_url>
+  www.sun-kwang.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  032 -8806-562
+ </phn_no> 
+ <fax_no>
+  032 -880 -6570
+ </fax_no> 
+ <ind_cd>
+  52942
+ </ind_cd> 
+ <est_dt>
+  19610125
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

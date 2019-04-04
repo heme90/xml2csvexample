@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  아피메즈 주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Apimeds,Inc
+ </crp_nm_e> 
+ <crp_nm_i>
+  아피메즈
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  유인수
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101112861965
+ </crp_no> 
+ <bsn_no>
+  2018184674
+ </bsn_no> 
+ <adr>
+  경기도 성남시 중원구 둔촌대로 537 (상대원동, 쌍용IT트윈타워A동)
+ </adr> 
+ <hm_url>
+  www.apimeds.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-702-0800
+ </phn_no> 
+ <fax_no>
+  031-702-0801
+ </fax_no> 
+ <ind_cd>
+  27111
+ </ind_cd> 
+ <est_dt>
+  20030923
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

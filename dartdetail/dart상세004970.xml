@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  신라교역(주)
+ </crp_nm> 
+ <crp_nm_e>
+  SILLA CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  신라교역
+ </crp_nm_i> 
+ <stock_cd>
+  004970
+ </stock_cd> 
+ <ceo_nm>
+  이광세, 홍성호 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110008254
+ </crp_no> 
+ <bsn_no>
+  2198100919
+ </bsn_no> 
+ <adr>
+  서울특별시 송파구 백제고분로 362 신리빌딩
+ </adr> 
+ <hm_url>
+  www.sla.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3434-9900
+ </phn_no> 
+ <fax_no>
+  02-418-5665
+ </fax_no> 
+ <ind_cd>
+  03111
+ </ind_cd> 
+ <est_dt>
+  19670306
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

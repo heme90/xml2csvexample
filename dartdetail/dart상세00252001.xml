@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  해원에스티(주)
+ </crp_nm> 
+ <crp_nm_e>
+  HAE WON STEELTECH.CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  해원에스티
+ </crp_nm_i> 
+ <stock_cd>
+  058480
+ </stock_cd> 
+ <ceo_nm>
+  안 양 순
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  2001110065213
+ </crp_no> 
+ <bsn_no>
+  4108134026
+ </bsn_no> 
+ <adr>
+  광주광역시 광산구 하남산단7번로 39
+ </adr> 
+ <hm_url>
+  www.hwst.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  062-958-7000
+ </phn_no> 
+ <fax_no>
+  062-958-7095
+ </fax_no> 
+ <ind_cd>
+  24121
+ </ind_cd> 
+ <est_dt>
+  19960603
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

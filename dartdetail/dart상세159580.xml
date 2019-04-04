@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)제로투세븐
+ </crp_nm> 
+ <crp_nm_e>
+  Zero to Seven Inc
+ </crp_nm_e> 
+ <crp_nm_i>
+  제로투세븐
+ </crp_nm_i> 
+ <stock_cd>
+  159580
+ </stock_cd> 
+ <ceo_nm>
+  김정민, 조성철, 이충하 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111871072
+ </crp_no> 
+ <bsn_no>
+  2208176684
+ </bsn_no> 
+ <adr>
+  서울특별시 마포구 상암산로 76YTN뉴스퀘어 17/18층
+ </adr> 
+ <hm_url>
+  www.0to7.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-740-3188
+ </phn_no> 
+ <fax_no>
+  02-740-3755
+ </fax_no> 
+ <ind_cd>
+  46414
+ </ind_cd> 
+ <est_dt>
+  20000203
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

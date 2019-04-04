@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)에임하이글로벌
+ </crp_nm> 
+ <crp_nm_e>
+  Aimhigh Global Corp.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에임하이글로벌
+ </crp_nm_i> 
+ <stock_cd>
+  043580
+ </stock_cd> 
+ <ceo_nm>
+  왕설
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1201110007618
+ </crp_no> 
+ <bsn_no>
+  1378101654
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 논현로 626 (논현동, 엠빌딩)
+ </adr> 
+ <hm_url>
+  www.ahg.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-316-2200
+ </phn_no> 
+ <fax_no>
+  02-316-2246
+ </fax_no> 
+ <ind_cd>
+  262
+ </ind_cd> 
+ <est_dt>
+  19790321
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

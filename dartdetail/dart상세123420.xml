@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)선데이토즈
+ </crp_nm> 
+ <crp_nm_e>
+  SundayToz Corp
+ </crp_nm_e> 
+ <crp_nm_i>
+  선데이토즈
+ </crp_nm_i> 
+ <stock_cd>
+  123420
+ </stock_cd> 
+ <ceo_nm>
+  김정섭
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101114291540
+ </crp_no> 
+ <bsn_no>
+  1078732726
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 황새울로360번길 42 9층, 14층
+ </adr> 
+ <hm_url>
+  corp.sundaytoz.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-1833-9782
+ </phn_no> 
+ <fax_no>
+  031-706-7466
+ </fax_no> 
+ <ind_cd>
+  5821
+ </ind_cd> 
+ <est_dt>
+  20100225
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

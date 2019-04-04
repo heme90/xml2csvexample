@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)애큐온저축은행
+ </crp_nm> 
+ <crp_nm_e>
+  ACUON SAVINGS BANK
+ </crp_nm_e> 
+ <crp_nm_i>
+  애큐온저축은행
+ </crp_nm_i> 
+ <stock_cd>
+  007640
+ </stock_cd> 
+ <ceo_nm>
+  전명현
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110126014
+ </crp_no> 
+ <bsn_no>
+  2118138105
+ </bsn_no> 
+ <adr>
+  서울특별시 강남구 선릉로 514 (삼성동, 성원빌딩) 3층, 6층, 7층, 8층
+ </adr> 
+ <hm_url>
+  www.acuonsb.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  1588-6161
+ </phn_no> 
+ <fax_no>
+  02-3478-3501
+ </fax_no> 
+ <ind_cd>
+  64132
+ </ind_cd> 
+ <est_dt>
+  19720203
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

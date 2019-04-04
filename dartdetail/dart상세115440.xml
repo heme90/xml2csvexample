@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)우리넷
+ </crp_nm> 
+ <crp_nm_e>
+  Woori-Net Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  우리넷
+ </crp_nm_i> 
+ <stock_cd>
+  115440
+ </stock_cd> 
+ <ceo_nm>
+  김광수,유의진
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1301110057124
+ </crp_no> 
+ <bsn_no>
+  1248168611
+ </bsn_no> 
+ <adr>
+  경기도 안양시 동안구 시민대로 353(관양동)
+ </adr> 
+ <hm_url>
+  www.woori-net.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-276-5101
+ </phn_no> 
+ <fax_no>
+  031-423-5102
+ </fax_no> 
+ <ind_cd>
+  2641
+ </ind_cd> 
+ <est_dt>
+  20000104
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37466
+ </empSeqno>
+ <empWantedTitle>
+  정규직 신입직원 채용공고
+ </empWantedTitle>
+ <empBusiNm>
+  한국석유관리원
+ </empBusiNm>
+ <coClcdNm>
+  공공기관
+ </coClcdNm>
+ <empWantedStdt>
+  20190327
+ </empWantedStdt>
+ <empWantedEndt>
+  20190403
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.kpetro.or.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://kpetro.saramin.co.kr/service/kpetro/1304/applicant/apply/recruit_default.asp
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvP0lSP%2FWgueaSVYk8KcVhdkLFHhedFH4wVPQlY5%2Beuxg
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5W5BUmIohf3I%2FbQHEXDA2Xga8O87A3Y71uFZPUfPyLwklJMWGwNLzdyhQVS8uCphSSAlRaXk3f9tCmkqtkYokeai6FvNdRITlyEe7%2BTpu9lUT&amp;realFileNm=7ZWc6rWt7ISd7Jyg6rSA66as7JuQIOygleq3nOyngSDsi6DsnoXsp4Hsm5Ag7LGE7JqpLnppcA==
+   </regFileUrl>
+   <realFileNm>
+    한국석유관리원 정규직 신입직원 채용.zip
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    응시원서
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    On-line 접수
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    합격자발표 4.10(수)/ 관리원, 채용 홈페이지
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    필기전형
+   </selsNm>
+   <selsSchdCont>
+    4.13(토)
+   </selsSchdCont>
+   <selsCont>
+    합격자발표 4.18.(목) / 관리원, 채용 홈페이지
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    면접전형
+   </selsNm>
+   <selsSchdCont>
+    4.24.(수)
+   </selsSchdCont>
+   <selsCont>
+    면접전형 및 증빙서류 제출/ 장소 : 본사 대회의실 등, 시간 추후 공지
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    합격자발표
+   </selsNm>
+   <selsSchdCont>
+    5.8(수)
+   </selsSchdCont>
+   <selsCont>
+    * 최종합격자 발표 : 관리원 및 채용 홈페이지 * 임용 : 5.13(월)/본사
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    기타
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    ※ 상기 일정은 관리원 사정에 따라 변경될 수 있으며, 변경시 사전공고 예정 ※ 각 전형별 합격자에 대하여 별도 개인별 통보 예정 ※ 전형에 관한 자세한 사항은 채용홈페이지 참조
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    기술직(고졸 6급)
+   </empRecrNm>
+   <jobCont>
+    ο 품질·유통 검사, 시험분석 등 기술분야 업무지원 (첨부 직무기술서 참조)
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    5
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    기술직(일반5급)
+   </empRecrNm>
+   <jobCont>
+    ο 품질·유통 검사, 시험분석 등 기술분야 업무지원 (첨부 직무기술서 참조)
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    15
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    154101
+   </jobsCd>
+   <jobsCdKorNm>
+    석유화학 기술자 및 연구원
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  * 채용방식 : 공개경쟁 (NCS 기반 직무능력중심 블라인드 채용) [공통 지원자격] ο 채용예정일 기준, 만 34세 이하인 자 (1984. 5. 14. 이후 출생자) ο 채용확정 후 2019. 5. 13.부터 즉시 업무종사 가능자 ο 남자의 경우 병역필 또는 면제자(2019. 5. 12. 이전 전역예정자 포함) ο 운전면허 2종보통 이상 면허증 소지자 * 공고 마감일까지 취득 완료하여 증빙할 수 있는 지원자에 한함 ο 성별, 학력, 전공 제한 없음 ο 「국가공무원법」제33조 및 관리원「인사규정」제9조의 채용 결격사유에 해당하는 자 제외 ※ 연령자격은 「청년고용촉진 특별법」 제5조에 따른 만15세 이상 만34세 이하의 청년 ※ 「제대군인지원에 관한 법률」제2조에 의한 제대군인 및 병역법 제26조 제1항 제1호의 업무에 복무하고 소집 해제된 공익근무요원이 응시할 경우 상한 연령을 다음과 같이 연장함 - 군복무기간 1년 미만: 1세, 1년 이상~2년 미만: 2세, 2년 이상: 3세 연장 [우리 관리원 인사규정 제9조에 의한 결격사유] 관리원 인사규정 제9조(결격사유) 다음 각 호의 1에 해당하는 자는 직원으로 채용할 수 없다. 1. 피성년후견인 또는 피한정후견인 2. 파산자로서 복권되지 아니한 자 ※ 이하 자세한 사항은 채용홈페이지 참조 [채용형태 : 정규직] ο 계약기간 : 계약일로부터 정년까지(60세) ο 근로형태 : 정규직 ο 근무시간 : 주 5일, 1일 8시간 ο 보수 및 복리후생 : 관리원 취업규칙 등 내부규정에 의함 ο 근무지역 : 본사 및 각 지역본부 ※ 원서 접수시 희망근무지를 기재하며 이를 권역별 근무지 배치에 참고함. 단, 회사 인사운영상 필요시 타지역으로 변경될 수 있음 ※ 권역별 관리원 사업장 채용홈페이지 참조 [가점 및 우대사항] - 자세한 사항은 채용홈페이지 참조
+ </recrCommCont>
+ <empSubmitDocCont>
+  [1차 입사지원서 입력] - 제출기간 : 지원서 접수기간 - 제출대상 : 응시자격을 갖춘 모든 지원자 - 제출방법 : 채용사이트에서 작성 제출 - 제출처 : 채용사이트에서 작성 제출 - 제출서류 : 입사지원서 1부 [2차 본인확인 정보 입력] - 제출기간 : 필기전형 전 - 제출대상 : 서류전형 합격자에 한하여 채용홈페이지 별도 공고 - 제출방법 : 채용사이트에 제출 - 제출처 : 채용사이트에 제출 - 제출서류 : 사진 [3차 증빙서류접수] - 제출기간 : 면접전형시 - 제출대상 : 필기시험 합격자에 한하여 채용홈페이지 별도 공고 - 제출방법 : 직접 - 제출처 : 본사 - 제출서류 : 채용홈페이지 참조 【최종합격자 제출서류 (임용일 직접제출)】 ο 기본증명서 및 가족관계증명서 각 1부 ο 신원진술서 1부(증명사진 부착 필) ο 공무원채용신체검사서 1부 ο 주민등록등본 1부 ο 최종학교 졸업증명서(기제출자 제외) 【졸업예정자 제출서류 (근무기간 중)】 ο 졸업증명서 1부 ※ 「채용절차의 공정화에 관한 법률」에 의거 제출된 입사지원서 및 증빙서류의 반환 청구기간은 채용 완료일(최종합격자 발표일) 이후 14일부터 1개월간(2019.6.21.)이며 이후 폐기됨을 알려드립니다.
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 공고기간 3.19.(수) ~ 4.3.(수) 14:00 - 채용홈페이지(온라인접수), 알리오* 인터넷 주소 별도 공지 ※ 우편‧방문접수는 받지 않으며, 접수 마감일에는 지원자 폭주로 접수가 되지 않을 수 있으므로 미리 접수 요망
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  채용Q&amp;A 페이지를 통하여 문의하여 주시기 바랍니다.
+ </inqryCont>
+ <empnEtcCont>
+  ο 응시원서 등에 허위기재 또는 기재착오, 구비서류 미제출 등으로 인한 불이익은 응시자 본인의 책임으로 합니다. ο 최종학력이 고등학교 졸업자인 경우, 모든 지원자는 “학자금대출·장학금신청증명서”첨부하여야 합니다. ※ 한국장학재단 홈페이지(www.kosaf.go.kr)에서 공공기관 취업용으로 발급 가능 ※ 대학(전문대) 재학 중 학자금 신청실적이 있으나 졸업하지 못한 경우에는 중퇴 등을 증명하는 서류를 발급받아 첨부 ο 응시원서나 각종 증명서의 기재내용이 사실과 다르거나 전형에 관한 규정을 위반한 자는 전형을 정지 또는 무효로 하며, 사후 적발시 합격 취소 또는 계약을 해지할 수 있습니다. 또한, 출신학교, 출신지역, 연령 등 직무능력과 무관한 개인정보 사항을 기재하여서는 아니 됩니다. ο 아울러, 부정한 청탁(본인 인지하지 못한 경우 포함)으로 채용된 사실이 발견되는 경우에도 합격 취소 또는 계약을 해지할 수 있으며 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」제82조 제1항에 따른 비위면직자 등은 같은 조 제2항에 따라 취업이 제한된다는 점을 유념하시기 바랍니다. ο 제출한 서류의 보관 및 반환청구 등은 「채용절차의 공정화에 관한 법률」에 따라 시행합니다. ο 응시원서 접수 결과 응시자가 선발예정인원 수와 같거나 미달하더라도 적격자가 없는 경우 선발하지 않을 수 있습니다. ο 블라인드 채용 가이드라인을 준수하여 편견요인에 대한 개인정보는 심사위원에게 제공되지 않습니다. ο 본 채용계획은 사정에 의하여 변경될 수 있으며, 변경된 사항은 재고지 후 시행할 예정입니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

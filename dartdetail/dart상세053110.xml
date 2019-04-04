@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)소리바다
+ </crp_nm> 
+ <crp_nm_e>
+  SORIBADA INC.
+ </crp_nm_e> 
+ <crp_nm_i>
+  소리바다
+ </crp_nm_i> 
+ <stock_cd>
+  053110
+ </stock_cd> 
+ <ceo_nm>
+  손지현
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1712110017953
+ </crp_no> 
+ <bsn_no>
+  5058115915
+ </bsn_no> 
+ <adr>
+  서울시 강남구 논현동 225-5 논현동자동차전시장빌딩 4~5층
+ </adr> 
+ <hm_url>
+  www.soribada.com/corp
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-562-7188
+ </phn_no> 
+ <fax_no>
+  02-562-7226
+ </fax_no> 
+ <ind_cd>
+  631
+ </ind_cd> 
+ <est_dt>
+  19980813
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

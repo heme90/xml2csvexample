@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)LS네트웍스
+ </crp_nm> 
+ <crp_nm_e>
+  LS Networks Corporation Limited
+ </crp_nm_e> 
+ <crp_nm_i>
+  LS네트웍스
+ </crp_nm_i> 
+ <stock_cd>
+  000680
+ </stock_cd> 
+ <ceo_nm>
+  구자용,문성준(각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1801110044717
+ </crp_no> 
+ <bsn_no>
+  6228104805
+ </bsn_no> 
+ <adr>
+  경상남도 김해시 호계로 428 1층(부원동, 세화빌딩)
+ </adr> 
+ <hm_url>
+  www.lsnetworks.co.kr
+ </hm_url> 
+ <ir_url>
+  www.lsnetworks.co.kr
+ </ir_url> 
+ <phn_no>
+  02-799-7114
+ </phn_no> 
+ <fax_no>
+  02-6442-5423
+ </fax_no> 
+ <ind_cd>
+  46800
+ </ind_cd> 
+ <est_dt>
+  19491221
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

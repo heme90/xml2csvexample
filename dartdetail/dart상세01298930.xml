@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)소리대장간
+ </crp_nm> 
+ <crp_nm_e>
+  Sound Smithy
+ </crp_nm_e> 
+ <crp_nm_i>
+  소리대장간
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  장기현
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1601110431637
+ </crp_no> 
+ <bsn_no>
+  5338700438
+ </bsn_no> 
+ <adr>
+  대전광역시 대덕구 신일동로17번길 5 (신일동, 테크노시티) 1006호
+ </adr> 
+ <hm_url>
+  www.soundsmithy.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  1588-3975
+ </phn_no> 
+ <fax_no>
+  042-936-2126
+ </fax_no> 
+ <ind_cd>
+  26529
+ </ind_cd> 
+ <est_dt>
+  20160801
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

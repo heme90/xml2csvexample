@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주성엔지니어링(주)
+ </crp_nm> 
+ <crp_nm_e>
+  JUSUNG ENGINEERING Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  주성엔지니어링
+ </crp_nm_i> 
+ <stock_cd>
+  036930
+ </stock_cd> 
+ <ceo_nm>
+  황철주
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1301110033281
+ </crp_no> 
+ <bsn_no>
+  1248129001
+ </bsn_no> 
+ <adr>
+  경기도 광주시 오포읍 오포로 240 주성엔지니어링
+ </adr> 
+ <hm_url>
+  www.jseng.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031 -760 -7000
+ </phn_no> 
+ <fax_no>
+  031-760-7223
+ </fax_no> 
+ <ind_cd>
+  29229
+ </ind_cd> 
+ <est_dt>
+  19950413
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

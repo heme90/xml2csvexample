@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37546
+ </empSeqno>
+ <empWantedTitle>
+  [하이브리드관제] 취약점진단, 모의해킹전문가
+ </empWantedTitle>
+ <empBusiNm>
+  안랩
+ </empBusiNm>
+ <coClcdNm>
+  중견기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190319
+ </empWantedStdt>
+ <empWantedEndt>
+  20190402
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.ahnlab.com
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://ahnlab.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&amp;jobnoticeSn=7913
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=ZGI9%2BubbEcHpFsdRT26HvHhiIhQrJFRJW5R%2BGnFZNpWFmCh8Nk20GQcCoSrxcp73
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    서류전형
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    1차면접(직무)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    2차면접(인성)
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용면담
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    채용검진
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont></selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    [하이브리드관제] 취약점진단, 모의해킹전문가
+   </empRecrNm>
+   <jobCont>
+    - 취약점 진단 및 모의해킹 - 웹 소스코드 취약점 분석
+   </jobCont>
+   <empWantedCareerNm>
+    경력
+   </empWantedCareerNm>
+   <empWantedEduNm>
+    학력무관
+   </empWantedEduNm>
+   <sptCertEtc>
+    - 침해사고 분석 경험 - 악성코드 분석 및 리버싱 경험 - 보안 관련 자격증 소지
+   </sptCertEtc>
+   <recrPsncnt></recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm>
+    경기,서울
+   </workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    02
+   </jobsCd>
+   <jobsCdKorNm>
+    연구 및 공학기술
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    135000
+   </jobsCd>
+   <jobsCdKorNm>
+    정보보안 전문가
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  ※ 해외 여행에 결격사유가 없으신 분 ※ 국가보훈취업지원대상자와 장애인은 관계 법령에 의거 우대합니다. [지원자격] - 학력, 성별, 연령에 대한 어떠한 자격제한도 없습니다.
+ </recrCommCont>
+ <empSubmitDocCont></empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지 온라인 입사지원 ※ 채용공고를 통해서 지원분야 및 해당 직무를 확인하신 후, 온라인 지원 양식에 맞추어 해당 항목들을 기입하셔서 제출하시면 됩니다. ※ 이메일을 통한 입사지원은 받고 있지 않습니다.
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  - 이메일: resume@ahnlab.com - TEL: 031-722-8000
+ </inqryCont>
+ <empnEtcCont>
+  - 본 지원서는 수시로 검토하며, 채용 시 조기에 마감될 수도 있습니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

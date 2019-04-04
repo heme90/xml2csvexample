@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)주노콜렉션
+ </crp_nm> 
+ <crp_nm_e>
+  JUNO COLLECTION CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  주노콜렉션
+ </crp_nm_i> 
+ <stock_cd>
+  221670
+ </stock_cd> 
+ <ceo_nm>
+  김용
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  2850110160767
+ </crp_no> 
+ <bsn_no>
+  1288639980
+ </bsn_no> 
+ <adr>
+  경기도 고양시 덕양구 지도로 44, 1,2,3,4,5,6층(토당동)
+ </adr> 
+ <hm_url>
+  www.laorh.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-970-2955
+ </phn_no> 
+ <fax_no>
+  0319702925
+ </fax_no> 
+ <ind_cd>
+  15121
+ </ind_cd> 
+ <est_dt>
+  20090623
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

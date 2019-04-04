@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  미원화학(주)
+ </crp_nm> 
+ <crp_nm_e>
+  MIWON CHEMICALS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  미원화학
+ </crp_nm_i> 
+ <stock_cd>
+  134380
+ </stock_cd> 
+ <ceo_nm>
+  정규식
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  2301110172244
+ </crp_no> 
+ <bsn_no>
+  6108604700
+ </bsn_no> 
+ <adr>
+  울산광역시 남구 장생포로 247
+ </adr> 
+ <hm_url>
+  www.miwonchemicals.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-479-9200
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  20421
+ </ind_cd> 
+ <est_dt>
+  20110103
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

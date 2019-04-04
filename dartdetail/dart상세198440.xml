@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)고려시멘트
+ </crp_nm> 
+ <crp_nm_e>
+  KOREA CEMENT co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  고려시멘트
+ </crp_nm_i> 
+ <stock_cd>
+  198440
+ </stock_cd> 
+ <ceo_nm>
+  이국노
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115403623
+ </crp_no> 
+ <bsn_no>
+  1078818207
+ </bsn_no> 
+ <adr>
+  전라남도 장성군 장성읍 영천로 35 고려시멘트
+ </adr> 
+ <hm_url>
+  koreacement.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  061-390-6575
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  233
+ </ind_cd> 
+ <est_dt>
+  20140428
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

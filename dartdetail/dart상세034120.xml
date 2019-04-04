@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)SBS
+ </crp_nm> 
+ <crp_nm_e>
+  SEOUL BROADCASTING SYSTEM
+ </crp_nm_e> 
+ <crp_nm_i>
+  SBS
+ </crp_nm_i> 
+ <stock_cd>
+  034120
+ </stock_cd> 
+ <ceo_nm>
+  박정훈(단독대표)
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101110731483
+ </crp_no> 
+ <bsn_no>
+  1168139357
+ </bsn_no> 
+ <adr>
+  서울특별시 양천구 목동서로 161
+ </adr> 
+ <hm_url>
+  www.sbs.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2061-0006
+ </phn_no> 
+ <fax_no>
+  02-2113-4749
+ </fax_no> 
+ <ind_cd>
+  60210
+ </ind_cd> 
+ <est_dt>
+  19901114
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)로보스타
+ </crp_nm> 
+ <crp_nm_e>
+  Robostar Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  로보스타
+ </crp_nm_i> 
+ <stock_cd>
+  090360
+ </stock_cd> 
+ <ceo_nm>
+  강귀덕
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111655393
+ </crp_no> 
+ <bsn_no>
+  1138151686
+ </bsn_no> 
+ <adr>
+  경기도 안산시 상록구 수인로 700
+ </adr> 
+ <hm_url>
+  robostar.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-400-3600
+ </phn_no> 
+ <fax_no>
+  031-419-4245
+ </fax_no> 
+ <ind_cd>
+  29280
+ </ind_cd> 
+ <est_dt>
+  19990226
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

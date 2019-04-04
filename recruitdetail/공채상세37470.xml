@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dhsOpenEmpInfoDetailRoot>
+ <empSeqno>
+  37470
+ </empSeqno>
+ <empWantedTitle>
+  신입사원 모집공고
+ </empWantedTitle>
+ <empBusiNm>
+  대구도시철도공사
+ </empBusiNm>
+ <coClcdNm>
+  공기업
+ </coClcdNm>
+ <empWantedStdt>
+  20190404
+ </empWantedStdt>
+ <empWantedEndt>
+  20190410
+ </empWantedEndt>
+ <empWantedHomepg>
+  http://www.dtro.or.kr
+ </empWantedHomepg>
+ <empWantedHomepgDetail>
+  https://dtro.scout.co.kr/jobinfo/jobinfo_view.asp?ID=1021
+ </empWantedHomepgDetail>
+ <empWantedMobileUrl></empWantedMobileUrl>
+ <regLogImgNm>
+  http://www.work.go.kr/framework/filedownload/getImage.do?filePathName=KuBCC2IodBkj%2Frlv8XuRijo5L%2FRsHJhEEMl%2FCUaqnqCCfXkuVGQ0dfT1lUN0c6Ix7suWeZYPwv8GKFqD7PXO%2Fg%3D%3D
+ </regLogImgNm>
+ <empWantedTypeNm>
+  정규직|기타
+ </empWantedTypeNm>
+ <empWatedJobsNm></empWatedJobsNm>
+ <empWatedCont></empWatedCont>
+ <attachFileList>
+  <fileListInfo>
+   <regFileUrl>
+    http://www.work.go.kr/framework/filedownload/keisDownload.do?filePathName=ydWIN1A%2BKOBWJtl5zkQ5WwDuw9Hpn%2F5n9vcM7n4HKqpngqwVpqE1pMURoId4RcTJUitNdZj2JlNqXR0g6gnyXxmfAAWgvmHkWFCWylrWcXO6FvNdRITlyEe7%2BTpu9lUT&amp;realFileNm=64yA6rWs64+E7Iuc7LKg64+E6rO17IKsIOyLoOyeheyCrOybkCDrqqjsp5Eo7KeB66y06riw7Iig7IScIOuwjyDrtpnsnoTsnpDro4ztj6ztlagpLnppcA==
+   </regFileUrl>
+   <realFileNm>
+    대구도시철도공사 신입사원 모집(직무기술서 및 붙임자료포함).zip
+   </realFileNm>
+  </fileListInfo>
+ </attachFileList>
+ <empSelfintroList>
+  <empSelsListInfo>
+   <selfintroQstCont></selfintroQstCont>
+  </empSelsListInfo>
+ </empSelfintroList>
+ <empSelsList>
+  <empSelsListInfo>
+   <selsNm>
+    원서접수
+   </selsNm>
+   <selsSchdCont>
+    2019. 4. 4(목) ~ 4. 10(수)
+   </selsSchdCont>
+   <selsCont>
+    ※ 공인노무사, 기능인재는 서류접수 동시실시
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    필기시험
+   </selsNm>
+   <selsSchdCont></selsSchdCont>
+   <selsCont>
+    필기시험 시행일 2019.4.21(일) 10:00~11:40 ※ 09:00까지 입실 완료 / 자세한 사항은 채용홈페이지 참조
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류접수
+   </selsNm>
+   <selsSchdCont>
+    2019. 4. 30(화) ~ 5. 3(금)
+   </selsSchdCont>
+   <selsCont>
+    필기시험 합격자 해당 / ※ 공인노무사, 기능인재 제외
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    서류심사
+   </selsNm>
+   <selsSchdCont>
+    2019. 5. 7(화)
+   </selsSchdCont>
+   <selsCont>
+    필기시험 합격자, 공인노무사, 기능인재 해당/ 서류심사 합격자 발표 2019. 5. 9(목) / 채용홈페이지 공고
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    인성검사/면접시험
+   </selsNm>
+   <selsSchdCont>
+    인성검사 2019. 5. 11(토) / 서류심사 합격자 해당/※ 세부적인 일정은 개별 통보
+   </selsSchdCont>
+   <selsCont>
+    면접시험 2019. 5. 21(화) ~ 5. 22(수)/인성검사응시자해당/※ 세부적인 일정은 개별 통보
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+  <empSelsListInfo>
+   <selsNm>
+    최종합격자발표/ 기타
+   </selsNm>
+   <selsSchdCont>
+    2019. 5. 28(화)
+   </selsSchdCont>
+   <selsCont>
+    * 합격발표 : 채용홈페이지 공고 * 기타 : 각 전형에 관한 자세한 사항은 채용홈페이지 참조
+   </selsCont>
+   <selsMemoCont></selsMemoCont>
+  </empSelsListInfo>
+ </empSelsList>
+ <empRecrList>
+  <empRecrListInfo>
+   <empRecrNm>
+    무기업무직
+   </empRecrNm>
+   <jobCont>
+    ■ 자격제한경쟁(전동차중정비(1,2,3호선), 전기설비(3호선), 환기위생설비(1,2,3호선), 냉방설비(1,2호선)) ※ 자세한 사항은 채용홈페이지 참조
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    10
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+  <empRecrListInfo>
+   <empRecrNm>
+    일반직
+   </empRecrNm>
+   <jobCont>
+    ■ 공개경쟁 ■자격제한경쟁(공인노무사, 공공기록물관리 전문요원, 제2종전기차량 운전면허소지자, 장애인, 기능인재) ※ 자세한 사항은 채용홈페이지 참조
+   </jobCont>
+   <empWantedCareerNm>
+    신입
+   </empWantedCareerNm>
+   <empWantedEduNm></empWantedEduNm>
+   <sptCertEtc></sptCertEtc>
+   <recrPsncnt>
+    73
+   </recrPsncnt>
+   <empRecrMemoCont></empRecrMemoCont>
+   <workRegionNm></workRegionNm>
+  </empRecrListInfo>
+ </empRecrList>
+ <empJobsList>
+  <empJobsListInfo>
+   <jobsCd>
+    016
+   </jobsCd>
+   <jobsCdKorNm>
+    정부·공공행정 사무
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    103
+   </jobsCd>
+   <jobsCdKorNm>
+    발전·배전 장비, 전기·전자 설비 조작(전기관리)
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    140200
+   </jobsCd>
+   <jobsCdKorNm>
+    건축공학 기술자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+  <empJobsListInfo>
+   <jobsCd>
+    140300
+   </jobsCd>
+   <jobsCdKorNm>
+    토목공학 기술자
+   </jobsCdKorNm>
+  </empJobsListInfo>
+ </empJobsList>
+ <empnRecrSummaryCont></empnRecrSummaryCont>
+ <recrCommCont>
+  [채용인원및 모집분야] - 총 83명(일반직 73명, 무기업무직 10명) ※ 일반직·무기업무직 분야, 직종간 중복지원은 불가합니다. ※ 응시미달 및 최종합격자가 채용인원에 미달하는 경우 장애인은 동일직종 비장애인 분야에서, 기능인재는 공개경쟁 분야에서 추가 채용합니다. ※ 분야별 채용직급등 자세한 사항은 채용홈페이지 참조 [응시자격] * 공통사항 - 연령 : 18세이상 60세미만(1960.1.1~2001.12.31 출생자) - 병역 : 병역필 또는 면제자 ※ 현역복무중인 자는 단계별 시험응시가 가능하고, 최종합격자 발표전일까지 전역예정자 ※ 기능인재는 병역제한 없음. - 지역 : ①번과 ②번의 요건 중 하나를 충족하는 자 ①2019.1.1 이전부터 최종 합격자발표일까지 계속하여 대구·경북에 주민등록이 되어 있는 자 ②2019.1.1 이전까지 대구·경북에 3년 이상 주민등록이 되어 있었던 자 - 근무조건 : 주·야간 교대(교번) 근무가 가능한 자※ ‘야간 및 휴일근로 동의서’ 제출 후 임용 가능 - 응시제한 : 공사 인사규정 제12조(결격사유)에 해당하는 자 * 공개경쟁분야 - 공인영어능력시험 (세부사항은 채용 홈페이지 참조) * 자격제한경쟁분야 - 공인노무사등 (세부사항은 채용 홈페이지 참조) ※ 기타 자세한 사항은 채용홈페이지 및 첨부 참조
+ </recrCommCont>
+ <empSubmitDocCont>
+  ■ 원서접수 기간 중 서류심사 구비서류 제출 * 제출방법 : 직접방문 또는 등기우편 * 제출기간 : 2019. 4. 4 ~ 4. 10(우편접수는 2019. 4. 10. 18:00까지 도착분에 한함) * 제 출 처 : 대구도시철도공사 본사(대구광역시 달서구 월배로 250(상인동), 총무인사부) * 직접방문시 자격증 원본 지참(등기우편 제출시 자격증 원본 동봉, 확인후 반환 예정) [ 공인노무사 지원자 서류제출 ] ❍ 제출서류 ∙ 주민등록초본 1부(공고일 이후 발급분) ※ 주소변동사항 및 병역사항 포함하여 발급‧제출 (초본으로 병역사항 확인이 불가한 경우 병적증명서 별도 제출) ∙ 공인노무사 자격증 사본 1부 ∙ 자격증 사본 1부(해당자에 한함) ∙ 취업지원대상자 증명서 1부(해당자에 한함) [ 기능인재 추천채용 원서접수 및 서류제출 ] ❍ 채용홈페이지 접속ID 요청(학교담당자) ∙ 접속ID 요청 기간 : 2019. 3. 19 ~ 3. 29 18:00까지 ∙ 접속ID 요청 메일 주소 : recruit@dtro.or.kr ❍ 접속ID로 채용홈페이지에서 응시원서 접수(학교담당자) ❍ 제출서류 - 학교별 : 2019년 기능인재 추천현황표 - 추천대상자별 · 기능인재 추천서 · 성적증명서(석차비율 기재), 졸업증명서 · 국가기술자격증 사본, 취업가점 확인서류(해당자에 한함) · 개인정보 수집·이용 및 위탁에 관한 동의서 ■ 필기시험 합격자 * 제출일정 : 2019.4.30~5.3 18:00까지 (3일간) * 제출방법 : 직접방문 또는 등기우편(※ 우편접수는 2019.5.3(금) 18:00까지 도착분에 한함) * 제출처 : 대구도시철도공사(대구광역시 달서구 월배로 250(상인동), 총무인사부) * 제출서류(세부사항은 채용홈페이지 참조) - 주민등록초본 , 군복무확인서, 공인어학성적증명서, 자격증, 취업지원대상자증명서, 장애인증명서 ※ 직접방문시 자격증 원본 지참(등기우편 제출시 자격증 원본 동봉, 확인후 반환 예정) ■ 불합격대상 - 제출기한까지 서류 미제출자 - 응시원서 기재사항과 다르거나 제출서류로 증빙이 안되는 경우 - 응시원서에 가점내역을 제출서류보다 높게 기재한 경우
+ </empSubmitDocCont>
+ <empRcptMthdCont>
+  - 채용홈페이지(https://dtro.scout.co.kr) - 채용홈페이지에서 온라인 접수만 가능 - 채용홈페이지에서 지원서 양식에 맞춰 작성 ※1인 1분야만 응시가능하며, 원서 기재사항은 접수기간 내에만 수정할 수 있습니다.
+ </empRcptMthdCont>
+ <empAcptPsnAnncCont></empAcptPsnAnncCont>
+ <inqryCont>
+  기타 자세한 사항은 우리 공사 홈페이지(http://www.dtro.or.kr) 또는 총무인사부로 문의하시기 바랍니다. (☎ 053-640-2172～2174, 2176)
+ </inqryCont>
+ <empnEtcCont>
+  1. 응시원서의 기재사항 누락, 오기재, 허위기재, 착오기재 및 연락불능 등으로 발생되는 불이익은 일체 응시자 책임으로 합니다. 특히, 시험에 가산되는 자격증, 취업지원 관련 사항에 대한 오기재, 허위기재, 착오기재 시에는 고의성 여부와 관계없이 합격이 취소되니 확인 후 기재하시기 바랍니다. 2. 최종합격자 중에서 채용후보자 등록을 하지 않거나 「공무원채용신체검사규정」 또는 「철도안전법 신체검사기준」에 의한 신체검사에 불합격한 자 및 임용결격사유 등이 발견된 때에는 채용후보자 자격을 상실하고 예비후보자를 추가합격자로 선발합니다. 3. 장애인 응시자는 본인의 장애유형에 따른 편의지원을 4.15(월)까지 유선으로 신청할 수 있습니다. 4. 원서접수 결과 지원자가 채용인원 수와 같거나 미달하더라도 적격자가 없는 경우 선발하지 않을 수 있습니다. 5. 시험일정 등 모집공고 내용은 공사사정에 따라 변경될 수 있으며, 변경시 시험일 7일 전까지 변경내용을 공고할 예정입니다. 6. 입사지원서 마감일의 경우 지원자의 폭주로 접속이 원활하지 않을 수 있으니 충분히 여유를 두고 지원해 주시기 바랍니다. 7. “채용절차의 공정화에 관한 법률”에 따라 제출된 서류는 최종합격자 발표일 이후 14일부터 180일이내 청구자에 한해 반환할 예정이며 청구기간 경과 후에는 개인정보보호법에 따라 파기되니 참고하시기 바랍니다. 8. 우리 공사에서는 투명하고 공정한 채용프로그램을 운영 중이며 채용과정에서 부당한 인사청탁 및 비위채용이 적발될 경우, 해당 지원자를 사전배제하고 합격 후에도 불합격 처리, 5년간 응시 자격을 제한합니다.
+ </empnEtcCont>
+</dhsOpenEmpInfoDetailRoot>

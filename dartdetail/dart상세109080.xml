@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  옵티시스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  OPTICIS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  옵티시스
+ </crp_nm_i> 
+ <stock_cd>
+  109080
+ </stock_cd> 
+ <ceo_nm>
+  신현국
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1301110056407
+ </crp_no> 
+ <bsn_no>
+  1248167679
+ </bsn_no> 
+ <adr>
+  경기도 성남시 분당구 정자일로 166 ,7층(정자동SPG Dream 빌딩)
+ </adr> 
+ <hm_url>
+  www.opticis.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-719-8033
+ </phn_no> 
+ <fax_no>
+  031-719-8032
+ </fax_no> 
+ <ind_cd>
+  26410
+ </ind_cd> 
+ <est_dt>
+  19991129
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

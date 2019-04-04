@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)대농
+ </crp_nm> 
+ <crp_nm_e>
+  Daenong Corporation
+ </crp_nm_e> 
+ <crp_nm_i>
+  대농
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  박계성
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110138572
+ </crp_no> 
+ <bsn_no>
+  1058133940
+ </bsn_no> 
+ <adr>
+  충청북도 청주시 청원구 내수읍 도원세교로 59-36 (도원리)
+ </adr> 
+ <hm_url>
+  www.daenong21.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02)2009-4513
+ </phn_no> 
+ <fax_no>
+  02)2009-4554
+ </fax_no> 
+ <ind_cd>
+  13101
+ </ind_cd> 
+ <est_dt>
+  19531113
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

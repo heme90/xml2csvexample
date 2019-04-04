@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  뉴경기관광주식회사
+ </crp_nm> 
+ <crp_nm_e>
+  Newkyunggi Resort Corp
+ </crp_nm_e> 
+ <crp_nm_i>
+  뉴경기관광
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  고성문,이응로
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1345110006898
+ </crp_no> 
+ <bsn_no>
+  1358101468
+ </bsn_no> 
+ <adr>
+  경기도 용인시 처인구 이동면 기흥단지로 579 (서리, 코리아CC)
+ </adr> 
+ <hm_url>
+  www.kgav.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-287-7346
+ </phn_no> 
+ <fax_no>
+  031-286-6921
+ </fax_no> 
+ <ind_cd>
+  91121
+ </ind_cd> 
+ <est_dt>
+  19880913
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

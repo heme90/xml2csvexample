@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)강원랜드
+ </crp_nm> 
+ <crp_nm_e>
+  Kangwon Land, Inc.
+ </crp_nm_e> 
+ <crp_nm_i>
+  강원랜드
+ </crp_nm_i> 
+ <stock_cd>
+  035250
+ </stock_cd> 
+ <ceo_nm>
+  문태곤
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1449110001666
+ </crp_no> 
+ <bsn_no>
+  2258110770
+ </bsn_no> 
+ <adr>
+  강원도 정선군 사북읍 하이원길 265 강원랜드
+ </adr> 
+ <hm_url>
+  www.kangwonland.com
+ </hm_url> 
+ <ir_url>
+  http://kangwonland.high1.com/ndr/board-list.high1
+ </ir_url> 
+ <phn_no>
+  033-590-7700
+ </phn_no> 
+ <fax_no>
+  033-590-3200
+ </fax_no> 
+ <ind_cd>
+  91249
+ </ind_cd> 
+ <est_dt>
+  19980629
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)와이솔
+ </crp_nm> 
+ <crp_nm_e>
+  WiSoL Co.,LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  와이솔
+ </crp_nm_i> 
+ <stock_cd>
+  122990
+ </stock_cd> 
+ <ceo_nm>
+  김지호, 염상덕
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1358110154111
+ </crp_no> 
+ <bsn_no>
+  1358198089
+ </bsn_no> 
+ <adr>
+  경기도 오산시 가장로 531-7(가장동)
+ </adr> 
+ <hm_url>
+  www.wisol.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-7837-6240
+ </phn_no> 
+ <fax_no>
+  031-210-5554
+ </fax_no> 
+ <ind_cd>
+  2629
+ </ind_cd> 
+ <est_dt>
+  20080624
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)중앙에너비스
+ </crp_nm> 
+ <crp_nm_e>
+  Joong Ang Enervis Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  중앙에너비스
+ </crp_nm_i> 
+ <stock_cd>
+  000440
+ </stock_cd> 
+ <ceo_nm>
+  한상열, 한상은 (각자 대표이사)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101110003428
+ </crp_no> 
+ <bsn_no>
+  1068108726
+ </bsn_no> 
+ <adr>
+  서울특별시 용산구 한남대로 82
+ </adr> 
+ <hm_url>
+  www.enervis.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  070-8707-4500
+ </phn_no> 
+ <fax_no>
+  02-793-9722
+ </fax_no> 
+ <ind_cd>
+  46712
+ </ind_cd> 
+ <est_dt>
+  19461008
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

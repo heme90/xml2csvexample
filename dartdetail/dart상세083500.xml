@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  에프엔에스테크(주)
+ </crp_nm> 
+ <crp_nm_e>
+  FNS TECH. Co.,Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  에프엔에스테크
+ </crp_nm_i> 
+ <stock_cd>
+  083500
+ </stock_cd> 
+ <ceo_nm>
+  한경희, 김팔곤
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1345110059459
+ </crp_no> 
+ <bsn_no>
+  1358153423
+ </bsn_no> 
+ <adr>
+  충청남도 천안시 서북구 직산읍 4산단2길 19
+ </adr> 
+ <hm_url>
+  www.fnstech.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  041-584-4460
+ </phn_no> 
+ <fax_no>
+  041-584-4471
+ </fax_no> 
+ <ind_cd>
+  29272
+ </ind_cd> 
+ <est_dt>
+  20020318
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 케이알파트너스
+ </crp_nm> 
+ <crp_nm_e>
+  KR PARTNERS Co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  케이알파트너스
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  김준헌
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101114299693
+ </crp_no> 
+ <bsn_no>
+  1138637262
+ </bsn_no> 
+ <adr>
+  서울특별시 구로구 디지털로32가길 16 1301호 (구로동, 파트너스타워2차)
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-1566-3441
+ </phn_no> 
+ <fax_no>
+  02-2028-3050
+ </fax_no> 
+ <ind_cd>
+  66199
+ </ind_cd> 
+ <est_dt>
+  20100309
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

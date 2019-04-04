@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)대구백화점
+ </crp_nm> 
+ <crp_nm_e>
+  Daegu Department Store Co., Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  대구백화점
+ </crp_nm_i> 
+ <stock_cd>
+  006370
+ </stock_cd> 
+ <ceo_nm>
+  구정모
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1701110003814
+ </crp_no> 
+ <bsn_no>
+  5018100026
+ </bsn_no> 
+ <adr>
+  대구광역시 중구 동성로 30 9층 재무팀
+ </adr> 
+ <hm_url>
+  www.debec.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-423-1234
+ </phn_no> 
+ <fax_no>
+  4207931
+ </fax_no> 
+ <ind_cd>
+  47111
+ </ind_cd> 
+ <est_dt>
+  19691226
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

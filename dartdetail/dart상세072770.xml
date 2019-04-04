@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)네오디안테크놀로지
+ </crp_nm> 
+ <crp_nm_e>
+  Neodian Technology Co., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  네오디안테크놀로지
+ </crp_nm_i> 
+ <stock_cd>
+  072770
+ </stock_cd> 
+ <ceo_nm>
+  정현수
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101111518418
+ </crp_no> 
+ <bsn_no>
+  1138146922
+ </bsn_no> 
+ <adr>
+  서울특별시 서초구 방배로34길 8 다원빌딩 301호
+ </adr> 
+ <hm_url>
+  www.neodian.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-2082-2800
+ </phn_no> 
+ <fax_no>
+  02-2802-2805
+ </fax_no> 
+ <ind_cd>
+  620
+ </ind_cd> 
+ <est_dt>
+  19980303
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

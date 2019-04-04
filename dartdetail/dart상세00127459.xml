@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  주식회사 삼우씨엠건축사사무소
+ </crp_nm> 
+ <crp_nm_e>
+  SAMOOCM ARCHITECTS &amp; ENGINEERS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  삼우씨엠건축사사무소
+ </crp_nm_i> 
+ <stock_cd></stock_cd> 
+ <ceo_nm>
+  허인, 이호준
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101110248529
+ </crp_no> 
+ <bsn_no>
+  2158125903
+ </bsn_no> 
+ <adr>
+  서울특별시 송파구 백제고분로 69 (잠실동, 애플타워)
+ </adr> 
+ <hm_url>
+  www.samoocm.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3400-3114
+ </phn_no> 
+ <fax_no>
+  02-3400-3900
+ </fax_no> 
+ <ind_cd>
+  72111
+ </ind_cd> 
+ <est_dt>
+  19790307
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

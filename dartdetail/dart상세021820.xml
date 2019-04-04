@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)세원정공
+ </crp_nm> 
+ <crp_nm_e>
+  SEWON PRECISION INDUSTRY CO.,LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  세원정공
+ </crp_nm_i> 
+ <stock_cd>
+  021820
+ </stock_cd> 
+ <ceo_nm>
+  김문기, 김상현
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1701110039207
+ </crp_no> 
+ <bsn_no>
+  5038111081
+ </bsn_no> 
+ <adr>
+  대구광역시 달서구 달서대로 554
+ </adr> 
+ <hm_url>
+  www.se-won.co.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  053-582-5161
+ </phn_no> 
+ <fax_no>
+  (053)583-3555
+ </fax_no> 
+ <ind_cd>
+  303
+ </ind_cd> 
+ <est_dt>
+  19890729
+ </est_dt> 
+ <acc_mt>
+  06
+ </acc_mt> 
+</result>

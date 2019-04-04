@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)탑선
+ </crp_nm> 
+ <crp_nm_e>
+  Topsun co.,Ltd
+ </crp_nm_e> 
+ <crp_nm_i>
+  탑선
+ </crp_nm_i> 
+ <stock_cd>
+  180060
+ </stock_cd> 
+ <ceo_nm>
+  윤정택
+ </ceo_nm> 
+ <crp_cls>
+  N
+ </crp_cls> 
+ <crp_no>
+  1601110248652
+ </crp_no> 
+ <bsn_no>
+  3148600825
+ </bsn_no> 
+ <adr>
+  전라남도 장성군 동화면 전자농공단지길 32
+ </adr> 
+ <hm_url>
+  topsun.kr
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  061-399-1500
+ </phn_no> 
+ <fax_no>
+  061-399-1501
+ </fax_no> 
+ <ind_cd>
+  289
+ </ind_cd> 
+ <est_dt>
+  20081007
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

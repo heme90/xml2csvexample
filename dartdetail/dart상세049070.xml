@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  인탑스(주)
+ </crp_nm> 
+ <crp_nm_e>
+  INTOPS CO., LTD.
+ </crp_nm_e> 
+ <crp_nm_i>
+  인탑스
+ </crp_nm_i> 
+ <stock_cd>
+  049070
+ </stock_cd> 
+ <ceo_nm>
+  김근하, 정사진(각자대표)
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1341110013552
+ </crp_no> 
+ <bsn_no>
+  1238106645
+ </bsn_no> 
+ <adr>
+  경기도 안양시 만안구 안양천서로 51
+ </adr> 
+ <hm_url>
+  WWW.INTOPS.CO.KR
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  031-441-4181
+ </phn_no> 
+ <fax_no>
+  031-448-4194
+ </fax_no> 
+ <ind_cd>
+  2642
+ </ind_cd> 
+ <est_dt>
+  19750902
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)본느
+ </crp_nm> 
+ <crp_nm_e>
+  Bonne Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  본느
+ </crp_nm_i> 
+ <stock_cd>
+  226340
+ </stock_cd> 
+ <ceo_nm>
+  임성기
+ </ceo_nm> 
+ <crp_cls>
+  K
+ </crp_cls> 
+ <crp_no>
+  1101115794478
+ </crp_no> 
+ <bsn_no>
+  5298600091
+ </bsn_no> 
+ <adr>
+  서울특별시 송파구 송파대로22길 5-15 -
+ </adr> 
+ <hm_url></hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3787-2429
+ </phn_no> 
+ <fax_no></fax_no> 
+ <ind_cd>
+  204
+ </ind_cd> 
+ <est_dt>
+  20150728
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

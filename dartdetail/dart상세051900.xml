@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)LG생활건강
+ </crp_nm> 
+ <crp_nm_e>
+  LG HOUSEHOLD &amp; HEALTH CARE LTD
+ </crp_nm_e> 
+ <crp_nm_i>
+  LG생활건강
+ </crp_nm_i> 
+ <stock_cd>
+  051900
+ </stock_cd> 
+ <ceo_nm>
+  차 석 용
+ </ceo_nm> 
+ <crp_cls>
+  Y
+ </crp_cls> 
+ <crp_no>
+  1101112208000
+ </crp_no> 
+ <bsn_no>
+  1078198143
+ </bsn_no> 
+ <adr>
+  서울특별시 종로구 새문안로 58
+ </adr> 
+ <hm_url>
+  www.lgcare.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3773-5114
+ </phn_no> 
+ <fax_no>
+  02-6924-6068
+ </fax_no> 
+ <ind_cd>
+  20422
+ </ind_cd> 
+ <est_dt>
+  20010403
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>

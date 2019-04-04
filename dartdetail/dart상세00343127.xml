@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<result> 
+ <err_code>
+  000
+ </err_code> 
+ <err_msg>
+  정상
+ </err_msg> 
+ <crp_nm>
+  (주)자유투어
+ </crp_nm> 
+ <crp_nm_e>
+  Freedom Travel Co., Ltd.
+ </crp_nm_e> 
+ <crp_nm_i>
+  자유투어
+ </crp_nm_i> 
+ <stock_cd>
+  046840
+ </stock_cd> 
+ <ceo_nm>
+  김희철
+ </ceo_nm> 
+ <crp_cls>
+  E
+ </crp_cls> 
+ <crp_no>
+  1101111099153
+ </crp_no> 
+ <bsn_no>
+  2138197186
+ </bsn_no> 
+ <adr>
+  서울특별시 중구 남대문로 117 동아빌딩 (다동) 13,14층
+ </adr> 
+ <hm_url>
+  www.jautour.com
+ </hm_url> 
+ <ir_url></ir_url> 
+ <phn_no>
+  02-3455-8888
+ </phn_no> 
+ <fax_no>
+  02-3783-3768
+ </fax_no> 
+ <ind_cd>
+  75210
+ </ind_cd> 
+ <est_dt>
+  19941107
+ </est_dt> 
+ <acc_mt>
+  12
+ </acc_mt> 
+</result>
