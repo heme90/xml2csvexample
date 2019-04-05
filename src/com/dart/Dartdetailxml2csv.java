@@ -56,9 +56,9 @@ public class Dartdetailxml2csv {
 	
 	public static String detail2csvrep(String cnt) throws IOException {
 		Pattern pt 
-		= Pattern.compile("[\\/\\,\\\"\\.\\?\\!\\#\\%\\^\\&\\*\\[\\]\\{\\}\\|\\t\\n\\;\\:\\+\\-\\`\\~\\(\\)]");
+		= Pattern.compile("[\\&#039;\\&#035;\\&quot;\\&gt;\\&lt;\\&amp;\\=\\<\\>\\，\\/\\,\\\\\"\\.\\?\\!\\#\\%\\^\\&\\*\\[\\]\\{\\}\\|\\t\\n\\;\\:\\+\\-\\`\\~\\(\\)]");
 		Pattern urlonly 
-		= Pattern.compile("[\\,]");
+		= Pattern.compile("[\\，\\,]");
 		String sb = "";
 		File fi = new File("C:\\Webwork\\compathapi\\dartdetail\\dart상세" + cnt + ".xml");
 		Document ddoc = null;

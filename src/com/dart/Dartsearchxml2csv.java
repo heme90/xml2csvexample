@@ -19,7 +19,7 @@ public class Dartsearchxml2csv {
 		Document doc = Jsoup.parse(new File("C:\\Webwork\\compathapi\\" + "dartsearch\\dart검색page1.xml"), "UTF-8");
 		String cnt = doc.select("total_page").text();
 		Pattern pt 
-		= Pattern.compile("[\\/\\,\\\"\\.\\?\\!\\#\\%\\^\\&\\*\\[\\]\\{\\}\\|\\t\\n\\;\\:\\+\\-\\`\\~\\(\\)]");
+		= Pattern.compile("[\\&#039;\\&#035;\\&quot;\\&gt;\\&lt;\\&amp;\\=\\<\\>\\，\\/\\,\\\\\"\\.\\?\\!\\#\\%\\^\\&\\*\\[\\]\\{\\}\\|\\t\\n\\;\\:\\+\\-\\`\\~\\(\\)]");
 		
 		System.out.println(cnt);
 		int num = Integer.parseInt(cnt);

@@ -23,9 +23,9 @@ public class Gongsokxml2csv {
 		long st = System.currentTimeMillis();
 		int c = 1;
 		Pattern pt 
-		= Pattern.compile("[\\/\\,\\\"\\.\\?\\!\\#\\%\\^\\&\\*\\[\\]\\{\\}\\|\\t\\n\\;\\:\\+\\-\\`\\~\\(\\)]");
+		= Pattern.compile("[\\&#039;\\&#035;\\&quot;\\&gt;\\&lt;\\&amp;\\=\\<\\>\\，\\/\\,\\\\\"\\.\\?\\!\\#\\%\\^\\&\\*\\[\\]\\{\\}\\|\\t\\n\\;\\:\\+\\-\\`\\~\\(\\)]");
 		Pattern urlonly 
-		= Pattern.compile("[\\,]");
+		= Pattern.compile("[\\，\\,]");
 		String cnt = doc.select("total").text();
 		int num = Integer.parseInt(cnt)/100;
 		System.out.println(num+2);
@@ -35,13 +35,13 @@ public class Gongsokxml2csv {
 		String fsb = "";
 		
 		// csv 파일 만드는 코드
-		sb+= "empseqno,empwantedtitle,empbusinm,coclcdnm,"
+		/*sb+= "empseqno,empwantedtitle,empbusinm,coclcdnm,"
 				+ "empwantedstdt,empwantedendt,empwantedtypenm,"
 				+ "reglogimgnm,empwantedhomepgdetail,empwantedmobileurl\n";
 		fsb+= "empseqno,empwantedtitle,empbusinm,coclcdnm,"
 				+ "empwantedstdt,empwantedendt,empwantedtypenm,"
 				+ "reglogimgnm,empwantedhomepgdetail,empwantedmobileurl\n";
-		
+		*/
 		for(int i = 1 ; i<num+2 ;i++ ) {
 
 			
